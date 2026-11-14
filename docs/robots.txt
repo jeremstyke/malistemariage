@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://malistemariage.fr/sitemap.xml
+Sitemap: https://malistedemariage.fr/sitemap.xml

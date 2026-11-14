@@ -11,8 +11,8 @@ import ogimg
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'docs')
 # Sans domaine pour l'instant (plus tard : LMM_BASE=https://domaine.fr et CUSTOM_DOMAIN)
-BASE = os.environ.get('LMM_BASE', 'https://malistemariage.fr')
-CUSTOM_DOMAIN = os.environ.get('LMM_DOMAIN', 'malistemariage.fr')
+BASE = os.environ.get('LMM_BASE', 'https://malistedemariage.fr')
+CUSTOM_DOMAIN = os.environ.get('LMM_DOMAIN', 'malistedemariage.fr')
 CUSTOM = bool(CUSTOM_DOMAIN) and CUSTOM_DOMAIN in BASE
 PATH0 = '/' + BASE.split('://', 1)[1].split('/', 1)[1] + '/' if BASE.count('/') > 2 else '/'
 DOMAIN = CUSTOM_DOMAIN if CUSTOM else 'Ma liste mariage'
@@ -119,7 +119,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifie-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
-<script src="{R}assets/account.js?v=2" defer></script>
+<script src="{R}assets/account.js?v=3" defer></script>
 </body>
 </html>
 '''
