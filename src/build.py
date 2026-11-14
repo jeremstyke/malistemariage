@@ -3,8 +3,8 @@ import os, json, html, re, shutil, sys
 from urllib.parse import quote_plus
 sys.path.insert(0, os.path.dirname(__file__))
 from content import CHECKLIST, PRIO, GUIDES, MESSAGES, FAQ_HOME
-EXTRA = {}
-PRINTLIST = ''
+from extra_m import EXTRA
+from longtail_m import PRINTLIST
 from auto_articles import AUTO_META
 import ogimg
 
@@ -43,6 +43,13 @@ META = {
   'idees-cadeau-de-mariage/': ('🎀', 'lilas'),
   'remerciements-mariage/': ('🙏', 'menthe'),
   'liste-de-pacs/': ('💞', 'peche'),
+  'acheter-sur-une-liste-de-mariage-amazon/': ('🛒', 'ciel'),
+  'trouver-une-liste-de-mariage-amazon/': ('🔎', 'menthe'),
+  'modifier-supprimer-liste-de-mariage-amazon/': ('⚙️', 'lilas'),
+  'liste-de-mariage-a-imprimer/': ('🖨️', 'ciel'),
+  'liste-de-mariage-mariage-civil/': ('🏛️', 'miel'),
+  'liste-de-mariage-et-bebe-en-route/': ('🍼', 'peche'),
+  'faut-il-faire-une-liste-de-mariage/': ('❓', 'menthe'),
 }
 META.update(AUTO_META)
 CAT_TINT = ['lilas', 'ciel', 'peche', 'menthe', 'miel', 'lilas', 'ciel']
@@ -55,8 +62,8 @@ CTA = ('<aside class="tag"><span class="tag-hole" aria-hidden="true"></span><div
 NAV = [('checklist/', 'Checklist'), ('liste-de-mariage-amazon/', 'Liste Amazon'),
        ('que-mettre-dans-une-liste-de-mariage/', 'Que mettre ?'), ('guides/', 'Guides')]
 
-FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-         '<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;600;700&display=swap" rel="stylesheet">')
+FONTS = ('<link rel="preload" href="@R@assets/fonts/bricolage-grotesque-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>'
+         '<link rel="preload" href="@R@assets/fonts/figtree-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>')
 
 def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='', noindex=False, og=None):
     depth = path.count('/')
@@ -97,8 +104,8 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="theme-color" content="#F1F4F0">
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
-{FONTS}
-<link rel="stylesheet" href="{R}assets/style.css?v=12">
+{FONTS.replace('@R@', R)}
+<link rel="stylesheet" href="{R}assets/style.css?v=13">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -246,6 +253,12 @@ def build():
 <div class="grid3">{''.join(gcard(x) for x in GUIDES[:6])}</div>
 <p class="more"><a href="{{R}}guides/">Voir les {len(GUIDES)} guides</a></p>
 </section>
+<section class="wrap block narrow"><div class="prose">
+<h2>Préparer sa liste de mariage sereinement</h2>
+<p>Une liste de mariage rend service à tout le monde : vos invités savent quoi offrir, et vous recevez des cadeaux qui vous serviront vraiment. La plupart des couples la créent trois à quatre mois avant le jour J, en même temps que les faire-part. Notre <a href="{{R}}quand-faire-sa-liste-de-mariage/">calendrier</a> détaille chaque étape.</p>
+<p>Le secret d'une bonne liste, c'est l'équilibre : des essentiels pour la maison, quelques coups de cœur qui vous ressemblent, et des cadeaux à tous les prix. Prévoyez un tiers d'articles à moins de 40 €, pour que chaque invité trouve son bonheur, et quelques gros cadeaux que vos amis offriront ensemble. Vous vivez déjà ensemble ? Misez sur le <a href="{{R}}liste-de-mariage-quand-on-vit-deja-ensemble/">renouvellement et le voyage de noces</a>.</p>
+<p>Pour la liste en ligne, la <a href="{{R}}liste-de-mariage-amazon/">liste de mariage Amazon</a> est gratuite et simple pour les invités. Vous hésitez avec une cagnotte ? Notre comparatif <a href="{{R}}liste-de-mariage-ou-cagnotte/">liste ou cagnotte</a> vous aide à choisir, et nos <a href="{{R}}message-liste-de-mariage/">textes tout prêts</a> vous aident à l'annoncer avec tact.</p>
+</div></section>
 <section class="wrap block narrow">{fh}</section>'''
     page('', 'Liste de mariage : checklist et %d idées de cadeaux (%d)' % (total, YEAR),
          'Composez votre liste de mariage en 10 minutes : checklist gratuite de %d idées de cadeaux triées par pièce, conseils et liste de mariage Amazon.' % total,
@@ -279,16 +292,17 @@ def build():
         words = len(re.sub('<[^>]+>', ' ', body).split())
         mins = max(2, round(words / 200))
         e, t = META.get(x['slug'], ('📄', 'ciel'))
+        ogp = ogfor(x['slug'].strip('/'), x['h1'], 'Guide', e, t)
         art = [{"@context": "https://schema.org", "@type": "Article", "headline": x['h1'], "description": x['desc'],
                 "inLanguage": "fr-FR", "datePublished": "2026-11-14", "dateModified": "2026-11-14",
-                "author": {"@type": "Organization", "name": SITE}, "mainEntityOfPage": BASE + '/' + x['slug']}]
+                "author": {"@type": "Organization", "name": SITE, "url": BASE + '/'}, "publisher": {"@type": "Organization", "name": SITE, "url": BASE + '/'}, "image": BASE + '/' + ogp, "mainEntityOfPage": BASE + '/' + x['slug']}]
         b = ('<header class="cover t-%s"><span class="cover-dots" aria-hidden="true"></span><div class="wrap cover-in"><span class="cover-e" aria-hidden="true">%s</span>'
              '<div><h1>%s</h1><p class="cover-d">%s</p><p class="cover-m">%d min de lecture, mis à jour en novembre %d</p></div></div></header>'
              '<div class="wrap art-wrap"><article class="prose">%s%s%s%s</article></div>%s') % (
             t, e, esc(x['h1']), esc(x['desc']), mins, YEAR, toc, body, CTA, fh, related(x['slug']))
         page(x['slug'], x['title'], x['desc'], b, schema=art + fs,
              crumbs=[('Guides', 'guides/'), (x['short'], x['slug'])], cls='guide',
-             og=ogfor(x['slug'].strip('/'), x['h1'], 'Guide', e, t))
+             og=ogp)
 
     idx = ('<section class="wrap pagehead"><h1>Guides liste de mariage</h1><p class="lead">Tout pour composer votre liste, l\'annoncer à vos invités et les remercier.</p></section>'
            '<section class="wrap block"><div class="grid3">' + ''.join(gcard(x, True) for x in GUIDES) + '</div></section>')

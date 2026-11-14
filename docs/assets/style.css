@@ -1,3 +1,8 @@
+@font-face{font-family:"Bricolage Grotesque";font-style:normal;font-weight:600;font-display:swap;src:url(fonts/bricolage-grotesque-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:"Bricolage Grotesque";font-style:normal;font-weight:800;font-display:swap;src:url(fonts/bricolage-grotesque-latin-800-normal.woff2) format("woff2")}
+@font-face{font-family:"Figtree";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/figtree-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:"Figtree";font-style:normal;font-weight:600;font-display:swap;src:url(fonts/figtree-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:"Figtree";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/figtree-latin-700-normal.woff2) format("woff2")}
 /* Liste de mariage : eucalyptus, prune et or */
 :root{
   --fond:#F1F4F0;      /* blanc eucalyptus */
@@ -223,7 +228,7 @@ h3{font-size:19px;font-weight:600}
 [hidden]{display:none!important}
 /* Liste à imprimer */
 .printlist{display:grid;grid-template-columns:1fr 1fr;gap:6px 28px;background:var(--papier);border-radius:var(--r-m);padding:8px 22px 18px;margin:16px 0}
-.printlist h2{font-size:19px!important;margin:16px 0 8px!important}
+.printlist h2,.printlist h3{font-size:19px!important;margin:16px 0 8px!important}
 .prose .printlist ul li{padding-left:28px}
 .prose .printlist ul li:before{display:none}
 .printlist .box{position:absolute;left:0;top:.25em;width:16px;height:16px;border:2px solid var(--encre);border-radius:4px}
