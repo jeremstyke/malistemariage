@@ -124,6 +124,23 @@
     });
   }
 
+
+  /* L'autre site (même compte) */
+  function otherList() {
+    var box = $('#acc-other'); if (!box || !user) return;
+    sb.from('ldn_lists').select('items,is_public,slug').eq('user_id', user.id).maybeSingle().then(function (r) {
+      var row = r.data, n = row ? Object.keys(row.items || {}).length : 0, h;
+      if (row && n) {
+        h = '<span aria-hidden="true">🍼</span><div><strong>Votre liste de naissance : ' + n + ' article' + (n > 1 ? 's' : '') + ' coché' + (n > 1 ? 's' : '') + '</strong><span>' +
+          (row.is_public ? 'Liste partagée avec vos proches : <a href="https://malistebebe.fr/ma-liste/?l=' + row.slug + '" target="_blank" rel="noopener">voir le lien</a>. ' : '') +
+          'Même compte, connectez-vous une fois là-bas avec votre e-mail.</span></div><a class="btn sm" href="https://malistebebe.fr/compte/" target="_blank" rel="noopener">Ouvrir Ma liste bébé</a>';
+      } else {
+        h = '<span aria-hidden="true">🍼</span><div><strong>Un bébé en route ?</strong><span>Votre compte marche aussi sur Ma liste bébé : même e-mail, la checklist de naissance complète.</span></div><a class="btn ghost sm" href="https://malistebebe.fr/" target="_blank" rel="noopener">Découvrir Ma liste bébé</a>';
+      }
+      box.innerHTML = h; box.hidden = false;
+    });
+  }
+
   /* Page publique d'une liste partagée */
   function publicList() {
     var box = $('#pub'); if (!box) return;
@@ -159,6 +176,7 @@
       if (user) {
         pullList().then(function (row) {
           renderAccount(row);
+          otherList();
           document.dispatchEvent(new CustomEvent('ldn:reload'));
         });
       } else { renderAccount(null); }
