@@ -1246,3 +1246,168 @@ g("meilleur-aspirateur-robot/",
        ("Un aspirateur robot remplace-t-il un aspirateur classique ?", "Il assure l'entretien quotidien des sols, mais il ne monte pas les escaliers et ne nettoie ni les canapés ni la voiture. Beaucoup de foyers gardent un aspirateur balai en complément."),
        ("La station automatique vaut-elle le coup ?", "Elle évite de vider le bac et de laver les serpillières à la main, ce qui rend le robot vraiment autonome. Elle demande en revanche de la place et l'achat régulier de sacs.")],
   short="Top 10 aspirateurs robots")
+
+AUTO_META['comment-choisir-couette/'] = ('🛏️', 'lilas')
+g("comment-choisir-couette/",
+  "Comment choisir sa couette : taille, grammage et garnissage",
+  "Comment choisir sa couette",
+  "Quelle taille pour un lit 140, 160 ou 180, quel grammage selon la saison, duvet ou synthétique, couette 4 saisons : les repères pour bien choisir votre couette.",
+  """
+<p>Pour bien choisir une couette, trois questions suffisent : la taille de votre lit, la température de votre chambre et la matière qui vous convient (duvet ou synthétique). Le reste, ce sont des détails. Une couette se garde des années, alors autant la choisir à deux, en tenant compte de celui qui a toujours froid et de celui qui a toujours chaud.</p>
+{CTA}
+<h2>Quelle taille de couette pour votre lit ?</h2>
+<p>On choisit la couette d'après la largeur du matelas, pas d'après la taille du lit annoncée par le fabricant du sommier. Elle doit déborder de chaque côté : les guides d'achat parlent de 20 à 40 cm environ, certains vont jusqu'à 50 cm. À deux, prenez large. Une couette trop juste, c'est la nuit passée à se la disputer.</p>
+<table><thead><tr><th>Largeur du matelas</th><th>Taille de couette courante</th><th>Pour plus de confort</th></tr></thead><tbody>
+<tr><td>90 cm (1 personne)</td><td>140 x 200 cm</td><td>200 x 200 cm</td></tr>
+<tr><td>140 cm</td><td>200 x 200 cm</td><td>240 x 220 cm</td></tr>
+<tr><td>160 cm</td><td>240 x 220 cm</td><td>260 x 240 cm</td></tr>
+<tr><td>180 cm</td><td>260 x 240 cm</td><td>260 x 240 cm</td></tr>
+</tbody></table>
+<p>Par exemple, si vous dormez dans un lit de 140 et que l'un de vous s'enroule dans la couette, passez directement en 240 x 220. Elle tombera plus bas sur les côtés, mais vous aurez la paix. Notre conseil : pensez aussi à votre futur lit. Beaucoup de couples passent du 140 au 160 après quelques années, et une <a href="{AMZ:couette 240x220}" rel="sponsored nofollow noopener" target="_blank">couette 240 x 220</a> suivra ce changement.</p>
+<p>Ce que les gens oublient souvent : la housse. Si vous ajoutez une couette à votre liste, mettez la parure de la même taille juste à côté, sinon vous recevrez des housses qui ne vont pas.</p>
+<h2>Grammage : chaude, tempérée ou légère ?</h2>
+<p>Le grammage, c'est le poids du garnissage, exprimé en grammes par mètre carré. Plus il est élevé, plus la couette tient chaud. Mais attention, un même grammage ne donne pas la même chaleur en duvet et en synthétique : le duvet isole beaucoup mieux à poids égal. Voici les repères donnés par les guides d'achat de grandes enseignes et d'associations de consommateurs :</p>
+<ul>
+<li><strong>Synthétique</strong> : environ 200 à 250 g/m² pour l'été, 300 à 450 g/m² pour l'hiver. Les modèles très chauds montent jusqu'à 500 g/m².</li>
+<li><strong>Naturelle (duvet et plumes)</strong> : autour de 180 g/m² pour l'été et de 270 g/m² pour l'hiver.</li>
+</ul>
+<p>Le plus simple reste de partir de la température de votre chambre. Au-delà de 22 °C, une couette légère suffit. Entre 18 et 22 °C, on hésite entre tempérée et chaude selon que l'on est frileux ou non. En dessous de 18 °C, prenez une couette chaude. Une chambre sous les toits ou un appartement bien chauffé n'ont pas les mêmes besoins qu'une vieille maison de campagne.</p>
+<h2>Duvet ou synthétique, que choisir ?</h2>
+<p>Les deux ont leurs fidèles, et aucun n'est meilleur dans l'absolu.</p>
+<p>La <strong>couette naturelle</strong>, garnie de duvet et de plumes de canard ou d'oie, est légère, gonflante et respire bien. Plus le taux de duvet est élevé, plus elle est légère pour la même chaleur : les guides conseillent de viser 70 à 90 % de duvet. Elle dure aussi plus longtemps : un guide d'achat de distributeur parle d'une dizaine à une quinzaine d'années, contre environ cinq ans pour une synthétique. Sa limite, c'est l'entretien, qu'on confie plutôt à un pressing, et le prix. Si l'origine du duvet compte pour vous, regardez sur la fiche si la marque indique une certification sur le bien-être animal.</p>
+<p>La <strong>couette synthétique</strong>, garnie de fibres de polyester, coûte moins cher et se lave en machine, souvent à 60 °C. C'est un vrai plus si l'un de vous est allergique aux acariens, ou si vous avez un chat qui dort sur le lit. Elle est un peu plus lourde que le duvet pour la même chaleur.</p>
+<p>Notre conseil : pour une première couette commune, une <a href="{AMZ:couette synthétique lavable 60 degrés}" rel="sponsored nofollow noopener" target="_blank">synthétique de bonne qualité, lavable à 60 °C</a> est le choix le plus simple. Si vous aimez la sensation d'une couette qui gonfle et pèse peu, une <a href="{AMZ:couette duvet d'oie}" rel="sponsored nofollow noopener" target="_blank">couette en duvet</a> est le genre de cadeau qu'on ne s'offrirait pas soi-même, et c'est justement l'intérêt d'une liste de mariage.</p>
+<h2>La couette 4 saisons, bonne ou fausse bonne idée ?</h2>
+<p>Une couette 4 saisons, ce sont deux couettes de grammages différents, par exemple une fine et une moyenne. Vous utilisez la fine l'été, la moyenne à la mi-saison, et les deux assemblées l'hiver.</p>
+<p>C'est une très bonne idée si votre chambre change beaucoup de température dans l'année. Vous n'avez qu'une seule taille à gérer et une couette d'été toujours sous la main. Le défaut : en hiver, deux couettes superposées gonflent moins qu'une seule couette chaude, et il faut ranger celle qui ne sert pas. Si votre logement reste à température stable, une <a href="{AMZ:couette tempérée 240x220}" rel="sponsored nofollow noopener" target="_blank">couette tempérée</a> fera aussi bien. Sinon, la <a href="{AMZ:couette 4 saisons}" rel="sponsored nofollow noopener" target="_blank">couette 4 saisons</a> évite d'en acheter deux plus tard.</p>
+<h2>Et si vous n'avez pas la même frilosité ?</h2>
+<p>C'est très courant. Certaines marques proposent des couettes avec un côté plus chaud que l'autre, ou des modèles où l'on peut combiner deux demi-couettes. Une autre solution, plus simple : une couette tempérée pour tout le monde, et un <a href="{AMZ:plaid lit}" rel="sponsored nofollow noopener" target="_blank">plaid</a> de plus du côté de celui qui a froid. Cela coûte moins cher et marche très bien.</p>
+<h2>Les détails à regarder sur la fiche</h2>
+<ul>
+<li><strong>L'enveloppe</strong> : en coton, elle respire mieux. Une percale de coton est douce et solide.</li>
+<li><strong>Les piqûres</strong> : elles empêchent le garnissage de glisser au bas de la couette. Sur une couette en duvet, des compartiments cousus en caissons gardent le gonflant.</li>
+<li><strong>Le lavage</strong> : vérifiez la température indiquée et la taille de votre machine. Une 260 x 240 ne rentre pas dans tous les tambours.</li>
+<li><strong>Les labels</strong> : un label sur les substances chimiques de l'enveloppe est rassurant pour une literie que vous respirez toute la nuit.</li>
+</ul>
+<p>Pour l'entretien, les guides recommandent de laver la couette une à deux fois par an, avec peu de lessive et sans assouplissant. Une housse protège beaucoup la couette : c'est elle qu'on lave souvent.</p>
+<h2>Dans votre liste de mariage</h2>
+<p>Couette, oreillers et parure vont bien ensemble : ce sont des cadeaux de prix moyen que les invités aiment offrir, parce qu'ils savent qu'ils serviront chaque soir. Précisez toujours la taille dans le nom de l'article. Pour composer le reste de la chambre, parcourez notre <a href="{R}checklist/">checklist par pièce</a> et notre guide <a href="{R}que-mettre-dans-une-liste-de-mariage/">que mettre dans une liste de mariage</a>. Si vous vivez déjà ensemble et avez déjà une couette, lisez <a href="{R}liste-de-mariage-quand-on-vit-deja-ensemble/">notre article pour les couples déjà installés</a> : c'est souvent l'occasion de remplacer l'ancienne. Et pour savoir où créer votre liste, voyez notre <a href="{R}ou-faire-sa-liste-de-mariage/">comparatif des solutions</a>.</p>
+""",
+  faq=[("Quelle taille de couette pour un lit 160 x 200 ?", "La taille la plus courante est 240 x 220 cm. Si vous aimez qu'elle tombe bien sur les côtés, ou si l'un de vous tire la couette, prenez 260 x 240 cm."),
+       ("Quel grammage pour une couette d'hiver ?", "En synthétique, comptez environ 300 à 450 g/m². En duvet, autour de 270 g/m² suffit, car le duvet isole mieux à poids égal."),
+       ("Une couette en duvet se lave-t-elle en machine ?", "C'est possible pour certains modèles si la fiche l'indique, mais les guides conseillent plutôt le pressing. Les couettes synthétiques, elles, se lavent souvent à 60 °C en machine.")],
+  short="Choisir sa couette")
+
+AUTO_META['meilleure-urne-mariage/'] = ('🏆', 'lilas')
+g("meilleure-urne-mariage/",
+  "Meilleure urne de mariage 2026 : top 8 en bois, cage, acrylique",
+  "Meilleure urne de mariage 2026 : notre top 8",
+  "Bois rustique, coffre, acrylique transparent, cage à oiseaux, carton, personnalisable : 8 urnes de mariage vendues sur Amazon comparées, avec leurs limites.",
+  """
+<p>La meilleure urne de mariage est celle qui ferme bien, qui a une fente assez large pour les grosses enveloppes et qui va avec votre décoration. Pour la plupart des couples, une urne en bois avec serrure coche ces trois cases. Si votre déco est plus moderne, l'acrylique transparent fait très bien l'affaire, à condition de la surveiller un peu plus, puisqu'on voit ce qu'il y a dedans.</p>
+<p>Pourquoi s'en soucier ? Parce que l'urne finit souvent par contenir une bonne partie des cadeaux : chèques, billets, cartes de vœux, même quand vous avez une liste de mariage. Elle passe la soirée sur une table, parfois sans personne à côté. Nous avons retenu huit modèles réels vendus sur Amazon.fr, dans des styles différents.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Un mot d'honnêteté : les fiches d'urnes sont souvent très courtes. Nous n'avons repris que ce qui y était écrit. Quand une information manque, le tableau l'indique « non précisé ». Regardez la fiche complète et les photos avant de choisir, surtout pour la fente et le montage.</p>
+
+<h2>Les 8 urnes en un coup d'œil</h2>
+<table><thead><tr><th>Modèle</th><th>Style</th><th>Matière</th><th>Dimensions</th><th>Fermeture</th><th>Fente</th></tr></thead><tbody>
+<tr><td>LAUBLUST urne à couvercle arqué</td><td>Coffre, boîte aux lettres</td><td>Bois</td><td>35 x 25 x 19 cm</td><td>Fermeture (type non précisé)</td><td>Oui</td></tr>
+<tr><td>Jolik grande boîte à cartes en bois</td><td>Bois rustique</td><td>Bois</td><td>Non précisé</td><td>Serrure</td><td>Oui</td></tr>
+<tr><td>Jolik boîte à cartes en acrylique</td><td>Moderne, transparent</td><td>Acrylique</td><td>Non précisé (« grande »)</td><td>Serrure</td><td>Oui</td></tr>
+<tr><td>Cinnani boîte à cartes en acrylique</td><td>Moderne, transparent</td><td>Acrylique</td><td>25 x 24 x 24 cm</td><td>Serrure</td><td>Non précisé</td></tr>
+<tr><td>Mabouteille urne personnalisable</td><td>Gravure texte et logo</td><td>Bois</td><td>32 x 18,8 cm (2 cotes)</td><td>Non précisé</td><td>Non précisé</td></tr>
+<tr><td>Hobi urne cage à oiseaux</td><td>Romantique, vintage</td><td>Métal ivoire</td><td>30 x 15 cm (2 cotes)</td><td>Non précisé</td><td>Non précisé</td></tr>
+<tr><td>KASURE urne en carton blanche</td><td>Simple, avec 10 cartes et un stylo</td><td>Carton</td><td>22 x 22 cm</td><td>Non précisé</td><td>Non précisé</td></tr>
+<tr><td>Deininger urne carton avion</td><td>Thème voyage</td><td>Carton</td><td>23 x 20,5 x 20,5 cm</td><td>Non précisé</td><td>Non précisé</td></tr>
+</tbody></table>
+
+<h2>1. LAUBLUST urne en bois à couvercle arqué : notre choix pour la plupart des mariages</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent une urne en bois sobre, de bonne taille, qui va aussi bien dans une grange que dans une salle plus classique.</p>
+<p>Sa forme de boîte aux lettres avec un couvercle arrondi lui donne un air de coffre ancien, sans tomber dans le rustique appuyé. C'est ce qui la rend facile à placer dans presque toutes les décorations.</p>
+<ul>
+<li><strong>Points forts</strong> : en bois, avec une fente et une fermeture d'après la fiche. Ses dimensions de 35 x 25 x 19 cm laissent de la place pour beaucoup d'enveloppes, y compris des cartes de grand format. Elle existe en bois naturel et en blanc.</li>
+<li><strong>Limites</strong> : la fiche parle d'une fermeture sans préciser s'il s'agit d'une serrure à clé, d'un loquet ou d'un emplacement pour cadenas. Montage et personnalisation non précisés.</li>
+</ul>
+<p>Notre conseil : si le type de fermeture n'est pas clair sur les photos, prévoyez un petit cadenas. Ça ne coûte presque rien et ça évite les mauvaises surprises.</p>
+<p><a href="{AMZ:LAUBLUST urne mariage bois}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Jolik grande boîte à cartes en bois : pour une déco champêtre</h2>
+<p><strong>Pour qui ?</strong> Les mariages à la campagne, en extérieur ou dans une salle aux poutres apparentes.</p>
+<ul>
+<li><strong>Points forts</strong> : en bois, avec une serrure et une fente, deux choses que la fiche annonce clairement. Le style est présenté comme rustique. Plusieurs couleurs existent, dont le blanc et le jaune.</li>
+<li><strong>Limites</strong> : les dimensions ne figurent pas dans le titre de la fiche que nous avons consultée, seulement la mention « grande ». Montage, personnalisation et décoration fournie non précisés.</li>
+</ul>
+<p>Comme elle sert aussi de tirelire selon la fiche, elle peut retrouver une utilité après le mariage, pour mettre de côté les petites économies du voyage de noces par exemple.</p>
+<p><a href="{AMZ:Jolik urne mariage bois}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Jolik boîte à cartes en acrylique : pour une déco moderne</h2>
+<p><strong>Pour qui ?</strong> Les décorations épurées, blanches ou dorées, où une urne en bois ferait un peu lourd.</p>
+<ul>
+<li><strong>Points forts</strong> : en acrylique transparent, avec serrure et fente indiquées sur la fiche. La transparence a un avantage concret : vous voyez quand elle se remplit et pouvez la vider discrètement en cours de soirée.</li>
+<li><strong>Limites</strong> : dimensions non précisées dans le titre de la fiche, à vérifier dans le descriptif. L'acrylique se raye et marque les traces de doigts : un chiffon doux le matin du mariage n'est pas de trop.</li>
+</ul>
+<p>Le revers de la transparence, c'est qu'on voit aussi les enveloppes depuis la salle. Dans un lieu très fréquenté, placez-la près de la table d'honneur plutôt qu'à l'entrée.</p>
+<p><a href="{AMZ:Jolik boîte cartes mariage acrylique}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Cinnani boîte à cartes en acrylique : l'acrylique avec des dimensions claires</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent une urne transparente et connaître sa taille exacte avant de commander.</p>
+<ul>
+<li><strong>Points forts</strong> : acrylique transparent, serrure, et des dimensions données sur la fiche : 25 x 24 x 24 cm. C'est une forme presque cubique, stable sur une table. La fiche la présente aussi pour les anniversaires et les baptêmes, donc elle resservira.</li>
+<li><strong>Limites</strong> : la fiche parle de « boîte aux lettres » sans détailler la fente : vérifiez sa largeur sur les photos. Montage et décoration non précisés.</li>
+</ul>
+<p><a href="{AMZ:Cinnani boîte cartes mariage acrylique}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Mabouteille urne personnalisable : pour une urne à vos prénoms</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent leurs prénoms, la date ou un logo sur l'urne, et la garder en souvenir.</p>
+<ul>
+<li><strong>Points forts</strong> : urne en bois dont la fiche indique « Texte &amp; Logo inclus ». Deux dimensions sont données : 32 x 18,8 cm.</li>
+<li><strong>Limites</strong> : la troisième dimension, la fente et la fermeture ne sont pas précisées dans le titre de la fiche. Un objet personnalisé demande souvent un délai de fabrication : commandez-la tôt, pas la semaine du mariage.</li>
+</ul>
+<p>Notre conseil : relisez deux fois l'orthographe des prénoms et la date avant de valider. C'est l'erreur la plus fréquente sur les objets personnalisés, et on ne peut pas la corriger après.</p>
+<p><a href="{AMZ:Mabouteille urne mariage personnalisable}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Hobi urne cage à oiseaux : pour un style romantique</h2>
+<p><strong>Pour qui ?</strong> Les décorations vintage, bohèmes ou très fleuries, où la cage peut se décorer de lierre ou de fleurs séchées.</p>
+<ul>
+<li><strong>Points forts</strong> : une volière en métal couleur ivoire, présentée pour les cartes de vœux. Les dimensions indiquées sont 30 x 15 cm.</li>
+<li><strong>Limites</strong> : c'est la plus fragile de la sélection sur le plan de la sécurité. La fiche ne précise ni fente, ni fermeture, et une cage reste ouverte par nature. On voit les enveloppes à travers les barreaux. La fiche est ancienne : vérifiez la disponibilité.</li>
+</ul>
+<p>Elle ne vaut le coup que si vous la placez près de quelqu'un de confiance toute la soirée, ou si vous ajoutez un petit cadenas sur la porte. Sinon, gardez-la pour la décoration et prévoyez une urne fermée à côté.</p>
+<p><a href="{AMZ:Hobi urne cage oiseaux mariage}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. KASURE urne en carton blanche : pour un petit budget</h2>
+<p><strong>Pour qui ?</strong> Les mariages simples, les mariages civils en petit comité, ou en urne d'appoint pour une seconde table.</p>
+<ul>
+<li><strong>Points forts</strong> : en carton blanc, 22 x 22 cm. D'après la fiche, elle est fournie avec 10 cartes et un stylo doré, pratique pour les invités qui arrivent sans carte.</li>
+<li><strong>Limites</strong> : fente, fermeture et montage non précisés. Le carton protège moins qu'une boîte en bois et ne se garde pas aussi longtemps. Elle est aussi plus petite que les urnes en bois de cette sélection.</li>
+</ul>
+<p><a href="{AMZ:KASURE urne mariage carton}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Deininger urne carton avion : pour une cagnotte voyage de noces</h2>
+<p><strong>Pour qui ?</strong> Les couples qui demandent une participation au voyage de noces et veulent que l'urne le dise sans pancarte.</p>
+<ul>
+<li><strong>Points forts</strong> : une urne en carton en forme d'avion, de 23 x 20,5 x 20,5 cm. Le thème parle de lui-même : les invités comprennent tout de suite à quoi servira leur enveloppe. La marque propose aussi une version moto.</li>
+<li><strong>Limites</strong> : fente, fermeture et montage non précisés. Le carton reste fragile. La fiche est ancienne : vérifiez la disponibilité avant de compter dessus.</li>
+</ul>
+<p><a href="{AMZ:Deininger urne carton avion}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Bois, acrylique ou carton : laquelle choisir ?</h2>
+<h3>Commencez par la sécurité</h3>
+<p>Une urne contient souvent des chèques et des billets. Le premier critère, avant le style, c'est donc une fermeture fiable. Une serrure à clé ou un cadenas, c'est le minimum. Et la meilleure serrure ne sert à rien si l'urne peut partir sous un bras : désignez une personne de confiance, un témoin par exemple, qui l'a à l'œil et la range en fin de soirée. Beaucoup de couples l'oublient jusqu'au jour J.</p>
+<h3>Regardez la fente</h3>
+<p>Une fente trop étroite oblige les invités à plier leur enveloppe ou à la poser à côté, ce qui revient à ne pas avoir d'urne. Pour les cartes épaisses ou de grand format, une fente large est plus confortable. Si la fiche ne donne pas sa taille, regardez les photos avec une enveloppe à côté.</p>
+<h3>Accordez-la à votre décoration</h3>
+<p>Le bois va partout, surtout en champêtre. L'acrylique va mieux avec une déco moderne ou dorée. La cage convient aux ambiances romantiques et vintage. Le carton est le plus économique et se décore facilement, mais il se garde moins bien.</p>
+<h3>Pensez à l'après</h3>
+<p>Une urne en bois ou personnalisée peut devenir une boîte à souvenirs : faire-part, menu, cartes reçues. Une urne en carton finit souvent au recyclage. Si l'urne doit resservir, pour un baptême par exemple, préférez un modèle sans prénoms ni date.</p>
+<h3>Les petits plus qui aident</h3>
+<p>Une pancarte « Cartes » ou « Merci » à côté de l'urne évite que les invités cherchent où poser leur enveloppe. Prévoyez aussi quelques <a href="{AMZ:enveloppes cartes mariage}" rel="sponsored nofollow noopener" target="_blank">cartes et enveloppes</a> et un stylo, pour ceux qui arrivent les mains vides. Et si votre urne n'a pas de serrure, un <a href="{AMZ:petit cadenas laiton}" rel="sponsored nofollow noopener" target="_blank">petit cadenas</a> règle la question.</p>
+
+<h2>Urne, cagnotte ou liste : faut-il choisir ?</h2>
+<p>Non, les trois se complètent. La liste sert aux invités qui aiment offrir un objet, la cagnotte à ceux qui préfèrent participer à distance, et l'urne recueille le jour même les enveloppes et les cartes. Nous comparons ces formules dans notre article <a href="{R}liste-de-mariage-ou-cagnotte/">liste de mariage ou cagnotte</a>. Pour préparer la suite, gardez les cartes avec les enveloppes : elles vous serviront pour vos <a href="{R}remerciements-mariage/">remerciements</a>. Et pour ne rien oublier dans votre liste, suivez notre <a href="{R}checklist/">checklist par pièce</a>.</p>
+""",
+  faq=[("Quelle est la meilleure urne de mariage ?", "Pour la plupart des couples, une urne en bois avec fente large et fermeture fiable, comme la LAUBLUST à couvercle arqué. Pour une déco moderne, une urne en acrylique avec serrure, comme la Jolik ou la Cinnani."),
+       ("Comment sécuriser l'urne pendant le mariage ?", "Choisissez un modèle avec serrure ou ajoutez un cadenas, placez-la près de la table d'honneur et confiez-la à une personne de confiance qui la range en fin de soirée."),
+       ("Quelle taille d'urne prévoir ?", "Elle doit accueillir toutes les enveloppes sans qu'on doive les tasser. Pour un grand mariage, une urne d'environ 35 cm de long comme la LAUBLUST laisse de la marge. Pour un petit comité, un modèle de 22 à 25 cm suffit souvent.")],
+  short="Top 8 urnes de mariage")
