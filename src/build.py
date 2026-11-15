@@ -204,7 +204,7 @@ def build():
     if os.path.exists(OUT):
         for n in os.listdir(OUT):
             p = os.path.join(OUT, n)
-            if n == 'assets': continue
+            if n == 'assets' or (n.endswith('.txt') and len(n) == 36): continue
             shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
     os.makedirs(OUT, exist_ok=True)
 
