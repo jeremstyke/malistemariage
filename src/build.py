@@ -107,7 +107,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=19">
+<link rel="stylesheet" href="{R}assets/style.css?v=20">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -242,7 +242,7 @@ def build():
 <h2>Pièce par pièce</h2>
 <p class="sub">Ouvrez une catégorie pour voir les cadeaux qui comptent vraiment.</p>
 <div class="chips">{cats}</div>
-<div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, à deux, et vous pouvez la partager à vos invités.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
+<div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, et vous pouvez la remplir à deux.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
 </section>
 <div class="wave-top"><svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 240 70 480 0 720 25 C 960 50 1200 10 1440 30 L1440 60 L0 60 Z"/></svg></div><section class="band"><div class="wrap block">
 <h2>Comment ça marche</h2>
@@ -275,7 +275,7 @@ def build():
     ck = f'''<section class="wrap pagehead"><h1>Checklist liste de mariage</h1>
 <p class="lead">{total} idées de cadeaux triées par pièce. Cochez ce que vous voulez mettre dans votre liste : vos choix restent enregistrés sur cet appareil.</p></section>
 <div class="wrap"><p class="ck-first">Pas encore de liste ? <a href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créez d'abord votre liste de mariage sur Amazon</a> (gratuit), puis remplissez-la ici article par article.</p></div>
-<div class="wrap"><div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, à deux, et vous pouvez la partager à vos invités.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
+<div class="wrap"><div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, et vous pouvez la remplir à deux.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
 {tool}
 {CTA}
 <div class="prose">
@@ -347,7 +347,6 @@ def build():
 <ul class="perks">
 <li><span aria-hidden="true">☁️</span><div><strong>Votre liste sauvegardée</strong>Ce que vous cochez n'est jamais perdu, même si vous changez de téléphone.</div></li>
 <li><span aria-hidden="true">💑</span><div><strong>À deux, sur tous vos appareils</strong>Connectez-vous chacun avec le même e-mail et préparez la liste ensemble.</div></li>
-<li><span aria-hidden="true">💌</span><div><strong>Partagée avec vos invités</strong>Un lien privé montre à vos proches les cadeaux choisis, prêts à offrir.</div></li>
 <li><span aria-hidden="true">🍼</span><div><strong>Le même compte que Ma liste bébé</strong>Une seule adresse e-mail pour vos deux listes, le jour où un bébé arrive.</div></li>
 </ul>
 <form id="form-magic" class="accf">
@@ -361,7 +360,7 @@ def build():
 <div id="acc-in" hidden>
 <p class="lead">Connecté avec <strong id="acc-email"></strong>. Votre checklist est sauvegardée : <strong id="acc-count"></strong>.</p>
 <p><a class="btn" href="{R}checklist/">Ouvrir ma checklist</a></p>
-<h2>Notre liste à partager</h2>
+<h2>Nos infos</h2>
 <form id="form-wed" class="accf">
 <label>Vos prénoms (facultatif)<input type="text" id="f-names" maxlength="60" placeholder="Léa et Hugo"></label>
 <label>Date du mariage (facultatif)<input type="date" id="f-date"></label>
@@ -377,7 +376,7 @@ def build():
 </div>
 <p id="acc-msg" class="acc-msg" role="status" aria-live="polite"></p>
 </div></div>"""
-    page('compte/', 'Notre compte | Ma liste mariage', 'Connectez-vous par e-mail, sans mot de passe, pour sauvegarder votre liste de mariage et la partager.', acc, noindex=True)
+    page('compte/', 'Notre compte | Ma liste mariage', 'Connectez-vous par e-mail, sans mot de passe, pour sauvegarder votre liste de mariage.', acc, noindex=True)
 
     pub = """<section class="wrap pagehead"><h1 id="pub-title">Une liste de mariage</h1>
 <p class="lead">Voici les cadeaux choisis par les mariés. Cliquez sur un article pour l'offrir.</p></section>

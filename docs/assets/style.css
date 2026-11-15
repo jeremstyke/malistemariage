@@ -346,3 +346,5 @@ h3{font-size:19px;font-weight:600}
 .res-tag{font:700 14px var(--texte);color:var(--doux);white-space:nowrap}
 .it.reserved{opacity:.6}.it.reserved label{text-decoration:line-through}
 .res-mine,.res-ok{font-size:14px;font-weight:600;color:var(--framboise-f)!important}
+/* Partage retiré : la liste Amazon sert de liste partagée */
+#cp,#acc-sharebox,label:has(#f-public){display:none!important}
