@@ -5,6 +5,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from content import CHECKLIST, PRIO, GUIDES, MESSAGES, FAQ_HOME
 from extra_m import EXTRA
 from longtail_m import PRINTLIST
+import neutre_m
 from auto_articles import AUTO_META
 from tools_m import TOOLS
 import ogimg
@@ -56,11 +57,11 @@ META.update(AUTO_META)
 CAT_TINT = ['lilas', 'ciel', 'peche', 'menthe', 'miel', 'lilas', 'ciel']
 
 CTA = ('<aside class="tag"><span class="tag-hole" aria-hidden="true"></span><div class="tag-tx">'
-       '<strong>Créez votre liste de mariage Amazon</strong>'
-       '<span>Gratuite, prête en 10 minutes, à partager à tous vos invités.</span></div>'
+       '<strong>Prêts à créer votre liste en ligne ?</strong>'
+       '<span>Notre choix : la liste Amazon, gratuite et simple pour vos invités. <a href="{R}ou-faire-sa-liste-de-mariage/">Comparer les solutions</a></span></div>'
        '<a class="btn" href="' + AMZ_LIST + '" rel="sponsored nofollow noopener" target="_blank">Créer notre liste</a></aside>')
 
-NAV = [('checklist/', 'Checklist'), ('liste-de-mariage-amazon/', 'Liste Amazon'),
+NAV = [('checklist/', 'Checklist'), ('ou-faire-sa-liste-de-mariage/', 'Où faire sa liste'),
        ('outils/', 'Outils'), ('guides/', 'Guides')]
 
 FONTS = ('<link rel="preload" href="@R@assets/fonts/bricolage-grotesque-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>'
@@ -125,7 +126,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <p>La checklist gratuite pour composer votre liste de mariage, pièce par pièce.</p></div>
 <nav aria-label="Pied de page"><a href="{R}checklist/">Checklist</a><a href="{R}guides/">Guides</a><a href="{R}outils/">Outils</a><a href="{R}mentions-legales/">Mentions légales</a><a href="{R}confidentialite/">Confidentialité</a><a href="mailto:{CONTACT}">Contact</a></nav>
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
-<p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifie-les avant d'acheter. © {YEAR} {DOMAIN}</p>
+<p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifiez-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
 <script src="{R}assets/account.js?v=3" defer></script>
 </body>
@@ -219,7 +220,7 @@ def build():
         f.write(js)
 
     tool = ('<div id="ck" class="ck"><noscript>Active JavaScript pour cocher les articles.</noscript></div>'
-            '<script src="{R}assets/data.js?v=2"></script><script src="{R}assets/checklist.js?v=2" defer></script>')
+            '<script src="{R}assets/data.js?v=2"></script><script src="{R}assets/checklist.js?v=3" defer></script>')
 
     # Accueil
     cats = ''.join('<a class="cat-chip t-%s" href="{R}checklist/#cat%d"><span aria-hidden="true">%s</span>%s<small>%d articles</small></a>' % (
@@ -228,9 +229,9 @@ def build():
     home = f'''<section class="hero"><span class="blob b1" aria-hidden="true"></span><span class="blob b2" aria-hidden="true"></span><span class="spark s1" aria-hidden="true">✦</span><span class="spark s2" aria-hidden="true">✦</span><span class="spark s3" aria-hidden="true">✦</span><div class="wrap hero-in">
 <div class="hero-tx">
 <h1>Votre liste de mariage, prête en 10 minutes</h1>
-<p class="hero-p">{total} idées de cadeaux triées par pièce, de la cocotte aux valises du voyage de noces. Vous cochez, vous retrouvez chaque article sur Amazon, et vous partagez votre liste à tous vos invités.</p>
+<p class="hero-p">{total} idées de cadeaux triées par pièce, de la cocotte aux valises du voyage de noces. Vous cochez, vous comparez les modèles en un clic, et vous remplissez votre liste en ligne sans rien oublier.</p>
 <div class="hbtn"><a class="btn big" href="{{R}}checklist/">Commencer la checklist</a>
-<a class="btn ghost big" href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créer notre liste Amazon</a></div>
+<a class="btn ghost big" href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créer notre liste en ligne</a></div>
 <p class="hero-note">Gratuit. Connectez-vous en un clic par e-mail pour <a href="{{R}}compte/">tout sauvegarder et partager votre liste</a>.</p>
 </div>
 {HERO_TAG}
@@ -245,7 +246,7 @@ def build():
 <h2>En 4 étapes</h2>
 <ol class="steps">
 <li><strong>Cochez</strong><span>les cadeaux qui vous font envie dans la <a href="{{R}}checklist/">checklist</a>.</span></li>
-<li><strong>Ajoutez</strong><span>chaque article à votre liste de mariage sur Amazon.</span></li>
+<li><strong>Ajoutez</strong><span>chaque article à votre liste en ligne (<a href="{{R}}ou-faire-sa-liste-de-mariage/">où la faire ?</a>).</span></li>
 <li><strong>Partagez</strong><span>votre liste avec nos <a href="{{R}}message-liste-de-mariage/">textes tout prêts</a>.</span></li>
 <li><strong>Remerciez</strong><span>vos invités avec nos <a href="{{R}}remerciements-mariage/">modèles de remerciements</a>.</span></li>
 </ol></div></section><div class="wave-bot"><svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 240 70 480 0 720 25 C 960 50 1200 10 1440 30 L1440 60 L0 60 Z"/></svg></div>
@@ -262,11 +263,11 @@ def build():
 <h2>Préparer sa liste de mariage sereinement</h2>
 <p>Une liste de mariage rend service à tout le monde : vos invités savent quoi offrir, et vous recevez des cadeaux qui vous serviront vraiment. La plupart des couples la créent trois à quatre mois avant le jour J, en même temps que les faire-part. Notre <a href="{{R}}quand-faire-sa-liste-de-mariage/">calendrier</a> détaille chaque étape.</p>
 <p>Le secret d'une bonne liste, c'est l'équilibre : des essentiels pour la maison, quelques coups de cœur qui vous ressemblent, et des cadeaux à tous les prix. Prévoyez un tiers d'articles à moins de 40 €, pour que chaque invité trouve son bonheur, et quelques gros cadeaux que vos amis offriront ensemble. Vous vivez déjà ensemble ? Misez sur le <a href="{{R}}liste-de-mariage-quand-on-vit-deja-ensemble/">renouvellement et le voyage de noces</a>.</p>
-<p>Pour la liste en ligne, la <a href="{{R}}liste-de-mariage-amazon/">liste de mariage Amazon</a> est gratuite et simple pour les invités. Vous hésitez avec une cagnotte ? Notre comparatif <a href="{{R}}liste-de-mariage-ou-cagnotte/">liste ou cagnotte</a> vous aide à choisir, et nos <a href="{{R}}message-liste-de-mariage/">textes tout prêts</a> vous aident à l'annoncer avec tact.</p>
+<p>Pour la liste en ligne, plusieurs solutions existent : site marchand, liste multi-boutiques, grand magasin. Notre comparatif <a href="{{R}}ou-faire-sa-liste-de-mariage/">où faire sa liste de mariage</a> vous aide à choisir. Vous hésitez avec une cagnotte ? Notre comparatif <a href="{{R}}liste-de-mariage-ou-cagnotte/">liste ou cagnotte</a> vous aide à choisir, et nos <a href="{{R}}message-liste-de-mariage/">textes tout prêts</a> vous aident à l'annoncer avec tact.</p>
 </div></section>
 <section class="wrap block narrow">{fh}</section>'''
     page('', 'Liste de mariage : checklist et %d idées de cadeaux (%d)' % (total, YEAR),
-         'Composez votre liste de mariage en 10 minutes : checklist gratuite de %d idées de cadeaux triées par pièce, conseils et liste de mariage Amazon.' % total,
+         'Composez votre liste de mariage en 10 minutes : checklist gratuite de %d idées de cadeaux triées par pièce, conseils et comparatif des listes en ligne.' % total,
          home, schema=fs, cls='home', og=ogfor('accueil', 'Votre liste de mariage, prête en 10 minutes', 'Checklist gratuite', '💍', 'miel'))
 
     # Checklist
@@ -278,7 +279,7 @@ def build():
 <div class="prose">
 <h2>Comment utiliser cette checklist ?</h2>
 <p>Commencez par filtrer sur <strong>Essentiel</strong> : ce sont les cadeaux les plus utiles pour une maison bien équipée. Ajoutez ensuite les articles <strong>Utile</strong>, puis quelques <strong>Coups de cœur</strong> qui vous ressemblent. Gardez des cadeaux à tous les prix pour que chaque invité trouve son bonheur.</p>
-<p>Pour chaque article, ouvrez la recherche Amazon, choisissez le modèle qui vous plaît et cliquez sur « Ajouter à la liste de mariage ». Une fois la liste remplie, partagez-la avec nos <a href="{{R}}message-liste-de-mariage/">textes tout prêts</a>.</p>
+<p>Pour chaque article, le bouton « Voir » vous montre des modèles : choisissez celui qui vous plaît et ajoutez-le à votre liste en ligne. Une fois la liste remplie, partagez-la avec nos <a href="{{R}}message-liste-de-mariage/">textes tout prêts</a>.</p>
 </div></div>'''
     schema = [{"@context": "https://schema.org", "@type": "WebApplication", "name": "Checklist liste de mariage",
                "applicationCategory": "LifestyleApplication", "operatingSystem": "Tous", "url": BASE + '/checklist/',

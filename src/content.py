@@ -497,6 +497,6 @@ MESSAGES = [
 FAQ_HOME = [
   ("C'est gratuit ?", "Oui, entièrement. La checklist fonctionne sans inscription : vos choix restent sur votre appareil."),
   ("Est-ce que vous vendez les produits ?", "Non. Les articles mènent vers Amazon.fr. Si vous achetez après avoir cliqué, Amazon nous verse une petite commission, sans aucun surcoût pour vous."),
-  ("Je peux créer ma liste Amazon depuis ici ?", "Oui, le bouton « Créer notre liste Amazon » ouvre la page officielle de la liste de mariage Amazon. Vous y ajoutez ensuite les articles cochés."),
+  ("Où créer ma liste en ligne ?", "Plusieurs solutions existent : site marchand, liste multi-boutiques, grand magasin ou cagnotte. Notre comparatif vous aide à choisir. Le bouton « Créer notre liste en ligne » ouvre la liste de mariage Amazon, notre choix pour sa simplicité."),
   ("Combien d'articles mettre dans sa liste ?", "Un peu plus que le nombre de foyers invités, avec des cadeaux à tous les prix."),
 ]

@@ -11,3 +11,4 @@ Règles d'écriture : vouvoiement (on s'adresse au couple), français simple, ja
 Pas de chiffre ni de fait inventé : vérifier tout fait précis (conditions Amazon, démarches, montants) par une recherche web, sinon rester général.
 Ne jamais promettre de réduction sur la liste de mariage Amazon (aucune confirmée en France).
 Liens Amazon : uniquement via `{AMZ:mots clés}` dans le corps (le tag est ajouté automatiquement).
+Ton neutre : ne pas parler d'Amazon dans chaque paragraphe. Présenter les solutions de façon équilibrée (site marchand, liste multi-boutiques, magasin, cagnotte) ; Amazon peut être cité comme notre choix, sans plus. Lien vers la page comparatif `{R}ou-faire-sa-liste-de-mariage/` quand le sujet s'y prête.

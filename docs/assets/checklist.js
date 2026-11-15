@@ -28,7 +28,7 @@
   });
   h += '<div class="ckact"><button class="btn" id="cp">Copier la liste</button>' +
     '<button class="btn ghost" id="pr">Imprimer</button>' +
-    '<a class="btn ghost" href="' + window.LDN_LIST + '" target="_blank" rel="sponsored nofollow noopener">Créer ma liste Amazon ↗</a>' +
+    '<a class="btn ghost" href="' + window.LDN_LIST + '" target="_blank" rel="sponsored nofollow noopener">Créer ma liste en ligne ↗</a>' +
     '<button class="btn ghost" id="rs">Tout décocher</button></div>';
   root.innerHTML = h;
 
