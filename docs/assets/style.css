@@ -336,3 +336,5 @@ h3{font-size:19px;font-weight:600}
 .pickf p{flex-basis:100%;margin:0}
 .ck-tip{font-size:14px;color:var(--doux);margin:10px 0 0;line-height:1.45}
 .it[data-k]:not(.done) .pick{display:none}
+/* Checklist simplifiée : sans choix de modèle ni produits ajoutés */
+.pick,.picked,.pickf,#mine,.ck-tip{display:none!important}

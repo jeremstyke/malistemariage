@@ -107,7 +107,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=17">
+<link rel="stylesheet" href="{R}assets/style.css?v=18">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
