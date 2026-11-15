@@ -335,3 +335,4 @@ h3{font-size:19px;font-weight:600}
 .pickf input{flex:1 1 200px;min-width:0;font:16px var(--texte);padding:10px 12px;border:2px solid var(--trait);border-radius:var(--r-s);background:var(--papier);color:var(--encre)}
 .pickf p{flex-basis:100%;margin:0}
 .ck-tip{font-size:14px;color:var(--doux);margin:10px 0 0;line-height:1.45}
+.it[data-k]:not(.done) .pick{display:none}
