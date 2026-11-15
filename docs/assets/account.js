@@ -68,7 +68,7 @@
 
   function renderAccount(row) {
     var box = $('#acc'); if (!box) return;
-    if (!user) { $('#acc-out').hidden = false; $('#acc-in').hidden = true; return; }
+    if (!user) { window.LDN_ACC = null; $('#acc-out').hidden = false; $('#acc-in').hidden = true; if (/partage=1/.test(location.search)) msg('Connectez-vous pour obtenir votre lien de partage : c\'est gratuit et sans mot de passe.'); return; }
     $('#acc-out').hidden = true; $('#acc-in').hidden = false;
     $('#acc-email').textContent = user.email;
     var n = Object.keys(local()).length;
@@ -175,6 +175,12 @@
       navLink();
       if (user) {
         pullList().then(function (row) {
+          window.LDN_ACC = { row: row, makePublic: function () {
+            var self = this;
+            return sb.from('lmm_lists').update({ is_public: true, updated_at: new Date().toISOString() }).eq('user_id', user.id).select().maybeSingle()
+              .then(function (r) { if (r.data) self.row = r.data; return self.row; });
+          } };
+          document.dispatchEvent(new CustomEvent('ldn:acc'));
           renderAccount(row);
           otherList();
           document.dispatchEvent(new CustomEvent('ldn:reload'));
