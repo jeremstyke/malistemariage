@@ -158,11 +158,13 @@
       var title = row.names ? 'La liste de mariage de ' + esc(row.names) : 'Une liste de mariage';
       $('#pub-title').textContent = title.replace(/&amp;/g, '&');
       D.forEach(function (c, ci) {
-        var sel = c.i.filter(function (_, ii) { return st[ci + ':' + ii]; });
+        var sel = []; c.i.forEach(function (it, ii) { var v = st[ci + ':' + ii]; if (v) sel.push({ it: it, v: v }); });
         if (!sel.length) return;
         h += '<section class="cat t-' + ['lilas','ciel','peche','menthe','miel','lilas','ciel'][ci % 7] + '"><h2><span class="cat-e" aria-hidden="true">' + c.e + '</span><span class="cat-n">' + c.c + '</span></h2>';
-        sel.forEach(function (it) {
-          h += '<div class="it"><div class="tx"><label>' + it.n + '</label><p>' + it.t + '</p></div><a class="go" href="' + it.u + '" target="_blank" rel="sponsored nofollow noopener">Voir</a></div>';
+        sel.forEach(function (o) {
+          var it = o.it, v = o.v, pick = v && typeof v === 'object' && v.a;
+          var href = pick ? 'https://www.amazon.fr/dp/' + encodeURIComponent(v.a) + '?tag=' + (window.LDN_TAG || '') : it.u;
+          h += '<div class="it"><div class="tx"><label>' + it.n + '</label><p>' + (pick ? '⭐ ' + esc(v.n || 'Modèle choisi') : it.t) + '</p></div><a class="go" href="' + href + '" target="_blank" rel="sponsored nofollow noopener">' + (pick ? 'Offrir' : 'Voir') + '</a></div>';
         });
         h += '</section>';
       });

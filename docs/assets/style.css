@@ -324,3 +324,14 @@ h3{font-size:19px;font-weight:600}
 .mine-x{border:0;background:none;font:700 22px/1 var(--texte);color:var(--doux);cursor:pointer;padding:6px 10px;border-radius:50%}
 .mine-x:hover{background:var(--fond);color:var(--encre)}
 .ck-first{background:var(--miel-c);border-radius:var(--r-m);padding:12px 16px;margin:0 0 6px;font-size:15px}
+/* Modèle choisi par article */
+.it .acts{display:flex;flex-direction:column;align-items:flex-end;gap:6px;flex:none}
+.pick{border:0;background:none;color:var(--framboise-f);font:600 13px var(--texte);text-decoration:underline;cursor:pointer;padding:2px 0}
+.picked{font-size:14px;margin-top:4px}.picked:empty{display:none}
+.picked span{color:var(--encre)}.picked a{font-weight:600}
+.unpick{border:0;background:none;color:var(--doux);font:13px var(--texte);text-decoration:underline;cursor:pointer;padding:0 0 0 4px}
+.pickf{flex-basis:100%;display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.it:has(.pickf){flex-wrap:wrap}
+.pickf input{flex:1 1 200px;min-width:0;font:16px var(--texte);padding:10px 12px;border:2px solid var(--trait);border-radius:var(--r-s);background:var(--papier);color:var(--encre)}
+.pickf p{flex-basis:100%;margin:0}
+.ck-tip{font-size:14px;color:var(--doux);margin:10px 0 0;line-height:1.45}

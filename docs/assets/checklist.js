@@ -12,7 +12,7 @@
     '<div class="ckinfo"><span id="cnt"></span><span>Gardé sur cet appareil</span></div>' +
     '<div class="filt" id="flt">' +
     '<button data-f="all" class="on">Tout</button><button data-f="1">Essentiel</button>' +
-    '<button data-f="2">Utile</button><button data-f="3">Coup de cœur</button><button data-f="todo">Pas encore coché</button></div></div>';
+    '<button data-f="2">Utile</button><button data-f="3">Coup de cœur</button><button data-f="todo">Pas encore coché</button></div><p class="ck-tip">Astuce : pour chaque article, cliquez sur « Voir », choisissez votre modèle sur Amazon, copiez son lien puis collez-le avec « Notre modèle ».</p></div>';
   D.forEach(function(c, ci){
     var tints = ['lilas','ciel','peche','menthe','miel','lilas','ciel'];
     h += '<section class="cat t-' + tints[ci % tints.length] + '" id="cat' + ci + '"><h2><span class="cat-e" aria-hidden="true">' + c.e + '</span><span class="cat-n">' + c.c + '</span><small id="cc' + ci + '"></small></h2>';
@@ -21,8 +21,9 @@
       h += '<div class="it" data-p="' + it.p + '" data-k="' + k + '">' +
         '<input type="checkbox" id="c' + ci + '_' + ii + '">' +
         '<div class="tx"><label for="c' + ci + '_' + ii + '">' + it.n + '<span class="pr p' + it.p + '">' + P[it.p] + '</span></label>' +
-        '<p>' + it.t + '</p></div>' +
-        '<a class="go" href="' + it.u + '" target="_blank" rel="sponsored nofollow noopener" aria-label="Voir ' + it.n + ' sur Amazon">Voir</a></div>';
+        '<p>' + it.t + '</p><div class="picked"></div></div>' +
+        '<div class="acts"><a class="go" href="' + it.u + '" target="_blank" rel="sponsored nofollow noopener" aria-label="Voir ' + it.n + ' sur Amazon">Voir</a>' +
+        '<button class="pick" type="button">Notre modèle</button></div></div>';
     });
     h += '</section>';
   });
@@ -94,6 +95,13 @@
     rows.forEach(function(r){
       var on = !!st[r.getAttribute('data-k')];
       r.querySelector('input').checked = on;
+      var v = st[r.getAttribute('data-k')], pk = r.querySelector('.picked'), pb = r.querySelector('.pick');
+      if (pk) {
+        if (v && typeof v === 'object' && v.a) {
+          pk.innerHTML = '<span>⭐ Modèle choisi : <strong>' + esc(v.n || v.a) + '</strong></span> <a href="' + plink(v.a) + '" target="_blank" rel="sponsored nofollow noopener">voir</a> <button type="button" class="unpick">retirer</button>';
+          pb.textContent = 'Changer';
+        } else { pk.innerHTML = ''; pb.textContent = 'Notre modèle'; }
+      }
       r.classList.toggle('done', on);
       if (on) n++;
       var p = r.getAttribute('data-p'), show = filter === 'all' || filter === p || (filter === 'todo' && !on);
@@ -106,7 +114,34 @@
     document.getElementById('cnt').textContent = n + ' article' + (n > 1 ? 's' : '') + ' coché' + (n > 1 ? 's' : '') + ' sur ' + total;
     document.getElementById('pg').style.width = (total ? n / total * 100 : 0) + '%';
   }
+  root.addEventListener('click', function(e){
+    var r = e.target.closest('.it[data-k]'); if (!r) return;
+    var k = r.getAttribute('data-k');
+    if (e.target.closest('.unpick')) { st[k] = 1; save(); refresh(); return; }
+    if (!e.target.closest('.pick')) return;
+    var f = r.querySelector('.pickf');
+    if (f) { f.remove(); return; }
+    f = document.createElement('form'); f.className = 'pickf';
+    f.innerHTML = '<input type="text" placeholder="Collez le lien Amazon du modèle" autocomplete="off" required><button class="btn sm" type="submit">OK</button><p class="small"></p>';
+    r.appendChild(f); f.querySelector('input').focus();
+    f.addEventListener('submit', function(ev){
+      ev.preventDefault();
+      var raw = f.querySelector('input').value.trim(), m = raw.match(/https?:\/\/\S+/), u = m ? m[0] : raw, msg = f.querySelector('p');
+      function done(a, n){ st[k] = { a: a, n: (n || '').slice(0, 80) }; save(); f.remove(); refresh(); }
+      var a = asinOf(u);
+      if (a) return done(a, nameOf(u));
+      if (/^https?:\/\/(www\.)?(amzn\.eu|amzn\.to|a\.co)\//i.test(u)) {
+        msg.textContent = 'Recherche du produit...';
+        fetch('https://txvrlvcxfnylnrpdrxtt.supabase.co/functions/v1/amzn-resolve?u=' + encodeURIComponent(u))
+          .then(function(x){ return x.json(); }).then(function(j){ if (j.asin) done(j.asin, nameOf(j.url || '')); else msg.textContent = 'Lien court illisible : ouvrez le produit dans votre navigateur et copiez l\'adresse complète.'; })
+          .catch(function(){ msg.textContent = 'Lien court illisible : ouvrez le produit dans votre navigateur et copiez l\'adresse complète.'; });
+        return;
+      }
+      msg.textContent = 'Lien non reconnu : copiez l\'adresse de la page du produit Amazon.';
+    });
+  });
   root.addEventListener('change', function(e){
+    if (e.target.type !== 'checkbox') return;
     var r = e.target.closest('.it'); if (!r) return;
     var k = r.getAttribute('data-k');
     if (e.target.checked) st[k] = 1; else delete st[k];
