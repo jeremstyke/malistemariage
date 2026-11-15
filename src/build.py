@@ -107,7 +107,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=20">
+<link rel="stylesheet" href="{R}assets/style.css?v=22">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -274,7 +274,7 @@ def build():
     # Checklist
     ck = f'''<section class="wrap pagehead"><h1>Checklist liste de mariage</h1>
 <p class="lead">{total} idées de cadeaux triées par pièce. Cochez ce que vous voulez mettre dans votre liste : vos choix restent enregistrés sur cet appareil.</p></section>
-<div class="wrap"><p class="ck-first">Pas encore de liste ? <a href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créez d'abord votre liste de mariage sur Amazon</a> (gratuit), puis remplissez-la ici article par article.</p></div>
+<div class="wrap"><div class="ck-first"><strong>Comment ajouter un article à votre liste</strong><ol><li>Pas encore de liste ? <a href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créez-la sur Amazon</a>, c'est gratuit.</li><li>Ici, cliquez sur <strong>« Voir »</strong> à côté d'un article : Amazon s'ouvre avec des modèles.</li><li>Choisissez un modèle, puis appuyez sur <strong>« Ajouter à la liste de mariage »</strong>, sous « Ajouter au panier ». Sur l'appli, il peut se trouver dans le menu « Ajouter à une liste ».</li><li>Revenez ici : l'article est déjà coché, passez au suivant.</li></ol></div></div>
 <div class="wrap"><div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, et vous pouvez la remplir à deux.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
 {tool}
 {CTA}
