@@ -21,7 +21,7 @@
       h += '<div class="it" data-p="' + it.p + '" data-k="' + k + '">' +
         '<input type="checkbox" id="c' + ci + '_' + ii + '">' +
         '<div class="tx"><label for="c' + ci + '_' + ii + '">' + it.n + '<span class="pr p' + it.p + '">' + P[it.p] + '</span></label>' +
-        '<p>' + it.t + '</p><div class="picked"></div></div>' +
+        '<p>' + it.t + (it.g ? ' <a class="howto" href="../' + it.g + '">Comment choisir ?</a>' : '') + '</p><div class="picked"></div></div>' +
         '<div class="acts"><a class="go" href="' + it.u + '" target="_blank" rel="sponsored nofollow noopener" aria-label="Voir ' + it.n + ' sur Amazon">Voir</a>' +
         '<button class="pick" type="button">Notre modèle</button></div></div>';
     });

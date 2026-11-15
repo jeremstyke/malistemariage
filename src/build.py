@@ -107,7 +107,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=22">
+<link rel="stylesheet" href="{R}assets/style.css?v=23">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -202,6 +202,15 @@ HERO_TAG = """<div class="hero-tag" aria-hidden="true"><span class="tag-hole"></
 <li style="--d:1.8s">Parure de lit en lin</li>
 </ul>
 <p class="ht-foot">3 sur 49 cochés</p></div>"""
+# Guide « comment choisir » associé à un article de la checklist (affiché seulement si le guide existe)
+GUIDE_MAP = [('Batterie de casseroles', 'comment-choisir-batterie-de-casseroles/'), ('Cocotte', 'comment-choisir-cocotte-en-fonte/'), ('Couteaux', 'comment-choisir-couteaux-de-cuisine/'), ('Robot pâtissier', 'quel-robot-patissier-pour-une-liste-de-mariage/'), ('Robot multifonction', 'comment-choisir-blender/'), ('Machine à café', 'comment-choisir-machine-a-cafe-grain/'), ('Service de vaisselle', 'comment-choisir-service-de-table/'), ('Couette', 'comment-choisir-couette/'), ('Aspirateur balai', 'comment-choisir-aspirateur-balai/'), ('Robot aspirateur', 'comment-choisir-robot-aspirateur/'), ('Fer ou centrale', 'comment-choisir-centrale-vapeur/'), ('Valises cabine', 'comment-choisir-valise-cabine/'), ('Grande valise', 'comment-choisir-valise-cabine/'), ('Barbecue ou plancha', 'comment-choisir-plancha/'), ('Parure de lit', 'linge-de-maison-liste-de-mariage/'), ('Serviettes de bain', 'linge-de-maison-liste-de-mariage/')]
+def guide_for(name):
+    have = {x['slug'] for x in GUIDES}
+    for key, slug in GUIDE_MAP:
+        if name.startswith(key) and slug in have:
+            return slug
+    return None
+
 def build():
     if os.path.exists(OUT):
         for n in os.listdir(OUT):
@@ -215,14 +224,14 @@ def build():
     # Données de la checklist
     data = []
     for cat, emo, items in CHECKLIST:
-        data.append({"c": cat, "e": emo, "i": [{"n": n, "u": amz(q), "p": p, "t": t} for n, q, p, t in items]})
+        data.append({"c": cat, "e": emo, "i": [dict({"n": n, "u": amz(q), "p": p, "t": t}, **({"g": guide_for(n)} if guide_for(n) else {})) for n, q, p, t in items]})
     total = sum(len(c['i']) for c in data)
     js = 'window.LDN_DATA=' + json.dumps(data, ensure_ascii=False) + ';window.LDN_PRIO=' + json.dumps({str(k): v for k, v in PRIO.items()}, ensure_ascii=False) + ';window.LDN_LIST=' + json.dumps(AMZ_LIST) + ';window.LDN_TAG=' + json.dumps(TAG) + ';'
     with open(os.path.join(OUT, 'assets', 'data.js'), 'w', encoding='utf-8') as f:
         f.write(js)
 
     tool = ('<div id="ck" class="ck"><noscript>Active JavaScript pour cocher les articles.</noscript></div>'
-            '<script src="{R}assets/data.js?v=3"></script><script src="{R}assets/checklist.js?v=8" defer></script>')
+            '<script src="{R}assets/data.js?v=3"></script><script src="{R}assets/checklist.js?v=9" defer></script>')
 
     # Accueil
     cats = ''.join('<a class="cat-chip t-%s" href="{R}checklist/#cat%d"><span aria-hidden="true">%s</span>%s<small>%d articles</small></a>' % (
