@@ -2,6 +2,18 @@
 # Format : - [ ] slug/ | requête visée | angle
 # Cocher [x] une fois publié. Prendre toujours le premier sujet non coché.
 
+- [ ] comment-choisir-cocotte-en-fonte/ | comment choisir une cocotte en fonte | taille selon le foyer, émaillée ou brute, induction
+- [ ] comment-choisir-batterie-de-casseroles/ | comment choisir une batterie de casseroles | inox, antiadhésif, induction, poignées amovibles
+- [ ] comment-choisir-couteaux-de-cuisine/ | comment choisir ses couteaux de cuisine | les 3 indispensables, acier, entretien
+- [ ] comment-choisir-aspirateur-balai/ | comment choisir un aspirateur balai sans fil | autonomie, puissance, accessoires, logement
+- [ ] comment-choisir-machine-a-cafe-grain/ | comment choisir une machine à café à grain | broyeur, lait, entretien, budget
+- [ ] comment-choisir-valise-cabine/ | comment choisir une valise cabine | dimensions compagnies, rigide ou souple, roues
+- [ ] comment-choisir-couette/ | comment choisir sa couette | grammage, saisons, taille, naturelle ou synthétique
+- [ ] comment-choisir-robot-aspirateur/ | comment choisir un robot aspirateur | navigation, serpillière, base, logement
+- [ ] comment-choisir-centrale-vapeur/ | comment choisir une centrale vapeur | pression, réservoir, défroisseur ou fer
+- [ ] comment-choisir-plancha/ | comment choisir une plancha | électrique ou gaz, surface, revêtement
+- [ ] comment-choisir-blender/ | comment choisir un blender | puissance, chauffant, bol, usages
+- [ ] comment-choisir-service-de-table/ | comment choisir son service de table | porcelaine, grès, nombre de pièces, entretien
 - [ ] liste-de-mariage-voyage-de-noces/ | liste de mariage voyage de noces | articles et cagnotte pour financer le voyage
 - [ ] quel-robot-patissier-pour-une-liste-de-mariage/ | robot pâtissier liste de mariage | critères de choix, cadeau de groupe
 - [ ] service-de-vaisselle-liste-de-mariage/ | service de vaisselle liste de mariage | combien de couverts, matières, entretien

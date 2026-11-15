@@ -12,3 +12,5 @@ Pas de chiffre ni de fait inventé : vérifier tout fait précis (conditions Ama
 Ne jamais promettre de réduction sur la liste de mariage Amazon (aucune confirmée en France).
 Liens Amazon : uniquement via `{AMZ:mots clés}` dans le corps (le tag est ajouté automatiquement).
 Ton neutre : ne pas parler d'Amazon dans chaque paragraphe. Présenter les solutions de façon équilibrée (site marchand, liste multi-boutiques, magasin, cagnotte) ; Amazon peut être cité comme notre choix, sans plus. Lien vers la page comparatif `{R}ou-faire-sa-liste-de-mariage/` quand le sujet s'y prête.
+
+Guides produits (« comment choisir ») : expliquer les critères de choix avec un tableau comparatif par type ou par budget, sans inventer de caractéristiques ni de prix de modèles précis. Mettre un lien `{AMZ:mots clés}` par type de produit (par exemple `{AMZ:poussette compacte}`), à l'endroit où on parle de ce type, 4 à 8 liens par article. Ne citer un modèle ou une marque que si un fait précis a été vérifié par une recherche web. Lien vers `{R}checklist/` et vers le guide liste Amazon.
