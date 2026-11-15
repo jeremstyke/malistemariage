@@ -9,6 +9,10 @@
   function $(s, r) { return (r || document).querySelector(s); }
   function local() { try { return JSON.parse(localStorage.getItem(LKEY) || '{}') || {}; } catch (e) { return {}; } }
   function setLocal(o) { try { localStorage.setItem(LKEY, JSON.stringify(o)); } catch (e) {} }
+  var CKEY = LKEY.replace('checklist', 'custom');
+  function localCu() { if (window.LDN_CUSTOM) return window.LDN_CUSTOM(); try { return JSON.parse(localStorage.getItem(CKEY) || '[]') || []; } catch (e) { return []; } }
+  function setCu(a) { if (window.LDN_SET_CUSTOM) return window.LDN_SET_CUSTOM(a); try { localStorage.setItem(CKEY, JSON.stringify(a)); } catch (e) {} }
+  function mergeCu(a, b) { var seen = {}, out = []; (a || []).concat(b || []).forEach(function (x) { if (x && x.a && !seen[x.a]) { seen[x.a] = 1; out.push(x); } }); return out; }
 
   function loadLib(cb) {
     if (window.supabase) return cb();
@@ -32,7 +36,7 @@
     if (!user) return;
     clearTimeout(saveT);
     saveT = setTimeout(function () {
-      sb.from('lmm_lists').upsert({ user_id: user.id, items: local(), updated_at: new Date().toISOString() });
+      sb.from('lmm_lists').upsert({ user_id: user.id, items: local(), custom: localCu(), updated_at: new Date().toISOString() });
     }, 600);
   }
   function pullList() {
@@ -44,8 +48,9 @@
       if (pend === '1') { extra.newsletter = true; extra.newsletter_at = new Date().toISOString(); }
       var merged = Object.assign({}, (row && row.items) || {}, local());
       setLocal(merged);
-      if (!row || pend === '1' || Object.keys(merged).length !== Object.keys(row.items || {}).length) {
-        return sb.from('lmm_lists').upsert(Object.assign({ user_id: user.id, items: merged, updated_at: new Date().toISOString() }, extra))
+      var mcu = mergeCu((row && row.custom) || [], localCu()); setCu(mcu);
+      if (!row || pend === '1' || Object.keys(merged).length !== Object.keys(row.items || {}).length || mcu.length !== (row.custom || []).length) {
+        return sb.from('lmm_lists').upsert(Object.assign({ user_id: user.id, items: merged, custom: mcu, updated_at: new Date().toISOString() }, extra))
           .select().maybeSingle().then(function (x) { return x.data || row; });
       }
       return row;
@@ -102,7 +107,7 @@
     $('#form-wed').addEventListener('submit', function (e) {
       e.preventDefault();
       var upd = { user_id: user.id, names: $('#f-names').value.trim() || null, wedding_date: $('#f-date').value || null,
-        is_public: $('#f-public').checked, newsletter: $('#f-news').checked, items: local(), updated_at: new Date().toISOString() };
+        is_public: $('#f-public').checked, newsletter: $('#f-news').checked, items: local(), custom: localCu(), updated_at: new Date().toISOString() };
       if ($('#f-news').checked) upd.newsletter_at = new Date().toISOString();
       sb.from('lmm_lists').upsert(upd).select().maybeSingle().then(function (r) {
         if (r.error) return msg(err(r.error));
@@ -161,6 +166,12 @@
         });
         h += '</section>';
       });
+      var cu = row.custom || [];
+      if (cu.length) {
+        h += '<section class="cat t-miel"><h2><span class="cat-e" aria-hidden="true">⭐</span><span class="cat-n">Produits choisis</span></h2>';
+        cu.forEach(function (x) { h += '<div class="it"><div class="tx"><label>' + esc(x.n || 'Produit') + '</label></div><a class="go" href="https://www.amazon.fr/dp/' + encodeURIComponent(x.a) + '?tag=' + (window.LDN_TAG || '') + '" target="_blank" rel="sponsored nofollow noopener">Voir</a></div>'; });
+        h += '</section>';
+      }
       box.innerHTML = h || '<p>Les mariés n\'ont pas encore choisi d\'articles.</p>';
     });
   }

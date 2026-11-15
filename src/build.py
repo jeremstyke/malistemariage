@@ -107,7 +107,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=14">
+<link rel="stylesheet" href="{R}assets/style.css?v=15">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -128,7 +128,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifiez-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
-<script src="{R}assets/account.js?v=4" defer></script>
+<script src="{R}assets/account.js?v=5" defer></script>
 </body>
 </html>
 '''
@@ -215,12 +215,12 @@ def build():
     for cat, emo, items in CHECKLIST:
         data.append({"c": cat, "e": emo, "i": [{"n": n, "u": amz(q), "p": p, "t": t} for n, q, p, t in items]})
     total = sum(len(c['i']) for c in data)
-    js = 'window.LDN_DATA=' + json.dumps(data, ensure_ascii=False) + ';window.LDN_PRIO=' + json.dumps({str(k): v for k, v in PRIO.items()}, ensure_ascii=False) + ';window.LDN_LIST=' + json.dumps(AMZ_LIST) + ';'
+    js = 'window.LDN_DATA=' + json.dumps(data, ensure_ascii=False) + ';window.LDN_PRIO=' + json.dumps({str(k): v for k, v in PRIO.items()}, ensure_ascii=False) + ';window.LDN_LIST=' + json.dumps(AMZ_LIST) + ';window.LDN_TAG=' + json.dumps(TAG) + ';'
     with open(os.path.join(OUT, 'assets', 'data.js'), 'w', encoding='utf-8') as f:
         f.write(js)
 
     tool = ('<div id="ck" class="ck"><noscript>Active JavaScript pour cocher les articles.</noscript></div>'
-            '<script src="{R}assets/data.js?v=2"></script><script src="{R}assets/checklist.js?v=4" defer></script>')
+            '<script src="{R}assets/data.js?v=3"></script><script src="{R}assets/checklist.js?v=5" defer></script>')
 
     # Accueil
     cats = ''.join('<a class="cat-chip t-%s" href="{R}checklist/#cat%d"><span aria-hidden="true">%s</span>%s<small>%d articles</small></a>' % (
@@ -381,7 +381,7 @@ def build():
 <p class="lead">Voici les cadeaux choisis par les mariés. Cliquez sur un article pour l'offrir.</p></section>
 <div class="wrap"><div id="pub" class="ck"><p>Chargement de la liste...</p></div>
 <div class="prose"><p>Vous aussi, vous vous mariez ? <a href="{R}checklist/">Faites votre checklist gratuite</a>.</p></div></div>
-<script src="{R}assets/data.js?v=2"></script>"""
+<script src="{R}assets/data.js?v=3"></script>"""
     page('ma-liste/', 'Liste de mariage partagée', 'Une liste de mariage partagée par des futurs mariés.', pub, noindex=True, cls='tool')
 
     # Pages légales

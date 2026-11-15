@@ -31,8 +31,64 @@
     '<a class="btn ghost" href="' + window.LDN_LIST + '" target="_blank" rel="sponsored nofollow noopener">Créer ma liste en ligne ↗</a>' +
     '<button class="btn ghost" id="rs">Tout décocher</button></div>';
   root.innerHTML = h;
+  /* Mes produits choisis : lien Amazon collé, transformé en lien propre avec notre identifiant */
+  var CKEY = KEY.replace('checklist', 'custom'), cu = [];
+  try { cu = JSON.parse(localStorage.getItem(CKEY) || '[]') || []; } catch(e) { cu = []; }
+  window.LDN_CUSTOM = function(){ return cu; };
+  window.LDN_SET_CUSTOM = function(a){ cu = a || []; try { localStorage.setItem(CKEY, JSON.stringify(cu)); } catch(e){} renderMine(); };
+  function saveCu(){ try { localStorage.setItem(CKEY, JSON.stringify(cu)); } catch(e){} document.dispatchEvent(new CustomEvent('ldn:change')); renderMine(); }
+  function asinOf(u){ var m = String(u).match(/(?:\/dp\/|\/gp\/product\/|\/gp\/aw\/d\/|\/o\/ASIN\/)([A-Z0-9]{10})/i); return m ? m[1].toUpperCase() : null; }
+  function nameOf(u){ try { var p = new URL(u).pathname.split('/'), i = p.indexOf('dp'); if (i > 0 && p[i-1] && p[i-1].length > 3) return decodeURIComponent(p[i-1]).replace(/-/g, ' ').slice(0, 80); } catch(e){} return ''; }
+  function plink(a){ return 'https://www.amazon.fr/dp/' + a + '?tag=' + (window.LDN_TAG || ''); }
+  function esc(s){ var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+  var mine = document.createElement('section');
+  mine.className = 'cat t-miel mine'; mine.id = 'mine';
+  mine.innerHTML = '<h2><span class="cat-e" aria-hidden="true">⭐</span><span class="cat-n">Nos produits choisis</span><small id="mc"></small></h2>' +
+    '<p class="mine-help">Vous avez trouvé un modèle précis sur Amazon ? Copiez son lien (bouton Partager de l\'appli ou adresse de la page) et collez-le ici : il s\'ajoute à votre liste et à votre page de partage.</p>' +
+    '<form class="mine-f" id="mine-f"><input type="text" id="mine-u" placeholder="Collez le lien du produit Amazon" autocomplete="off" required>' +
+    '<input type="text" id="mine-n" placeholder="Nom du produit (facultatif)" maxlength="80"><button class="btn sm" type="submit">Ajouter</button></form>' +
+    '<p class="small" id="mine-msg" role="status"></p><div id="mine-l"></div>';
+  root.insertBefore(mine, root.querySelector('.ckact'));
+  function renderMine(){
+    var l = document.getElementById('mine-l'); if (!l) return;
+    l.innerHTML = cu.map(function(x, i){
+      return '<div class="it done-no"><div class="tx"><label>' + esc(x.n || 'Produit Amazon') + '</label><p>Produit choisi sur Amazon</p></div>' +
+        '<a class="go" href="' + plink(x.a) + '" target="_blank" rel="sponsored nofollow noopener">Voir</a>' +
+        '<button class="mine-x" type="button" data-i="' + i + '" aria-label="Retirer">×</button></div>';
+    }).join('');
+    document.getElementById('mc').textContent = cu.length ? cu.length + '' : '';
+  }
+  function addAsin(a, name){
+    if (cu.some(function(x){ return x.a === a; })) return mmsg('Ce produit est déjà dans votre liste.');
+    cu.push({ a: a, n: name || ('Produit ' + a) }); saveCu();
+    document.getElementById('mine-u').value = ''; document.getElementById('mine-n').value = '';
+    mmsg('Produit ajouté.');
+  }
+  function mmsg(t){ document.getElementById('mine-msg').textContent = t; }
+  document.getElementById('mine-f').addEventListener('submit', function(e){
+    e.preventDefault();
+    var raw = document.getElementById('mine-u').value.trim(), m = raw.match(/https?:\/\/\S+/), u = m ? m[0] : raw;
+    var name = document.getElementById('mine-n').value.trim();
+    var a = asinOf(u);
+    if (a) return addAsin(a, name || nameOf(u));
+    if (/^https?:\/\/(www\.)?(amzn\.eu|amzn\.to|a\.co)\//i.test(u)) {
+      mmsg('Recherche du produit...');
+      fetch('https://txvrlvcxfnylnrpdrxtt.supabase.co/functions/v1/amzn-resolve?u=' + encodeURIComponent(u))
+        .then(function(r){ return r.json(); })
+        .then(function(j){ if (j.asin) addAsin(j.asin, name || nameOf(j.url || '')); else mmsg('Impossible de lire ce lien court. Ouvrez le produit dans votre navigateur et copiez l\'adresse complète de la page.'); })
+        .catch(function(){ mmsg('Impossible de lire ce lien court. Ouvrez le produit dans votre navigateur et copiez l\'adresse complète de la page.'); });
+      return;
+    }
+    mmsg('Ce lien ne ressemble pas à un produit Amazon. Copiez l\'adresse de la page du produit.');
+  });
+  document.getElementById('mine-l').addEventListener('click', function(e){
+    var b = e.target.closest('.mine-x'); if (!b) return;
+    cu.splice(+b.getAttribute('data-i'), 1); saveCu();
+  });
+  document.addEventListener('ldn:reload', function(){ try { cu = JSON.parse(localStorage.getItem(CKEY) || '[]') || []; } catch(e){} renderMine(); });
+  renderMine();
 
-  var rows = root.querySelectorAll('.it');
+  var rows = root.querySelectorAll('.it[data-k]');
   function refresh(){
     var n = 0;
     rows.forEach(function(r){
@@ -76,7 +132,7 @@
   function flash(b, t){ b.textContent = t; setTimeout(function(){ b.textContent = 'Partager mon lien'; }, 2200); }
   document.getElementById('cp').addEventListener('click', function(){
     var b = this, A = window.LDN_ACC;
-    if (!Object.keys(st).length) return flash(b, 'Cochez d\'abord des articles');
+    if (!Object.keys(st).length && !cu.length) return flash(b, 'Cochez d\'abord des articles');
     if (!A) { location.href = ROOT + 'compte/?partage=1'; return; }
     if (!A.row || !A.row.is_public) {
       b.textContent = '...';
