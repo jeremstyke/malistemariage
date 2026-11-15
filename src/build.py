@@ -126,7 +126,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <p>La checklist gratuite pour composer votre liste de mariage, pièce par pièce.</p></div>
 <nav aria-label="Pied de page"><a href="{R}checklist/">Checklist</a><a href="{R}guides/">Guides</a><a href="{R}outils/">Outils</a><a href="{R}mentions-legales/">Mentions légales</a><a href="{R}confidentialite/">Confidentialité</a><a href="mailto:{CONTACT}">Contact</a></nav>
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
-<nav class="sites" aria-label="Nos sites"><span>Nos sites :</span><a href="https://malistebebe.fr/">🍼 Ma liste bébé</a><a aria-current="page" href="{R}">💍 Ma liste mariage</a><a href="https://viellirchezsoi.fr/">🏡 Vieillir chez soi</a></nav>
+<nav class="sites" aria-label="Nos sites"><span>Nos sites :</span><a href="https://malistebebe.fr/">🍼 Ma liste bébé</a><a aria-current="page" href="{R}">💍 Ma liste mariage</a><a href="https://viellirchezsoi.fr/">🏡 Vieillir chez soi</a><a href="https://lesoiseauxdujardin.fr/">🐦 Les oiseaux du jardin</a></nav>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifiez-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
 <script src="{R}assets/account.js?v=7" defer></script>

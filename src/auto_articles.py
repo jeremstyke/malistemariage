@@ -722,3 +722,160 @@ g("meilleure-valise-voyage-de-noces/",
        ("Valise rigide ou souple pour le voyage de noces ?", "Une valise rigide protège mieux les affaires fragiles et résiste à la pluie. Le polypropylène et le polycarbonate sont les matières les plus courantes sur les modèles rigides de qualité."),
        ("Peut-on mettre des valises sur une liste de mariage ?", "Oui, c'est même un cadeau très apprécié avant le voyage de noces. Mettez chaque valise en article séparé et ajoutez quelques accessoires à petit prix pour tous les budgets.")],
   short="Top 10 valises voyage de noces")
+
+AUTO_META['comment-choisir-couteaux-de-cuisine/'] = ('🔪', 'lilas')
+g("comment-choisir-couteaux-de-cuisine/",
+  "Comment choisir ses couteaux de cuisine : les 3 indispensables",
+  "Comment choisir ses couteaux de cuisine",
+  "Couteau de chef, d'office, à pain : les 3 couteaux indispensables, le choix de l'acier, du manche et l'entretien pour des couteaux qui durent.",
+  """
+<p>De bons couteaux changent tout en cuisine : on coupe plus vite, plus proprement et, paradoxalement, avec moins de risques de se blesser qu'avec une lame émoussée. C'est aussi un cadeau de mariage qui dure des années. Encore faut-il savoir quoi demander : un grand bloc de quinze couteaux n'est pas forcément le meilleur choix. Voici l'essentiel pour bien choisir.</p>
+{CTA}
+<h2>Les 3 couteaux indispensables</h2>
+<p>La plupart des cuisiniers, amateurs comme professionnels, utilisent surtout trois couteaux au quotidien. Mieux vaut trois très bons couteaux qu'un coffret complet de qualité moyenne.</p>
+<table><thead><tr><th>Couteau</th><th>Longueur de lame courante</th><th>À quoi il sert</th></tr></thead><tbody>
+<tr><td>Couteau de chef (ou éminceur)</td><td>Environ 18 à 23 cm</td><td>Émincer, hacher, trancher la viande et les légumes : il fait 80 % du travail</td></tr>
+<tr><td>Couteau d'office</td><td>Environ 8 à 10 cm</td><td>Éplucher, couper les petits fruits et légumes, travaux précis</td></tr>
+<tr><td>Couteau à pain</td><td>Environ 20 à 23 cm, lame dentelée</td><td>Pain, brioche, tomates, tout ce qui a une croûte ou une peau</td></tr>
+</tbody></table>
+<p>Le <a href="{AMZ:couteau de chef 20 cm}" rel="sponsored nofollow noopener" target="_blank">couteau de chef</a> est la pièce maîtresse. Si votre budget est limité, c'est sur lui qu'il faut mettre le plus. Le <a href="{AMZ:couteau d'office}" rel="sponsored nofollow noopener" target="_blank">couteau d'office</a> et le <a href="{AMZ:couteau à pain}" rel="sponsored nofollow noopener" target="_blank">couteau à pain</a> complètent le trio.</p>
+<h3>Et ensuite ?</h3>
+<p>Une fois le trio en place, vous pouvez ajouter selon vos habitudes : un couteau à trancher pour les rôtis, un santoku (couteau d'inspiration japonaise, à lame large) si vous cuisinez beaucoup de légumes, un couteau à désosser ou à filet de sole si vous préparez souvent viande et poisson. Ces couteaux sont de bonnes idées pour les invités qui veulent offrir un cadeau plus modeste.</p>
+<h2>Quel acier choisir ?</h2>
+<p>La lame est le cœur du couteau. On trouve principalement deux grandes familles :</p>
+<ul>
+<li><strong>L'acier inoxydable</strong> : il résiste bien à la rouille et demande peu d'entretien. C'est le choix le plus simple pour une cuisine de tous les jours. La qualité varie beaucoup d'un modèle à l'autre : un bon inox garde son tranchant longtemps, un inox bas de gamme s'émousse vite.</li>
+<li><strong>L'acier carbone</strong> : très tranchant et facile à réaffûter, il est apprécié des passionnés. En contrepartie, il peut s'oxyder et prendre une patine foncée. Il faut l'essuyer juste après l'avoir lavé.</li>
+</ul>
+<p>Vous croiserez aussi des lames en acier damassé (plusieurs couches d'acier superposées, avec un motif ondulé) et des lames en céramique, très dures et légères mais plus fragiles en cas de chute. Pour un premier équipement de couple, un bon inox reste le choix le plus serein.</p>
+<h3>Forgé ou découpé ?</h3>
+<p>Un couteau <strong>forgé</strong> est façonné à partir d'un bloc d'acier chauffé. Il est souvent plus lourd, avec une mitre (le renflement entre la lame et le manche) qui protège les doigts et équilibre le couteau. Un couteau <strong>découpé</strong> est taillé dans une plaque d'acier : il est plus léger et souvent moins cher. Les deux peuvent être excellents, c'est surtout une question de préférence en main.</p>
+<h2>Le manche : confort et sécurité</h2>
+<p>Un bon couteau doit tenir dans la main sans glisser, même mouillée. Les manches en matière synthétique sont faciles d'entretien. Le bois est chaleureux mais demande un peu plus de soin. Le manche monobloc en inox est élégant, mais certaines personnes le trouvent glissant. Si possible, prenez le couteau en main en magasin avant de l'ajouter à votre liste : le poids et l'équilibre sont très personnels.</p>
+<h2>L'entretien : ce qui fait durer vos couteaux</h2>
+<ul>
+<li><strong>Lavez-les à la main</strong> : les fabricants de couteaux recommandent généralement d'éviter le lave-vaisselle. Les chocs avec la vaisselle et les détergents abîment le tranchant et parfois le manche, même quand le couteau est dit compatible.</li>
+<li><strong>Rangez-les à part</strong> : un <a href="{AMZ:bloc couteaux vide universel}" rel="sponsored nofollow noopener" target="_blank">bloc à couteaux</a> ou une <a href="{AMZ:barre aimantée couteaux}" rel="sponsored nofollow noopener" target="_blank">barre aimantée</a> évite que les lames s'entrechoquent dans un tiroir.</li>
+<li><strong>Coupez sur une bonne planche</strong> : une <a href="{AMZ:planche à découper bois}" rel="sponsored nofollow noopener" target="_blank">planche en bois</a> ou en plastique ménage le tranchant. Le verre, le marbre ou l'assiette l'abîment très vite.</li>
+<li><strong>Entretenez le fil</strong> : un <a href="{AMZ:fusil à aiguiser}" rel="sponsored nofollow noopener" target="_blank">fusil</a> redresse le tranchant entre deux utilisations, et une <a href="{AMZ:pierre à aiguiser}" rel="sponsored nofollow noopener" target="_blank">pierre à aiguiser</a> le refait de temps en temps.</li>
+</ul>
+<h2>Coffret ou couteaux à l'unité ?</h2>
+<p>Les coffrets et blocs garnis sont pratiques et font de beaux cadeaux communs. Vérifiez simplement leur contenu : certains comptent beaucoup de pièces peu utiles (ciseaux, couteaux à steak en série). À budget égal, trois couteaux de bonne qualité valent souvent mieux qu'un grand bloc. Sur une liste de mariage, mettre les couteaux à l'unité a un autre avantage : chaque invité peut choisir selon son budget.</p>
+<h2>Et la superstition du couteau offert ?</h2>
+<p>Selon une superstition répandue en France, offrir un couteau « couperait » l'amitié ou l'amour. La parade traditionnelle est simple : celui qui reçoit le couteau donne en échange une petite pièce de monnaie à celui qui l'offre, comme s'il l'achetait. Sur une liste de mariage, c'est vous qui choisissez les couteaux : vous pouvez en sourire, ou glisser une pièce dans la carte de remerciement pour le clin d'œil.</p>
+<h2>Dans votre liste de mariage</h2>
+<p>Ajoutez le trio de base, puis un accessoire d'entretien et une belle planche. Pour compléter la cuisine, lisez nos guides pour <a href="{R}comment-choisir-batterie-de-casseroles/">choisir une batterie de casseroles</a> et <a href="{R}comment-choisir-cocotte-en-fonte/">choisir une cocotte en fonte</a>, puis passez en revue notre <a href="{R}checklist/">checklist par pièce</a>. Pour d'autres idées, voyez aussi <a href="{R}que-mettre-dans-une-liste-de-mariage/">que mettre dans une liste de mariage</a>.</p>
+""",
+  faq=[("Quels couteaux de cuisine sont vraiment indispensables ?", "Un couteau de chef, un couteau d'office et un couteau à pain suffisent pour la grande majorité des préparations du quotidien."),
+       ("Peut-on mettre ses couteaux au lave-vaisselle ?", "Les fabricants recommandent en général de les laver à la main et de les essuyer aussitôt, pour préserver le tranchant et le manche."),
+       ("Peut-on mettre des couteaux sur une liste de mariage ?", "Oui. Selon une superstition, offrir un couteau couperait l'amitié, mais la tradition veut qu'on rende une petite pièce à celui qui l'offre pour conjurer le sort.")],
+  short="Choisir ses couteaux de cuisine")
+
+AUTO_META['meilleur-service-de-table/'] = ('🏆', 'miel')
+g("meilleur-service-de-table/",
+  "Meilleur service de table 2026 : top 7 pour votre liste",
+  "Meilleur service de table 2026 : notre top 7",
+  "Table Passion, Luminarc, Arcopal, Villeroy & Boch, Médard de Noblat : 7 services de table 18 pièces comparés (matière, diamètres, lave-vaisselle) pour votre liste de mariage.",
+  """
+<p>Le service de table est l'un des grands classiques de la liste de mariage, et pour une bonne raison : c'est souvent le moment où l'on remplace les assiettes dépareillées des années d'études par une vaisselle assortie, pensée pour recevoir. Grès coloré, porcelaine blanche ou verre opale résistant, les styles et les budgets sont très variés. Nous avons retenu sept services complets de 18 pièces pour 6 personnes, avec à chaque fois des assiettes plates, creuses et à dessert. Nous avons préféré une sélection plus courte mais vérifiée plutôt qu'un top 10 complété avec des fiches incomplètes.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+
+<h2>Le tableau récapitulatif</h2>
+<p>Les diamètres et les compatibilités sont ceux indiqués sur les fiches consultées. « Non précisé » signifie que l'information ne figurait pas sur la fiche.</p>
+<table><thead><tr><th>Modèle</th><th>Matière</th><th>Composition</th><th>Plate / creuse / dessert</th><th>Lave-vaisselle</th><th>Micro-ondes</th><th>Fabrication</th></tr></thead><tbody>
+<tr><td>vivo Villeroy & Boch Group Basic White 18 pièces</td><td>Porcelaine</td><td>18 pièces, détail non précisé</td><td>Non précisé</td><td>Oui</td><td>Oui</td><td>Allemagne</td></tr>
+<tr><td>Médard de Noblat Muse 18 pièces</td><td>Grès ivoire</td><td>6 + 6 + 6</td><td>27,5 / 21 / 21 cm</td><td>Oui</td><td>Oui</td><td>Non précisé</td></tr>
+<tr><td>Table Passion Black Sand 18 pièces</td><td>Grès noir mat</td><td>6 + 6 + 6</td><td>27 / 22 / 21 cm</td><td>Oui</td><td>Oui</td><td>Portugal</td></tr>
+<tr><td>Table Passion Onyx Terracotta 18 pièces</td><td>Grès terracotta</td><td>6 + 6 + 6</td><td>27 / 22 / 21 cm</td><td>Oui</td><td>Oui</td><td>Non précisé</td></tr>
+<tr><td>Table Passion Vésuvio Blanc 18 pièces</td><td>Grès blanc</td><td>6 + 6 + 6</td><td>27 / 19 / 20,5 cm</td><td>Oui</td><td>Oui</td><td>Non précisé</td></tr>
+<tr><td>Luminarc Diwali 18 pièces</td><td>Verre opale</td><td>6 + 6 + 6</td><td>25 / 20 / 19 cm</td><td>Oui</td><td>Oui</td><td>France (version marbre gris)</td></tr>
+<tr><td>Arcopal Zelie 18 pièces</td><td>Opale blanche trempée</td><td>6 + 6 + 6</td><td>25 / 20 / 18 cm</td><td>Oui</td><td>Oui</td><td>Non précisé</td></tr>
+</tbody></table>
+
+<h2>1. vivo Villeroy & Boch Group Basic White 18 pièces : idéal pour la porcelaine blanche intemporelle</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut une vaisselle blanche classique, signée par un grand nom de l'art de la table, et facile à compléter au fil des années.</p>
+<ul>
+<li><strong>Points forts</strong> : vivo est une ligne du groupe Villeroy & Boch. Ce service est présenté comme un ensemble de base de 18 pièces en porcelaine haut de gamme, fabriqué en Allemagne selon la fiche consultée. Il passe au lave-vaisselle et au micro-ondes. Le blanc uni se marie avec toutes les nappes et toutes les déco.</li>
+<li><strong>Données utiles</strong> : coloris blanc. Diamètres des assiettes : non précisé.</li>
+<li><strong>Limites</strong> : la fiche que nous avons lue ne détaille pas le nombre d'assiettes de chaque type. Vérifiez la composition exacte sur la page du vendeur avant de l'ajouter à votre liste, surtout si vous tenez aux assiettes creuses.</li>
+</ul>
+<p><a href="{AMZ:vivo Villeroy Boch Basic White 18 pièces}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Médard de Noblat Muse 18 pièces : idéal pour une table douce et chaleureuse</h2>
+<p><strong>Pour qui ?</strong> Ceux qui aiment les teintes naturelles et les grandes assiettes généreuses pour les plats du quotidien comme pour les repas de fête.</p>
+<ul>
+<li><strong>Points forts</strong> : un service en grès coloris ivoire, de 6 assiettes plates, 6 assiettes creuses (présentées comme assiettes à salade et à pâtes) et 6 assiettes à dessert. L'assiette plate de 27,5 cm est la plus grande de notre sélection. Compatible lave-vaisselle et micro-ondes.</li>
+<li><strong>Données utiles</strong> : plates 27,5 cm, creuses 21 cm, dessert 21 cm.</li>
+<li><strong>Limites</strong> : assiettes creuses et assiettes à dessert ont le même diamètre selon la fiche, il y a donc moins de variété de formats. Pays de fabrication non précisé sur la page consultée.</li>
+</ul>
+<p><a href="{AMZ:Médard de Noblat Muse service 18 pièces}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Table Passion Black Sand 18 pièces : idéal pour une table moderne et graphique</h2>
+<p><strong>Pour qui ?</strong> Le couple au style contemporain qui veut faire ressortir les couleurs des plats sur une vaisselle sombre.</p>
+<ul>
+<li><strong>Points forts</strong> : grès noir à la finition mate texturée, fabriqué au Portugal selon la fiche. 6 assiettes plates, 6 creuses et 6 à dessert, compatibles lave-vaisselle et micro-ondes. Les assiettes creuses de 22 cm sont parmi les plus grandes de la sélection, pratiques pour les pâtes et les plats en sauce.</li>
+<li><strong>Données utiles</strong> : plates 27 cm, creuses 22 cm, dessert 21 cm.</li>
+<li><strong>Limites</strong> : une vaisselle sombre et mate peut montrer davantage les traces de couverts selon l'usage, un point à garder en tête. Passage au four non précisé.</li>
+</ul>
+<p><a href="{AMZ:Table Passion service assiettes 18 pièces Black Sand}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Table Passion Onyx Terracotta 18 pièces : idéal pour une ambiance méditerranéenne</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent de la couleur sur la table et une vaisselle qui rappelle les vacances au soleil.</p>
+<ul>
+<li><strong>Points forts</strong> : grès coloris terracotta, avec la même composition et les mêmes formats que la Black Sand : 6 plates, 6 creuses, 6 dessert. Compatible lave-vaisselle et micro-ondes.</li>
+<li><strong>Données utiles</strong> : plates 27 cm, creuses 22 cm, dessert 21 cm.</li>
+<li><strong>Limites</strong> : une couleur aussi marquée se coordonne moins facilement avec une vaisselle existante qu'un blanc. Pays de fabrication et passage au four non précisés sur la fiche consultée.</li>
+</ul>
+<p><a href="{AMZ:Table Passion service assiettes Onyx Terracotta}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Table Passion Vésuvio Blanc 18 pièces : idéal pour le grès blanc à petit budget</h2>
+<p><strong>Pour qui ?</strong> Le couple qui hésite entre porcelaine et grès, et veut un blanc simple avec l'aspect plus brut du grès.</p>
+<ul>
+<li><strong>Points forts</strong> : service en grès blanc de 18 pièces, avec 6 assiettes plates, 6 creuses et 6 à dessert. Compatible lave-vaisselle et micro-ondes. Le blanc permet de compléter facilement avec des plats de service d'autres marques.</li>
+<li><strong>Données utiles</strong> : plates 27 cm, creuses 19 cm, dessert 20,5 cm (tailles indiquées par la fiche).</li>
+<li><strong>Limites</strong> : les assiettes creuses sont les plus petites de notre sélection, à prendre en compte si vous servez souvent des pâtes ou des soupes. Pays de fabrication non précisé.</li>
+</ul>
+<p><a href="{AMZ:Table Passion service assiettes Vésuvio blanc 18 pièces}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Luminarc Diwali 18 pièces : idéal pour le quotidien sans souci</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent une vaisselle pratique pour tous les jours, légère et facile à vivre, dans un coloris au choix.</p>
+<ul>
+<li><strong>Points forts</strong> : Diwali est une gamme en verre opale de Luminarc, déclinée en plusieurs coloris (vert Paradise Green, marbre gris, blanc). La version de 18 pièces comprend 6 assiettes plates, 6 creuses et 6 à dessert. La fiche de la version vert indique la compatibilité lave-vaisselle et micro-ondes, et celle de la version marbre gris indique une fabrication en France.</li>
+<li><strong>Données utiles</strong> : plates 25 cm, creuses 20 cm, dessert 19 cm.</li>
+<li><strong>Limites</strong> : les assiettes sont un peu plus petites que celles des services en grès de la sélection. Selon le coloris, les informations ne sont pas toutes reprises sur chaque fiche, et sur Amazon certaines versions existent en 12 ou 19 pièces : vérifiez la composition de l'article choisi.</li>
+</ul>
+<p><a href="{AMZ:Luminarc Diwali service 18 pièces}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Arcopal Zelie 18 pièces : idéal pour un premier service économique</h2>
+<p><strong>Pour qui ?</strong> Les invités qui veulent offrir un service complet avec un budget serré, ou le couple qui cherche une vaisselle de tous les jours en plus d'un service plus habillé.</p>
+<ul>
+<li><strong>Points forts</strong> : Arcopal est une marque du groupe Luminarc. La gamme Zelie est en opale blanche trempée, compatible lave-vaisselle et micro-ondes selon le fabricant. Le service comprend 6 assiettes plates, 6 creuses et 6 à dessert.</li>
+<li><strong>Données utiles</strong> : plates 25 cm, creuses 20 cm, dessert 18 cm, coloris blanc.</li>
+<li><strong>Limites</strong> : un style simple, plus « vaisselle du quotidien » que « service de fête ». Assiettes à dessert les plus petites de la sélection. Pays de fabrication non précisé sur les fiches consultées.</li>
+</ul>
+<p><a href="{AMZ:Arcopal Zelie service 18 pièces}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir son service de table</h2>
+<h3>Porcelaine, grès ou verre opale ?</h3>
+<ul>
+<li><strong>Porcelaine</strong> : fine, blanche, élégante. C'est le choix classique pour un service qui sert aussi bien au quotidien que pour les grandes occasions.</li>
+<li><strong>Grès</strong> : plus épais, avec un aspect plus artisanal et souvent des émaux colorés ou mats. Il donne une table chaleureuse et tendance. Il est en général plus lourd.</li>
+<li><strong>Verre opale</strong> : léger, souvent trempé pour mieux résister, et économique. C'est la vaisselle pratique par excellence pour tous les jours.</li>
+</ul>
+<h3>Combien de couverts ?</h3>
+<p>Les services de 18 pièces sont prévus pour 6 personnes. Si vous recevez souvent la famille, prévoyez plutôt 8 à 12 couverts : vous pouvez ajouter deux services identiques à votre liste, ou compléter avec des assiettes vendues à l'unité ou par lots. Avant de valider, vérifiez que la gamme sera facile à retrouver dans quelques années pour remplacer une assiette cassée.</p>
+<h3>Les diamètres qui comptent</h3>
+<p>Une assiette plate de 25 à 27 cm est le format courant. Au-delà, vérifiez que vos placards et votre lave-vaisselle peuvent accueillir les grandes assiettes. Pour les assiettes creuses, un diamètre plus grand est plus confortable pour les pâtes et les plats en sauce.</p>
+<h3>Lave-vaisselle et micro-ondes</h3>
+<p>Tous les services de cette sélection sont annoncés compatibles lave-vaisselle et micro-ondes. En revanche, aucune des fiches consultées ne précise clairement le passage au four : ne l'utilisez pas pour cuire ou gratiner sans confirmation du fabricant.</p>
+<h3>Pensez aux pièces qui vont avec</h3>
+<p>Un service de table complet ne s'arrête pas aux assiettes. Ajoutez à votre liste des <a href="{AMZ:plat de service porcelaine}" rel="sponsored nofollow noopener" target="_blank">plats de service</a>, un <a href="{AMZ:saladier porcelaine}" rel="sponsored nofollow noopener" target="_blank">saladier</a> et des <a href="{AMZ:bols porcelaine lot de 6}" rel="sponsored nofollow noopener" target="_blank">bols</a> assortis : ce sont de bons cadeaux pour les invités qui ont un budget plus modeste.</p>
+
+<h2>Dans votre liste de mariage</h2>
+<p>Le service de table se prête bien à un cadeau à plusieurs. Vous pouvez aussi mettre plusieurs exemplaires du même service pour arriver à 12 couverts. Pour ne rien oublier dans la cuisine et la salle à manger, utilisez notre <a href="{R}checklist/">checklist par pièce</a>, et complétez avec notre guide <a href="{R}comment-choisir-batterie-de-casseroles/">pour choisir une batterie de casseroles</a> ou notre <a href="{R}meilleure-cocotte-en-fonte/">top des cocottes en fonte</a>.</p>
+""",
+  faq=[("Combien de pièces dans un service de table pour 6 personnes ?", "Un service complet classique compte 18 pièces : 6 assiettes plates, 6 assiettes creuses et 6 assiettes à dessert. Certains ajoutent un saladier ou des bols."),
+       ("Porcelaine ou grès pour un service de table ?", "La porcelaine est fine et élégante, le grès plus épais et plus chaleureux, souvent coloré. Les deux conviennent à un usage quotidien si le fabricant les annonce compatibles lave-vaisselle."),
+       ("Peut-on mettre un service de table sur une liste de mariage ?", "Oui, c'est l'un des cadeaux les plus classiques. Vous pouvez demander deux services identiques pour recevoir 12 personnes, et ajouter plats et saladiers pour les petits budgets.")],
+  short="Top 7 services de table")
