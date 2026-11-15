@@ -107,7 +107,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=18">
+<link rel="stylesheet" href="{R}assets/style.css?v=19">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -128,7 +128,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifiez-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
-<script src="{R}assets/account.js?v=6" defer></script>
+<script src="{R}assets/account.js?v=7" defer></script>
 </body>
 </html>
 '''
@@ -369,7 +369,7 @@ def build():
 <label class="check"><input type="checkbox" id="f-news"> Recevoir la newsletter (conseils et rappels)</label>
 <button class="btn" type="submit">Enregistrer</button>
 </form>
-<div id="acc-sharebox" hidden><p>Envoyez ce lien à vos invités : ils voient les cadeaux que vous avez cochés, avec les liens pour les offrir.</p>
+<div id="acc-sharebox" hidden><p>Envoyez ce lien à vos invités : ils voient les cadeaux que vous avez cochés, peuvent réserver ce qu'ils offrent (« Je l'offre ») et l'acheter en un clic.</p><p class="small">Conseil : partagez un seul lien, celui-ci ou celui de votre liste Amazon, pas les deux. Sinon, un même cadeau risque d'être offert deux fois.</p>
 <div class="sharerow"><input id="acc-share" readonly><button class="btn ghost sm" type="button" id="acc-copy">Copier le lien</button></div></div>
 <div id="acc-other" class="save-hint" hidden></div>
 <h2>Mon compte</h2>

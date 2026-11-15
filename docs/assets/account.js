@@ -154,17 +154,24 @@
     sb.rpc('lmm_public_list', { p_slug: slug }).then(function (r) {
       var row = r.data && r.data[0];
       if (!row) { box.innerHTML = '<p>Cette liste n\'existe pas ou n\'est plus partagée.</p>'; return; }
-      var D = window.LDN_DATA || [], st = row.items || {}, h = '';
+      var D = window.LDN_DATA || [], st = row.items || {}, h = '<p class="res-help">Vous voulez offrir un article ? Cliquez sur « Je l\'offre » pour le réserver : les autres invités verront qu\'il est déjà pris, puis achetez-le avec « Voir ».</p>';
+      var RES = row.reserved || {}, MKEY = 'lmm-res-' + slug, MINE = {};
+      try { MINE = JSON.parse(localStorage.getItem(MKEY) || '{}') || {}; } catch (e) {}
+      Object.keys(MINE).forEach(function (k) { if (!RES[k]) delete MINE[k]; });
       var title = row.names ? 'La liste de mariage de ' + esc(row.names) : 'Une liste de mariage';
       $('#pub-title').textContent = title.replace(/&amp;/g, '&');
       D.forEach(function (c, ci) {
-        var sel = []; c.i.forEach(function (it, ii) { var v = st[ci + ':' + ii]; if (v) sel.push({ it: it, v: v }); });
+        var sel = []; c.i.forEach(function (it, ii) { var v = st[ci + ':' + ii]; if (v) sel.push({ it: it, v: v, k: ci + ':' + ii }); });
         if (!sel.length) return;
         h += '<section class="cat t-' + ['lilas','ciel','peche','menthe','miel','lilas','ciel'][ci % 7] + '"><h2><span class="cat-e" aria-hidden="true">' + c.e + '</span><span class="cat-n">' + c.c + '</span></h2>';
         sel.forEach(function (o) {
-          var it = o.it, v = o.v, pick = v && typeof v === 'object' && v.a;
+          var it = o.it, v = o.v, k = o.k, pick = v && typeof v === 'object' && v.a, res = RES[k], me = MINE[k];
           var href = pick ? 'https://www.amazon.fr/dp/' + encodeURIComponent(v.a) + '?tag=' + (window.LDN_TAG || '') : it.u;
-          h += '<div class="it"><div class="tx"><label>' + it.n + '</label><p>' + (pick ? '⭐ ' + esc(v.n || 'Modèle choisi') : it.t) + '</p></div><a class="go" href="' + href + '" target="_blank" rel="sponsored nofollow noopener">' + (pick ? 'Offrir' : 'Voir') + '</a></div>';
+          var go = '<a class="go" href="' + href + '" target="_blank" rel="sponsored nofollow noopener">Voir</a>';
+          var acts = res ? (me ? go + '<button class="res-undo" type="button">Annuler</button>' : '<span class="res-tag">🎁 Déjà offert' + (res.n ? ' par ' + esc(res.n) : '') + '</span>')
+                         : go + '<button class="res-btn" type="button">Je l\'offre</button>';
+          h += '<div class="it' + (res && !me ? ' reserved' : '') + '" data-k="' + k + '"><div class="tx"><label>' + it.n + '</label><p>' + (pick ? '⭐ ' + esc(v.n || 'Modèle choisi') : it.t) + '</p>' +
+            (res && me ? '<p class="res-mine">🎁 Déjà offert' + (res.n ? ' par ' + esc(res.n) : '') + '</p>' : '') + '</div><div class="acts">' + acts + '</div></div>';
         });
         h += '</section>';
       });
@@ -175,6 +182,28 @@
         h += '</section>';
       }
       box.innerHTML = h || '<p>Les mariés n\'ont pas encore choisi d\'articles.</p>';
+      box.onclick = function (e) {
+        var r = e.target.closest('.it[data-k]'); if (!r) return;
+        var k = r.getAttribute('data-k');
+        if (e.target.closest('.res-undo')) {
+          sb.rpc('lmm_unreserve', { p_slug: slug, p_key: k, p_tok: MINE[k] }).then(function () { delete MINE[k]; try { localStorage.setItem(MKEY, JSON.stringify(MINE)); } catch (x) {} publicList(); });
+          return;
+        }
+        if (!e.target.closest('.res-btn')) return;
+        if (r.querySelector('.resf')) return;
+        var f = document.createElement('form'); f.className = 'pickf resf';
+        f.innerHTML = '<input type="text" maxlength="40" placeholder="Votre prénom (facultatif)"><button class="btn sm" type="submit">Confirmer</button><p class="small"></p>';
+        r.appendChild(f); f.querySelector('input').focus();
+        f.addEventListener('submit', function (ev) {
+          ev.preventDefault();
+          sb.rpc('lmm_reserve', { p_slug: slug, p_key: k, p_name: f.querySelector('input').value }).then(function (x) {
+            if (!x.data) { f.querySelector('p').textContent = 'Quelqu\'un vient de le réserver juste avant vous. Choisissez un autre article.'; setTimeout(publicList, 1500); return; }
+            MINE[k] = x.data; try { localStorage.setItem(MKEY, JSON.stringify(MINE)); } catch (y) {}
+            publicList();
+            setTimeout(function () { var m = document.querySelector('.it[data-k="' + k + '"] .tx'); if (m) { var p = document.createElement('p'); p.className = 'res-ok'; p.textContent = 'C\'est noté, merci ! Il ne reste plus qu\'à l\'acheter avec le bouton « Voir ».'; m.appendChild(p); } }, 400);
+          });
+        });
+      };
     });
   }
   function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }

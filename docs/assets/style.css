@@ -338,3 +338,11 @@ h3{font-size:19px;font-weight:600}
 .it[data-k]:not(.done) .pick{display:none}
 /* Checklist simplifiée : sans choix de modèle ni produits ajoutés */
 .pick,.picked,.pickf,#mine,.ck-tip{display:none!important}
+/* Réservations sur la page de partage */
+#pub .pick,#pub .pickf{display:flex!important}
+#pub .res-help{background:var(--miel-c);border-radius:var(--r-m);padding:12px 16px;font-size:15px;margin:0 0 14px}
+.res-btn{border:0;background:none;color:var(--framboise-f);font:700 14px var(--texte);text-decoration:underline;cursor:pointer;padding:2px 0}
+.res-undo{border:0;background:none;color:var(--doux);font:13px var(--texte);text-decoration:underline;cursor:pointer;padding:2px 0}
+.res-tag{font:700 14px var(--texte);color:var(--doux);white-space:nowrap}
+.it.reserved{opacity:.6}.it.reserved label{text-decoration:line-through}
+.res-mine,.res-ok{font-size:14px;font-weight:600;color:var(--framboise-f)!important}
