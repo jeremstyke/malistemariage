@@ -6,7 +6,7 @@
 - [x] comment-choisir-batterie-de-casseroles/ | comment choisir une batterie de casseroles | inox, antiadhésif, induction, poignées amovibles
 - [x] comment-choisir-couteaux-de-cuisine/ | comment choisir ses couteaux de cuisine | les 3 indispensables, acier, entretien
 - [x] comment-choisir-aspirateur-balai/ | comment choisir un aspirateur balai sans fil | autonomie, puissance, accessoires, logement
-- [ ] comment-choisir-machine-a-cafe-grain/ | comment choisir une machine à café à grain | broyeur, lait, entretien, budget
+- [x] comment-choisir-machine-a-cafe-grain/ | comment choisir une machine à café à grain | broyeur, lait, entretien, budget
 - [ ] comment-choisir-valise-cabine/ | comment choisir une valise cabine | dimensions compagnies, rigide ou souple, roues
 - [ ] comment-choisir-couette/ | comment choisir sa couette | grammage, saisons, taille, naturelle ou synthétique
 - [ ] comment-choisir-robot-aspirateur/ | comment choisir un robot aspirateur | navigation, serpillière, base, logement

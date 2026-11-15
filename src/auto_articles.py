@@ -879,3 +879,187 @@ g("meilleur-service-de-table/",
        ("Porcelaine ou grès pour un service de table ?", "La porcelaine est fine et élégante, le grès plus épais et plus chaleureux, souvent coloré. Les deux conviennent à un usage quotidien si le fabricant les annonce compatibles lave-vaisselle."),
        ("Peut-on mettre un service de table sur une liste de mariage ?", "Oui, c'est l'un des cadeaux les plus classiques. Vous pouvez demander deux services identiques pour recevoir 12 personnes, et ajouter plats et saladiers pour les petits budgets.")],
   short="Top 7 services de table")
+
+AUTO_META['comment-choisir-machine-a-cafe-grain/'] = ('☕', 'miel')
+g("comment-choisir-machine-a-cafe-grain/",
+  "Comment choisir une machine à café à grain : le guide simple",
+  "Comment choisir une machine à café à grain",
+  "Broyeur, système lait, entretien, taille et budget : les critères pour choisir une machine à café à grain adaptée à votre couple et à votre cuisine.",
+  """
+<p>La machine à café à grain fait partie des cadeaux de mariage que l'on utilise tous les jours, souvent pendant de longues années. Elle moud les grains juste avant chaque tasse, ce qui donne un café plus aromatique qu'avec du café déjà moulu, et sans capsules à racheter. Mais entre les modèles simples à boutons et les machines à écran tactile avec une vingtaine de recettes, il est facile de se perdre. Voici les critères qui comptent vraiment.</p>
+{CTA}
+<h2>Commencez par vos habitudes</h2>
+<p>Avant de regarder les fiches techniques, posez-vous deux questions simples. Que buvez-vous le matin : un expresso serré, un café allongé, un cappuccino ? Et combien de tasses par jour, à deux ou quand vous recevez ? Les réponses suffisent souvent à éliminer la moitié des modèles. Beaucoup de couples n'utilisent que deux ou trois recettes au quotidien : inutile de payer pour vingt boissons si vous ne buvez que du café noir.</p>
+<table><thead><tr><th>Votre profil</th><th>Type de machine</th><th>Ce qu'il faut regarder</th></tr></thead><tbody>
+<tr><td>Café noir uniquement</td><td>Machine simple, sans système lait</td><td>Qualité du broyeur, encombrement</td></tr>
+<tr><td>Un cappuccino de temps en temps</td><td>Machine avec buse vapeur</td><td>Facilité de nettoyage de la buse</td></tr>
+<tr><td>Boissons lactées tous les jours</td><td>Carafe ou système lait automatique</td><td>Nettoyage du circuit lait, nombre de recettes</td></tr>
+<tr><td>Deux goûts différents dans le couple</td><td>Machine avec profils utilisateurs</td><td>Profils mémorisés, éventuellement deux bacs à grains</td></tr>
+<tr><td>Passionnés du geste barista</td><td>Machine à porte-filtre avec broyeur intégré</td><td>Réglages de mouture, buse vapeur</td></tr>
+</tbody></table>
+<h2>Le broyeur : céramique ou acier</h2>
+<p>Le broyeur est le cœur de la machine. On trouve deux grandes familles. Les meules en <strong>céramique</strong> chauffent peu et sont plutôt silencieuses, mais un petit caillou mélangé aux grains peut les casser. Les meules en <strong>acier</strong> sont très robustes et souvent présentes sur des modèles plus accessibles. Dans une tasse, la différence de goût reste faible : c'est surtout le <strong>réglage de la finesse de mouture</strong> qui fait la qualité du café.</p>
+<p>Plus le nombre de crans de réglage est élevé, plus vous pourrez adapter la mouture à vos grains : fine pour un expresso, plus grosse pour un café allongé. Un conseil des fabricants à retenir : on tourne la molette de réglage uniquement quand le broyeur fonctionne, pour ne pas bloquer un grain.</p>
+<h2>Le lait : buse vapeur ou système automatique</h2>
+<ul>
+<li><strong>Sans système lait</strong> : la solution la plus simple et la plus compacte, idéale pour les buveurs de café noir.</li>
+<li><strong>La buse vapeur</strong> : vous faites mousser le lait vous-même dans un pichet. Cela demande un petit coup de main, mais vous contrôlez la texture de la mousse.</li>
+<li><strong>La carafe ou le système automatique</strong> : la machine aspire le lait, le chauffe et prépare le cappuccino d'une seule touche. Très confortable, à condition de rincer le circuit après chaque usage.</li>
+</ul>
+<p>Si vous buvez du lait tous les matins, une <a href="{AMZ:machine à café grain carafe lait}" rel="sponsored nofollow noopener" target="_blank">machine avec carafe à lait</a> vous fera gagner du temps. Pour un usage plus occasionnel, une <a href="{AMZ:machine à café grain buse vapeur}" rel="sponsored nofollow noopener" target="_blank">machine avec buse vapeur</a> suffit largement.</p>
+<h2>Les capacités et l'encombrement</h2>
+<p>Regardez trois chiffres sur la fiche : le <strong>réservoir d'eau</strong> (souvent entre 1 et 2,5 litres), le <strong>bac à grains</strong> (souvent entre 125 et 300 grammes) et les <strong>dimensions</strong>. Un grand réservoir évite de le remplir tous les jours, mais la machine prend plus de place. Mesurez la hauteur disponible sous vos meubles hauts et vérifiez que vous pourrez accéder au réservoir sans déplacer la machine. Si votre cuisine est petite, il existe des <a href="{AMZ:machine à café grain compacte}" rel="sponsored nofollow noopener" target="_blank">modèles compacts</a> d'une vingtaine de centimètres de large.</p>
+<p>La pression affichée (souvent 15 ou 19 bar) est un chiffre de pompe. Elle ne suffit pas à juger la qualité du café, ne la prenez pas comme critère principal.</p>
+<h2>Le décaféiné et le café moulu</h2>
+<p>Le bac à grains n'accepte que des grains : y verser du café moulu peut abîmer le broyeur. Si l'un de vous boit du déca le soir, cherchez un modèle avec une <strong>trappe pour café moulu</strong>, qui contourne le broyeur. Toutes les machines n'en ont pas : vérifiez sur la fiche. Certains modèles proposent même deux bacs à grains.</p>
+<h2>L'entretien : le critère que l'on oublie</h2>
+<p>Une machine à grain bien entretenue dure longtemps. Mal entretenue, elle tombe en panne, et un défaut d'entretien peut faire perdre la garantie. Avant de choisir, regardez ces points :</p>
+<ul>
+<li><strong>Le groupe café</strong> : sur certaines machines, il est amovible et se rince simplement sous l'eau tiède chaque semaine. Sur d'autres, il est fixe et se nettoie avec des pastilles spéciales lors d'un programme automatique.</li>
+<li><strong>Le détartrage</strong> : à faire régulièrement, de tous les mois à tous les six mois selon la dureté de votre eau et le nombre de tasses. Utilisez le <a href="{AMZ:détartrant machine à café grain}" rel="sponsored nofollow noopener" target="_blank">détartrant préconisé</a> par la marque, jamais de vinaigre blanc.</li>
+<li><strong>Le filtre à eau</strong> : beaucoup de machines acceptent une cartouche filtrante qui limite le calcaire. Elle se change tous les deux à quatre mois environ, un coût à prévoir.</li>
+<li><strong>Le circuit lait</strong> : à rincer après chaque utilisation, avec un nettoyage plus poussé chaque semaine.</li>
+</ul>
+<p>Bonne idée pour la liste : ajoutez quelques consommables d'entretien à côté de la machine. Ce sont de petits cadeaux utiles pour les invités qui ont un budget plus modeste.</p>
+<h2>Quel budget prévoir ?</h2>
+<p>Les prix vont du simple au triple, voire plus, selon l'écran, le système lait et le nombre de recettes. Une machine sans lait ou avec buse vapeur reste la plus abordable. Les modèles avec carafe, écran tactile ou application sont plus chers. C'est justement un cadeau idéal pour une participation à plusieurs : vos proches peuvent s'associer pour un modèle que vous n'auriez pas acheté seuls. N'oubliez pas les accessoires qui vont avec : <a href="{AMZ:tasses à expresso}" rel="sponsored nofollow noopener" target="_blank">tasses à expresso</a>, <a href="{AMZ:tasses cappuccino}" rel="sponsored nofollow noopener" target="_blank">tasses à cappuccino</a> ou un pichet à lait.</p>
+<h2>Dans votre liste de mariage</h2>
+<p>Pour comparer des modèles précis, consultez notre <a href="{R}meilleure-machine-a-cafe-a-grain/">top 10 des machines à café à grain</a>, classé par usage. Pour équiper le reste de la cuisine, lisez nos guides pour <a href="{R}comment-choisir-batterie-de-casseroles/">choisir une batterie de casseroles</a> et <a href="{R}comment-choisir-couteaux-de-cuisine/">choisir ses couteaux de cuisine</a>, puis passez en revue notre <a href="{R}checklist/">checklist par pièce</a> pour ne rien oublier.</p>
+""",
+  faq=[("Broyeur céramique ou acier : lequel choisir ?", "Les deux donnent un bon café. La céramique chauffe peu et fait moins de bruit mais craint les petits cailloux, l'acier est très robuste. Le nombre de réglages de mouture compte davantage que la matière."),
+       ("Peut-on mettre du café moulu dans une machine à grain ?", "Pas dans le bac à grains, cela peut abîmer le broyeur. Certaines machines ont une trappe dédiée au café moulu, pratique pour le déca : vérifiez sa présence sur la fiche du modèle."),
+       ("Tous les combien faut-il détartrer une machine à café à grain ?", "Selon la dureté de l'eau et le nombre de tasses, de tous les mois à tous les six mois. La plupart des machines signalent le moment par un voyant, mais mieux vaut ne pas attendre trop longtemps.")],
+  short="Choisir une machine à café à grain")
+
+AUTO_META['meilleure-batterie-de-cuisine/'] = ('🏆', 'peche')
+g("meilleure-batterie-de-cuisine/",
+  "Meilleure batterie de cuisine 2026 : notre top 10",
+  "Meilleure batterie de cuisine 2026 : notre top 10",
+  "Tefal Ingenio, Cristel, de Buyer, Le Creuset, WMF, Zwilling, Lagostina, Beka : 10 batteries de cuisine comparées (matière, induction, four, poignée amovible) pour votre liste de mariage.",
+  """
+<p>La batterie de cuisine est un pilier de la liste de mariage : ce sont les casseroles et les poêles que vous sortirez tous les jours, souvent pendant de longues années. Inox à vie, antiadhésif pratique, poignée amovible pour gagner de la place ou set complet avec couvercles, les approches sont très différentes. Nous avons retenu dix sets réels, vendus en France, avec des compositions et des budgets variés, pour vous aider à trouver celui qui correspond à votre façon de cuisiner.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+
+<h2>Le tableau récapitulatif</h2>
+<p>Les données sont celles des fiches consultées. « Non précisé » signifie que l'information ne figurait pas sur la fiche.</p>
+<table><thead><tr><th>Modèle</th><th>Composition</th><th>Matière</th><th>Induction</th><th>Four</th><th>Lave-vaisselle</th><th>Poignée amovible</th><th>Fabrication</th></tr></thead><tbody>
+<tr><td>Tefal Ingenio Emotion On 22 pièces</td><td>4 poêles, 3 casseroles, wok, sauteuse, 3 couvercles, accessoires</td><td>Inox, antiadhésif sur poêles, wok et sauteuse</td><td>Oui</td><td>Oui (hors couvercles et poignées)</td><td>Oui (hors poignées)</td><td>Oui (2)</td><td>Non précisé</td></tr>
+<tr><td>Cristel Mutine amovible 4 casseroles</td><td>4 casseroles 14 à 20 cm + 2 poignées</td><td>Inox 18/10, fond 3 couches</td><td>Oui</td><td>Jusqu'à 300 °C</td><td>Oui</td><td>Oui</td><td>France</td></tr>
+<tr><td>Cristel Casteline amovible 3 casseroles</td><td>3 casseroles 16 à 20 cm + 1 poignée</td><td>Inox 18/10 et aluminium, multicouche</td><td>Tous feux</td><td>Jusqu'à 300 °C</td><td>Oui</td><td>Oui</td><td>France</td></tr>
+<tr><td>Tefal Ingenio Préférence 16/20 cm</td><td>2 casseroles + 1 poignée</td><td>Inox 18/10</td><td>Oui</td><td>Non précisé</td><td>Non précisé</td><td>Oui</td><td>Non précisé</td></tr>
+<tr><td>de Buyer Milady Twisty 3 casseroles</td><td>3 casseroles 16 à 20 cm</td><td>Inox poli</td><td>Oui</td><td>Oui</td><td>Oui</td><td>Oui (vendue à part)</td><td>Non précisé</td></tr>
+<tr><td>Le Creuset set 3 pièces inox 3-Ply</td><td>Poêle 24 cm, faitout 24 cm, casserole 16 cm</td><td>Inox 3 couches</td><td>Oui</td><td>Jusqu'à 260 °C</td><td>Oui</td><td>Non précisé</td><td>Chine</td></tr>
+<tr><td>WMF Function 4 batterie 4 pièces</td><td>4 faitouts avec couvercles verre</td><td>Inox Cromargan</td><td>Oui</td><td>Jusqu'à 250 °C (hors couvercles)</td><td>Oui</td><td>Non</td><td>Non précisé</td></tr>
+<tr><td>Zwilling Twin Classic 5 pièces</td><td>3 marmites, 1 faitout, 1 casserole, 3 couvercles</td><td>Inox 18/10, fond à noyau aluminium</td><td>Oui</td><td>Oui</td><td>Non précisé</td><td>Non précisé</td><td>Non précisé</td></tr>
+<tr><td>Lagostina Esperta Triply 5 pièces</td><td>3 casseroles, 2 poêles inox + 1 poignée</td><td>Inox 3 couches</td><td>Oui</td><td>Oui</td><td>Oui</td><td>Oui</td><td>Chine</td></tr>
+<tr><td>Beka Evolution 4 casseroles</td><td>4 casseroles 14 à 20 cm + 1 poignée</td><td>Inox 18/10, triple fond</td><td>Oui</td><td>Oui</td><td>Oui</td><td>Oui</td><td>Chine</td></tr>
+</tbody></table>
+
+<h2>1. Tefal Ingenio Emotion On 22 pièces : idéal pour s'équiper en une fois</h2>
+<p><strong>Pour qui ?</strong> Le couple qui part de presque rien et veut une cuisine complète, qui se range facilement dans un petit placard.</p>
+<ul>
+<li><strong>Points forts</strong> : selon la fiche Tefal (réf. L897SM04), le set réunit 4 poêles antiadhésives de 22, 24, 26 et 28 cm, 3 casseroles en inox sans revêtement de 16, 18 et 20 cm, un wok de 26 cm, une sauteuse de 24 cm, 3 couvercles en verre, 4 ustensiles, 4 protège-poêles et 2 poignées amovibles. Il est compatible avec tous les feux, induction comprise. Les récipients passent au four et au lave-vaisselle, sauf les poignées (et les couvercles pour le four).</li>
+<li><strong>Données utiles</strong> : inox avec base épaisse en aluminium, revêtement antiadhésif Titanium 2x sur les poêles, le wok et la sauteuse. Poignées à fixation 3 points garanties 10 ans selon Tefal. Température maximale au four non précisée.</li>
+<li><strong>Limites</strong> : comme pour tout antiadhésif, les poêles s'useront plus vite que les casseroles en inox. Sur Amazon, le set apparaît sous une autre référence (L897SM74) : vérifiez la composition de l'article avant de l'ajouter.</li>
+</ul>
+<p><a href="{AMZ:Tefal Ingenio Emotion On 22 pièces}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Cristel Mutine amovible 4 casseroles : idéal pour l'inox fabriqué en France</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent des casseroles en inox faites pour durer, fabriquées en France, avec une touche de couleur.</p>
+<ul>
+<li><strong>Points forts</strong> : le set comprend 4 casseroles de 14, 16, 18 et 20 cm et des poignées amovibles en bakélite, proposées en plusieurs coloris. Inox 18/10 avec un fond thermo-diffuseur 3 couches, compatible tous feux dont induction, four jusqu'à 300 °C et lave-vaisselle. Cristel indique une fabrication dans le Doubs, avec le label Origine France Garantie, et une garantie à vie contre les défauts de fabrication.</li>
+<li><strong>Données utiles</strong> : réf. S4CMA2N pour le coloris noir. Couvercles non inclus.</li>
+<li><strong>Limites</strong> : pas de poêle ni de couvercle dans ce set, à ajouter séparément. La fiche Cristel parle tantôt de deux poignées, tantôt d'une seule : vérifiez le contenu exact chez le vendeur.</li>
+</ul>
+<p><a href="{AMZ:Cristel Mutine amovible set casseroles}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Cristel Casteline amovible 3 casseroles : idéal pour un inox haut de gamme</h2>
+<p><strong>Pour qui ?</strong> Les passionnés de cuisine qui veulent un inox épais, utilisable aussi bien sur le feu qu'au four, à offrir à plusieurs.</p>
+<ul>
+<li><strong>Points forts</strong> : 3 casseroles de 16, 18 et 20 cm en inox 18/10 et aluminium (gamme Multiply) avec une poignée amovible, que l'on peut remplacer par des anses. Four jusqu'à 300 °C et lave-vaisselle selon Cristel. Fabrication en France près de Montbéliard, label Origine France Garantie, garantie à vie contre les défauts de fabrication.</li>
+<li><strong>Données utiles</strong> : réf. S3CQMPZ. La fiche Cristel indique « tous feux », et un revendeur précise « dont induction ». Couvercles non inclus.</li>
+<li><strong>Limites</strong> : la fiche présente le nombre de couches de deux façons différentes, et le nom de la poignée fournie varie selon les vendeurs. Comme pour la Mutine, pas de poêle dans le set.</li>
+</ul>
+<p><a href="{AMZ:Cristel Casteline amovible série 3 casseroles}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Tefal Ingenio Préférence 16/20 cm : idéal pour un petit cadeau malin</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut commencer par deux casseroles en inox et compléter au fil du temps avec d'autres pièces Ingenio.</p>
+<ul>
+<li><strong>Points forts</strong> : 2 casseroles en inox 18/10 de 16 et 20 cm avec base épaisse et 1 poignée amovible à verrouillage 3 points. Compatible tous feux dont induction. Tefal annonce une garantie de 10 ans sur l'inox et sur la poignée.</li>
+<li><strong>Données utiles</strong> : réf. L9739302. Couvercles non inclus (un couvercle anti-projection est vendu à part).</li>
+<li><strong>Limites</strong> : passage au four et au lave-vaisselle non précisés sur la fiche consultée, qui recommande le lavage à la main quand c'est possible. Une référence très proche existe en version avec revêtement : vérifiez la référence exacte.</li>
+</ul>
+<p><a href="{AMZ:Tefal Ingenio Préférence L9739302}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. de Buyer Milady Twisty 3 casseroles : idéal pour le gain de place et la polyvalence</h2>
+<p><strong>Pour qui ?</strong> Ceux qui aiment les ustensiles de cuisine professionnelle et veulent des casseroles qui passent du feu au four.</p>
+<ul>
+<li><strong>Points forts</strong> : 3 casseroles de 16, 18 et 20 cm en inox poli. Selon de Buyer, elles ont deux becs verseurs et s'utilisent en casserole ou en faitout. Compatibles tous feux dont induction, four et lave-vaisselle.</li>
+<li><strong>Données utiles</strong> : code 3491.03. Il existe aussi un lot de 4 casseroles (3491.04) de 14 à 20 cm.</li>
+<li><strong>Limites</strong> : la poignée amovible et les couvercles sont vendus séparément selon la fiche du fabricant. Sur Amazon, une version est proposée avec la queue amovible : choisissez-la pour ne pas avoir à l'ajouter. Pays de fabrication non précisé.</li>
+</ul>
+<p><a href="{AMZ:de Buyer Milady Twisty 3 casseroles}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Le Creuset set 3 pièces inox 3-Ply : idéal pour un trio polyvalent</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut peu de pièces mais bien choisies : une poêle, un faitout et une casserole.</p>
+<ul>
+<li><strong>Points forts</strong> : le set comprend une poêle de 24 cm, un faitout de 24 cm et une casserole de 16 cm en inox 3 couches. Compatible gaz, induction, électrique, vitrocéramique, gril et four jusqu'à 260 °C, et lave-vaisselle selon Le Creuset.</li>
+<li><strong>Données utiles</strong> : réf. SS53808, fabrication en Chine selon la fiche. Couvercles non précisés.</li>
+<li><strong>Limites</strong> : poignées rivetées, non amovibles, donc plus de place dans les placards. La garantie affichée sur la page ne s'applique pas clairement à ce set. Sur Amazon, il s'appelle « Set de 3 pièces Inox Classique ».</li>
+</ul>
+<p><a href="{AMZ:Le Creuset set 3 pièces inox 3-Ply}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. WMF Function 4 batterie 4 pièces : idéal pour les plats mijotés et les familles</h2>
+<p><strong>Pour qui ?</strong> Ceux qui cuisinent de grandes quantités, pâtes, soupes et plats mijotés, et veulent des couvercles inclus.</p>
+<ul>
+<li><strong>Points forts</strong> : 4 faitouts (hauts de 16, 20 et 24 cm, bas de 20 cm), chacun avec un couvercle en verre. Le couvercle a 4 positions de versement, pratique pour égoutter. Inox Cromargan avec fond TransTherm, compatible induction, gaz, électrique, céramique et halogène, four jusqu'à 250 °C (sans les couvercles) et lave-vaisselle.</li>
+<li><strong>Données utiles</strong> : réf. fabricant 8910000096, vendue sur Amazon sous une autre référence avec la même composition.</li>
+<li><strong>Limites</strong> : poignées fixes, donc encombrant. Pas de poêle dans le set. WMF recommande tout de même le lavage à la main. Fabrication et garantie non précisées.</li>
+</ul>
+<p><a href="{AMZ:WMF Function 4 batterie 4 pièces}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Zwilling Twin Classic 5 pièces : idéal pour un set classique avec couvercles</h2>
+<p><strong>Pour qui ?</strong> Le couple qui aime l'inox traditionnel et veut couvrir tous les besoins de cuisson à l'eau.</p>
+<ul>
+<li><strong>Points forts</strong> : 3 marmites (16 cm 2 L, 20 cm 3,5 L, 24 cm 6 L), un faitout de 20 cm (3 L) et une casserole de 16 cm (1,5 L), avec 3 couvercles en inox. Inox 18/10 satiné et fond sandwich à noyau aluminium, compatible tous feux dont induction et four.</li>
+<li><strong>Données utiles</strong> : réf. 40901-001-0. Température maximale au four non précisée.</li>
+<li><strong>Limites</strong> : 3 couvercles pour 5 récipients, sans précision sur ceux qui en ont un. Lave-vaisselle, fabrication et garantie non précisés sur la fiche. Manches fixes.</li>
+</ul>
+<p><a href="{AMZ:Zwilling Twin Classic 5 pièces 40901-001}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>9. Lagostina Esperta Triply 5 pièces : idéal pour un set inox avec poêles</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent tout en inox, casseroles et poêles, avec une poignée amovible pour le rangement.</p>
+<ul>
+<li><strong>Points forts</strong> : selon la fiche Boulanger, 3 casseroles de 16, 18 et 20 cm et 2 poêles en inox de 24 et 28 cm, avec 1 poignée amovible. Inox 18/10 en 3 couches inox, aluminium et inox. Compatible tous feux dont induction, four et lave-vaisselle.</li>
+<li><strong>Données utiles</strong> : fabrication en Chine. Pas de couvercle.</li>
+<li><strong>Limites</strong> : la poêle en inox demande un peu d'apprentissage (bien préchauffer, matière grasse) pour que les aliments n'accrochent pas. La fiche consultée indique deux durées de garantie différentes. Ce set exact n'est pas toujours proposé sur Amazon : comparez avec les autres lots Esperta.</li>
+</ul>
+<p><a href="{AMZ:Lagostina Esperta Triply set}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>10. Beka Evolution 4 casseroles : idéal pour un petit budget</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut quatre casseroles en inox amovibles sans viser le haut de gamme, ou les invités qui cherchent un cadeau plus modeste.</p>
+<ul>
+<li><strong>Points forts</strong> : 4 casseroles de 14, 16, 18 et 20 cm et 1 poignée amovible avec indicateur de sécurité. Inox 18/10 avec triple fond capsulé, compatible tous feux dont induction, four et lave-vaisselle. Le revendeur consulté indique une garantie de 25 ans.</li>
+<li><strong>Données utiles</strong> : vendu sur Amazon sous la référence Bekaline 12326984. Fabrication en Chine.</li>
+<li><strong>Limites</strong> : pas de couvercle ni de poêle. Les contenances indiquées par le revendeur semblent contenir une erreur pour deux casseroles : fiez-vous aux diamètres.</li>
+</ul>
+<p><a href="{AMZ:Beka Evolution 4 casseroles poignée amovible}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir sa batterie de cuisine</h2>
+<h3>Inox ou antiadhésif ?</h3>
+<p>L'<strong>inox</strong> est presque inusable : c'est le choix idéal pour les casseroles, les faitouts et les cuissons à l'eau. L'<strong>antiadhésif</strong> est très pratique pour les œufs, les crêpes ou le poisson, mais son revêtement s'use avec le temps. Beaucoup de couples combinent les deux : casseroles en inox, poêles antiadhésives.</p>
+<h3>Poignée amovible ou fixe ?</h3>
+<p>La poignée amovible fait gagner beaucoup de place : les récipients s'empilent et passent plus facilement au four, au réfrigérateur et au lave-vaisselle. Les poignées fixes évitent de chercher la poignée et conviennent bien aux grands faitouts. Si vous vivez dans un petit logement, l'amovible est souvent le meilleur choix.</p>
+<h3>Induction et four</h3>
+<p>Si vous avez une plaque à induction ou comptez en avoir une, vérifiez la mention « tous feux dont induction ». Pour le four, regardez la température maximale et les pièces exclues (couvercles en verre, poignées).</p>
+<h3>Couvercles et pièces manquantes</h3>
+<p>Beaucoup de sets ne contiennent pas de couvercle ou pas de poêle. Ajoutez-les à côté sur votre liste : ce sont de bons cadeaux pour les petits budgets. Pour aller plus loin, lisez notre guide pour <a href="{R}comment-choisir-batterie-de-casseroles/">choisir une batterie de casseroles</a>, et pensez aussi à une <a href="{R}comment-choisir-cocotte-en-fonte/">cocotte en fonte</a> pour les mijotés.</p>
+
+<h2>Dans votre liste de mariage</h2>
+<p>Une batterie complète se prête très bien à une participation de plusieurs invités, tandis que les casseroles ou poêles à l'unité conviennent aux petits budgets. Pour ne rien oublier dans la cuisine, utilisez notre <a href="{R}checklist/">checklist par pièce</a>, et complétez avec notre guide pour <a href="{R}comment-choisir-couteaux-de-cuisine/">choisir ses couteaux de cuisine</a>.</p>
+""",
+  faq=[("Quelle est la meilleure batterie de cuisine pour un couple ?", "Il n'y a pas de set idéal pour tout le monde. Pour s'équiper en une fois, le Tefal Ingenio Emotion On 22 pièces est le plus complet de notre sélection. Pour un inox fabriqué en France, regardez les sets Cristel Mutine ou Casteline."),
+       ("Inox ou antiadhésif pour une batterie de cuisine ?", "L'inox dure très longtemps et convient aux casseroles et faitouts. L'antiadhésif est plus pratique pour les poêles mais s'use avec le temps. Combiner les deux est souvent la meilleure solution."),
+       ("Une poignée amovible, est-ce solide ?", "Les fabricants présentent leurs poignées amovibles comme conçues pour un usage quotidien, avec un système de verrouillage. Leur principal avantage est le gain de place au rangement. Vérifiez sur la fiche si la poignée est incluse dans le set.")],
+  short="Top 10 batteries de cuisine")
