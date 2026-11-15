@@ -117,6 +117,7 @@
   root.addEventListener('click', function(e){
     var r = e.target.closest('.it[data-k]'); if (!r) return;
     var k = r.getAttribute('data-k');
+    if (e.target.closest('.go')) { if (!st[k]) { st[k] = 1; save(); refresh(); } return; }
     if (e.target.closest('.unpick')) { st[k] = 1; save(); refresh(); return; }
     if (!e.target.closest('.pick')) return;
     var f = r.querySelector('.pickf');

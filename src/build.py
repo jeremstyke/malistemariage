@@ -222,7 +222,7 @@ def build():
         f.write(js)
 
     tool = ('<div id="ck" class="ck"><noscript>Active JavaScript pour cocher les articles.</noscript></div>'
-            '<script src="{R}assets/data.js?v=3"></script><script src="{R}assets/checklist.js?v=7" defer></script>')
+            '<script src="{R}assets/data.js?v=3"></script><script src="{R}assets/checklist.js?v=8" defer></script>')
 
     # Accueil
     cats = ''.join('<a class="cat-chip t-%s" href="{R}checklist/#cat%d"><span aria-hidden="true">%s</span>%s<small>%d articles</small></a>' % (
