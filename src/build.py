@@ -107,7 +107,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=23">
+<link rel="stylesheet" href="{R}assets/style.css?v=24">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -126,9 +126,11 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <p>La checklist gratuite pour composer votre liste de mariage, pièce par pièce.</p></div>
 <nav aria-label="Pied de page"><a href="{R}checklist/">Checklist</a><a href="{R}guides/">Guides</a><a href="{R}outils/">Outils</a><a href="{R}mentions-legales/">Mentions légales</a><a href="{R}confidentialite/">Confidentialité</a><a href="mailto:{CONTACT}">Contact</a></nav>
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
+<nav class="sites" aria-label="Nos sites"><span>Nos sites :</span><a href="https://malistebebe.fr/">🍼 Ma liste bébé</a><a aria-current="page" href="{R}">💍 Ma liste mariage</a><a href="https://viellirchezsoi.fr/">🏡 Vieillir chez soi</a></nav>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifiez-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
 <script src="{R}assets/account.js?v=7" defer></script>
+<script src="{R}assets/track.js?v=1" defer></script>
 </body>
 </html>
 '''
@@ -406,6 +408,7 @@ def build():
 <h2>Sans compte</h2><p>Les articles que vous cochez sont enregistrés uniquement dans votre navigateur (stockage local). Rien n'est envoyé sur un serveur. Vider les données du navigateur efface votre checklist.</p>
 <h2>Avec un compte</h2><p>Si vous créez un compte, nous enregistrons votre adresse e-mail (pour vous envoyer vos liens de connexion), les articles cochés et, si vous les indiquez, vos prénoms et la date du mariage. Ce compte est commun avec notre site Ma liste bébé. Si vous avez coché la case newsletter, votre e-mail sert aussi à vous envoyer nos conseils ; vous pouvez vous désinscrire à tout moment depuis la page compte ou avec le lien présent dans chaque e-mail. Les données sont hébergées par Supabase, sur des serveurs situés dans l'Union européenne. Nous ne les vendons pas et ne les utilisons pas pour de la publicité.</p>
 <p>Votre liste n'est visible par d'autres personnes que si vous activez le partage : elle n'est alors accessible qu'avec son lien. Vous pouvez supprimer vos données à tout moment depuis la page compte, et demander la suppression complète de votre compte en nous écrivant.</p>
+<h2>Mesure d'audience</h2><p>Nous comptons les pages vues et les clics vers Amazon de façon anonyme : page visitée, site d'origine, type d'appareil (mobile ou ordinateur) et un identifiant aléatoire stocké dans votre navigateur. Ces données ne permettent pas de vous identifier, ne sont ni vendues ni utilisées pour de la publicité, et sont hébergées par Supabase dans l'Union européenne.</p>
 <h2>Amazon</h2><p>Quand vous cliquez sur un lien vers Amazon.fr, Amazon peut déposer des cookies pour attribuer la commission. Consultez la politique de confidentialité d'Amazon pour en savoir plus.</p>
 <h2>Contact</h2><p><a href="mailto:{CONTACT}">{CONTACT}</a></p></article></div>'''
     page('confidentialite/', 'Confidentialité | Ma liste mariage', 'Politique de confidentialité de Ma liste mariage : checklist sans inscription, compte facultatif.', cf, crumbs=[('Confidentialité', 'confidentialite/')])
