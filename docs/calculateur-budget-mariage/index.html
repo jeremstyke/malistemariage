@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Calculateur de budget mariage : répartition par poste</title>
+<meta name="description" content="Répartissez votre budget de mariage entre les postes : réception, tenues, photo, musique, décoration, alliances. Ajustez les pourcentages, le calcul est immédiat.">
+<link rel="canonical" href="https://malistedemariage.fr/calculateur-budget-mariage/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Calculateur de budget mariage : répartition par poste">
+<meta property="og:description" content="Répartissez votre budget de mariage entre les postes : réception, tenues, photo, musique, décoration, alliances. Ajustez les pourcentages, le calcul est immédiat.">
+<meta property="og:url" content="https://malistedemariage.fr/calculateur-budget-mariage/">
+<meta property="og:image" content="https://malistedemariage.fr/og/calculateur-budget-mariage.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Calculateur de budget mariage : répartition par poste">
+<meta property="og:site_name" content="Ma liste mariage">
+<meta name="twitter:image" content="https://malistedemariage.fr/og/calculateur-budget-mariage.png">
+<meta property="og:locale" content="fr_FR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#F1F4F0">
+<meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="../assets/fonts/bricolage-grotesque-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="../assets/fonts/figtree-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../assets/style.css?v=14">
+<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "WebSite", "name": "Ma liste mariage", "url": "https://malistedemariage.fr/"}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://malistedemariage.fr/"}, {"@type": "ListItem", "position": 2, "name": "Outils", "item": "https://malistedemariage.fr/outils/"}, {"@type": "ListItem", "position": 3, "name": "Budget mariage", "item": "https://malistedemariage.fr/calculateur-budget-mariage/"}]}, {"@context": "https://schema.org", "@type": "WebApplication", "name": "Calculateur de budget mariage", "description": "Répartissez votre budget de mariage entre les postes : réception, tenues, photo, musique, décoration, alliances. Ajustez les pourcentages, le calcul est immédiat.", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Tous", "url": "https://malistedemariage.fr/calculateur-budget-mariage/", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}}, {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Quel est le poste le plus cher d'un mariage ?", "acceptedAnswer": {"@type": "Answer", "text": "En général le lieu et la réception (repas, boissons), car ils dépendent du nombre d'invités."}}, {"@type": "Question", "name": "Comment réduire le budget d'un mariage ?", "acceptedAnswer": {"@type": "Answer", "text": "Le levier le plus efficace est le nombre d'invités. Viennent ensuite la date (hors saison, en semaine) et les postes de décoration."}}]}]</script>
+</head>
+<body class="guide">
+<a class="skip" href="#main">Aller au contenu</a>
+<header class="top"><div class="wrap top-in">
+<a class="logo" href="../"><span class="logo-ico" aria-hidden="true">💍</span>Ma liste mariage</a>
+<nav class="menu" aria-label="Menu"><a href="../checklist/">Checklist</a><a href="../liste-de-mariage-amazon/">Liste Amazon</a><a href="../outils/">Outils</a><a href="../guides/">Guides</a></nav>
+<a id="nav-account" class="nav-acc" href="../compte/"><span class="acc-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="16" height="16"><circle cx="12" cy="8" r="4" fill="currentColor"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7" fill="currentColor"/></svg></span><span id="nav-account-txt">Connexion</span></a>
+</div></header>
+<main id="main">
+<div class="wrap"><nav class="bc" aria-label="Fil d'Ariane"><a href="../">Accueil</a> / <a href="../outils/">Outils</a> / <span>Budget mariage</span></nav></div>
+<header class="cover t-miel"><span class="cover-dots" aria-hidden="true"></span><div class="wrap cover-in"><span class="cover-e" aria-hidden="true">💶</span><div><h1>Calculateur de budget mariage</h1><p class="cover-d">Répartissez votre budget de mariage entre les postes : réception, tenues, photo, musique, décoration, alliances. Ajustez les pourcentages, le calcul est immédiat.</p><p class="cover-m">Outil gratuit, sans inscription</p></div></div></header><div class="wrap art-wrap"><div class="tool-box"><form id="t-budget" class="accf tool-form">
+<label>Budget total (en euros)<input type="number" id="t-total" min="0" step="100" inputmode="numeric" required></label>
+<label>Nombre d'invités (facultatif)<input type="number" id="t-guests" min="0" inputmode="numeric"></label>
+<fieldset class="rngs"><legend>Répartition (ajustez selon vos priorités)</legend><div id="t-cats"></div></fieldset>
+<button class="btn" type="submit">Calculer la répartition</button>
+</form>
+<div id="t-out" class="tool-res" hidden aria-live="polite"></div></div><article class="prose"><nav class="toc" aria-label="Sommaire"><strong>Dans ce guide</strong><ol><li><a href="#comment-utiliser-le-calculateur">Comment utiliser le calculateur</a></li><li><a href="#le-poste-le-plus-lourd-la-reception">Le poste le plus lourd : la réception</a></li><li><a href="#ou-economiser-sans-regret">Où économiser sans regret</a></li><li><a href="#gardez-une-part-pour-les-imprevus">Gardez une part pour les imprévus</a></li><li><a href="#et-les-cadeaux">Et les cadeaux ?</a></li></ol></nav>
+<h2 id="comment-utiliser-le-calculateur">Comment utiliser le calculateur</h2>
+<p>Indiquez votre budget total, puis ajustez la part de chaque poste selon vos priorités. Les pourcentages proposés par défaut sont une répartition indicative, pas une règle : si la photo compte beaucoup pour vous, augmentez-la et réduisez un autre poste. Le calculateur ramène toujours le total à 100 %.</p>
+<h2 id="le-poste-le-plus-lourd-la-reception">Le poste le plus lourd : la réception</h2>
+<p>Le lieu et le repas représentent souvent la plus grosse part du budget, car ils dépendent directement du nombre d'invités. C'est le premier levier pour faire des économies : réduire la liste d'invités de 10 personnes change davantage le budget que de choisir des fleurs moins chères.</p>
+<h2 id="ou-economiser-sans-regret">Où économiser sans regret</h2>
+<table><thead><tr><th>Poste</th><th>Idée d'économie</th></tr></thead><tbody>
+<tr><td>Réception</td><td>Date hors saison, brunch le lendemain plutôt qu'un deuxième repas</td></tr>
+<tr><td>Décoration</td><td>Fleurs de saison, décoration réutilisée entre cérémonie et réception</td></tr>
+<tr><td>Faire-part</td><td>Faire-part numérique pour une partie des invités</td></tr>
+<tr><td>Tenues</td><td>Location ou seconde main</td></tr>
+</tbody></table>
+<h2 id="gardez-une-part-pour-les-imprevus">Gardez une part pour les imprévus</h2>
+<p>Un mariage réserve presque toujours des surprises : invités en plus, options oubliées, frais de déplacement. Gardez une réserve, souvent autour de 10 %, pour ne pas dépasser.</p>
+<h2 id="et-les-cadeaux">Et les cadeaux ?</h2>
+<p>Votre liste de mariage peut aussi aider à équiper la maison après le mariage, sans toucher à votre budget. Voyez <a href="../que-mettre-dans-une-liste-de-mariage/">que mettre dans une liste de mariage</a> et notre <a href="../checklist/">checklist</a>.</p>
+<aside class="tag"><span class="tag-hole" aria-hidden="true"></span><div class="tag-tx"><strong>Créez votre liste de mariage Amazon</strong><span>Gratuite, prête en 10 minutes, à partager à tous vos invités.</span></div><a class="btn" href="https://www.amazon.fr/wedding?tag=malistemariage-21" rel="sponsored nofollow noopener" target="_blank">Créer notre liste</a></aside><h2 id="faq">Questions fréquentes</h2><div class="faq"><details><summary>Quel est le poste le plus cher d&#x27;un mariage ?</summary><p>En général le lieu et la réception (repas, boissons), car ils dépendent du nombre d&#x27;invités.</p></details><details><summary>Comment réduire le budget d&#x27;un mariage ?</summary><p>Le levier le plus efficace est le nombre d&#x27;invités. Viennent ensuite la date (hors saison, en semaine) et les postes de décoration.</p></details></div></article></div><script src="../assets/tools.js?v=1" defer></script>
+</main>
+<div class="wave-foot"><svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 240 70 480 0 720 25 C 960 50 1200 10 1440 30 L1440 60 L0 60 Z"/></svg></div><footer class="foot"><div class="wrap foot-in">
+<div><a class="logo" href="../"><span class="logo-ico" aria-hidden="true">💍</span>Ma liste mariage</a>
+<p>La checklist gratuite pour composer votre liste de mariage, pièce par pièce.</p></div>
+<nav aria-label="Pied de page"><a href="../checklist/">Checklist</a><a href="../guides/">Guides</a><a href="../outils/">Outils</a><a href="../mentions-legales/">Mentions légales</a><a href="../confidentialite/">Confidentialité</a><a href="mailto:contact@cvlibre.com">Contact</a></nav>
+<p class="wed">🍼 Un bébé en route ? <a href="https://malistebebe.fr/">Préparez votre liste de naissance sur Ma liste bébé</a></p>
+<p class="disc">En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Les prix et les conditions d'Amazon peuvent changer : vérifie-les avant d'acheter. © 2026 malistedemariage.fr</p>
+</div></footer>
+<script src="../assets/account.js?v=3" defer></script>
+</body>
+</html>

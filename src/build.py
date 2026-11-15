@@ -6,6 +6,7 @@ from content import CHECKLIST, PRIO, GUIDES, MESSAGES, FAQ_HOME
 from extra_m import EXTRA
 from longtail_m import PRINTLIST
 from auto_articles import AUTO_META
+from tools_m import TOOLS
 import ogimg
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -60,7 +61,7 @@ CTA = ('<aside class="tag"><span class="tag-hole" aria-hidden="true"></span><div
        '<a class="btn" href="' + AMZ_LIST + '" rel="sponsored nofollow noopener" target="_blank">Créer notre liste</a></aside>')
 
 NAV = [('checklist/', 'Checklist'), ('liste-de-mariage-amazon/', 'Liste Amazon'),
-       ('que-mettre-dans-une-liste-de-mariage/', 'Que mettre ?'), ('guides/', 'Guides')]
+       ('outils/', 'Outils'), ('guides/', 'Guides')]
 
 FONTS = ('<link rel="preload" href="@R@assets/fonts/bricolage-grotesque-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>'
          '<link rel="preload" href="@R@assets/fonts/figtree-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>')
@@ -105,7 +106,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=13">
+<link rel="stylesheet" href="{R}assets/style.css?v=14">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -122,7 +123,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <div class="wave-foot"><svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 240 70 480 0 720 25 C 960 50 1200 10 1440 30 L1440 60 L0 60 Z"/></svg></div><footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="{R}"><span class="logo-ico" aria-hidden="true">💍</span>Ma liste mariage</a>
 <p>La checklist gratuite pour composer votre liste de mariage, pièce par pièce.</p></div>
-<nav aria-label="Pied de page"><a href="{R}checklist/">Checklist</a><a href="{R}guides/">Guides</a><a href="{R}mentions-legales/">Mentions légales</a><a href="{R}confidentialite/">Confidentialité</a><a href="mailto:{CONTACT}">Contact</a></nav>
+<nav aria-label="Pied de page"><a href="{R}checklist/">Checklist</a><a href="{R}guides/">Guides</a><a href="{R}outils/">Outils</a><a href="{R}mentions-legales/">Mentions légales</a><a href="{R}confidentialite/">Confidentialité</a><a href="mailto:{CONTACT}">Contact</a></nav>
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifie-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
@@ -253,6 +254,10 @@ def build():
 <div class="grid3">{''.join(gcard(x) for x in GUIDES[:6])}</div>
 <p class="more"><a href="{{R}}guides/">Voir les {len(GUIDES)} guides</a></p>
 </section>
+<section class="wrap block">
+<h2>Nos outils gratuits</h2>
+<div class="grid3">{''.join(('<a class="gcard t-%s" href="{R}%s"><span class="gcard-e" aria-hidden="true">%s</span><strong>%s</strong><span class="gcard-d">%s</span></a>') % (x['tint'], x['slug'], x['emoji'], esc(x['h1']), esc(x['desc'])) for x in TOOLS)}</div>
+</section>
 <section class="wrap block narrow"><div class="prose">
 <h2>Préparer sa liste de mariage sereinement</h2>
 <p>Une liste de mariage rend service à tout le monde : vos invités savent quoi offrir, et vous recevez des cadeaux qui vous serviront vraiment. La plupart des couples la créent trois à quatre mois avant le jour J, en même temps que les faire-part. Notre <a href="{{R}}quand-faire-sa-liste-de-mariage/">calendrier</a> détaille chaque étape.</p>
@@ -309,6 +314,27 @@ def build():
     page('guides/', 'Guides liste de mariage : idées, textes et conseils',
          'Tous nos guides pour votre liste de mariage : que mettre, liste Amazon, petits prix, cagnotte, textes pour le faire-part, combien donner et remerciements.',
          idx, crumbs=[('Guides', 'guides/')], og=ogfor('guides', 'Tous les guides pour votre liste de mariage', 'Guides', '📚', 'ciel'))
+
+    # Outils gratuits
+    for x in TOOLS:
+        fh, fs = faq_block(x['faq'])
+        body, toc = add_toc(x['body'])
+        app = [{"@context": "https://schema.org", "@type": "WebApplication", "name": x['h1'], "description": x['desc'],
+                "applicationCategory": "UtilitiesApplication", "operatingSystem": "Tous", "url": BASE + '/' + x['slug'],
+                "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"}}]
+        ogp = ogfor(x['slug'].strip('/'), x['h1'], 'Outil gratuit', x['emoji'], x['tint'])
+        b = ('<header class="cover t-%s"><span class="cover-dots" aria-hidden="true"></span><div class="wrap cover-in"><span class="cover-e" aria-hidden="true">%s</span>'
+             '<div><h1>%s</h1><p class="cover-d">%s</p><p class="cover-m">Outil gratuit, sans inscription</p></div></div></header>'
+             '<div class="wrap art-wrap"><div class="tool-box">%s</div><article class="prose">%s%s%s%s</article></div>'
+             '<script src="{R}assets/tools.js?v=1" defer></script>') % (
+            x['tint'], x['emoji'], esc(x['h1']), esc(x['desc']), x['tool'], toc, body, CTA, fh)
+        page(x['slug'], x['title'], x['desc'], b, schema=app + fs,
+             crumbs=[('Outils', 'outils/'), (x['short'], x['slug'])], cls='guide', og=ogp)
+    tcards = ''.join(('<a class="gcard t-%s" href="{R}%s"><span class="gcard-e" aria-hidden="true">%s</span>'
+                      '<strong>%s</strong><span class="gcard-d">%s</span></a>') % (x['tint'], x['slug'], x['emoji'], esc(x['h1']), esc(x['desc'])) for x in TOOLS)
+    page('outils/', 'Outils gratuits mariage : rétroplanning, budget, liste', "Outils gratuits pour organiser votre mariage : rétroplanning personnalisé, calculateur de budget et nombre d'articles pour votre liste de mariage.",
+         '<section class="wrap pagehead"><h1>Outils gratuits pour futurs mariés</h1><p class="lead">Rétroplanning, budget et taille de la liste : organisez votre mariage en quelques clics.</p></section><section class="wrap block"><div class="grid3">' + tcards + '</div></section>',
+         crumbs=[('Outils', 'outils/')], og=ogfor('outils', 'Outils gratuits pour futurs mariés', 'Gratuit', '🧰', 'menthe'))
 
     # Compte
     acc = """<div class="wrap art-wrap"><div class="prose" id="acc">
