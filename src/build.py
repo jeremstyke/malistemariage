@@ -210,6 +210,8 @@ def build():
             shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
     os.makedirs(OUT, exist_ok=True)
 
+    # Image de partage par défaut
+    ogimg.make(os.path.join(OUT, 'assets', 'og.png'), 'Votre liste de mariage, prête en 10 minutes', 'Checklist gratuite', '💍', 'miel')
     # Données de la checklist
     data = []
     for cat, emo, items in CHECKLIST:
@@ -382,7 +384,7 @@ def build():
 <div class="wrap"><div id="pub" class="ck"><p>Chargement de la liste...</p></div>
 <div class="prose"><p>Vous aussi, vous vous mariez ? <a href="{R}checklist/">Faites votre checklist gratuite</a>.</p></div></div>
 <script src="{R}assets/data.js?v=3"></script>"""
-    page('ma-liste/', 'Liste de mariage partagée', 'Une liste de mariage partagée par des futurs mariés.', pub, noindex=True, cls='tool')
+    page('ma-liste/', 'Notre liste de mariage 💍', 'Voici les cadeaux choisis par les mariés. Cliquez sur un article pour l\'offrir.', pub, noindex=True, cls='tool', og=ogfor('ma-liste', 'Notre liste de mariage', 'Cliquez pour offrir un cadeau', '🎁', 'peche'))
 
     # Pages légales
     ml = f'''<div class="wrap art-wrap"><article class="prose"><h1>Mentions légales</h1>
