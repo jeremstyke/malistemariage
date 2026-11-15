@@ -1063,3 +1063,186 @@ g("meilleure-batterie-de-cuisine/",
        ("Inox ou antiadhésif pour une batterie de cuisine ?", "L'inox dure très longtemps et convient aux casseroles et faitouts. L'antiadhésif est plus pratique pour les poêles mais s'use avec le temps. Combiner les deux est souvent la meilleure solution."),
        ("Une poignée amovible, est-ce solide ?", "Les fabricants présentent leurs poignées amovibles comme conçues pour un usage quotidien, avec un système de verrouillage. Leur principal avantage est le gain de place au rangement. Vérifiez sur la fiche si la poignée est incluse dans le set.")],
   short="Top 10 batteries de cuisine")
+
+AUTO_META['comment-choisir-valise-cabine/'] = ('🧳', 'ciel')
+g("comment-choisir-valise-cabine/",
+  "Comment choisir une valise cabine : dimensions, rigide ou souple",
+  "Comment choisir une valise cabine",
+  "Dimensions des compagnies, coque rigide ou souple, 2 ou 4 roues, poids à vide, serrure : les critères pour choisir une valise cabine qui vous suivra longtemps.",
+  """
+<p>La valise cabine est un cadeau de mariage pratique et durable : elle servira pour le voyage de noces, puis pour tous les week-ends et les déplacements des années suivantes. Mais toutes les valises dites « cabine » ne passent pas partout, et entre coque rigide, valise souple, deux ou quatre roues, le choix n'est pas si simple. Voici les critères qui comptent pour choisir la bonne.</p>
+{CTA}
+<h2>Les dimensions : le critère numéro un</h2>
+<p>Il n'existe pas de taille cabine universelle. Chaque compagnie aérienne fixe ses propres dimensions et son propre poids maximal, et ces règles peuvent changer d'une année à l'autre. Avant d'ajouter une valise à votre liste, regardez sur le site des compagnies avec lesquelles vous voyagez le plus souvent, en particulier celle de votre voyage de noces.</p>
+<p>Trois points à vérifier :</p>
+<ul>
+<li><strong>Les dimensions hors tout</strong> : les compagnies comptent en général les roues et les poignées. Sur la fiche d'une valise, cherchez les dimensions extérieures totales, pas seulement celles du compartiment.</li>
+<li><strong>Le poids autorisé</strong> : il varie selon les compagnies et les tarifs. Une valise légère à vide vous laisse plus de marge pour vos affaires.</li>
+<li><strong>Ce que comprend votre billet</strong> : certaines compagnies, surtout à bas prix, n'incluent dans le tarif de base qu'un petit sac à glisser sous le siège. La valise cabine est alors une option payante.</li>
+</ul>
+<p>Si vous prenez souvent des compagnies différentes, choisissez un modèle un peu plus compact que la limite la plus courante : vous serez tranquilles presque partout. Pour les vols les plus stricts, un <a href="{AMZ:sac sous siège cabine}" rel="sponsored nofollow noopener" target="_blank">sac sous le siège</a> en complément est très pratique.</p>
+<h2>Rigide, souple ou hybride ?</h2>
+<p>C'est la grande question. Chaque type a ses atouts :</p>
+<table><thead><tr><th>Type</th><th>Points forts</th><th>Limites</th><th>Pour qui ?</th></tr></thead><tbody>
+<tr><td>Coque rigide (polycarbonate, polypropylène)</td><td>Protège bien le contenu, résiste à la pluie, s'essuie facilement</td><td>Se raye, ne se « tasse » pas quand elle est pleine, ouverture en deux moitiés</td><td>Ceux qui transportent des objets fragiles ou veulent un look net</td></tr>
+<tr><td>Souple (tissu nylon ou polyester)</td><td>Poches extérieures, un peu de souplesse pour faire entrer un dernier pull, souvent légère</td><td>Protège moins les objets fragiles, se salit plus</td><td>Ceux qui veulent accéder vite à leurs affaires pendant le trajet</td></tr>
+<tr><td>Hybride (coque rigide avec poche avant)</td><td>Protection de la coque et accès rapide à un ordinateur ou des papiers</td><td>Un peu plus lourde, choix de modèles plus restreint</td><td>Les voyageurs pour le travail et le loisir</td></tr>
+</tbody></table>
+<p>Pour un usage mixte, voyage de noces puis week-ends, une <a href="{AMZ:valise cabine rigide 4 roues}" rel="sponsored nofollow noopener" target="_blank">valise cabine rigide</a> est souvent le choix le plus polyvalent. Si vous aimez les poches et l'accès rapide, regardez une <a href="{AMZ:valise cabine souple}" rel="sponsored nofollow noopener" target="_blank">valise cabine souple</a> ou une <a href="{AMZ:valise cabine poche avant ordinateur}" rel="sponsored nofollow noopener" target="_blank">valise avec poche avant</a>.</p>
+<h2>2 roues ou 4 roues ?</h2>
+<ul>
+<li><strong>4 roues multidirectionnelles</strong> : la valise roule à côté de vous sans effort, idéal dans les aéroports et les couloirs d'avion. En contrepartie, les roues dépassent davantage et prennent un peu de volume intérieur.</li>
+<li><strong>2 roues</strong> : on tire la valise derrière soi. Elle passe mieux sur les pavés, les trottoirs abîmés et les chemins, et les roues sont souvent mieux protégées.</li>
+</ul>
+<p>Si vos voyages vous mènent surtout dans des villes aux rues pavées ou à la campagne, les deux roues ont du sens. Pour l'aéroport et l'hôtel, les quatre roues sont plus confortables.</p>
+<h2>Les détails qui font la différence</h2>
+<ul>
+<li><strong>Le poids à vide</strong> : comparez-le sur les fiches. Quelques centaines de grammes de moins comptent quand la limite est serrée.</li>
+<li><strong>La serrure TSA</strong> : elle permet aux douanes américaines d'ouvrir la valise sans la forcer. Utile si vous voyagez aux États-Unis.</li>
+<li><strong>La poignée télescopique</strong> : vérifiez qu'elle est stable, à plusieurs hauteurs, et adaptée à la taille des deux voyageurs.</li>
+<li><strong>Le soufflet d'extension</strong> : une fermeture éclair qui ajoute quelques centimètres. Pratique au retour, mais une fois dépliée, la valise peut dépasser les dimensions cabine.</li>
+<li><strong>L'intérieur</strong> : sangles de compression, séparation, poche zippée. Des <a href="{AMZ:cubes de rangement valise}" rel="sponsored nofollow noopener" target="_blank">cubes de rangement</a> aident aussi beaucoup à optimiser l'espace.</li>
+<li><strong>La garantie</strong> : les grandes marques de bagagerie proposent souvent des garanties longues. Lisez ce qu'elles couvrent, notamment les roues et la poignée.</li>
+</ul>
+<h2>Une valise chacun ou un set ?</h2>
+<p>Pour un couple, deux valises cabine permettent de partir en week-end sans bagage en soute, chacun avec la sienne. Pour les longs voyages, un <a href="{AMZ:set de valises cabine et soute}" rel="sponsored nofollow noopener" target="_blank">set cabine et soute</a> de la même gamme est une bonne idée de cadeau commun : les valises s'emboîtent pour le rangement à la maison. Pensez aussi aux petits accessoires, qui font de jolis cadeaux pour les invités au budget plus modeste : <a href="{AMZ:balance à bagages}" rel="sponsored nofollow noopener" target="_blank">pèse-bagage</a>, étiquettes, trousse de toilette.</p>
+<h2>Dans votre liste de mariage</h2>
+<p>Pour comparer des modèles précis, consultez notre <a href="{R}meilleure-valise-voyage-de-noces/">sélection de valises pour le voyage de noces</a>. Si vous voulez aussi faire participer vos invités au voyage lui-même, lisez notre comparatif <a href="{R}liste-de-mariage-ou-cagnotte/">liste de mariage ou cagnotte</a>. Et pour ne rien oublier dans votre liste, passez en revue notre <a href="{R}checklist/">checklist par pièce</a>.</p>
+""",
+  faq=[("Quelle taille pour une valise cabine ?", "Il n'y a pas de taille unique : chaque compagnie fixe ses dimensions et son poids maximal, roues et poignées comprises en général. Vérifiez les règles de la compagnie avant d'acheter, surtout pour votre voyage de noces."),
+       ("Valise cabine rigide ou souple : que choisir ?", "La rigide protège mieux le contenu et résiste à la pluie. La souple offre des poches extérieures et un peu de souplesse. Pour un usage polyvalent, beaucoup de couples choisissent une rigide à 4 roues."),
+       ("Le bagage cabine est-il toujours inclus dans le billet ?", "Non. Certaines compagnies, surtout à bas prix, n'incluent qu'un petit sac à placer sous le siège, la valise cabine étant en option. Lisez les conditions de votre tarif.")],
+  short="Choisir une valise cabine")
+
+AUTO_META['meilleur-aspirateur-robot/'] = ('🏆', 'menthe')
+g("meilleur-aspirateur-robot/",
+  "Meilleur aspirateur robot 2026 : notre top 10 laveurs",
+  "Meilleur aspirateur robot 2026 : notre top 10",
+  "Roborock, Dreame, Ecovacs, Xiaomi, eufy, Narwal : 10 aspirateurs robots laveurs comparés (aspiration, navigation, station, hauteur) pour votre liste de mariage.",
+  """
+<p>L'aspirateur robot fait partie des cadeaux de mariage qui changent vraiment le quotidien : il passe pendant que vous êtes au travail, et les modèles laveurs s'occupent aussi des sols durs. C'est un cadeau idéal à offrir à plusieurs, car les modèles les plus complets, avec une station qui vide la poussière et lave les serpillières, représentent un budget important. Nous avons retenu dix robots réels vendus en France, du modèle simple au robot avec station tout automatique.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+
+<h2>Le tableau récapitulatif</h2>
+<p>Les données sont celles des fiches des fabricants. « Non précisé » signifie que l'information ne figurait pas sur la fiche consultée. Les puissances d'aspiration sont celles annoncées par les marques, souvent mesurées en tests internes.</p>
+<table><thead><tr><th>Modèle</th><th>Aspiration</th><th>Navigation</th><th>Lavage</th><th>Station</th><th>Hauteur</th></tr></thead><tbody>
+<tr><td>Roborock Qrevo Curv 2 Pro</td><td>25 000 Pa</td><td>LiDAR rétractable + caméra</td><td>2 serpillières rotatives relevables</td><td>Vidage, lavage 100 °C, séchage</td><td>7,98 cm</td></tr>
+<tr><td>Roborock Saros 10R</td><td>Non précisé</td><td>Capteur 3D ToF + caméra</td><td>Serpillières extensibles relevables</td><td>Vidage, lavage 80 °C, séchage</td><td>7,98 cm</td></tr>
+<tr><td>Dreame X50 Ultra Complete</td><td>20 000 Pa</td><td>Laser rétractable + caméra</td><td>Serpillières relevables 10,5 mm</td><td>Vidage, lavage 80 °C, séchage</td><td>8,9 cm (capteur rentré)</td></tr>
+<tr><td>Dreame L40 Ultra AE</td><td>19 000 Pa</td><td>Laser + caméra</td><td>Serpillières relevables 10,5 mm</td><td>Vidage, lavage 75 °C, séchage</td><td>9,7 cm</td></tr>
+<tr><td>Ecovacs Deebot X8 Pro Omni</td><td>18 000 Pa</td><td>dToF + caméra</td><td>Rouleau autonettoyant</td><td>Vidage, lavage 40 à 75 °C, séchage</td><td>9,8 cm</td></tr>
+<tr><td>Narwal Freo Z10 Ultra</td><td>18 000 Pa</td><td>LiDAR + 2 caméras</td><td>2 serpillières relevables 12 mm</td><td>Lavage à l'eau tiède, séchage</td><td>10,96 cm</td></tr>
+<tr><td>Ecovacs Deebot T50 Omni</td><td>15 000 Pa</td><td>LiDAR dToF intégré</td><td>2 plateaux rotatifs relevables 9 mm</td><td>Vidage, lavage 75 °C, séchage</td><td>8,1 cm</td></tr>
+<tr><td>Xiaomi Robot Vacuum X20 Max</td><td>8 000 Pa</td><td>Laser LDS</td><td>Lavettes extensibles, relevables 10 mm</td><td>Vidage, lavage 55 °C, séchage</td><td>9,7 cm</td></tr>
+<tr><td>eufy X10 Pro Omni</td><td>8 000 Pa</td><td>Laser + caméra</td><td>2 patins rotatifs relevables 12 mm</td><td>Vidage, lavage, séchage 45 °C</td><td>Non précisé</td></tr>
+<tr><td>Xiaomi Robot Vacuum S20+</td><td>6 000 Pa</td><td>Laser LDS</td><td>2 serpillières rotatives relevables 7 mm</td><td>Base de charge simple</td><td>9,7 cm</td></tr>
+</tbody></table>
+
+<h2>1. Roborock Qrevo Curv 2 Pro : idéal comme choix global</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut un robot très complet, qui gère seul l'aspiration et le lavage, et se glisse sous les meubles bas.</p>
+<ul>
+<li><strong>Points forts</strong> : Roborock annonce une aspiration de 25 000 Pa (tests internes), un capteur LiDAR entièrement rétractable et une caméra qui reconnaît plus de 200 types d'obstacles, de jour comme de nuit. Deux serpillières rotatives relevables et détachables, et un châssis qui se soulève pour franchir des seuils jusqu'à 4 cm. La station lave les serpillières à l'eau chaude à 100 °C et les sèche à l'air chaud, avec un sac qui évite de vider le robot jusqu'à 65 jours selon la marque.</li>
+<li><strong>Données utiles</strong> : hauteur 7,98 cm, batterie de 6 400 mAh, compatible Alexa, Siri et Google Home, garantie de 2 ans indiquée sur la fiche.</li>
+<li><strong>Limites</strong> : autonomie, bruit et volumes des réservoirs non précisés sur la fiche consultée. La compatibilité Matter est annoncée pour une mise à jour future, pas dès l'achat.</li>
+</ul>
+<p><a href="{AMZ:Roborock Qrevo Curv 2 Pro}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Roborock Saros 10R : idéal pour les meubles bas et les obstacles</h2>
+<p><strong>Pour qui ?</strong> Ceux qui ont beaucoup de meubles bas, des câbles ou des jouets d'animaux qui traînent.</p>
+<ul>
+<li><strong>Points forts</strong> : à la place d'une tourelle laser classique, il utilise un système de détection 3D avec caméra, ce qui garde le robot très plat (7,98 cm). Roborock annonce la reconnaissance de 108 types d'objets et la détection d'objets de 2 cm. Les serpillières s'étendent pour les bords et se détachent automatiquement sur la moquette. La station vide la poussière dans un sac de 2,5 L, lave les serpillières jusqu'à 80 °C, les sèche à l'air chaud et dose le détergent seule. Réservoir d'eau propre de 4 L.</li>
+<li><strong>Données utiles</strong> : bruit annoncé de 55 dB maximum en lavage seul, recharge en 2,5 h, garantie de 2 ans.</li>
+<li><strong>Limites</strong> : la fiche Roborock ne donne pas de chiffre d'aspiration en Pa, et deux pages de la marque indiquent une hauteur de relevage des serpillières différente. Autonomie non précisée.</li>
+</ul>
+<p><a href="{AMZ:Roborock Saros 10R}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Dreame X50 Ultra Complete : idéal pour les grandes surfaces</h2>
+<p><strong>Pour qui ?</strong> Les couples en maison ou en grand appartement, qui veulent nettoyer toute la surface en une seule charge.</p>
+<ul>
+<li><strong>Points forts</strong> : 20 000 Pa d'aspiration, jusqu'à 220 minutes d'autonomie en mode silencieux et jusqu'à 205 m² par charge selon Dreame. Le capteur laser se rétracte pour passer sous les meubles, et la caméra reconnaît jusqu'à 200 types d'objets. La station vide la poussière (sac de 3,2 L, jusqu'à 100 jours), lave les serpillières jusqu'à 80 °C et les sèche. Réservoirs de 4,5 L d'eau propre et 4 L d'eau sale.</li>
+<li><strong>Données utiles</strong> : hauteur 8,9 cm capteur rentré, 11,1 cm capteur sorti. Assistant vocal intégré, compatible Alexa, Google Home et Siri. Garantie de 3 ans selon Dreame, qui précise qu'elle peut varier selon les régions.</li>
+<li><strong>Limites</strong> : il était indiqué en rupture de stock sur le site de Dreame lors de notre consultation : vérifiez la disponibilité avant de l'ajouter à votre liste.</li>
+</ul>
+<p><a href="{AMZ:Dreame X50 Ultra Complete}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Dreame L40 Ultra AE : idéal pour une station complète à budget plus contenu</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent les fonctions d'une station haut de gamme sans viser le modèle le plus récent.</p>
+<ul>
+<li><strong>Points forts</strong> : 19 000 Pa d'aspiration, autonomie jusqu'à 180 minutes et 168 m² par charge selon Dreame. Évitement des obstacles par caméra et éclairage 3D, serpillières relevables de 10,5 mm et extension des serpillières à activer dans l'application. Station avec sac de 3,2 L, lavage à 75 °C et séchage à l'air chaud, réservoirs de 4,5 L et 4 L.</li>
+<li><strong>Données utiles</strong> : hauteur 9,7 cm, batterie de 5 200 mAh, compatible Alexa, Siri et Google Home.</li>
+<li><strong>Limites</strong> : plus haut que les Roborock, il passera sous moins de meubles. Durée de garantie non précisée sur la fiche.</li>
+</ul>
+<p><a href="{AMZ:Dreame L40 Ultra AE}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Ecovacs Deebot X8 Pro Omni : idéal pour un lavage par rouleau</h2>
+<p><strong>Pour qui ?</strong> Ceux qui ont surtout des sols durs et veulent un lavage qui frotte en continu plutôt que des serpillières rotatives.</p>
+<ul>
+<li><strong>Points forts</strong> : au lieu de deux serpillières, il utilise un rouleau autonettoyant (OZMO Roller) arrosé par 16 jets et tournant à 200 tours par minute selon Ecovacs. Aspiration de 18 000 Pa, capteur de bord 3D pour les coins. La station vide la poussière, lave à l'eau chaude de 40 à 75 °C et sèche à 63 °C. Réservoirs de 4 L d'eau propre et 4 L d'eau sale.</li>
+<li><strong>Données utiles</strong> : hauteur 9,8 cm, bruit annoncé de 65 dBA pour le robot, commande vocale YIKO intégrée.</li>
+<li><strong>Limites</strong> : relevage du rouleau sur tapis, autonomie et garantie non précisés sur la fiche consultée.</li>
+</ul>
+<p><a href="{AMZ:Ecovacs Deebot X8 Pro Omni}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Narwal Freo Z10 Ultra : idéal pour les détails et les petits objets</h2>
+<p><strong>Pour qui ?</strong> Les foyers où traînent chaussettes, câbles et petits objets, et qui veulent un robot attentif.</p>
+<ul>
+<li><strong>Points forts</strong> : 18 000 Pa, LiDAR et deux caméras de 136° avec deux puces d'IA, capables selon Narwal de détecter des objets dès 8 mm. Deux serpillières de forme triangulaire, pour mieux atteindre les angles, avec une pression de 8 N et un relevage de 12 mm. La station lave à l'eau tiède et sèche les serpillières.</li>
+<li><strong>Données utiles</strong> : hauteur 10,96 cm, bruit annoncé sous 56 dB, compatible Alexa, Siri et Google Home, garantie de 2 ans.</li>
+<li><strong>Limites</strong> : c'est le plus haut de la sélection, il passera sous moins de meubles. La fiche ne précise ni l'autonomie, ni les volumes des réservoirs, ni clairement le vidage automatique (elle mentionne un sac de 2,5 L).</li>
+</ul>
+<p><a href="{AMZ:Narwal Freo Z10 Ultra}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Ecovacs Deebot T50 Omni : idéal pour un robot très plat</h2>
+<p><strong>Pour qui ?</strong> Ceux qui ont un canapé ou un lit bas et veulent un robot qui passe dessous, avec une station complète.</p>
+<ul>
+<li><strong>Points forts</strong> : le capteur LiDAR est intégré dans le robot, sans tourelle, pour une hauteur de 81 mm selon Ecovacs. Aspiration de 15 000 Pa, deux plateaux rotatifs relevables jusqu'à 9 mm. La station vide la poussière, lave à 75 °C et sèche à 45 °C, avec des réservoirs de 4 L d'eau propre et 4 L d'eau sale.</li>
+<li><strong>Données utiles</strong> : bruit annoncé de 63 dBA, compatible Alexa et Google Assistant, assistant YIKO intégré.</li>
+<li><strong>Limites</strong> : autonomie et garantie non précisées sur la fiche. Sur Amazon, des versions Gen2 et Gen3 plus puissantes existent sous un nom proche : vérifiez la version choisie.</li>
+</ul>
+<p><a href="{AMZ:Ecovacs Deebot T50 Omni}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Xiaomi Robot Vacuum X20 Max : idéal pour une station à prix plus doux</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut une station qui vide et lave, avec un budget plus raisonnable.</p>
+<ul>
+<li><strong>Points forts</strong> : 8 000 Pa (tests internes Xiaomi), navigation laser, lavettes extensibles jusqu'à 40 mm pour les bords et relevage de 10 mm sur tapis. La station vide la poussière (jusqu'à 75 jours sans vider le sac selon Xiaomi), lave les lavettes à environ 55 °C et les sèche à l'air chaud. Autonomie jusqu'à 120 minutes en mode standard.</li>
+<li><strong>Données utiles</strong> : réf. D109GL, hauteur 9,7 cm, réservoir d'eau propre de 4 L, compatible Alexa et Assistant Google.</li>
+<li><strong>Limites</strong> : aspiration nettement inférieure aux modèles haut de gamme de cette sélection. Garantie et volume du réservoir d'eau sale non précisés.</li>
+</ul>
+<p><a href="{AMZ:Xiaomi Robot Vacuum X20 Max}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>9. eufy X10 Pro Omni : idéal pour un bon équilibre de fonctions</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent un robot laveur avec station complète et évitement d'obstacles par caméra, sans viser les modèles les plus puissants.</p>
+<ul>
+<li><strong>Points forts</strong> : 8 000 Pa, navigation laser et évitement par caméra de plus de 100 types d'objets, y compris la nuit. Deux patins rotatifs à 180 tours par minute avec une pression de 1 kg et un relevage de 12 mm. La station vide la poussière dans un sac de 2,5 L à changer environ tous les deux mois, lave les patins et les sèche à l'air chaud à 45 °C. Réservoir d'eau propre de 3 L.</li>
+<li><strong>Données utiles</strong> : réf. T2351G11, application eufy Clean.</li>
+<li><strong>Limites</strong> : autonomie, hauteur, bruit et commande vocale non précisés sur la fiche consultée. Durée de garantie non indiquée clairement.</li>
+</ul>
+<p><a href="{AMZ:eufy X10 Pro Omni}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>10. Xiaomi Robot Vacuum S20+ : idéal pour un premier robot à petit budget</h2>
+<p><strong>Pour qui ?</strong> Les petits appartements et les couples qui veulent essayer le robot sans station encombrante, ou les invités qui cherchent un cadeau plus abordable.</p>
+<ul>
+<li><strong>Points forts</strong> : 6 000 Pa sur 4 niveaux, navigation laser, deux serpillières rotatives relevables jusqu'à 7 mm. Autonomie jusqu'à 170 minutes en mode standard selon Xiaomi. Sa base de charge est compacte.</li>
+<li><strong>Données utiles</strong> : réf. B108GL, hauteur 9,7 cm, compatible Alexa et Assistant Google.</li>
+<li><strong>Limites</strong> : pas de station de vidage ni de lavage, il faut vider le bac et rincer les serpillières à la main. Garantie non précisée sur la fiche.</li>
+</ul>
+<p><a href="{AMZ:Xiaomi Robot Vacuum S20+}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir son aspirateur robot</h2>
+<h3>Avec ou sans station ?</h3>
+<p>Une station de vidage évite de vider le bac après chaque passage. Une station qui lave et sèche les serpillières fait la différence si vous avez beaucoup de sols durs. En contrepartie, elle est encombrante : mesurez l'emplacement prévu, avec un accès à une prise et un peu d'espace devant.</p>
+<h3>Serpillières, rouleau ou aspiration seule ?</h3>
+<p>Les serpillières rotatives sont les plus courantes, le rouleau frotte en continu. Si vous avez des tapis, préférez un robot qui relève ses serpillières, et regardez la hauteur de relevage : plus elle est grande, plus les tapis épais restent secs.</p>
+<h3>La hauteur et la navigation</h3>
+<p>Mesurez la hauteur sous votre canapé et votre lit : de 8 à 11 cm environ dans cette sélection. La navigation laser ou 3D permet de cartographier le logement, de créer des zones interdites et de nettoyer pièce par pièce. Une caméra d'évitement aide à contourner câbles et petits objets.</p>
+<h3>Le logement</h3>
+<p>Dans un petit appartement sans tapis, un modèle simple suffit souvent. Dans une grande maison avec plusieurs types de sols, l'autonomie et la station comptent davantage. Si vous hésitez, un <a href="{AMZ:aspirateur robot laveur station}" rel="sponsored nofollow noopener" target="_blank">robot laveur avec station</a> reste le plus confortable au quotidien. Pensez aussi aux consommables, comme les <a href="{AMZ:sacs station aspirateur robot}" rel="sponsored nofollow noopener" target="_blank">sacs de station</a> et les serpillières de rechange, qui font de petits cadeaux utiles.</p>
+
+<h2>Dans votre liste de mariage</h2>
+<p>Un robot laveur est un cadeau parfait pour une participation de plusieurs invités. Il ne remplace pas toujours un aspirateur classique pour les escaliers ou la voiture : comparez avec notre <a href="{R}meilleur-aspirateur-balai/">top des aspirateurs balais</a> et notre guide pour <a href="{R}comment-choisir-aspirateur-balai/">choisir un aspirateur balai sans fil</a>. Pour ne rien oublier, utilisez notre <a href="{R}checklist/">checklist par pièce</a>.</p>
+""",
+  faq=[("Quel est le meilleur aspirateur robot en 2026 ?", "Il n'y a pas de modèle idéal pour tout le monde. Comme choix global, nous retenons le Roborock Qrevo Curv 2 Pro. Pour un robot très plat, le Roborock Saros 10R ou l'Ecovacs Deebot T50 Omni, et pour un petit budget, le Xiaomi Robot Vacuum S20+."),
+       ("Un aspirateur robot remplace-t-il un aspirateur classique ?", "Il assure l'entretien quotidien des sols, mais il ne monte pas les escaliers et ne nettoie ni les canapés ni la voiture. Beaucoup de foyers gardent un aspirateur balai en complément."),
+       ("La station automatique vaut-elle le coup ?", "Elle évite de vider le bac et de laver les serpillières à la main, ce qui rend le robot vraiment autonome. Elle demande en revanche de la place et l'achat régulier de sacs.")],
+  short="Top 10 aspirateurs robots")

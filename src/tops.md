@@ -9,7 +9,7 @@
 - [x] meilleure-valise-voyage-de-noces/ | meilleure valise voyage de noces | valises soute et cabine rigides : Samsonite, Delsey, American Tourister, Cabin Zero, Eminent
 - [x] meilleur-service-de-table/ | meilleur service de table | services complets porcelaine et grès : Revol, Pillivuyt, Villeroy & Boch, Table Passion, Arcopal
 - [x] meilleure-batterie-de-cuisine/ | meilleure batterie de cuisine | sets de casseroles et poêles : Tefal Ingenio, Cristel, de Buyer, Le Creuset, WMF
-- [ ] meilleur-aspirateur-robot/ | meilleur aspirateur robot | robots aspirateurs laveurs : Roborock, iRobot Roomba, Dreame, Ecovacs, Xiaomi
+- [x] meilleur-aspirateur-robot/ | meilleur aspirateur robot | robots aspirateurs laveurs : Roborock, iRobot Roomba, Dreame, Ecovacs, Xiaomi
 - [ ] meilleure-urne-mariage/ | urne mariage | urnes et tirelires pour cartes et enveloppes : bois, cage, coffre, valise
 - [ ] meilleur-livre-d-or-mariage/ | livre d'or mariage | livres d'or reliés, arbre à empreintes, cadres signature, Polaroid
 - [ ] meilleurs-cadeaux-invites/ | cadeaux invités mariage | dragées, bougies, savons, sachets de graines, mini pots
