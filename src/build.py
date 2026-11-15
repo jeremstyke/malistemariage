@@ -230,9 +230,9 @@ def build():
 <div class="hero-tx">
 <h1>Votre liste de mariage, prête en 10 minutes</h1>
 <p class="hero-p">{total} idées de cadeaux triées par pièce, de la cocotte aux valises du voyage de noces. Vous cochez, vous comparez les modèles en un clic, et vous remplissez votre liste en ligne sans rien oublier.</p>
-<div class="hbtn"><a class="btn big" href="{{R}}checklist/">Commencer la checklist</a>
-<a class="btn ghost big" href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créer notre liste en ligne</a></div>
-<p class="hero-note">Gratuit. Connectez-vous en un clic par e-mail pour <a href="{{R}}compte/">tout sauvegarder et partager votre liste</a>.</p>
+<div class="hbtn"><a class="btn big" href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créer notre liste</a>
+<a class="btn ghost big" href="{{R}}checklist/">Voir la checklist</a></div>
+<p class="hero-note"><strong>1.</strong> Créez votre liste de mariage sur Amazon, c'est gratuit (<a href="{{R}}ou-faire-sa-liste-de-mariage/">pourquoi Amazon ?</a>). <strong>2.</strong> Remplissez-la avec notre checklist, pièce par pièce.</p>
 </div>
 {HERO_TAG}
 </div></section>
@@ -243,12 +243,11 @@ def build():
 <div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, à deux, et vous pouvez la partager à vos invités.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
 </section>
 <div class="wave-top"><svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 240 70 480 0 720 25 C 960 50 1200 10 1440 30 L1440 60 L0 60 Z"/></svg></div><section class="band"><div class="wrap block">
-<h2>En 4 étapes</h2>
+<h2>Comment ça marche</h2>
 <ol class="steps">
-<li><strong>Cochez</strong><span>les cadeaux qui vous font envie dans la <a href="{{R}}checklist/">checklist</a>.</span></li>
-<li><strong>Ajoutez</strong><span>chaque article à votre liste en ligne (<a href="{{R}}ou-faire-sa-liste-de-mariage/">où la faire ?</a>).</span></li>
-<li><strong>Partagez</strong><span>votre liste avec nos <a href="{{R}}message-liste-de-mariage/">textes tout prêts</a>.</span></li>
-<li><strong>Remerciez</strong><span>vos invités avec nos <a href="{{R}}remerciements-mariage/">modèles de remerciements</a>.</span></li>
+<li><strong>Créez votre liste</strong><span>sur Amazon, gratuitement : <a href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">créer notre liste</a>.</span></li>
+<li><strong>Remplissez-la</strong><span>avec la <a href="{{R}}checklist/">checklist</a> : pour chaque article, « Voir » vous montre les modèles à ajouter.</span></li>
+<li><strong>Partagez-la</strong><span>avec vos invités grâce à nos <a href="{{R}}message-liste-de-mariage/">textes tout prêts</a>.</span></li>
 </ol></div></section><div class="wave-bot"><svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 240 70 480 0 720 25 C 960 50 1200 10 1440 30 L1440 60 L0 60 Z"/></svg></div>
 <section class="wrap block">
 <h2>Les guides des futurs mariés</h2>
@@ -273,6 +272,7 @@ def build():
     # Checklist
     ck = f'''<section class="wrap pagehead"><h1>Checklist liste de mariage</h1>
 <p class="lead">{total} idées de cadeaux triées par pièce. Cochez ce que vous voulez mettre dans votre liste : vos choix restent enregistrés sur cet appareil.</p></section>
+<div class="wrap"><p class="ck-first">Pas encore de liste ? <a href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créez d'abord votre liste de mariage sur Amazon</a> (gratuit), puis remplissez-la ici article par article.</p></div>
 <div class="wrap"><div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, à deux, et vous pouvez la partager à vos invités.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
 {tool}
 {CTA}
