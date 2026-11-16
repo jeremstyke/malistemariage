@@ -9,7 +9,7 @@
 - [x] comment-choisir-machine-a-cafe-grain/ | comment choisir une machine à café à grain | broyeur, lait, entretien, budget
 - [x] comment-choisir-valise-cabine/ | comment choisir une valise cabine | dimensions compagnies, rigide ou souple, roues
 - [x] comment-choisir-couette/ | comment choisir sa couette | grammage, saisons, taille, naturelle ou synthétique
-- [ ] comment-choisir-robot-aspirateur/ | comment choisir un robot aspirateur | navigation, serpillière, base, logement
+- [x] comment-choisir-robot-aspirateur/ | comment choisir un robot aspirateur | navigation, serpillière, base, logement
 - [ ] comment-choisir-centrale-vapeur/ | comment choisir une centrale vapeur | pression, réservoir, défroisseur ou fer
 - [ ] comment-choisir-plancha/ | comment choisir une plancha | électrique ou gaz, surface, revêtement
 - [ ] comment-choisir-blender/ | comment choisir un blender | puissance, chauffant, bol, usages

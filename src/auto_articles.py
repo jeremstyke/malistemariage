@@ -1411,3 +1411,189 @@ g("meilleure-urne-mariage/",
        ("Comment sécuriser l'urne pendant le mariage ?", "Choisissez un modèle avec serrure ou ajoutez un cadenas, placez-la près de la table d'honneur et confiez-la à une personne de confiance qui la range en fin de soirée."),
        ("Quelle taille d'urne prévoir ?", "Elle doit accueillir toutes les enveloppes sans qu'on doive les tasser. Pour un grand mariage, une urne d'environ 35 cm de long comme la LAUBLUST laisse de la marge. Pour un petit comité, un modèle de 22 à 25 cm suffit souvent.")],
   short="Top 8 urnes de mariage")
+
+AUTO_META['comment-choisir-robot-aspirateur/'] = ('🤖', 'ciel')
+g("comment-choisir-robot-aspirateur/",
+  "Comment choisir un robot aspirateur : navigation, lavage, station",
+  "Comment choisir un robot aspirateur",
+  "Navigation laser ou caméra, serpillière, station de vidage, hauteur sous les meubles : les critères pour choisir un robot aspirateur adapté à votre logement.",
+  """
+<p>Pour bien choisir un robot aspirateur, regardez d'abord trois choses : sa navigation (un capteur laser de type LiDAR pour un robot qui sait où il va), la hauteur de vos meubles, et la présence ou non d'une station qui vide le bac. Le reste, comme la puissance affichée en pascals ou le nombre de modes, compte beaucoup moins qu'on ne le croit.</p>
+<p>C'est un cadeau de mariage qui plaît parce qu'il fait gagner du temps chaque semaine, mais aussi un cadeau qui déçoit quand il est mal choisi : un robot qui se coince sous le canapé ou qui tourne en rond, on finit par le ranger dans un placard. Voici comment éviter ça.</p>
+{CTA}
+<h2>Laser, caméra ou gyroscope : comment le robot se repère-t-il ?</h2>
+<p>C'est le critère qui fait la plus grande différence au quotidien. Un robot qui se repère bien nettoie la pièce en lignes droites, revient à sa base tout seul et vous laisse dessiner des zones interdites dans l'application. Un robot qui se repère mal avance un peu au hasard et oublie des coins.</p>
+<ul>
+<li><strong>Le laser (LiDAR)</strong> : une petite tourelle sur le dessus mesure les distances tout autour du robot pour dessiner une carte du logement. C'est la technologie la plus courante sur les robots de milieu et haut de gamme, et elle fonctionne aussi dans le noir.</li>
+<li><strong>La caméra</strong> : elle sert surtout à reconnaître les obstacles au sol (câbles, chaussettes, gamelle du chat). Sur les modèles récents, elle s'ajoute souvent au laser plutôt que de le remplacer.</li>
+<li><strong>Le gyroscope</strong> : on le trouve sur les robots d'entrée de gamme. Le robot compte ses déplacements sans vraiment voir la pièce. Il nettoie, mais de façon moins méthodique, et sans vraie carte.</li>
+</ul>
+<p>Notre conseil : pour un logement de plus de deux pièces, visez au minimum un robot avec navigation laser. C'est ce qui sépare un robot qu'on oublie (parce qu'il fait le travail) d'un robot qu'on surveille.</p>
+<h2>Votre logement : les questions à se poser avant</h2>
+<p>Avant de comparer les fiches, faites le tour de chez vous avec un mètre. Par exemple, si votre canapé et votre lit laissent 9 cm sous eux, un robot de 10 cm ne passera pas dessous, et c'est justement là que la poussière s'accumule. Les robots courants mesurent souvent autour de 9 à 10 cm de haut, et certains modèles plats descendent sous les 8 cm grâce à un capteur laser qui se rétracte.</p>
+<p>Regardez ensuite les seuils de porte. La plupart des robots franchissent un petit seuil, mais une barre de seuil haute ou un tapis épais à franges peut les bloquer. Les fabricants donnent en général la hauteur franchissable sur la fiche : comparez-la à vos seuils réels, pas à une estimation.</p>
+<p>Enfin, pensez aux escaliers. Tous les robots ont des capteurs anti-chute, mais un robot ne monte pas les marches : dans une maison à étage, il faut le porter, ou accepter qu'il ne nettoie qu'un niveau. Les bons modèles savent garder plusieurs cartes en mémoire, une par étage.</p>
+<h2>Aspirer seulement, ou aspirer et laver ?</h2>
+<p>Beaucoup de robots sont aujourd'hui « laveurs ». Mais derrière ce mot, il y a deux réalités très différentes. Le lavage simple consiste en une lingette humide tirée derrière le robot : ça rafraîchit le sol, sans enlever une tache sèche. Le lavage plus efficace utilise des serpillières rotatives ou un rouleau qui frotte le sol.</p>
+<p>Ce qui compte vraiment, si vous avez des tapis, c'est la capacité du robot à relever ou retirer ses serpillières. Sans ça, il mouille le tapis ou évite carrément de passer dessus. Si vous avez surtout du parquet et du carrelage, le lavage vaut le coup. Si votre logement est surtout en moquette, un robot qui aspire seulement suffit et coûte moins cher.</p>
+<h2>La station : un vrai confort ou un gadget ?</h2>
+<p>La station, c'est la base sur laquelle le robot se recharge. Sur les modèles les plus simples, elle ne fait que recharger. Sur les autres, elle peut aussi :</p>
+<table><thead><tr><th>Type de station</th><th>Ce qu'elle fait</th><th>Ce qu'il vous reste à faire</th><th>Pour qui ?</th></tr></thead><tbody>
+<tr><td>Base de charge simple</td><td>Recharge le robot</td><td>Vider le bac après chaque passage ou presque</td><td>Petit appartement, budget serré</td></tr>
+<tr><td>Station de vidage</td><td>Aspire le contenu du bac dans un sac</td><td>Changer le sac de temps en temps</td><td>Animaux, grand logement</td></tr>
+<tr><td>Station de vidage et lavage</td><td>Vide le bac, lave et parfois sèche les serpillières</td><td>Remplir l'eau propre, vider l'eau sale</td><td>Beaucoup de sols durs</td></tr>
+<tr><td>Station avec raccord à l'eau</td><td>Tout ce qui précède, branchée sur l'arrivée et l'évacuation d'eau</td><td>Presque rien</td><td>Ceux qui peuvent la raccorder</td></tr>
+</tbody></table>
+<p>La station de vidage est le vrai changement : le bac d'un robot est petit, et sans elle il faut le vider très souvent, surtout avec un animal. La station complète est pratique, mais elle est grande. Mesurez l'endroit où vous la poserez avant de l'ajouter à votre liste : il faut aussi de la place devant pour que le robot y accoste.</p>
+<h2>Les chiffres de la fiche : lesquels croire ?</h2>
+<p>La puissance d'aspiration en pascals (Pa) grimpe chaque année et sert surtout d'argument commercial. Elle est mesurée par les marques elles-mêmes, dans des conditions qui ne sont pas comparables d'une marque à l'autre. Un robot à 8 000 Pa bien conçu nettoie très bien un appartement.</p>
+<p>L'autonomie annoncée correspond souvent au mode le plus économe. Ce n'est pas grave sur un bon robot à navigation laser : quand la batterie faiblit, il rentre se recharger puis reprend là où il s'était arrêté. Vérifiez simplement que cette fonction existe.</p>
+<p>Les chiffres qui méritent votre attention, ce sont plutôt la hauteur, le franchissement de seuil, le volume du réservoir d'eau propre de la station et la disponibilité des pièces d'usure (brosses, filtres, sacs). Un robot dont on ne trouve plus les sacs dans deux ans devient vite un problème.</p>
+<h2>Les erreurs les plus fréquentes</h2>
+<ul>
+<li><strong>Choisir sur la puissance</strong> plutôt que sur la navigation et la hauteur.</li>
+<li><strong>Oublier le désordre</strong> : un robot ne range pas. Si le sol est encombré de câbles et de chaussures, même le meilleur s'arrête souvent.</li>
+<li><strong>Négliger l'entretien</strong> : brosses à démêler, filtre à taper, serpillières à changer. Prévoyez un <a href="{AMZ:kit accessoires robot aspirateur}" rel="sponsored nofollow noopener" target="_blank">kit d'accessoires de rechange</a> compatible avec votre modèle.</li>
+<li><strong>Prendre une station trop grande</strong> pour un petit logement, où elle prendra la place d'un meuble.</li>
+</ul>
+<h2>Quel budget prévoir ?</h2>
+<p>Les prix changent vite dans cette catégorie, avec beaucoup de promotions, mais la logique reste la même. Un <a href="{AMZ:robot aspirateur navigation laser}" rel="sponsored nofollow noopener" target="_blank">robot à navigation laser sans station</a> suffit pour un appartement. Un <a href="{AMZ:robot aspirateur station vidage automatique}" rel="sponsored nofollow noopener" target="_blank">modèle avec station de vidage</a> est le bon compromis pour une maison ou avec un animal. Les <a href="{AMZ:robot aspirateur laveur station lavage serpillière}" rel="sponsored nofollow noopener" target="_blank">robots laveurs avec station complète</a> sont les plus chers et font un très bon cadeau à offrir à plusieurs.</p>
+<p>Pour des modèles précis, avec leurs caractéristiques relevées sur les fiches des fabricants, consultez notre <a href="{R}meilleur-aspirateur-robot/">top 10 des aspirateurs robots</a>. Si vous hésitez avec un aspirateur classique, notre guide <a href="{R}comment-choisir-aspirateur-balai/">pour choisir un aspirateur balai</a> vous aidera : beaucoup de couples finissent par avoir les deux, le robot pour l'entretien quotidien et le balai pour les miettes et les escaliers.</p>
+<h2>Dans votre liste de mariage</h2>
+<p>Un robot aspirateur avec station représente un budget important pour un seul invité. Placez-le dans une partie de liste où plusieurs proches peuvent participer, ou associez-le à une cagnotte. Nous comparons ces options dans <a href="{R}liste-de-mariage-ou-cagnotte/">liste de mariage ou cagnotte</a>. Et pour équiper le reste de la maison sans rien oublier, suivez notre <a href="{R}checklist/">checklist par pièce</a>.</p>
+""",
+  faq=[("Quel type de navigation choisir pour un robot aspirateur ?", "Pour un logement de plus de deux pièces, un robot avec navigation laser (LiDAR) est le meilleur choix : il dessine une carte, nettoie méthodiquement et revient seul à sa base. Une caméra en plus aide à éviter les petits obstacles au sol."),
+       ("Un robot aspirateur laveur remplace-t-il la serpillière ?", "Pour l'entretien régulier des sols durs, en grande partie, surtout avec des serpillières rotatives ou un rouleau. Pour une tache sèche ou un gros nettoyage, un passage à la main reste utile."),
+       ("Faut-il une station de vidage automatique ?", "Elle n'est pas obligatoire dans un petit appartement, mais devient très pratique avec un animal ou une grande surface, car le bac du robot se remplit vite.")],
+  short="Choisir un robot aspirateur")
+
+AUTO_META['meilleur-livre-d-or-mariage/'] = ('🏆', 'miel')
+g("meilleur-livre-d-or-mariage/",
+  "Meilleur livre d'or mariage 2026 : top 10 reliés, photo, bois",
+  "Meilleur livre d'or de mariage 2026 : notre top 10",
+  "Exacompta, Goldbuch, Clairefontaine, Rössler, cadre à cœurs en bois, arbre à empreintes, téléphone audio : 10 livres d'or de mariage comparés, avec leurs limites.",
+  """
+<p>Le meilleur livre d'or de mariage, pour la plupart des couples, reste un vrai livre relié au papier épais, assez grand pour que chacun écrive quelques lignes sans se serrer. Le livre d'or Kraft d'Exacompta coche ces cases, avec 100 pages de papier Clairefontaine qui ne laisse pas traverser l'encre. Si vous voulez autre chose qu'un livre, un cadre à cœurs en bois ou un arbre à empreintes se transforme en décoration pour la maison.</p>
+<p>Le livre d'or a une particularité : c'est l'un des rares objets du mariage que vous relirez dans dix ans. Il vaut donc mieux le choisir avec soin que l'attraper au dernier moment. Nous avons retenu dix modèles réels vendus sur Amazon.fr, dans des styles très différents.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Précision utile : pour la plupart de ces produits, la seule information détaillée disponible est le descriptif de la fiche Amazon. Seul Exacompta publie une fiche complète sur son propre site. Quand une donnée manque, nous l'indiquons « non précisé » plutôt que de la deviner. Ouvrez la fiche et regardez les photos avant de choisir.</p>
+
+<h2>Les 10 livres d'or en un coup d'œil</h2>
+<table><thead><tr><th>Modèle</th><th>Type</th><th>Format</th><th>Pages ou pièces</th><th>À noter</th></tr></thead><tbody>
+<tr><td>Exacompta Livre d'or Kraft 47234E</td><td>Livre relié</td><td>27 x 22 cm</td><td>100 pages blanches</td><td>Papier Clairefontaine, tranche or</td></tr>
+<tr><td>Goldbuch Mr. &amp; Mrs. 50161</td><td>Livre relié</td><td>25 x 23,5 cm</td><td>176 pages chamois</td><td>Reliure cousue, marque-page</td></tr>
+<tr><td>Goldbuch Ti Amo 48015</td><td>Livre relié</td><td>23 x 25 cm</td><td>176 pages</td><td>Couverture blanc irisé</td></tr>
+<tr><td>Clairefontaine Egérie 115446C</td><td>Livre relié</td><td>A5 (14,8 x 21 cm)</td><td>160 pages ivoire 90 g</td><td>Le plus compact</td></tr>
+<tr><td>Rössler Two Hearts</td><td>Album ou livre d'or</td><td>22 x 18 cm</td><td>60 pages blanches</td><td>Cœur appliqué et ruban</td></tr>
+<tr><td>SumDirect livre d'or Polaroid</td><td>Livre photo et messages</td><td>Non précisé</td><td>150 pages lignées</td><td>Couverture rigide</td></tr>
+<tr><td>AHANDMAKER arbre à empreintes</td><td>Tableau à empreintes</td><td>Non précisé</td><td>Non précisé</td><td>Cadre en bois, 4 tampons encreurs</td></tr>
+<tr><td>Creawoo cadre à cœurs</td><td>Cadre à signer</td><td>Non précisé</td><td>95 cœurs</td><td>Les cœurs se glissent par le haut</td></tr>
+<tr><td>FORMIZON cœurs en bois</td><td>Cadre à signer</td><td>Non précisé</td><td>80 cœurs</td><td>2 marqueurs, boîte, personnalisable</td></tr>
+<tr><td>FESTRING livre d'or audio</td><td>Téléphone enregistreur</td><td>Non précisé</td><td>Messages vocaux</td><td>Style vintage, noir</td></tr>
+</tbody></table>
+
+<h2>1. Exacompta Livre d'or Kraft 47234E : notre choix pour la plupart des mariages</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent un livre d'or classique, solide, avec un papier sur lequel on écrit bien au stylo comme au feutre.</p>
+<p>C'est le modèle de la sélection sur lequel nous avons le plus d'informations, car le fabricant publie une fiche détaillée. Et ces détails sont justement ceux qui comptent pour un livre d'or.</p>
+<ul>
+<li><strong>Points forts</strong> : 100 pages blanches unies (50 feuilles) en papier Clairefontaine, décrit par Exacompta comme assez épais pour que l'encre ne traverse pas. On peut donc écrire au recto et au verso. Format vertical de 27 x 22 cm, tranche dorée, couverture cartonnée couleur kraft avec un motif végétal blanc et le titre « Livre d'or » en lettres dorées. Il est livré dans un coffret transparent. Conçu à Paris et fabriqué dans les usines françaises de la marque.</li>
+<li><strong>Limites</strong> : le grammage exact des pages et le type de reliure ne sont pas précisés. Avec 100 pages, il convient bien jusqu'à environ une centaine d'invités qui écrivent peu ; pour un très grand mariage, un modèle de 176 pages laisse plus de marge.</li>
+</ul>
+<p>La même marque propose une version à couverture motif palmier (réf. 47981E), au même format et avec le même nombre de pages, si le kraft ne va pas avec votre décoration.</p>
+<p><a href="{AMZ:Exacompta 47234E livre d'or kraft}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Goldbuch Mr. &amp; Mrs. 50161 : pour les grands mariages</h2>
+<p><strong>Pour qui ?</strong> Les mariages avec beaucoup d'invités, ou les couples qui aiment l'idée d'un livre épais où chacun prend une page entière.</p>
+<ul>
+<li><strong>Points forts</strong> : 176 pages de papier chamois, une teinte crème plus douce que le blanc pur. La fiche annonce une reliure cousue au fil, ce qui permet en général au livre de mieux s'ouvrir à plat qu'une reliure collée. Couverture avec motif deux cœurs, dorure et relief, et un marque-page fourni. Format de 25 x 23,5 cm.</li>
+<li><strong>Limites</strong> : le descriptif sur Amazon.fr est en partie mal traduit de l'allemand, ce qui laisse un doute sur la matière exacte de la couverture. Grammage non précisé.</li>
+</ul>
+<p><a href="{AMZ:Goldbuch 50161 livre d'or Mr Mrs}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Goldbuch Ti Amo 48015 : pour une couverture blanche et sobre</h2>
+<p><strong>Pour qui ?</strong> Les décorations blanches et romantiques, pour qui le kraft fait trop champêtre.</p>
+<ul>
+<li><strong>Points forts</strong> : couverture rigide cartonnée blanc irisé, 176 pages, format de 23 x 25 cm. Même nombre de pages que le modèle Mr. &amp; Mrs. de la même marque, donc assez de place pour un grand mariage.</li>
+<li><strong>Limites</strong> : papier, reliure et accessoires non précisés sur la fiche. Une couverture blanche se salit plus vite qu'une couverture foncée : posez-le sur une table propre, loin du bar.</li>
+</ul>
+<p><a href="{AMZ:Goldbuch 48015 Ti Amo livre d'or}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Clairefontaine Egérie 115446C : pour un petit mariage</h2>
+<p><strong>Pour qui ?</strong> Les mariages en petit comité, les mariages civils avec un repas en famille, ou en second livre d'or pour une autre table.</p>
+<ul>
+<li><strong>Points forts</strong> : format A5, soit 14,8 x 21 cm, avec 160 pages unies en papier Clairefontaine ivoire de 90 g. Couverture rigide rembordée, en papier grain fin à motifs floraux.</li>
+<li><strong>Limites</strong> : c'est de loin le plus petit format de cette sélection. Il manque de place pour coller des photos à côté des messages. Reliure non précisée.</li>
+</ul>
+<p>Notre conseil : ne le prenez pas pour un mariage de 150 personnes. Le petit format pousse les invités à écrire deux lignes, alors qu'une grande page les invite à se lâcher un peu plus.</p>
+<p><a href="{AMZ:Clairefontaine 115446C livre d'or}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Rössler Two Hearts : pour mélanger photos et messages</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent un objet entre l'album et le livre d'or, à compléter après le mariage avec quelques photos.</p>
+<ul>
+<li><strong>Points forts</strong> : 60 pages blanches (30 feuilles), au format de 22 x 18 cm, avec une couverture blanche ornée d'un cœur appliqué et d'un ruban.</li>
+<li><strong>Limites</strong> : 60 pages, c'est peu pour un grand mariage si chaque invité prend une page. Papier et reliure non précisés, et la fiche Amazon.fr est affichée en anglais.</li>
+</ul>
+<p><a href="{AMZ:Rössler Papier Two Hearts livre d'or}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. SumDirect livre d'or Polaroid : pour un coin photo instantanée</h2>
+<p><strong>Pour qui ?</strong> Les couples qui prévoient un appareil photo instantané à disposition des invités, pour que chacun colle sa photo à côté de son message.</p>
+<p>Le principe plaît beaucoup : dans vingt ans, vous aurez le visage de chaque invité le jour J, et pas seulement sa signature.</p>
+<ul>
+<li><strong>Points forts</strong> : couverture rigide et 150 pages lignées prévues pour les photos et les messages.</li>
+<li><strong>Limites</strong> : format, papier et emplacements photo non précisés sur la fiche. Les lignes aident à écrire droit mais limitent un peu la mise en page autour d'une photo. Surtout, ce livre ne sert à rien sans appareil, sans films en quantité et sans quelqu'un qui surveille le coin photo.</li>
+</ul>
+<p>Si vous préférez des pages noires, une autre fiche propose un « livre d'or de mariage pour Polaroid » à spirale et couverture rigide, de 80 pages noires au format 20,3 x 25,4 cm, livré avec un marqueur et des autocollants. La marque n'y est pas clairement indiquée.</p>
+<p>Prévoyez des <a href="{AMZ:films Instax Mini}" rel="sponsored nofollow noopener" target="_blank">films photo instantanés</a> en quantité, du <a href="{AMZ:ruban adhésif double face photo}" rel="sponsored nofollow noopener" target="_blank">double face</a> et un <a href="{AMZ:feutre posca blanc}" rel="sponsored nofollow noopener" target="_blank">feutre blanc</a> si les pages sont noires.</p>
+<p><a href="{AMZ:SumDirect livre d'or mariage Polaroid}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. AHANDMAKER arbre à empreintes : pour un tableau à accrocher</h2>
+<p><strong>Pour qui ?</strong> Les couples qui préfèrent une œuvre à accrocher dans le salon plutôt qu'un livre rangé dans un tiroir.</p>
+<ul>
+<li><strong>Points forts</strong> : un arbre dessiné dont les invités forment les feuilles avec leur empreinte digitale, puis signent à côté. Cadre en bois et quatre tampons encreurs fournis, d'après la fiche.</li>
+<li><strong>Limites</strong> : dimensions, nombre d'empreintes prévu et type de support non précisés. Il n'y a de place que pour une signature, pas pour un vrai message. Et l'encre sur les doigts demande des lingettes à côté, sinon les invités retournent danser les mains tachées.</li>
+</ul>
+<p><a href="{AMZ:AHANDMAKER arbre empreintes digitales cadre bois}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Creawoo cadre à cœurs : le cadre en bois le plus garni</h2>
+<p><strong>Pour qui ?</strong> Les mariages champêtres, et ceux qui aiment l'idée d'un objet que les invités manipulent.</p>
+<ul>
+<li><strong>Points forts</strong> : 95 petits cœurs à signer, que chaque invité glisse ensuite dans le cadre par le haut. Style rustique couleur bois, avec une variante blanche.</li>
+<li><strong>Limites</strong> : dimensions non précisées, et la fiche ne dit pas si des feutres sont fournis. Comptez au moins un cœur par couple ou par famille. La fiche est affichée en anglais.</li>
+</ul>
+<p><a href="{AMZ:Creawoo livre d'or bois coeurs cadre}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>9. FORMIZON cœurs en bois : le cadre personnalisable</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent leurs prénoms sur le cadre et un kit complet sans rien racheter à côté.</p>
+<ul>
+<li><strong>Points forts</strong> : 80 cœurs en bois, 20 petits ballons en forme de cœur, 2 marqueurs et une boîte de rangement selon la fiche, avec une personnalisation annoncée.</li>
+<li><strong>Limites</strong> : dimensions non précisées. Deux marqueurs pour toute une soirée, c'est juste : ajoutez-en quelques-uns. Avec 80 cœurs, un grand mariage sera à l'étroit. Comme tout objet personnalisé, commandez-le tôt et relisez l'orthographe des prénoms.</li>
+</ul>
+<p><a href="{AMZ:FORMIZON livre d'or mariage coeur bois}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>10. FESTRING livre d'or audio : pour garder les voix</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent entendre leurs grands-parents et leurs amis, pas seulement les lire.</p>
+<ul>
+<li><strong>Points forts</strong> : un téléphone de style vintage, coloris noir. Les invités décrochent et laissent un message vocal personnalisé.</li>
+<li><strong>Limites</strong> : c'est le produit sur lequel nous avons le moins d'informations. Capacité d'enregistrement, autonomie, alimentation et façon de récupérer les fichiers ne sont pas précisées dans le descriptif consulté. Vérifiez ces points avant de commander. Dans une salle bruyante, placez-le dans un coin calme, sinon les messages seront couverts par la musique.</li>
+</ul>
+<p>Il ne remplace pas un livre écrit : les invités timides n'osent pas toujours parler à un téléphone. Il vaut le coup en complément, rarement seul.</p>
+<p><a href="{AMZ:FESTRING livre d'or audio mariage}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Livre, cadre ou téléphone : lequel vous ressemble ?</h2>
+<h3>Ce que vous voulez relire plus tard</h3>
+<p>Un livre relié garde de vrais messages, parfois drôles, parfois émouvants. Un cadre à cœurs ou un arbre à empreintes garde surtout des noms, mais s'accroche au mur. Un téléphone audio garde les voix. Demandez-vous ce que vous aurez envie de retrouver dans dix ans.</p>
+<h3>Le nombre d'invités</h3>
+<p>Comptez une page par couple ou par famille plutôt qu'une page par personne : les invités venus ensemble écrivent souvent un seul message. Pour 120 invités, un livre de 100 pages suffit en général. Pour les cadres, vérifiez que le nombre de cœurs ou de feuilles dépasse le nombre de couples et de familles.</p>
+<h3>Le papier et le stylo</h3>
+<p>C'est le détail que tout le monde oublie. Un papier fin laisse traverser le feutre et gâche la page suivante. Testez votre stylo sur la dernière page avant le mariage, et prévoyez des <a href="{AMZ:stylos feutres pointe fine noir}" rel="sponsored nofollow noopener" target="_blank">feutres à pointe fine</a> plutôt qu'un stylo à bille qui finit toujours par disparaître.</p>
+<h3>Qui s'en occupe le jour J ?</h3>
+<p>Un livre d'or posé seul sur une table se remplit mal. Placez-le là où les invités attendent naturellement, près du cocktail ou de l'urne, et demandez à un témoin de le faire circuler pendant le dessert. Nos idées pour l'urne sont dans notre <a href="{R}meilleure-urne-mariage/">top des urnes de mariage</a>.</p>
+
+<h2>Et après le mariage ?</h2>
+<p>Le livre d'or est aussi un bon outil pour vos remerciements : en le relisant, vous retrouvez qui était là et ce que chacun a écrit, de quoi personnaliser chaque carte. Nous donnons des exemples de textes dans notre guide des <a href="{R}remerciements-mariage/">remerciements de mariage</a>. Et pour préparer votre liste sans rien oublier, suivez notre <a href="{R}checklist/">checklist par pièce</a>.</p>
+""",
+  faq=[("Quel est le meilleur livre d'or de mariage ?", "Pour la plupart des couples, un livre relié grand format au papier épais, comme le livre d'or Kraft d'Exacompta (100 pages en papier Clairefontaine, 27 x 22 cm). Pour un grand mariage, un modèle de 176 pages comme ceux de Goldbuch laisse plus de place."),
+       ("Combien de pages faut-il pour un livre d'or de mariage ?", "Comptez environ une page par couple ou par famille, car les invités venus ensemble écrivent souvent un seul message. Pour 100 à 120 invités, 100 pages suffisent en général."),
+       ("Quel stylo utiliser pour un livre d'or ?", "Un feutre à pointe fine qui ne traverse pas le papier. Testez-le sur la dernière page avant le mariage. Pour des pages noires, prenez un feutre blanc ou doré.")],
+  short="Top 10 livres d'or de mariage")

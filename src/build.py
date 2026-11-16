@@ -105,9 +105,9 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#F1F4F0">
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
-<link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="{R}assets/favicon.ico" sizes="32x32"><link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="{R}assets/apple-touch-icon.png">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=24">
+<link rel="stylesheet" href="{R}assets/style.css?v=25">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -126,7 +126,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <p>La checklist gratuite pour composer votre liste de mariage, pièce par pièce.</p></div>
 <nav aria-label="Pied de page"><a href="{R}checklist/">Checklist</a><a href="{R}guides/">Guides</a><a href="{R}outils/">Outils</a><a href="{R}mentions-legales/">Mentions légales</a><a href="{R}confidentialite/">Confidentialité</a><a href="mailto:{CONTACT}">Contact</a></nav>
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
-<nav class="sites" aria-label="Nos sites"><span>Nos sites :</span><a href="https://malistebebe.fr/">🍼 Ma liste bébé</a><a aria-current="page" href="{R}">💍 Ma liste mariage</a><a href="https://viellirchezsoi.fr/">🏡 Vieillir chez soi</a><a href="https://lesoiseauxdujardin.fr/">🐦 Les oiseaux du jardin</a></nav>
+<nav class="sites" aria-label="Nos autres sites"><p class="sites-t">Découvrez aussi nos autres sites</p><div class="sites-g"><a href="https://malistebebe.fr/"><img src="https://malistebebe.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Ma liste bébé</strong><small>Préparer l'arrivée de bébé</small></span></a><a href="https://viellirchezsoi.fr/"><img src="https://viellirchezsoi.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Vieillir chez soi</strong><small>Rester autonome à la maison</small></span></a><a href="https://lesoiseauxdujardin.fr/"><img src="https://lesoiseauxdujardin.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Les oiseaux du jardin</strong><small>Nourrir et observer les oiseaux</small></span></a></div></nav>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifiez-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
 <script src="{R}assets/account.js?v=7" defer></script>
@@ -432,6 +432,7 @@ def build():
     if CUSTOM: open(cn, 'w').write(DOMAIN + '\n')
     elif os.path.exists(cn): os.remove(cn)
     open(os.path.join(OUT, '.nojekyll'), 'w').write('')
+    open(os.path.join(OUT, 'da4540821acf4048569bad7fbedc3ee1.txt'), 'w').write('da4540821acf4048569bad7fbedc3ee1')
     print(len(PAGES), 'pages,', total, 'articles')
 
 if __name__ == '__main__':
