@@ -12,7 +12,7 @@
 - [x] meilleur-aspirateur-robot/ | meilleur aspirateur robot | robots aspirateurs laveurs : Roborock, iRobot Roomba, Dreame, Ecovacs, Xiaomi
 - [x] meilleure-urne-mariage/ | urne mariage | urnes et tirelires pour cartes et enveloppes : bois, cage, coffre, valise
 - [x] meilleur-livre-d-or-mariage/ | livre d'or mariage | livres d'or reliés, arbre à empreintes, cadres signature, Polaroid
-- [ ] meilleurs-livres-organisation-mariage/ | meilleurs livres pour organiser son mariage | guides et carnets d'organisation ; livres réels vérifiés chez l'éditeur ou un grand libraire et sur Amazon.fr
+- [x] meilleurs-livres-organisation-mariage/ | meilleurs livres pour organiser son mariage | guides et carnets d'organisation ; livres réels vérifiés chez l'éditeur ou un grand libraire et sur Amazon.fr
 - [ ] meilleurs-livres-cadeau-couple/ | livres à offrir à un couple qui se marie | cuisine à deux, voyage, albums souvenirs ; mêmes règles
 - [ ] meilleurs-cadeaux-invites/ | cadeaux invités mariage | dragées, bougies, savons, sachets de graines, mini pots
 - [ ] meilleure-decoration-mariage/ | décoration mariage | guirlandes lumineuses, chemins de table, lettres lumineuses, arches, ballons

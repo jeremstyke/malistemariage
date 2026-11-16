@@ -1597,3 +1597,180 @@ g("meilleur-livre-d-or-mariage/",
        ("Combien de pages faut-il pour un livre d'or de mariage ?", "Comptez environ une page par couple ou par famille, car les invités venus ensemble écrivent souvent un seul message. Pour 100 à 120 invités, 100 pages suffisent en général."),
        ("Quel stylo utiliser pour un livre d'or ?", "Un feutre à pointe fine qui ne traverse pas le papier. Testez-le sur la dernière page avant le mariage. Pour des pages noires, prenez un feutre blanc ou doré.")],
   short="Top 10 livres d'or de mariage")
+
+AUTO_META['comment-choisir-centrale-vapeur/'] = ('👕', 'lilas')
+g("comment-choisir-centrale-vapeur/",
+  "Comment choisir une centrale vapeur : pression, réservoir, débit",
+  "Comment choisir une centrale vapeur",
+  "Pression, débit de vapeur, autonomie illimitée, anticalcaire, défroisseur : les critères pour choisir une centrale vapeur ou un fer, et ne pas se tromper.",
+  """
+<p>Une bonne centrale vapeur, c'est d'abord une pression suffisante (au moins 3,5 bars selon le guide de Boulanger), un débit de vapeur continu autour de 100 g/min et un système anticalcaire facile à entretenir. Si vous repassez au moins une fois par semaine, elle vous fera gagner un temps réel par rapport à un fer classique. Si vous repassez trois chemises par mois, un bon fer suffit.</p>
+<p>C'est un cadeau de liste de mariage peu glamour, on vous l'accorde. Mais c'est un appareil qu'on sort chaque semaine pendant des années, ce qui n'est pas le cas de tous les cadeaux. Voici comment le choisir sans se perdre dans les fiches techniques.</p>
+{CTA}
+<h2>Centrale vapeur, fer ou défroisseur : de quoi avez-vous besoin ?</h2>
+<p>Ces trois appareils ne font pas le même travail. Le fer à repasser chauffe et envoie un peu de vapeur depuis un petit réservoir intégré. La centrale ajoute une base séparée qui produit la vapeur sous pression : le fer est plus léger dans la main, et la vapeur traverse le tissu plus profondément. Le défroisseur vertical, lui, ne repasse pas vraiment : il détend les plis d'un vêtement suspendu, sans planche.</p>
+<table><thead><tr><th>Appareil</th><th>Ce qu'il fait bien</th><th>Ses limites</th><th>Pour qui ?</th></tr></thead><tbody>
+<tr><td>Fer à repasser vapeur</td><td>Petit, rapide à sortir, peu cher</td><td>Vapeur moins puissante, réservoir vite vide</td><td>Petit volume de linge</td></tr>
+<tr><td>Centrale vapeur</td><td>Vapeur sous pression, grosses piles de linge, draps et chemises</td><td>Encombrante, plus lourde à ranger</td><td>Couple qui repasse chaque semaine</td></tr>
+<tr><td>Défroisseur vertical</td><td>Robes, costumes, rideaux, retouche avant de sortir</td><td>Pas de pli net, pas fait pour une pile de linge</td><td>Complément, ou foyer qui repasse très peu</td></tr>
+</tbody></table>
+<p>Notre conseil : pour une première maison, la centrale vapeur est le choix le plus utile si vous portez des chemises ou repassez vos draps. Le défroisseur vient en plus, rarement à la place. Il est très pratique le matin du mariage d'un ami, pour une robe ou un costume sorti de la valise.</p>
+<h2>Quelle pression et quel débit regarder ?</h2>
+<p>La pression, exprimée en bars, dit avec quelle force la vapeur sort de la semelle. Boulanger conseille au moins 3,5 bars, et certains modèles montent à 6,5 bars. La Fnac place le seuil utile autour de 3 bars. Au-dessus de 5 bars, la différence se sent surtout sur les tissus épais : jean, lin, linge de lit.</p>
+<p>Le débit de vapeur continu, en grammes par minute, compte autant que la pression. Les guides des revendeurs citent une fourchette de 90 à 140 g/min, avec une référence autour de 100 g/min. Le chiffre le plus spectaculaire de la fiche est souvent le « pressing » ou « boost » : un jet ponctuel de 300 à 500 g/min pour un pli rebelle. Il est utile, mais ne choisissez pas sur lui. C'est le débit continu que vous utiliserez pendant toute la séance.</p>
+<h2>Autonomie limitée ou illimitée : la vraie différence au quotidien</h2>
+<p>C'est le critère que beaucoup de gens découvrent trop tard. Sur une centrale à autonomie limitée, toute l'eau du réservoir est mise sous pression : quand elle est vide, il faut attendre qu'elle refroidisse avant de la remplir. Sur une centrale à autonomie illimitée, seule une petite cuve est sous pression, et vous remplissez le réservoir quand vous voulez, sans arrêter le repassage.</p>
+<p>Par exemple, si vous repassez le linge de la semaine en une seule séance le dimanche, l'autonomie illimitée vous évite une pause forcée au milieu de la pile. Elle chauffe aussi plus vite au démarrage, comme le rappelle la Fnac. Pour la taille du réservoir, une fois l'autonomie illimitée choisie, la question devient secondaire : un réservoir plus gros évite seulement d'aller au robinet.</p>
+<h2>Le calcaire, ce qui use une centrale</h2>
+<p>Une centrale meurt rarement d'une panne de résistance. Elle s'entartre, crache des traces blanches sur le linge, puis finit par ne plus produire de vapeur. Trois systèmes existent :</p>
+<ul>
+<li><strong>L'auto-nettoyage</strong> : on rince la cuve en suivant une procédure, en général au-dessus de l'évier.</li>
+<li><strong>Le collecteur de tartre</strong> (ou tige anticalcaire) : une pièce qu'on retire et qu'on vide régulièrement.</li>
+<li><strong>La cartouche anticalcaire</strong> : elle filtre l'eau, mais il faut la racheter.</li>
+</ul>
+<p>Si votre eau est calcaire, ce qui est le cas dans une grande partie de la France, privilégiez un collecteur facile d'accès. Les cartouches sont pratiques, mais vérifiez qu'on les trouve facilement et ajoutez-en une boîte à votre liste. Et lisez la notice : certains appareils acceptent l'eau du robinet, d'autres demandent de la couper avec de l'eau déminéralisée.</p>
+<h2>Les détails qui changent le confort</h2>
+<p><strong>Le poids du fer</strong> : un fer un peu lourd aplatit mieux le tissu, mais fatigue le poignet sur une longue séance. Prenez-le en main en magasin si vous pouvez.</p>
+<p><strong>La semelle</strong> : regardez qu'elle glisse bien et que les trous de vapeur couvrent toute la surface, y compris la pointe, pour les cols et les boutons.</p>
+<p><strong>Le rangement</strong> : c'est l'erreur la plus fréquente. Une centrale prend de la place, et certaines dépassent 30 cm de haut. Mesurez votre placard avant. Une planche prévue pour centrale, avec un repose-centrale, évite de poser la base en équilibre ; pensez à demander une <a href="{AMZ:table a repasser repose centrale vapeur}" rel="sponsored nofollow noopener" target="_blank">table à repasser adaptée</a> dans la même liste.</p>
+<p><strong>La sécurité</strong> : l'arrêt automatique quand le fer reste immobile est un vrai plus si vous êtes du genre à vous demander dans l'escalier si vous l'avez éteint.</p>
+<h2>Quel modèle pour quel couple ?</h2>
+<ul>
+<li>Vous repassez peu, en petite quantité : un <a href="{AMZ:fer a repasser vapeur}" rel="sponsored nofollow noopener" target="_blank">fer à repasser vapeur</a> de bonne qualité suffit.</li>
+<li>Vous repassez chaque semaine, chemises et draps compris : une <a href="{AMZ:centrale vapeur autonomie illimitee}" rel="sponsored nofollow noopener" target="_blank">centrale vapeur à autonomie illimitée</a>.</li>
+<li>Vous avez une eau très calcaire : une <a href="{AMZ:centrale vapeur collecteur anticalcaire}" rel="sponsored nofollow noopener" target="_blank">centrale avec collecteur de tartre</a> facile à vider.</li>
+<li>Vous avez surtout des robes, costumes et vêtements délicats : un <a href="{AMZ:defroisseur vapeur vertical}" rel="sponsored nofollow noopener" target="_blank">défroisseur vertical</a>, éventuellement en plus d'un fer.</li>
+</ul>
+<h2>Et dans la liste de mariage ?</h2>
+<p>Une centrale vapeur entre dans la catégorie des cadeaux de milieu de gamme : assez chère pour faire plaisir à un proche qui veut offrir quelque chose de durable, pas assez pour devoir organiser une collecte. Placez-la avec le reste de l'entretien de la maison, à côté d'un aspirateur. Si vous hésitez sur ce point, notre guide <a href="{R}comment-choisir-aspirateur-balai/">pour choisir un aspirateur balai</a> suit la même logique. Pour équilibrer les prix de votre liste, voyez aussi <a href="{R}que-mettre-dans-une-liste-de-mariage/">que mettre dans une liste de mariage</a> et, côté literie, notre guide <a href="{R}comment-choisir-couette/">pour choisir sa couette</a>. Pour ne rien oublier, pièce par pièce, suivez notre <a href="{R}checklist/">checklist</a>.</p>
+""",
+  faq=[("Quelle pression choisir pour une centrale vapeur ?", "Au moins 3,5 bars pour un repassage efficace, selon le guide de Boulanger. Une pression de 5 à 6,5 bars aide surtout sur les tissus épais comme le jean, le lin ou les draps."),
+       ("Vaut-il mieux une centrale vapeur ou un défroisseur ?", "Pour repasser une pile de linge avec des plis nets, la centrale vapeur. Le défroisseur vertical sert surtout à rafraîchir un vêtement suspendu, comme une robe ou un costume. Les deux se complètent."),
+       ("Qu'est-ce qu'une centrale vapeur à autonomie illimitée ?", "Une centrale dont le réservoir peut être rempli à tout moment, sans attendre qu'elle refroidisse, car seule une petite cuve est sous pression. C'est le bon choix si vous repassez beaucoup en une seule séance.")],
+  short="Choisir une centrale vapeur")
+
+AUTO_META['meilleurs-livres-organisation-mariage/'] = ('🏆', 'ciel')
+g("meilleurs-livres-organisation-mariage/",
+  "Meilleurs livres pour organiser son mariage 2026 : top 10",
+  "Les meilleurs livres pour organiser son mariage en 2026 : notre top 10",
+  "Planners à remplir, guides pas à pas, check-lists de poche : 10 livres réels pour organiser son mariage, avec auteur, éditeur, édition et limites de chacun.",
+  """
+<p>Pour organiser votre mariage avec un seul livre, prenez un planner à remplir plutôt qu'un gros guide à lire. <em>Le planner de mon mariage</em> de Nathalie Bernard (Merci les Livres) est le plus complet de la sélection, avec ses fiches amovibles et son calendrier de J-18 mois au jour J. Si vous préférez un livre qui explique avant de faire remplir des cases, le guide Larousse d'Anne-Solange Tardy ou le petit Leduc de Marie Thuillier font très bien l'affaire.</p>
+<p>Un livre ne remplace pas un tableur, mais il a un avantage : on l'ouvre à deux, sur la table du salon, et on prend les décisions ensemble. C'est souvent là que l'organisation se débloque. Voici dix titres réels, tous référencés chez de grands libraires français, classés selon l'usage que vous en ferez.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Pour des livres, cela veut dire : les fiches des éditeurs et de libraires comme la Fnac, Mollat, Eyrolles ou Leslibraires.fr. Titres, auteurs, éditeurs et dates d'édition y ont été relevés. Quand le nombre de pages n'est pas indiqué, nous l'écrivons « non précisé ». Certains titres plus anciens ne se trouvent plus que d'occasion : nous le signalons, car c'est le genre de détail qu'on découvre au moment de commander.</p>
+
+<h2>Les 10 livres en un coup d'œil</h2>
+<table><thead><tr><th>Livre</th><th>Auteur</th><th>Éditeur, date</th><th>Type</th><th>Pages</th></tr></thead><tbody>
+<tr><td>Le planner de mon mariage</td><td>Nathalie Bernard</td><td>Merci les Livres, 2024 (nouvelle édition 2026)</td><td>Planner à spirale ou anneaux</td><td>122 (édition 2026)</td></tr>
+<tr><td>Le wedding planner</td><td>La Mariée en Colère</td><td>Marabout, 2024</td><td>Livre-outil</td><td>160</td></tr>
+<tr><td>Mon wedding planner</td><td>Collectif</td><td>Éditions 365, 2025</td><td>Agenda semaine par semaine</td><td>216</td></tr>
+<tr><td>Mon mariage sur mesure</td><td>Anne-Solange Tardy</td><td>Larousse, 2019</td><td>Guide et fiches</td><td>168</td></tr>
+<tr><td>Le guide pour organiser un mariage unique</td><td>Nathalie Bernard</td><td>Merci les Livres, 2024</td><td>Guide illustré relié</td><td>224</td></tr>
+<tr><td>Organiser son mariage sans stress</td><td>Marie Thuillier</td><td>Leduc, 2018</td><td>Guide de poche</td><td>Non précisé</td></tr>
+<tr><td>La check-list de votre mariage</td><td>Florence Le Bras</td><td>Leduc, 2020</td><td>Guide mois par mois</td><td>Non précisé</td></tr>
+<tr><td>J'organise mon mariage</td><td>Sara Sabaté</td><td>Hachette Pratique, 2018</td><td>Carnet d'organisation</td><td>148</td></tr>
+<tr><td>Organiser son mariage, c'est facile !</td><td>Marina Marcout, Inès Matsika</td><td>Eyrolles, 2017 (7e éd.)</td><td>Guide complet</td><td>392</td></tr>
+<tr><td>Organiser son mariage pour les Nuls</td><td>Peggy Mignot-Paillet, Peggy Frey</td><td>First, 2011</td><td>Guide complet</td><td>372</td></tr>
+</tbody></table>
+
+<h2>1. Le planner de mon mariage (Nathalie Bernard) : le plus complet à remplir</h2>
+<p><strong>Pour qui ?</strong> Les couples qui aiment tout avoir sous la main, sur papier, et qui commencent tôt.</p>
+<ul>
+<li><strong>Points forts</strong> : signé par la créatrice du blog La Mariée en Colère. L'édition de 2024 (format à spirale, 22 x 18 cm) contient plus de 60 fiches pratiques amovibles : déroulé du jour J, suivi des dépenses, documents à réunir, prestataires, moodboards. La nouvelle édition parue en juillet 2026 annonce 61 fiches mobiles, 8 intercalaires calendrier de J-18 mois au jour J, des stickers, une pochette à soufflet et trois blocs-notes.</li>
+<li><strong>Limites</strong> : c'est un outil, pas un livre qui explique. Si vous ne savez pas encore par où commencer, il vous donnera des cases sans toujours vous dire quoi y mettre. Les fiches amovibles ont tendance à s'éparpiller : rangez-les dans la pochette au fur et à mesure.</li>
+</ul>
+<p>Notre conseil : c'est notre premier choix pour un mariage préparé sur un an ou plus, parce que le calendrier par intercalaires vous dit en permanence où vous en êtes.</p>
+<p><a href="{AMZ:Le planner de mon mariage Nathalie Bernard}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Le wedding planner (La Mariée en Colère, Marabout) : les outils d'une pro</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent s'organiser « comme un pro », avec des méthodes plutôt que des pages décoratives.</p>
+<ul>
+<li><strong>Points forts</strong> : 160 pages chez Marabout (édition d'octobre 2024). Le livre aide à fixer le nombre d'invités, choisir les prestataires, faire le plan de table, caler le calendrier des faire-part et de la réservation à la mairie, et tenir un rétroplanning.</li>
+<li><strong>Limites</strong> : au moment de notre vérification, la Fnac l'indiquait épuisé en ligne. Il peut être plus facile à trouver en magasin ou chez d'autres revendeurs. Une édition antérieure existe aussi : vérifiez la date avant d'acheter.</li>
+</ul>
+<p><a href="{AMZ:Le wedding planner La Mariée en Colère Marabout}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Mon wedding planner (Éditions 365) : pour avancer semaine après semaine</h2>
+<p><strong>Pour qui ?</strong> Les couples qui aiment les agendas et les listes à cocher.</p>
+<ul>
+<li><strong>Points forts</strong> : 216 pages, format 14,9 x 21,6 cm, paru en janvier 2025 dans la collection Carnets et Bullets. Une double page par semaine pour les rendez-vous et les objectifs, des to-do lists déjà remplies, un suivi du budget, des moodboards, des pages souvenirs du jour J et deux planches de stickers.</li>
+<li><strong>Limites</strong> : l'auteur est un collectif, et le livre donne peu d'explications de fond. Le format semaine par semaine marche bien sur un an ; pour un mariage organisé en trois mois, beaucoup de pages resteront vides.</li>
+</ul>
+<p><a href="{AMZ:Mon wedding planner éditions 365}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Mon mariage sur mesure (Larousse) : trois rétroplannings selon vos délais</h2>
+<p><strong>Pour qui ?</strong> Ceux qui ne savent pas encore s'ils ont le temps de tout faire, et qui veulent un livre qui s'adapte à leurs délais.</p>
+<ul>
+<li><strong>Points forts</strong> : 168 pages en couleur, par Anne-Solange Tardy (Larousse, 2019). On y trouve le budget et les priorités, les démarches administratives, la liste des invités, le lieu, les prestataires, la cérémonie, le menu, les tenues, la décoration. Surtout, il propose trois rétroplannings types : sur 18 mois, 12 mois et 6 mois.</li>
+<li><strong>Limites</strong> : édition de 2019, que la Fnac ne proposait plus que d'occasion lors de notre vérification. Les tendances déco ont un peu vieilli, mais la méthode reste valable.</li>
+</ul>
+<p>Notre conseil : c'est le livre à prendre si votre date est proche, parce que le rétroplanning sur 6 mois vous dit tout de suite ce qu'il faut abandonner.</p>
+<p><a href="{AMZ:Mon mariage sur mesure Anne-Solange Tardy Larousse}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Le guide pour organiser un mariage unique (Nathalie Bernard) : pour l'inspiration</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent un mariage qui leur ressemble et aiment les idées à faire soi-même.</p>
+<ul>
+<li><strong>Points forts</strong> : 224 pages, relié, grand format illustré (Merci les Livres, janvier 2024). Il couvre la planification, le budget, la coordination et la gestion du stress, et propose 15 DIY de décoration et de cadeaux.</li>
+<li><strong>Limites</strong> : c'est un livre à lire, pas à remplir. Lors de notre vérification, la Fnac ne le proposait neuf que via des vendeurs tiers, à des prix très variables : comparez avant de commander. Il existe aussi en version numérique.</li>
+</ul>
+<p>Il fonctionne bien en duo avec le planner du même auteur : l'un pour décider, l'autre pour suivre.</p>
+<p><a href="{AMZ:Nathalie Bernard guide organiser mariage unique}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Organiser son mariage sans stress (Leduc, « Poche, c'est malin ») : le petit format malin</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent l'essentiel de la méthode dans un livre qu'on glisse dans un sac.</p>
+<ul>
+<li><strong>Points forts</strong> : par Marie Thuillier (Leduc, 2018, mise à jour de <em>Le mariage malin</em>). Une méthode en 10 étapes : style, cérémonie, budget et calendrier, lieu, faire-part, traiteur, tenues, photographe et DJ, déco, derniers détails. D'après l'extrait de l'éditeur, trois tableaux Excel modifiables sont fournis : budget, rétroplanning et envoi des faire-part.</li>
+<li><strong>Limites</strong> : nombre de pages non précisé sur la fiche consultée. Format poche, donc peu de place pour écrire, et pas d'illustrations à feuilleter pour l'inspiration.</li>
+</ul>
+<p><a href="{AMZ:Organiser son mariage sans stress Marie Thuillier}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. La check-list de votre mariage (Leduc) : mois par mois</h2>
+<p><strong>Pour qui ?</strong> Ceux qui fonctionnent avec des cases à cocher et veulent savoir quoi faire ce mois-ci.</p>
+<ul>
+<li><strong>Points forts</strong> : par Florence Le Bras (Leduc, nouvelle édition 2020). Un guide sur les 12 mois avant le mariage, avec une check-list en tête de chaque chapitre. Il aborde les formalités civiles et religieuses, le notaire, les prestataires, la famille et le budget, avec trois tableaux Excel à télécharger.</li>
+<li><strong>Limites</strong> : nombre de pages non précisé sur la fiche consultée. Construit sur douze mois : si vous en avez six, il faudra doubler le rythme.</li>
+</ul>
+<p><a href="{AMZ:La check-list de votre mariage Florence Le Bras}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. J'organise mon mariage (Sara Sabaté, Hachette Pratique) : le carnet à remplir</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent un carnet d'organisation simple, sans gadgets.</p>
+<ul>
+<li><strong>Points forts</strong> : 148 pages, format 23 x 19 cm (2018). Rétroplanning général et calendriers détaillés, liste des invités, tenues, déroulé de la cérémonie, réception, suivi des dépenses, voyage de noces et même l'après-mariage, avec des astuces et quelques DIY.</li>
+<li><strong>Limites</strong> : la fiche de Leslibraires.fr l'indiquait indisponible lors de notre vérification. Regardez la disponibilité et l'état (neuf ou occasion) avant de l'ajouter à une liste.</li>
+</ul>
+<p><a href="{AMZ:J'organise mon mariage Sara Sabaté}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>9. Organiser son mariage, c'est facile ! (Eyrolles) : le plus détaillé</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent un ouvrage de référence à lire de la première à la dernière page.</p>
+<ul>
+<li><strong>Points forts</strong> : 392 pages en 17 chapitres, par Marina Marcout et Inès Matsika (7e édition, 2017). Formalités, budget, réception, faire-part, robe, traiteur, DJ, lune de miel, avec des témoignages et une partie sur le mariage plus écologique.</li>
+<li><strong>Limites</strong> : édition de 2017, donc certaines adresses et tendances ont vieilli. La version papier était indiquée indisponible chez Eyrolles lors de notre vérification ; la version numérique restait proposée.</li>
+</ul>
+<p><a href="{AMZ:Organiser son mariage c'est facile Marcout Matsika}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>10. Organiser son mariage pour les Nuls (First) : avec de l'humour</h2>
+<p><strong>Pour qui ?</strong> Les couples qui ont besoin de dédramatiser et aiment le ton de la collection.</p>
+<ul>
+<li><strong>Points forts</strong> : 372 pages, par Peggy Mignot-Paillet et Peggy Frey (First, 2011). Il part de la demande en mariage et passe par les démarches, le lieu, la négociation avec le traiteur, le budget, la liste de mariage et les formules alternatives : laïque, écolo ou à l'étranger.</li>
+<li><strong>Limites</strong> : c'est le plus ancien de la sélection. Tout ce qui touche aux prix, aux tendances et aux outils en ligne a changé depuis 2011. Une édition poche existe aussi.</li>
+</ul>
+<p>Il ne vaut le coup que si vous le trouvez à petit prix ou pour son ton. Pour la méthode pure, les titres plus récents de ce top sont plus à jour.</p>
+<p><a href="{AMZ:Organiser son mariage pour les Nuls}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir le bon livre pour vous ?</h2>
+<h3>Un livre à lire ou un livre à remplir ?</h3>
+<p>C'est la première question, et la plupart des déceptions viennent de là. Un guide (Eyrolles, Larousse, Pour les Nuls) explique les étapes et les pièges. Un planner (Merci les Livres, Éditions 365, Hachette) vous donne des cases pour noter vos choix. Si vous partez de zéro, commencez par un guide. Si vous savez déjà ce que vous voulez, un planner suffit.</p>
+<h3>Combien de temps avant le mariage ?</h3>
+<p>Les planners semaine par semaine sont faits pour un an ou plus. Avec moins de six mois, préférez un livre qui propose un rétroplanning court, comme celui de Larousse, ou une check-list que vous pourrez accélérer.</p>
+<h3>La date d'édition</h3>
+<p>Les démarches administratives et l'esprit général d'une organisation de mariage changent peu. Les prix, les tendances et les outils, beaucoup. Pour un livre de plus de cinq ans, gardez la méthode et vérifiez le reste.</p>
+<h3>Papier ou tableur ?</h3>
+<p>Par exemple, si l'un de vous gère le budget sur un tableur et l'autre préfère noter à la main, les deux livres Leduc font le pont : ils fournissent des tableaux Excel à télécharger. Ce qui compte, c'est d'avoir un seul endroit où se trouve la vérité, pas trois carnets qui se contredisent.</p>
+<p>Et pour la liste de mariage elle-même, un livre n'aide pas beaucoup : suivez plutôt notre <a href="{R}checklist/">checklist pièce par pièce</a>, et lisez <a href="{R}quand-faire-sa-liste-de-mariage/">quand faire sa liste de mariage</a> pour la caler dans votre rétroplanning. Ces livres font aussi un joli cadeau de fiançailles : glissez-en un avec un <a href="{R}meilleur-livre-d-or-mariage/">livre d'or de mariage</a> pour un couple d'amis.</p>
+""",
+  faq=[("Quel est le meilleur livre pour organiser son mariage ?", "Pour un planner à remplir, Le planner de mon mariage de Nathalie Bernard (Merci les Livres), le plus complet de notre sélection. Pour un guide qui explique, Mon mariage sur mesure (Larousse) et ses trois rétroplannings sur 18, 12 et 6 mois."),
+       ("Faut-il un wedding planner papier ou une application ?", "Les deux fonctionnent. Le papier aide à décider à deux et à garder une trace, l'application est pratique pour le budget et les invités. Les livres Leduc de notre sélection fournissent d'ailleurs des tableaux Excel à télécharger, ce qui permet de combiner les deux."),
+       ("Quand commencer à utiliser un planner de mariage ?", "Dès que la date est fixée. Les planners les plus complets démarrent à J-18 mois ou J-12 mois. Si votre mariage a lieu dans moins de six mois, choisissez plutôt un livre avec un rétroplanning court.")],
+  short="Top 10 livres pour organiser son mariage")
