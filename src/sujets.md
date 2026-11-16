@@ -11,7 +11,7 @@
 - [x] comment-choisir-couette/ | comment choisir sa couette | grammage, saisons, taille, naturelle ou synthétique
 - [x] comment-choisir-robot-aspirateur/ | comment choisir un robot aspirateur | navigation, serpillière, base, logement
 - [x] comment-choisir-centrale-vapeur/ | comment choisir une centrale vapeur | pression, réservoir, défroisseur ou fer
-- [ ] comment-choisir-plancha/ | comment choisir une plancha | électrique ou gaz, surface, revêtement
+- [x] comment-choisir-plancha/ | comment choisir une plancha | électrique ou gaz, surface, revêtement
 - [ ] comment-choisir-blender/ | comment choisir un blender | puissance, chauffant, bol, usages
 - [ ] comment-choisir-service-de-table/ | comment choisir son service de table | porcelaine, grès, nombre de pièces, entretien
 - [ ] liste-de-mariage-voyage-de-noces/ | liste de mariage voyage de noces | articles et cagnotte pour financer le voyage

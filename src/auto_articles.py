@@ -1774,3 +1774,180 @@ g("meilleurs-livres-organisation-mariage/",
        ("Faut-il un wedding planner papier ou une application ?", "Les deux fonctionnent. Le papier aide à décider à deux et à garder une trace, l'application est pratique pour le budget et les invités. Les livres Leduc de notre sélection fournissent d'ailleurs des tableaux Excel à télécharger, ce qui permet de combiner les deux."),
        ("Quand commencer à utiliser un planner de mariage ?", "Dès que la date est fixée. Les planners les plus complets démarrent à J-18 mois ou J-12 mois. Si votre mariage a lieu dans moins de six mois, choisissez plutôt un livre avec un rétroplanning court.")],
   short="Top 10 livres pour organiser son mariage")
+
+AUTO_META['comment-choisir-plancha/'] = ('🔥', 'peche')
+g("comment-choisir-plancha/",
+  "Comment choisir une plancha : électrique ou gaz, taille, plaque",
+  "Comment choisir une plancha",
+  "Électrique ou gaz, taille de plaque selon le nombre de convives, fonte émaillée, inox ou acier, bac à graisse : comment choisir une plancha qui vous servira longtemps.",
+  """
+<p>Le choix d'une plancha se joue sur une question simple : où allez-vous cuisiner ? Sur un balcon d'immeuble ou en hiver dans la cuisine, prenez une plancha électrique. Dans un jardin, pour des tablées de huit personnes, le gaz chauffe plus fort et plus vite. Ensuite viennent la taille de la plaque et sa matière, qui décident de ce que vous pourrez y cuire.</p>
+<p>Elle a sa place dans une liste de mariage parce qu'elle sert tout l'été, et souvent pour recevoir. Mais une plancha mal choisie, trop petite ou impossible à nettoyer, finit au garage après deux saisons.</p>
+{CTA}
+<h2>Gaz ou électrique : que dit votre logement ?</h2>
+<p>La plancha au gaz est la plus puissante. Boulanger recommande au moins 5 kW pour un modèle gaz, et Castorama rappelle qu'elle est réservée à l'extérieur. Elle monte vite en température et ne dépend pas d'une prise : avec une bouteille, vous la posez où vous voulez dans le jardin.</p>
+<p>La plancha électrique chauffe moins fort (Boulanger conseille au moins 2 500 W), mais elle se règle plus finement et peut s'utiliser à l'intérieur. Elle a un autre avantage que beaucoup découvrent après l'achat : certaines copropriétés interdisent le gaz sur les balcons, ce qui ne pose pas de problème avec l'électrique. Avant de l'ajouter à votre liste, relisez le règlement de copropriété si vous vivez en appartement.</p>
+<p>Notre conseil : en ville, prenez l'électrique sans hésiter, parce que vous pourrez aussi la sortir en décembre pour une soirée entre amis dans le salon. Avec un vrai jardin et des envies de grandes tablées, le gaz.</p>
+<h2>Quelle taille pour combien de personnes ?</h2>
+<p>C'est l'erreur la plus courante : prendre trop petit. Une plaque trop petite vous oblige à cuire en plusieurs fournées, et la moitié des invités mange froid. Voici les repères donnés par Boulanger :</p>
+<table><thead><tr><th>Largeur de plaque</th><th>Nombre de convives</th><th>Pour quel usage ?</th></tr></thead><tbody>
+<tr><td>Moins de 40 cm</td><td>2 à 3</td><td>Repas à deux, petit balcon</td></tr>
+<tr><td>Environ 40 cm</td><td>4 à 6</td><td>Repas de famille, amis le week-end</td></tr>
+<tr><td>Plus de 60 cm</td><td>Grandes tablées</td><td>Jardin, réceptions fréquentes</td></tr>
+</tbody></table>
+<p>La ligne « moins de 40 cm » est notre propre déduction, pas un chiffre du revendeur. Retenez surtout une chose : plus la plaque est grande, plus il faut de puissance pour qu'elle reste chaude partout. Une grande plancha électrique sous-dimensionnée chauffe bien au centre et mal sur les bords. Sur les modèles gaz, le nombre de brûleurs augmente avec la surface, ce qui permet d'avoir une zone très chaude pour saisir et une zone plus douce pour garder au chaud.</p>
+<h2>Pourquoi la puissance compte plus qu'on ne le croit</h2>
+<p>Une plancha cuit à très haute température : Castorama parle de plus de 350 °C. Le problème n'est pas d'y arriver, c'est d'y rester. Quand vous posez dix brochettes froides sur la plaque, elle perd de la chaleur d'un coup. Une plancha trop faible met alors plusieurs minutes à remonter, et la viande cuit dans son jus au lieu de saisir. Par exemple, si vous comptez faire des gambas ou des magrets pour six, ne descendez pas sous les puissances conseillées, même si un modèle moins puissant est moins cher.</p>
+<h2>Fonte émaillée, inox ou acier : quelle plaque ?</h2>
+<ul>
+<li><strong>Fonte émaillée</strong> : elle garde très bien la chaleur, accroche peu et résiste mieux que la fonte brute. C'est la plus répandue. Il faut juste éviter les ustensiles qui rayent l'émail.</li>
+<li><strong>Inox</strong> : hygiénique, facile à entretenir, ne rouille pas. Selon Castorama, la chaleur est un peu moins bonne sur les bords, et c'est souvent plus cher. Un filet d'huile évite que la viande accroche.</li>
+<li><strong>Acier</strong> : il monte vite en température et refroidit vite. L'acier brut demande d'être huilé régulièrement pour ne pas rouiller ; émaillé, il est plus résistant.</li>
+<li><strong>Fonte brute</strong> : excellente pour la chaleur, mais les aliments accrochent davantage.</li>
+</ul>
+<p>Pour un premier achat, la <a href="{AMZ:plancha fonte emaillee}" rel="sponsored nofollow noopener" target="_blank">plancha en fonte émaillée</a> est le choix le plus simple à vivre. L'<a href="{AMZ:plancha inox gaz}" rel="sponsored nofollow noopener" target="_blank">inox</a> plaira à ceux qui veulent un nettoyage facile et une plaque qui ne bouge pas avec les années.</p>
+<h2>Et le nettoyage, comment ça se passe ?</h2>
+<p>C'est ce qui fait qu'on ressort la plancha, ou pas. Cherchez un bac à graisse amovible, assez grand, qui se retire sans tout renverser : il limite aussi la fumée. Ensuite, la routine est la même pour tous les modèles : racler la plaque encore tiède avec une spatule, puis la laver à l'éponge une fois froide et la sécher. Boulanger conseille un mélange d'eau chaude et de vinaigre blanc pour la fonte émaillée et l'inox, puis un léger huilage.</p>
+<p>Ce que les gens oublient : le grattoir. Prévoyez des <a href="{AMZ:spatule plancha inox}" rel="sponsored nofollow noopener" target="_blank">spatules en inox</a> et un racloir adapté à votre plaque dans la même liste.</p>
+<h2>Les accessoires qui valent le coup</h2>
+<p>Une <a href="{AMZ:housse plancha impermeable}" rel="sponsored nofollow noopener" target="_blank">housse étanche</a> est indispensable si la plancha reste dehors : Boulanger la recommande résistante aux UV. Un couvercle permet des cuissons à l'étouffée, pour un poisson entier ou des légumes. Le <a href="{AMZ:chariot plancha desserte}" rel="sponsored nofollow noopener" target="_blank">chariot ou la desserte</a> donne un vrai plan de travail à côté, mais Castorama prévient qu'il est encombrant : il faut une terrasse ou un balcon assez grand.</p>
+<h2>Dans votre liste de mariage</h2>
+<p>Une plancha avec son chariot forme un beau cadeau à offrir à plusieurs, alors que les spatules et la housse sont parfaites pour les invités qui veulent un petit budget. Pensez-y comme un ensemble : la plancha seule sans accessoires sera moins utilisée. Si vous équipez aussi la cuisine, nos guides pour <a href="{R}comment-choisir-batterie-de-casseroles/">choisir une batterie de casseroles</a> et <a href="{R}comment-choisir-cocotte-en-fonte/">choisir une cocotte en fonte</a> complètent bien ce choix. Pour répartir les prix sans gêner personne, lisez <a href="{R}liste-de-mariage-petit-budget/">liste de mariage petit budget</a>, et suivez notre <a href="{R}checklist/">checklist pièce par pièce</a> pour ne rien oublier.</p>
+""",
+  faq=[("Plancha électrique ou gaz, que choisir ?", "Électrique pour un balcon, un appartement ou un usage en intérieur, et si votre copropriété interdit le gaz. Gaz pour un jardin et des grandes tablées : elle est plus puissante (au moins 5 kW conseillés, contre 2 500 W pour une électrique) mais réservée à l'extérieur."),
+       ("Quelle taille de plancha pour 6 personnes ?", "Une plaque d'environ 40 cm convient pour 4 à 6 personnes. Au-delà, visez plus de 60 cm, avec une puissance suffisante pour que toute la plaque reste chaude."),
+       ("Quel est le meilleur revêtement pour une plancha ?", "La fonte émaillée est la plus simple à vivre : elle garde bien la chaleur et accroche peu. L'inox est plus facile à nettoyer et ne rouille pas, mais il chauffe un peu moins bien sur les bords.")],
+  short="Choisir une plancha")
+
+AUTO_META['meilleurs-livres-cadeau-couple/'] = ('🏆', 'lilas')
+g("meilleurs-livres-cadeau-couple/",
+  "Livres à offrir à un couple qui se marie : top 10 2026",
+  "Quels livres offrir à un couple qui se marie ? Notre top 10 2026",
+  "Cuisine à deux, beaux livres de voyage, carnets et albums à remplir ensemble : 10 livres réels à offrir pour un mariage, avec auteur, éditeur et limites.",
+  """
+<p>Le meilleur livre à offrir à un couple qui se marie, c'est celui qu'ils vont ouvrir ensemble : un livre de cuisine pour deux, un beau livre de voyages pour rêver de la lune de miel, ou un carnet à remplir sur leur histoire. Pour un cadeau sûr, <em>100 voyages de rêve</em> de Lonely Planet plaît à presque tous les couples. Pour quelque chose de plus personnel, <em>Toi + moi = amour</em> de Stéphanie Bouvet se remplit à deux et se garde des années.</p>
+<p>Un livre seul peut sembler un cadeau modeste pour un mariage. En réalité, il fonctionne très bien en complément : glissé avec un cadeau de la liste, ou offert par un invité qui ne connaît pas assez le couple pour choisir un objet. Voici dix titres réels, vendus en France, rangés en trois familles.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Pour ces livres, nous avons relevé titre, auteur, éditeur et date de parution sur les sites des éditeurs ou de grands libraires (Fnac, Mollat, Eyrolles). Nous ne les avons pas eus en main : les descriptions reprennent ce que ces fiches indiquent. Quand une information manque, nous écrivons « non précisé ».</p>
+
+<h2>Les 10 livres en un coup d'œil</h2>
+<table><thead><tr><th>Livre</th><th>Auteur</th><th>Éditeur, parution</th><th>Famille</th><th>Pages</th></tr></thead><tbody>
+<tr><td>100 voyages de rêve</td><td>Lonely Planet</td><td>Lonely Planet, octobre 2025</td><td>Voyage</td><td>311</td></tr>
+<tr><td>150 voyages romantiques autour du monde</td><td>Collectif</td><td>Ulysse, octobre 2023</td><td>Voyage</td><td>223</td></tr>
+<tr><td>Chaud : 60 recettes pour séduire aux fourneaux</td><td>Victoire Loup</td><td>Hachette Pratique, novembre 2021</td><td>Cuisine</td><td>170</td></tr>
+<tr><td>Cuisine solo-duo</td><td>Vincent Amiel</td><td>Larousse, septembre 2019</td><td>Cuisine</td><td>119</td></tr>
+<tr><td>Raclette à deux, raclette en amoureux (coffret)</td><td>Non précisé chez le libraire</td><td>Hachette Pratique, octobre 2024</td><td>Cuisine</td><td>24 (livret)</td></tr>
+<tr><td>Toi + moi = amour</td><td>Stéphanie Bouvet</td><td>Hachette, mai 2022</td><td>À remplir</td><td>256</td></tr>
+<tr><td>Mon carnet d'amoureux</td><td>Eva Corbisier</td><td>Marabout, janvier 2025</td><td>À remplir</td><td>128</td></tr>
+<tr><td>Tout ce que j'aime en toi</td><td>Daphné Kaufmann</td><td>Contre-Dires, janvier 2020</td><td>À remplir</td><td>71</td></tr>
+<tr><td>Toi &amp; moi : notre histoire d'amour</td><td>Lucie Dunand</td><td>Wartberg, octobre 2020</td><td>Album</td><td>96</td></tr>
+<tr><td>L'album de mariage</td><td>Collectif Larousse</td><td>Larousse, mai 2014</td><td>Album</td><td>60</td></tr>
+</tbody></table>
+
+<h2>Pour rêver du voyage de noces</h2>
+<p>Deux beaux livres à feuilleter à deux, l'un généraliste, l'autre centré sur les voyages en amoureux.</p>
+
+<h2>1. 100 voyages de rêve (Lonely Planet) : le choix le plus sûr</h2>
+<p><strong>Pour qui ?</strong> Les couples qui n'ont pas encore choisi leur destination, ou qui collectionnent les idées de voyages.</p>
+<ul>
+<li><strong>Points forts</strong> : beau livre de 311 pages en couleur, grand format (24,1 x 27,8 cm), paru en octobre 2025. Cent voyages classés par continent, dont une cinquantaine détaillés avec un itinéraire, une carte et des informations pratiques comme la meilleure période et la façon de s'y rendre.</li>
+<li><strong>Limites</strong> : ce n'est pas un livre sur les voyages en amoureux, mais sur les voyages en général. Grand et lourd, il se feuillette sur une table basse plutôt que dans un sac.</li>
+</ul>
+<p>Notre conseil : c'est le livre à offrir si vous connaissez peu les mariés, parce qu'il est récent, beau et ne demande pas de deviner leurs goûts.</p>
+<p><a href="{AMZ:Lonely Planet 100 voyages de rêve}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. 150 voyages romantiques autour du monde (Ulysse) : pour la lune de miel</h2>
+<p><strong>Pour qui ?</strong> Les mariés qui préparent leur voyage de noces ou des escapades à deux pour les années à venir.</p>
+<ul>
+<li><strong>Points forts</strong> : 223 pages en couleur (octobre 2023). 150 idées de voyages en amoureux, des destinations détente aux escapades en bateau, en passant par les lieux liés à des couples célèbres. Pour chacune, la fiche annonce des hébergements romantiques, la meilleure période et des conseils.</li>
+<li><strong>Limites</strong> : c'est un livre d'idées, pas un guide pratique. Une fois la destination choisie, il faudra un vrai guide du pays. Nous ne l'avons pas trouvé avec certitude sur Amazon.fr : il est disponible chez les grands libraires.</li>
+</ul>
+<p><a href="{AMZ:150 voyages romantiques autour du monde Ulysse}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Pour cuisiner à deux</h2>
+<p>Un livre pour les dîners qui comptent, un pour les soirs de semaine, et un coffret pour s'amuser.</p>
+
+<h2>3. Chaud : 60 recettes pour séduire aux fourneaux (Victoire Loup) : le livre des dîners en amoureux</h2>
+<p><strong>Pour qui ?</strong> Les couples qui aiment se préparer un vrai dîner, pas seulement des pâtes un mardi soir.</p>
+<ul>
+<li><strong>Points forts</strong> : 170 pages, relié (Hachette Pratique, 2021). Soixante recettes de trente chefs et de leurs partenaires, toutes pensées pour un repas à deux, de l'entrée au dessert. Chaque recette est classée selon le niveau du cuisinier et accompagnée d'une anecdote de rendez-vous.</li>
+<li><strong>Limites</strong> : des recettes de chefs, donc parfois plus élaborées qu'un plat de semaine. C'est un livre pour les soirs où on prend son temps.</li>
+</ul>
+<p><a href="{AMZ:Chaud 60 recettes pour séduire aux fourneaux Victoire Loup}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Cuisine solo-duo (Vincent Amiel, Larousse) : pour le quotidien</h2>
+<p><strong>Pour qui ?</strong> Les jeunes couples qui cuisinent pour deux tous les soirs et veulent éviter les restes qui traînent.</p>
+<ul>
+<li><strong>Points forts</strong> : 119 pages (Larousse, collection « C'est décidé, je m'y mets ! », 2019). Une quarantaine de recettes de plats complets et équilibrés pour une ou deux personnes, avec des conseils pour cuisiner sans gaspiller.</li>
+<li><strong>Limites</strong> : édition de 2019, et un livre pratique plus qu'un beau livre. Moins « cadeau » à l'ouverture, mais probablement celui qui servira le plus souvent.</li>
+</ul>
+<p>Notre conseil : associez-le à un cadeau de cuisine de la liste, par exemple une cocotte. Il donne envie de s'en servir dès la première semaine.</p>
+<p><a href="{AMZ:Cuisine solo-duo Vincent Amiel Larousse}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Raclette à deux, raclette en amoureux (Hachette Pratique) : le coffret</h2>
+<p><strong>Pour qui ?</strong> Un cadeau plus léger, pour des amis qui aiment le fromage et les soirées d'hiver.</p>
+<ul>
+<li><strong>Points forts</strong> : un coffret (octobre 2024) qui réunit un livret de recettes de raclette et un appareil pour faire fondre le fromage. Un cadeau prêt à servir, qui fait sourire à l'ouverture.</li>
+<li><strong>Limites</strong> : le livret ne compte que 24 pages, et l'auteur n'est pas précisé sur la fiche du libraire consultée. Caractéristiques de l'appareil non précisées. C'est un cadeau d'ambiance, pas un livre de cuisine de référence.</li>
+</ul>
+<p><a href="{AMZ:Raclette à deux raclette en amoureux coffret Hachette}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Pour écrire leur histoire</h2>
+<p>Carnets et albums à remplir : les cadeaux les plus personnels de la sélection, à réserver aux proches.</p>
+
+<h2>6. Toi + moi = amour (Stéphanie Bouvet) : le plus complet à remplir à deux</h2>
+<p><strong>Pour qui ?</strong> Les couples qui aiment se raconter, et ceux qui veulent un souvenir écrit de leurs débuts.</p>
+<ul>
+<li><strong>Points forts</strong> : 256 pages, relié, petit format (12,1 x 17 cm), paru chez Hachette en 2022. Des questions ouvertes sur l'histoire du couple, des portraits que chacun remplit de son point de vue, des quiz et des emplacements pour les photos.</li>
+<li><strong>Limites</strong> : petit format, donc peu de place pour de longs textes ou de grandes photos. Il faut que les deux aient envie de jouer le jeu.</li>
+</ul>
+<p>Notre conseil : c'est notre choix pour un cadeau personnel entre proches, parce que les portraits croisés donnent des réponses qu'on a plaisir à relire des années plus tard.</p>
+<p><a href="{AMZ:Toi + moi = amour Stéphanie Bouvet}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Mon carnet d'amoureux (Eva Corbisier, Marabout) : le petit carnet illustré</h2>
+<p><strong>Pour qui ?</strong> Un couple qui aime les jolis objets dessinés, ou un invité qui veut offrir un carnet déjà rempli de ses vœux.</p>
+<ul>
+<li><strong>Points forts</strong> : 128 pages, illustré par l'autrice (Marabout, janvier 2025). On y note les souvenirs, les rêves et les moments du couple, des débuts aux projets. L'éditeur précise qu'il peut aussi s'offrir déjà rempli.</li>
+<li><strong>Limites</strong> : petit livre, plutôt un complément qu'un cadeau principal. Nous ne l'avons pas trouvé avec certitude sur Amazon.fr ; il est référencé chez l'éditeur.</li>
+</ul>
+<p><a href="{AMZ:Mon carnet d'amoureux Eva Corbisier}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Tout ce que j'aime en toi (Daphné Kaufmann, Contre-Dires) : pour se dire les choses</h2>
+<p><strong>Pour qui ?</strong> Les couples qui trouvent plus facile d'écrire que de dire.</p>
+<ul>
+<li><strong>Points forts</strong> : un cahier de 71 pages (2020) de jeux et d'exercices, à remplir seul ou à deux : la rencontre, ce qui a plu, les qualités de l'autre, les moments partagés, les projets.</li>
+<li><strong>Limites</strong> : c'est le plus court de la sélection. Lors de notre vérification, la Fnac n'en avait plus qu'un exemplaire en stock : regardez la disponibilité avant de compter dessus.</li>
+</ul>
+<p><a href="{AMZ:Tout ce que j'aime en toi Daphné Kaufmann}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>9. Toi &amp; moi : notre histoire d'amour (Lucie Dunand, Wartberg) : l'album à compléter</h2>
+<p><strong>Pour qui ?</strong> Les couples qui préfèrent les photos aux longs textes.</p>
+<ul>
+<li><strong>Points forts</strong> : 96 pages, relié, format 25 x 17 cm (collection Souvenirs en partage, 2020). Un album pour raconter son histoire, de la rencontre au premier rendez-vous et aux premières vacances. La fiche le présente comme une idée de cadeau de mariage.</li>
+<li><strong>Limites</strong> : il raconte surtout le début de l'histoire, moins la suite. Il faut imprimer des photos, ce que beaucoup de couples remettent à plus tard.</li>
+</ul>
+<p><a href="{AMZ:Toi et moi notre histoire d'amour Lucie Dunand}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>10. L'album de mariage (Larousse) : pour garder le jour J</h2>
+<p><strong>Pour qui ?</strong> Les mariés qui veulent un seul endroit pour tous les souvenirs, de la demande au voyage de noces.</p>
+<ul>
+<li><strong>Points forts</strong> : 60 pages à spirale, 25 x 23 cm. Un livre souvenir à compléter, avec rabats, livrets, enveloppes, pop-ups, un livre d'or et des emplacements pour les photos.</li>
+<li><strong>Limites</strong> : c'est le plus ancien de la sélection (mai 2014). La disponibilité en neuf n'est pas précisée sur la fiche consultée. À offrir avant le mariage, sinon une partie des pages ne servira pas.</li>
+</ul>
+<p><a href="{AMZ:L'album de mariage Larousse}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir le bon livre pour ce couple ?</h2>
+<h3>Partez de ce qu'ils font ensemble</h3>
+<p>Un couple qui reçoit souvent aimera un livre de cuisine. Un couple qui parle déjà de son voyage de noces sera ravi d'un livre de voyages. Les carnets à remplir conviennent mieux aux proches : offerts par un collègue, ils peuvent paraître un peu intimes.</p>
+<h3>Offrez-le avec quelque chose</h3>
+<p>Par exemple, un livre de cuisine pour deux posé sur une cocotte de la liste, ou un livre de voyages glissé avec une participation à la cagnotte du voyage de noces. Le livre donne du sens au cadeau, et le cadeau donne du poids au livre. Nos idées sont dans <a href="{R}idees-cadeau-de-mariage/">idées de cadeau de mariage</a>.</p>
+<h3>Vérifiez l'édition</h3>
+<p>Pour un livre de recettes ou de voyages, une édition récente évite les adresses fermées et les informations dépassées. Pour un carnet à remplir, la date compte peu : seules la qualité du papier et la place pour écrire importent.</p>
+<h3>N'en faites pas l'unique cadeau d'un proche</h3>
+<p>Entre proches, un livre seul peut sembler léger. Gardez-le pour un petit budget ou en complément. Pour savoir quoi prévoir selon votre lien avec les mariés, lisez <a href="{R}combien-donner-pour-un-mariage/">combien donner pour un mariage</a>. Et si vous êtes vous-mêmes en train de préparer votre liste, notre <a href="{R}checklist/">checklist pièce par pièce</a> vous aidera à ne rien oublier, livres compris.</p>
+""",
+  faq=[("Quel livre offrir à un couple qui se marie ?", "Pour un cadeau sûr, un beau livre de voyages comme 100 voyages de rêve de Lonely Planet (2025). Pour un cadeau plus personnel, un livre à remplir à deux comme Toi + moi = amour de Stéphanie Bouvet. Pour des mariés qui cuisinent, un livre de recettes pour deux."),
+       ("Un livre est-il un cadeau de mariage suffisant ?", "Entre collègues ou connaissances, oui, surtout s'il est bien choisi. Entre proches, il fonctionne mieux en complément d'un cadeau de la liste ou d'une participation à la cagnotte."),
+       ("Faut-il écrire un mot dans le livre offert ?", "Oui, quelques lignes sur la page de garde le rendent bien plus personnel : la date du mariage, vos prénoms et un vœu pour le couple. Pour un carnet à remplir, laissez au contraire les pages vierges.")],
+  short="Top 10 livres à offrir pour un mariage")
