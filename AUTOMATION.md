@@ -20,3 +20,7 @@ Guides produits (« comment choisir ») : expliquer les critères de choix avec 
 - Pied de page : liens vers les 3 autres sites (Vieillir chez soi, Les oiseaux du jardin, l'autre liste). Dans le texte : au maximum 1 lien vers un site frère par page, seulement quand c'est vraiment utile.
 - Chaque nouvelle page : meta description unique de 140 à 160 caractères, FAQ de 3 à 5 vraies questions, au moins 2 liens internes. Pas de faux tests ni de prix inventés.
 - Priorité aux requêtes longue traîne peu concurrencées : situations précises (jumeaux, prématuré, petit appartement, budget serré, 2e mariage, mariage à l'étranger...), questions concrètes (combien, quand, faut-il), plutôt que les grosses requêtes génériques tenues par les gros sites.
+
+## Rythme et réapprovisionnement (17 nov 2026)
+- Rythme : 3 publications par semaine (bébé : lundi, mercredi, vendredi ; mariage : mardi, jeudi, samedi), chacune 1 article + 1 top.
+- Si src/sujets.md a moins de 10 sujets non cochés, en ajouter 15 nouveaux (longue traîne, questions précises, pas de doublon avec les pages existantes) à la fin, dans le même format. Si src/tops.md a moins de 5 tops non cochés, en ajouter 8.
