@@ -1951,3 +1951,155 @@ g("meilleurs-livres-cadeau-couple/",
        ("Un livre est-il un cadeau de mariage suffisant ?", "Entre collègues ou connaissances, oui, surtout s'il est bien choisi. Entre proches, il fonctionne mieux en complément d'un cadeau de la liste ou d'une participation à la cagnotte."),
        ("Faut-il écrire un mot dans le livre offert ?", "Oui, quelques lignes sur la page de garde le rendent bien plus personnel : la date du mariage, vos prénoms et un vœu pour le couple. Pour un carnet à remplir, laissez au contraire les pages vierges.")],
   short="Top 10 livres à offrir pour un mariage")
+
+AUTO_META['comment-choisir-blender/'] = ('🥤', 'menthe')
+g("comment-choisir-blender/",
+  "Comment choisir un blender : puissance, bol, chauffant ou non",
+  "Comment choisir un blender pour votre liste de mariage",
+  "Quelle puissance, quelle taille de bol, verre ou inox, blender classique ou chauffant pour les soupes : les vrais critères pour choisir un blender qui servira.",
+  """
+<p>Pour bien choisir un blender, posez-vous d'abord une question : allez-vous surtout faire des smoothies, ou aussi des soupes ? Pour les smoothies, un blender classique de 500 W environ avec un bol adapté à votre foyer suffit. Pour les soupes du soir, un blender chauffant d'au moins 800 W vous évitera la casserole et le mixeur plongeant.</p>
+<p>Le reste, c'est du détail qui compte quand même : la matière du bol, le bruit, le nettoyage. Voici comment trier sans vous perdre dans les fiches techniques.</p>
+{CTA}
+<h2>Blender classique ou blender chauffant ?</h2>
+<p>Le blender classique mixe à froid : smoothies, milkshakes, sauces, pâtes à crêpes, glace pilée pour les modèles assez puissants. Le blender chauffant fait la même chose, mais il cuit aussi. Vous mettez les légumes et l'eau, vous lancez le programme « soupe », et il chauffe, mixe et garde au chaud. Selon la Fnac, un modèle d'au moins 800 W prépare un plat chaud en 15 à 20 minutes.</p>
+<p>Il existe deux grandes familles de blenders chauffants, et la différence se sent à l'usage. Les modèles « verseuse » ont le moteur dans le socle et un bol qui se retire. Les modèles où tout passe par le couvercle (lames fixées au couvercle, bol en inox) ont des programmes fixes : Que Choisir note qu'on ne peut alors ni changer le temps de cuisson ni ajouter un ingrédient en cours de route, sauf rares exceptions.</p>
+<p>Notre conseil : si vous mangez de la soupe plus d'une fois par semaine en hiver, prenez un chauffant. Sinon, un bon blender classique fera plus pour moins cher, et une soupe se cuit très bien dans une casserole avant d'être mixée.</p>
+<h2>Quelle puissance faut-il vraiment ?</h2>
+<p>La puissance se lit en watts. Plus elle est élevée, plus le blender vient à bout des aliments durs, mais plus il fait de bruit. Les repères donnés par les revendeurs se recoupent :</p>
+<table><thead><tr><th>Usage principal</th><th>Puissance repère</th><th>Taille de bol pour 2</th></tr></thead><tbody>
+<tr><td>Smoothies avec fruits mûrs</td><td>300 W environ</td><td>1 litre</td></tr>
+<tr><td>Usage varié, glace pilée</td><td>500 W et plus</td><td>1 à 1,5 litre</td></tr>
+<tr><td>Soupes (blender chauffant)</td><td>800 W au moins</td><td>1 à 1,2 litre</td></tr>
+<tr><td>Aliments denses, usage intensif</td><td>1 000 W et plus</td><td>Selon le foyer</td></tr>
+</tbody></table>
+<p>Ces chiffres viennent des guides de la Fnac et d'Electro Dépôt : environ 300 W pour des smoothies simples, plus de 500 W pour piler de la glace, au moins 1 000 W pour les préparations denses. Pour un couple qui veut un appareil polyvalent, un <a href="{AMZ:blender 1000W bol verre}" rel="sponsored nofollow noopener" target="_blank">blender autour de 1 000 W</a> laisse de la marge sans être un monstre de cuisine pro.</p>
+<p>Une erreur fréquente : croire qu'un blender très puissant sera toujours meilleur. Que Choisir rappelle que les programmes automatiques tournent à vitesse fixe et que le mode « pulse » trop sollicité peut faire chauffer le moteur. Un appareil bien dimensionné et bien utilisé dure plus longtemps qu'un appareil puissant qu'on force.</p>
+<h2>Quelle taille de bol pour un couple ?</h2>
+<p>Pour deux personnes, un bol d'un litre suffit dans la plupart des cas. Pour une famille, Electro Dépôt conseille au moins 2 litres. Côté soupe, comptez 300 ml par personne en plat principal, selon Que Choisir et la Fnac, et 150 à 200 ml en entrée. Un blender chauffant de 1,2 litre sert donc 4 bols : de quoi dîner à deux et garder une part pour le lendemain.</p>
+<p>Par exemple, si vous recevez souvent vos familles, visez plutôt 1,5 à 2 litres. Pensez aussi à la place dans les placards : un grand blender laissé sur le plan de travail d'une petite cuisine finit vite par gêner.</p>
+<h2>Verre, plastique ou inox : quel bol choisir ?</h2>
+<ul>
+<li><strong>Verre</strong> : transparent, il permet de surveiller le mixage. Il est plus lourd et peut casser s'il tombe.</li>
+<li><strong>Plastique</strong> : léger et résistant aux chocs. Selon sa qualité, il peut se rayer ou devenir terne avec le temps.</li>
+<li><strong>Inox</strong> : quasiment incassable, il garde la soupe chaude plus longtemps. On ne voit pas ce qui se passe dedans, et la paroi peut brûler sur les modèles chauffants sans double paroi.</li>
+</ul>
+<p>Pour un <a href="{AMZ:blender chauffant soupe}" rel="sponsored nofollow noopener" target="_blank">blender chauffant</a>, la Fnac recommande l'inox. Pour un <a href="{AMZ:blender bol verre}" rel="sponsored nofollow noopener" target="_blank">blender classique</a>, le verre reste le choix le plus durable si vous faites attention.</p>
+<h2>Bruit et nettoyage : ce que les fiches ne disent pas</h2>
+<p>Tous les blenders font du bruit, et les fabricants publient rarement leur niveau sonore. Que Choisir le confirme pour les modèles chauffants, bruyants surtout pendant le mixage et l'ébullition. Si vous vivez en appartement avec des murs fins, évitez de viser la puissance maximale « au cas où ».</p>
+<p>Le nettoyage, lui, fait la différence au quotidien. L'astuce la plus simple : rincer juste après usage, puis faire tourner le blender avec de l'eau chaude et quelques gouttes de liquide vaisselle. Certains modèles proposent un programme de nettoyage automatique. Attention aux blenders chauffants : ils contiennent des parties électriques et ne passent pas entiers au lave-vaisselle. Seuls les bols amovibles en verre ou en plastique peuvent y aller, si la notice l'autorise.</p>
+<h2>Et le blender individuel ?</h2>
+<p>Le <a href="{AMZ:blender individuel nomade}" rel="sponsored nofollow noopener" target="_blank">blender individuel</a>, avec sa bouteille qui sert de gobelet, est pratique pour un smoothie à emporter le matin. Il ne remplace pas un vrai blender : bol petit, moins de polyvalence. Dans une liste de mariage, c'est un bon petit cadeau en plus, pas l'appareil principal.</p>
+<h2>Le blender dans votre liste de mariage</h2>
+<p>Un blender chauffant de bonne marque est un cadeau parfait à offrir à plusieurs. Un blender classique ou un modèle individuel trouvera plus facilement un invité seul. Si vous hésitez entre un blender et un robot pâtissier, demandez-vous ce que vous cuisinez vraiment : les soupes et les smoothies, ou les gâteaux et les pâtes à pain ? Notre guide sur <a href="{R}que-mettre-dans-une-liste-de-mariage/">quoi mettre dans une liste de mariage</a> aide à faire ces arbitrages, et celui pour <a href="{R}comment-choisir-batterie-de-casseroles/">choisir une batterie de casseroles</a> complète bien l'équipement de la cuisine. Pour garder des cadeaux à tous les prix, lisez <a href="{R}liste-de-mariage-petit-budget/">liste de mariage petit budget</a>, et suivez notre <a href="{R}checklist/">checklist pièce par pièce</a>.</p>
+""",
+  faq=[("Quelle puissance pour un blender qui pile la glace ?", "Visez plus de 500 W. En dessous, le blender peine sur les glaçons. Pour un usage intensif ou des aliments très denses, les revendeurs conseillent 1 000 W et plus."),
+       ("Un blender chauffant vaut-il le coup ?", "Oui si vous faites souvent des soupes : il cuit, mixe et garde au chaud, en 15 à 20 minutes avec un modèle d'au moins 800 W. Si vous faites surtout des smoothies, un blender classique suffit et coûte moins cher."),
+       ("Quelle taille de bol pour deux personnes ?", "Un litre suffit pour un couple. Pour la soupe, comptez 300 ml par personne en plat principal. Si vous recevez souvent, montez à 1,5 ou 2 litres.")],
+  short="Choisir un blender")
+
+AUTO_META['meilleurs-cadeaux-invites/'] = ('🏆', 'miel')
+g("meilleurs-cadeaux-invites/",
+  "Cadeaux invités mariage 2026 : notre top 8 (dragées, savons...)",
+  "Quels cadeaux offrir aux invités de votre mariage ? Notre top 8 2026",
+  "Dragées de Verdun, mini savons de Marseille, bougies, graines à semer, mini pots : 8 cadeaux d'invités réels, vendus en France, avec leurs vraies limites.",
+  """
+<p>Le cadeau d'invité qui marche presque à tous les coups reste le ballotin de dragées aux amandes : c'est la tradition, ça se mange, et personne ne repart avec un objet inutile. Si vous voulez sortir un peu du classique, un mini savon de Marseille ou un petit pot de confiture plaisent aussi, pour un budget raisonnable et sans encombrer qui que ce soit.</p>
+<p>Le vrai piège, c'est le gadget acheté par 120 qui finit dans un tiroir. Nous avons donc retenu huit produits qui se consomment ou servent vraiment, tous vendus en France. Nous avions prévu dix produits, mais nous n'avons gardé que ceux dont les caractéristiques étaient publiées clairement par la marque ou un revendeur.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Les quantités, poids et compositions viennent des sites des fabricants (Rampal Latour, Marius Fabre, Bonne Maman), des catalogues de la maison Braquier ou de revendeurs comme Nature &amp; Découvertes. Nous n'indiquons aucun prix : ils changent trop souvent. Quand une donnée manque, nous écrivons « non précisé ». Avant de commander en grande quantité, vérifiez sur la fiche Amazon le nombre de pièces du lot et le vendeur.</p>
+
+<h2>Les 8 cadeaux en un coup d'œil</h2>
+<table><thead><tr><th>Produit</th><th>Type</th><th>Format</th><th>Fabriqué</th><th>À savoir</th></tr></thead><tbody>
+<tr><td>Braquier Duchesse Avola</td><td>Dragées</td><td>Amande Avola 35/36, 44 % d'amande</td><td>Verdun</td><td>Contient amandes et gélatine</td></tr>
+<tr><td>Rampal Latour mini savon olive</td><td>Savon</td><td>25 g</td><td>Salon-de-Provence</td><td>Sans parfum</td></tr>
+<tr><td>Marius Fabre mini savon olive</td><td>Savon</td><td>40 g</td><td>Salon-de-Provence</td><td>Version gravée chez le fabricant</td></tr>
+<tr><td>Durance mini bougie parfumée</td><td>Bougie</td><td>30 g de cire, environ 12 h</td><td>France</td><td>Vendue à l'unité</td></tr>
+<tr><td>Yankee Candle Sampler votive</td><td>Bougie</td><td>49 g, jusqu'à 15 h</td><td>Non précisé</td><td>Paraffine, photophore à prévoir</td></tr>
+<tr><td>Mauvaises Graines kit à semer</td><td>Graines</td><td>Boîte 7 x 7 x 10 cm</td><td>France</td><td>Messages imprimés au choix</td></tr>
+<tr><td>Bonne Maman confiture 30 g</td><td>Mini pot</td><td>30 g</td><td>Biars-sur-Cère (Lot)</td><td>Marque visible sur le pot</td></tr>
+<tr><td>Weck mini bocaux 80 ml</td><td>Pot vide</td><td>Lot de 12, 80 ml</td><td>Non précisé</td><td>À remplir vous-mêmes</td></tr>
+</tbody></table>
+
+<h2>1. Dragées Duchesse Avola de Braquier : la tradition, faite à Verdun</h2>
+<p><strong>Pour qui ?</strong> Les mariés qui veulent le cadeau classique, celui que les grands-parents attendent.</p>
+<ul>
+<li><strong>Points forts</strong> : la maison Léon Braquier fabrique ses dragées à Verdun. La Duchesse est présentée dans son catalogue comme sa meilleure vente : amande d'Avola de calibre 35/36, 44 % d'amande. La gamme existe en nombreuses couleurs, du blanc aux teintes assorties.</li>
+<li><strong>Limites</strong> : la composition relevée sur Open Food Facts pour la version assortie contient de la gélatine (donc pas végétarienne) et des colorants qui portent un avertissement pour l'attention des enfants. Les amandes posent évidemment problème aux invités allergiques. Le nombre de pièces au kilo n'est pas précisé dans le catalogue, et nous ne l'avons pas trouvée avec certitude sur Amazon.fr.</li>
+</ul>
+<p>Notre conseil : choisissez le blanc ou une seule couleur assortie à votre thème, et prévoyez une petite étiquette « contient des amandes » à côté du ballotin, parce qu'un invité allergique ne pense pas toujours à demander.</p>
+<p><a href="{AMZ:Braquier dragées Avola}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Mini savon de Marseille Rampal Latour 25 g : le plus simple et le plus sain</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent un cadeau utile, naturel, et facile à glisser à côté de chaque assiette.</p>
+<ul>
+<li><strong>Points forts</strong> : savon de Marseille à l'huile d'olive, cuit au chaudron à Salon-de-Provence. Le fabricant annonce 72 % d'huiles végétales, la certification COSMOS NATURAL par Ecocert, et ni parfum, ni colorant, ni conservateur. Il se vend en lots de petits savons de 25 g sur Amazon.</li>
+<li><strong>Limites</strong> : sans parfum et de couleur verte nature, il fait sobre. L'emballage individuel n'est pas précisé : comptez un sachet, un ruban ou une étiquette pour qu'il ait l'air d'un cadeau.</li>
+</ul>
+<p><a href="{AMZ:Rampal Latour mini savon 25g}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Mini savon de Marseille Marius Fabre 40 g : celui qu'on peut personnaliser</h2>
+<p><strong>Pour qui ?</strong> Les mariés qui aiment l'idée du savon mais veulent leurs prénoms ou la date dessus.</p>
+<ul>
+<li><strong>Points forts</strong> : 40 g, 5 x 3,5 x 2,5 cm, à base d'huiles d'olive et de coprah, fabriqué à Salon-de-Provence. Le fabricant le dit certifié sans huile de palme, sans colorant ni parfum ajouté. Sur son blog, Marius Fabre explique proposer des mini savons d'invités gravés (prénoms, date, logo), avec un choix de parfums et d'emballage.</li>
+<li><strong>Limites</strong> : la version personnalisée se commande directement chez le fabricant, pas sur Amazon. La quantité minimale n'est pas précisée. Il faut donc s'y prendre tôt.</li>
+</ul>
+<p>Notre conseil : si vous voulez la gravure, contactez la marque au moins deux à trois mois avant le mariage. Sinon, la version standard sur Amazon fait très bien l'affaire avec une étiquette à vos prénoms.</p>
+<p><a href="{AMZ:Marius Fabre savon de Marseille 40 g olive}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Mini bougie parfumée Durance : la jolie bougie fabriquée en France</h2>
+<p><strong>Pour qui ?</strong> Un mariage intimiste, avec peu d'invités, où l'on peut mettre un peu plus par personne.</p>
+<ul>
+<li><strong>Points forts</strong> : 30 g de cire naturelle, environ 12 heures de combustion selon Nature &amp; Découvertes, 5,4 cm de haut. Fabriquée en France. Plusieurs parfums existent, dont Lait de Figue (fruité et gourmand) et Fleur d'Oranger (floral). Sur Amazon, on trouve aussi les versions Coquelicot et Fleur de Coton.</li>
+<li><strong>Limites</strong> : vendue à l'unité, elle revient plus cher par invité qu'un savon ou des dragées. Le type exact de cire et la matière du pot ne sont pas précisés.</li>
+</ul>
+<p><a href="{AMZ:Durance Petite Bougie Parfumée}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Yankee Candle Sampler votive : la bougie qu'on achète en lot</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent une bougie parfumée pour beaucoup d'invités, avec plusieurs senteurs mélangées.</p>
+<ul>
+<li><strong>Points forts</strong> : bougie votive de 49 g, 4,5 cm de haut, jusqu'à 15 heures de combustion selon les revendeurs de la marque. La mèche est annoncée sans plomb. Amazon propose un mélange de 20 votives, pratique pour varier les parfums sur les tables.</li>
+<li><strong>Limites</strong> : c'est une cire de paraffine, pas une cire naturelle. Surtout, la marque recommande de la brûler dans un photophore, non fourni : sans support, la cire coule. Le lieu de fabrication n'est pas précisé.</li>
+</ul>
+<p>Notre conseil : si vous avez déjà des photophores en verre pour la décoration, cette votive devient un vrai cadeau. Sinon, la Durance, qui est dans son pot, est plus simple pour vos invités.</p>
+<p><a href="{AMZ:Yankee Candle Sampler votive}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Kit à semer Mauvaises Graines : le cadeau qui pousse</h2>
+<p><strong>Pour qui ?</strong> Les mariages champêtres, les couples jardiniers, et ceux qui veulent un souvenir qui dure plus qu'une soirée.</p>
+<ul>
+<li><strong>Points forts</strong> : une boîte de 7 x 7 x 10 cm (120 g) avec des graines de fleurs des prés comme le bleuet ou le cosmos, un substrat qui gonfle à l'arrosage et la notice. La boîte s'ouvre avec une languette et se réutilise. Fabrication française de bout en bout : boîte du Périgord, graines françaises, assemblage dans un ESAT en Charente-Maritime. Plusieurs messages sont imprimés au choix, dont « Merci ».</li>
+<li><strong>Limites</strong> : vendu à l'unité, il pèse sur le budget d'un grand mariage. Nous n'avons pas vu de message spécial mariage, et le texte personnalisé n'est pas précisé.</li>
+</ul>
+<p><a href="{AMZ:Mauvaises Graines kit à semer}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Mini pots de confiture Bonne Maman 30 g : gourmand et sans effort</h2>
+<p><strong>Pour qui ?</strong> Les mariés qui veulent un cadeau gourmand prêt à poser, sans bricolage.</p>
+<ul>
+<li><strong>Points forts</strong> : des petits pots de 30 g, fabriqués à Biars-sur-Cère, dans le Lot. Pour la framboise épépinée, la marque indique 60 g de fruits pour 100 g et une recette courte (framboises, sucre, cassonade, jus de citron, pectine). Amazon propose des lots de 15 pots.</li>
+<li><strong>Limites</strong> : la marque se voit sur le pot, ce qui fait moins « fait pour vous ». Aucune personnalisation n'est proposée par la marque : ajoutez un ruban ou une étiquette. Pensez à la date de consommation si vous achetez très en avance.</li>
+</ul>
+<p><a href="{AMZ:Bonne Maman confiture 30g}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Mini bocaux Weck 80 ml : pour remplir avec ce que vous voulez</h2>
+<p><strong>Pour qui ?</strong> Les couples bricoleurs qui ont une idée précise : le miel d'un apiculteur local, la confiture de la grand-mère, des dragées, des bonbons.</p>
+<ul>
+<li><strong>Points forts</strong> : lot de 12 bocaux en verre de 80 ml, 5,5 cm de haut pour 6 cm de diamètre, avec couvercle. Ils passent au lave-vaisselle et se réutilisent ensuite comme petits pots à épices ou à bougie.</li>
+<li><strong>Limites</strong> : il faut les remplir, les fermer et les décorer, ce qui prend du temps pour 100 invités. La fiche technique consultée indique seulement « avec couvercles » : vérifiez sur la fiche Amazon si les joints et les agrafes de fermeture sont fournis.</li>
+</ul>
+<p><a href="{AMZ:APS Weck 80 ml lot de 12}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir le cadeau de vos invités ?</h2>
+<h3>Commencez par le nombre d'invités</h3>
+<p>C'est lui qui décide. Avec 40 invités, une bougie Durance ou un kit à semer reste raisonnable. Avec 150 invités, chaque euro par personne se multiplie : les dragées, les mini savons en lot ou les pots Bonne Maman deviennent plus réalistes. Beaucoup de couples prévoient un cadeau par couple d'invités plutôt qu'un par personne, ce qui divise presque la note par deux.</p>
+<h3>Préférez ce qui se consomme</h3>
+<p>Un savon se termine, une confiture se mange, une bougie se brûle. Une figurine ou un porte-clés gravé, au contraire, finit souvent oublié. C'est la règle la plus utile de cette page.</p>
+<h3>Pensez aux allergies et aux régimes</h3>
+<p>Les dragées contiennent des amandes, et certaines de la gélatine. Si vous savez que des invités sont allergiques ou végétariens, prévoyez quelques cadeaux différents, par exemple des savons, pour leurs places.</p>
+<h3>Commandez tôt, assemblez tôt</h3>
+<p>Ce que les gens oublient, c'est le temps de mise en sachet : 120 ballotins à remplir et à nouer, c'est une soirée entière à plusieurs. Faites-le deux ou trois semaines avant, pas la veille. Pour caler ce genre de tâche dans votre organisation, notre <a href="{R}checklist/">checklist pièce par pièce</a> et notre page sur <a href="{R}remerciements-mariage/">les remerciements de mariage</a> vous aideront, tout comme notre sélection de <a href="{R}meilleure-urne-mariage/">urnes de mariage</a> pour l'accueil.</p>
+""",
+  faq=[("Faut-il un cadeau par invité ou par couple ?", "Les deux se font. Un cadeau par couple d'invités divise presque le budget par deux et passe très bien pour des savons, des bougies ou des pots. Pour les dragées, on prévoit plutôt un ballotin par personne."),
+       ("Les dragées sont-elles toujours obligatoires ?", "Non. Elles restent la tradition française, mais rien n'oblige à en offrir. Beaucoup de mariés les gardent pour les grands-parents et proposent un autre petit cadeau, comme un savon ou un pot de confiture."),
+       ("Quand acheter les cadeaux d'invités ?", "Commandez-les deux à trois mois avant pour une version personnalisée, et au moins un mois avant pour un produit standard. Gardez deux ou trois semaines pour les emballer, et vérifiez la date de consommation des produits alimentaires.")],
+  short="Top 8 cadeaux invités mariage")
