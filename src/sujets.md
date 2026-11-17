@@ -13,29 +13,42 @@
 - [x] comment-choisir-centrale-vapeur/ | comment choisir une centrale vapeur | pression, réservoir, défroisseur ou fer
 - [x] comment-choisir-plancha/ | comment choisir une plancha | électrique ou gaz, surface, revêtement
 - [ ] comment-choisir-blender/ | comment choisir un blender | puissance, chauffant, bol, usages
+- [ ] noces-de-mariage-par-annee/ | noces de mariage liste par année | tableau des noces de 1 à 70 ans avec leur nom et une idée de cadeau ; liens vers les pages noces détaillées
 - [ ] liste-de-mariage-quand-la-creer/ | quand faire sa liste de mariage | délai avant le mariage, faire-part, save the date
+- [ ] cadeau-noces-de-cuir-2-ans/ | cadeau noces de cuir 2 ans de mariage | idées en cuir et autres, pour elle, pour lui, pour le couple
 - [ ] comment-choisir-service-de-table/ | comment choisir son service de table | porcelaine, grès, nombre de pièces, entretien
 - [ ] cadeau-de-mariage-quel-montant/ | combien mettre dans un cadeau de mariage selon le lien | famille, ami proche, collègue, couple invité
+- [ ] cadeau-noces-de-bois-5-ans/ | cadeau noces de bois 5 ans de mariage | idées en bois et autres, budget
 - [ ] liste-de-mariage-voyage-de-noces/ | liste de mariage voyage de noces | articles et cagnotte pour financer le voyage
 - [ ] quel-robot-patissier-pour-une-liste-de-mariage/ | robot pâtissier liste de mariage | critères de choix, cadeau de groupe
+- [ ] cadeau-noces-d-etain-10-ans/ | cadeau noces d'étain 10 ans de mariage | idées, symbolique, cadeau à deux
 - [ ] liste-de-mariage-pacs/ | liste de cadeaux pour un PACS | faut-il une liste, idées, montant
 - [ ] service-de-vaisselle-liste-de-mariage/ | service de vaisselle liste de mariage | combien de couverts, matières, entretien
+- [ ] cadeau-noces-de-porcelaine-20-ans/ | cadeau noces de porcelaine 20 ans | idées en porcelaine (vaisselle, déco) et autres
 - [ ] linge-de-maison-liste-de-mariage/ | linge de maison liste de mariage | quantités, matières, tailles
 - [ ] liste-de-mariage-noces-de-coton/ | cadeau noces de coton 1 an de mariage | idées en coton et autres, liste d'anniversaire
+- [ ] cadeau-noces-d-argent-25-ans/ | cadeau noces d'argent 25 ans de mariage | idées pour les parents ou entre époux, cadeaux collectifs des enfants
 - [ ] liste-de-mariage-cuisine/ | équiper sa cuisine liste de mariage | ustensiles essentiels pièce par pièce
 - [ ] cadeau-de-mariage-a-plusieurs/ | cadeau de mariage à plusieurs | s'organiser entre amis, idées
+- [ ] cadeau-noces-de-perle-30-ans/ | cadeau noces de perle 30 ans | idées, cadeau des enfants
 - [ ] cadeau-de-mariage-derniere-minute/ | cadeau de mariage de dernière minute | livraison rapide, carte cadeau, participation à la liste
 - [ ] cadeau-de-mariage-pour-un-ami/ | cadeau de mariage pour un ami | idées par budget
+- [ ] cadeau-noces-d-emeraude-40-ans/ | cadeau noces d'émeraude 40 ans | idées, fête de famille
 - [ ] cadeau-de-mariage-collegue/ | cadeau de mariage collègue | cagnotte de bureau, idées, carte
 - [ ] liste-de-mariage-maison-a-equiper/ | liste de mariage pour équiper une maison | pièce par pièce, priorités, gros électroménager à plusieurs
+- [ ] cadeau-noces-d-or-50-ans/ | cadeau noces d'or 50 ans de mariage | idées pour les parents ou grands-parents, souvenirs, cadeau collectif
 - [ ] cadeau-temoin-de-mariage/ | cadeau témoin de mariage | remercier ses témoins, idées
 - [ ] cadeau-de-mariage-personnalise/ | cadeau de mariage personnalisé | idées gravées, délais
+- [ ] cadeau-noces-de-diamant-60-ans/ | cadeau noces de diamant 60 ans | idées pour des grands-parents, souvenirs familiaux ; lien vers vieillir-chez-soi.fr cadeau personne âgée si pertinent (1 seul lien)
 - [ ] liste-de-mariage-mariage-a-l-etranger/ | liste de mariage pour un mariage à l'étranger | livraison, cagnotte voyage, invités qui ne viennent pas
 - [ ] cadeau-de-mariage-quand-on-ne-vient-pas/ | cadeau de mariage si on ne vient pas | usages, montant, message
+- [ ] invite-vin-d-honneur-cadeau/ | invité au vin d'honneur combien donner | faut-il offrir un cadeau, quel montant, comment le remettre
 - [ ] petit-mot-cadeau-de-mariage/ | petit mot cadeau de mariage | textes pour la carte du cadeau
 - [ ] remerciement-cadeau-de-mariage/ | message de remerciement cadeau de mariage | modèles courts, délai, liste d'adresses
+- [ ] cadeau-de-mariage-frere-soeur/ | cadeau de mariage pour son frère ou sa sœur | montant habituel, cadeau à plusieurs, idées personnelles
 - [ ] liste-de-mariage-sur-le-faire-part/ | liste de mariage sur le faire-part | où et comment la mentionner
 - [ ] site-de-mariage-gratuit/ | site de mariage gratuit | quoi y mettre, rubrique liste
+- [ ] cadeaux-de-mariage-en-double/ | que faire des cadeaux de mariage en double | échanger, retourner, revendre ou donner avec tact
 - [ ] liste-de-mariage-gens-qui-ne-l-utilisent-pas/ | invités qui n'utilisent pas la liste de mariage | quoi faire, comment le dire avec tact
 - [ ] liste-de-mariage-deuxieme-mariage/ | liste de mariage second mariage | usages et idées
 - [ ] liste-de-mariage-petit-appartement/ | liste de mariage petit appartement | objets compacts et multifonctions

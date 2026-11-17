@@ -38,3 +38,4 @@
 - [ ] meilleur-extracteur-de-jus/ | meilleur extracteur de jus | extracteurs : Kuvings, Hurom, Moulinex, Philips, Panasonic
 - [ ] meilleur-robot-multifonction/ | meilleur robot multifonction | robots de cuisine : Magimix, KitchenAid, Moulinex, Kenwood, Bosch
 - [ ] meilleur-appareil-photo-instantane/ | meilleur appareil photo instantané | appareils pour le mariage et le voyage : Fujifilm Instax, Polaroid, Kodak
+- [ ] meilleurs-cadeaux-noces-d-or/ | cadeau noces d'or | cadeaux réellement vendus pour 50 ans de mariage (souvenirs, objets à graver, coffrets)
