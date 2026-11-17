@@ -22,5 +22,5 @@ Guides produits (« comment choisir ») : expliquer les critères de choix avec 
 - Priorité aux requêtes longue traîne peu concurrencées : situations précises (jumeaux, prématuré, petit appartement, budget serré, 2e mariage, mariage à l'étranger...), questions concrètes (combien, quand, faut-il), plutôt que les grosses requêtes génériques tenues par les gros sites.
 
 ## Rythme et réapprovisionnement (17 nov 2026)
-- Rythme : 3 publications par semaine (bébé : lundi, mercredi, vendredi ; mariage : mardi, jeudi, samedi), chacune 1 article + 1 top.
+- Rythme : 1 publication par jour, tous les jours (1 article + 1 top). Minimum absolu demandé par Jeremy : au moins 1 article par jour sur chaque site.
 - Si src/sujets.md a moins de 10 sujets non cochés, en ajouter 15 nouveaux (longue traîne, questions précises, pas de doublon avec les pages existantes) à la fin, dans le même format. Si src/tops.md a moins de 5 tops non cochés, en ajouter 8.
