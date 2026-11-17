@@ -14,3 +14,9 @@ Liens Amazon : uniquement via `{AMZ:mots clés}` dans le corps (le tag est ajout
 Ton neutre : ne pas parler d'Amazon dans chaque paragraphe. Présenter les solutions de façon équilibrée (site marchand, liste multi-boutiques, magasin, cagnotte) ; Amazon peut être cité comme notre choix, sans plus. Lien vers la page comparatif `{R}ou-faire-sa-liste-de-mariage/` quand le sujet s'y prête.
 
 Guides produits (« comment choisir ») : expliquer les critères de choix avec un tableau comparatif par type ou par budget, sans inventer de caractéristiques ni de prix de modèles précis. Mettre un lien `{AMZ:mots clés}` par type de produit (par exemple `{AMZ:poussette compacte}`), à l'endroit où on parle de ce type, 4 à 8 liens par article. Ne citer un modèle ou une marque que si un fait précis a été vérifié par une recherche web. Lien vers `{R}checklist/` et vers le guide liste Amazon.
+
+## SEO et liens entre sites (17 nov 2026)
+- Auteur : guides signés Jérémy Dacier-Jury (byline, schema Person, publisher Organization avec logo), page /a-propos/. Ne pas retirer.
+- Pied de page : liens vers les 3 autres sites (Vieillir chez soi, Les oiseaux du jardin, l'autre liste). Dans le texte : au maximum 1 lien vers un site frère par page, seulement quand c'est vraiment utile.
+- Chaque nouvelle page : meta description unique de 140 à 160 caractères, FAQ de 3 à 5 vraies questions, au moins 2 liens internes. Pas de faux tests ni de prix inventés.
+- Priorité aux requêtes longue traîne peu concurrencées : situations précises (jumeaux, prématuré, petit appartement, budget serré, 2e mariage, mariage à l'étranger...), questions concrètes (combien, quand, faut-il), plutôt que les grosses requêtes génériques tenues par les gros sites.

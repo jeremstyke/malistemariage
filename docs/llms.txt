@@ -55,5 +55,6 @@ Langue : français
 - [Calculateur de budget mariage : répartition par poste](https://malistedemariage.fr/calculateur-budget-mariage/): Répartissez votre budget de mariage entre les postes : réception, tenues, photo, musique, décoration, alliances. Ajustez les pourcentages, le calcul est immédiat.
 - [Combien d'articles dans une liste de mariage ? Calculateur](https://malistedemariage.fr/calculateur-liste-de-mariage/): Indiquez le nombre d'invités : le calculateur vous dit combien d'articles mettre dans votre liste de mariage et comment les répartir par tranche de prix.
 - [Outils gratuits mariage : rétroplanning, budget, liste](https://malistedemariage.fr/outils/): Outils gratuits pour organiser votre mariage : rétroplanning personnalisé, calculateur de budget et nombre d'articles pour votre liste de mariage.
+- [À propos | Ma liste mariage](https://malistedemariage.fr/a-propos/): Qui écrit Ma liste mariage, d'où viennent nos conseils et comment le site est financé.
 - [Mentions légales | Ma liste mariage](https://malistedemariage.fr/mentions-legales/): Mentions légales du site Ma liste mariage.
 - [Confidentialité | Ma liste mariage](https://malistedemariage.fr/confidentialite/): Politique de confidentialité de Ma liste mariage : checklist sans inscription, compte facultatif.

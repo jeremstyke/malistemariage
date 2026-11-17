@@ -68,11 +68,17 @@ NAV = [('checklist/', 'Checklist'), ('ou-faire-sa-liste-de-mariage/', 'Où faire
 FONTS = ('<link rel="preload" href="@R@assets/fonts/bricolage-grotesque-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>'
          '<link rel="preload" href="@R@assets/fonts/figtree-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>')
 
+AUTHOR_NAME = 'Jérémy Dacier-Jury'
+AUTHOR_LD = {"@type": "Person", "name": AUTHOR_NAME, "url": BASE + '/a-propos/'}
+PUBLISHER_LD = {"@type": "Organization", "name": SITE, "url": BASE + '/', "logo": {"@type": "ImageObject", "url": BASE + '/assets/apple-touch-icon.png'}}
+
+
 def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='', noindex=False, og=None):
     depth = path.count('/')
     R = '../' * depth
     url = BASE + '/' + path
-    ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": BASE + '/'}]
+    ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": BASE + '/', "inLanguage": "fr", "publisher": PUBLISHER_LD}]
+    if path == '': ld.append(dict({"@context": "https://schema.org"}, **PUBLISHER_LD))
     if crumbs:
         items = [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": BASE + '/'}]
         for i, (n, p) in enumerate(crumbs):
@@ -125,9 +131,9 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <div class="wave-foot"><svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 240 70 480 0 720 25 C 960 50 1200 10 1440 30 L1440 60 L0 60 Z"/></svg></div><footer class="foot"><div class="wrap foot-in">
 <div><a class="logo" href="{R}"><span class="logo-ico" aria-hidden="true">💍</span>Ma liste mariage</a>
 <p>La checklist gratuite pour composer votre liste de mariage, pièce par pièce.</p></div>
-<nav aria-label="Pied de page"><a href="{R}checklist/">Checklist</a><a href="{R}guides/">Guides</a><a href="{R}outils/">Outils</a><a href="{R}mentions-legales/">Mentions légales</a><a href="{R}confidentialite/">Confidentialité</a><a href="mailto:{CONTACT}">Contact</a></nav>
+<nav aria-label="Pied de page"><a href="{R}checklist/">Checklist</a><a href="{R}guides/">Guides</a><a href="{R}outils/">Outils</a><a href="{R}a-propos/">À propos</a><a href="{R}mentions-legales/">Mentions légales</a><a href="{R}confidentialite/">Confidentialité</a><a href="mailto:{CONTACT}">Contact</a></nav>
 <p class="wed">🍼 Un bébé en route ? <a href="{BABY_SITE}">Préparez votre liste de naissance sur Ma liste bébé</a></p>
-<nav class="sites" aria-label="Nos autres sites"><p class="sites-t">Découvrez aussi nos autres sites</p><div class="sites-g"><a href="https://malistebebe.fr/"><img src="https://malistebebe.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Ma liste bébé</strong><small>Préparer l'arrivée de bébé</small></span></a><a href="https://vieillir-chez-soi.fr/"><img src="https://vieillir-chez-soi.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Vieillir chez soi</strong><small>Rester autonome à la maison</small></span></a><a href="https://lesoiseauxdujardin.fr/"><img src="https://lesoiseauxdujardin.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Les oiseaux du jardin</strong><small>Nourrir et observer les oiseaux</small></span></a></div></nav>
+<nav class="sites" aria-label="Nos autres sites"><p class="sites-t">Découvrez aussi nos autres sites</p><div class="sites-g"><a href="https://vieillir-chez-soi.fr/"><img src="https://vieillir-chez-soi.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Vieillir chez soi</strong><small>Rester autonome à la maison</small></span></a><a href="https://lesoiseauxdujardin.fr/"><img src="https://lesoiseauxdujardin.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Les oiseaux du jardin</strong><small>Nourrir et observer les oiseaux</small></span></a><a href="https://malistebebe.fr/"><img src="https://malistebebe.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Ma liste bébé</strong><small>Préparer l'arrivée de bébé</small></span></a></div></nav>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifiez-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
 <script src="{R}assets/account.js?v=7" defer></script>
@@ -315,9 +321,9 @@ def build():
         ogp = ogfor(x['slug'].strip('/'), x['h1'], 'Guide', e, t)
         art = [{"@context": "https://schema.org", "@type": "Article", "headline": x['h1'], "description": x['desc'],
                 "inLanguage": "fr-FR", "datePublished": "2026-11-14", "dateModified": "2026-11-14",
-                "author": {"@type": "Organization", "name": SITE, "url": BASE + '/'}, "publisher": {"@type": "Organization", "name": SITE, "url": BASE + '/'}, "image": BASE + '/' + ogp, "mainEntityOfPage": BASE + '/' + x['slug']}]
+                "author": AUTHOR_LD, "publisher": PUBLISHER_LD, "image": BASE + '/' + ogp, "mainEntityOfPage": BASE + '/' + x['slug']}]
         b = ('<header class="cover t-%s"><span class="cover-dots" aria-hidden="true"></span><div class="wrap cover-in"><span class="cover-e" aria-hidden="true">%s</span>'
-             '<div><h1>%s</h1><p class="cover-d">%s</p><p class="cover-m">%d min de lecture, mis à jour en novembre %d</p></div></div></header>'
+             '<div><h1>%s</h1><p class="cover-d">%s</p><p class="cover-m">%d min de lecture, mis à jour en novembre %d, par <a href="/a-propos/" rel="author">Jérémy</a></p></div></div></header>'
              '<div class="wrap art-wrap"><article class="prose">%s%s%s%s</article></div>%s') % (
             t, e, esc(x['h1']), esc(x['desc']), mins, YEAR, toc, body, CTA, fh, related(x['slug']))
         page(x['slug'], x['title'], x['desc'], b, schema=art + fs,
@@ -403,6 +409,14 @@ def build():
 <h2>Hébergement</h2><p>GitHub Pages, GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, États-Unis.</p>
 <h2>Affiliation</h2><p>{DISCLOSURE} Les liens vers Amazon.fr sont des liens d'affiliation : si vous achetez après avoir cliqué, nous touchons une commission, sans surcoût pour vous. Le choix des articles reste indépendant.</p>
 <h2>Responsabilité</h2><p>Les conseils de ce site sont donnés à titre informatif. Les conditions des offres Amazon peuvent changer à tout moment.</p></article></div>'''
+    page('a-propos/', 'À propos | ' + SITE, "Qui écrit " + SITE + ", d'où viennent nos conseils et comment le site est financé.", f'''<div class="wrap art-wrap"><article class="prose"><h1>À propos</h1>
+<p>Ma liste mariage aide les futurs mariés à composer leur liste de mariage et leurs invités à choisir un cadeau : guides, idées et outils gratuits. Le site est édité par Jérémy Dacier-Jury.</p>
+<h2>Qui écrit</h2><p>Les guides sont rédigés et relus par Jérémy, avec l'aide d'outils de rédaction. Chaque page indique sa date de mise à jour.</p>
+<h2>Notre méthode</h2><ul><li><strong>Des critères de choix expliqués</strong> pour chaque article : sécurité, normes, usage réel, entretien.</li>
+<li><strong>Pas de faux tests</strong> : nous ne testons pas tous les produits nous-mêmes. Les sélections s'appuient sur les fiches des fabricants, les normes et les avis d'utilisateurs.</li>
+<li><strong>Aucun prix inventé</strong> : les prix changent, nous renvoyons vers la fiche du produit.</li>
+<li><strong>Des corrections rapides</strong> : une erreur ? Écris-nous à <a href="mailto:{CONTACT}">{CONTACT}</a>.</li></ul>
+<h2>Comment le site est financé</h2><p>{DISCLOSURE} Si tu achètes après avoir cliqué sur un lien Amazon, nous touchons une commission, sans surcoût pour toi. Le choix des articles reste indépendant.</p></article></div>''', crumbs=[('À propos', 'a-propos/')])
     page('mentions-legales/', 'Mentions légales | Ma liste mariage', 'Mentions légales du site Ma liste mariage.', ml, crumbs=[('Mentions légales', 'mentions-legales/')])
     cf = f'''<div class="wrap art-wrap"><article class="prose"><h1>Confidentialité</h1>
 <p>La checklist fonctionne sans inscription. Le compte est facultatif.</p>
