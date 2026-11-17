@@ -24,3 +24,6 @@ Guides produits (« comment choisir ») : expliquer les critères de choix avec 
 ## Rythme et réapprovisionnement (17 nov 2026)
 - Rythme : 1 publication par jour, tous les jours (1 article + 1 top). Minimum absolu demandé par Jeremy : au moins 1 article par jour sur chaque site.
 - Si src/sujets.md a moins de 10 sujets non cochés, en ajouter 15 nouveaux (longue traîne, questions précises, pas de doublon avec les pages existantes) à la fin, dans le même format. Si src/tops.md a moins de 5 tops non cochés, en ajouter 8.
+
+## Qui publie (17 nov 2026)
+- Toutes les publications de ce site sont faites UNIQUEMENT par les tâches programmées créées depuis la conversation de Jeremy dédiée aux 4 sites affiliés (Vieillir chez soi, Les oiseaux du jardin, Ma liste bébé, Ma liste mariage). Toute autre session ou conversation ne doit ni publier de page, ni créer, modifier ou dupliquer une tâche de publication pour ce site : elle signale le besoin à Jeremy et s'arrête.
