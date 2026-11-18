@@ -2103,3 +2103,176 @@ g("meilleurs-cadeaux-invites/",
        ("Les dragées sont-elles toujours obligatoires ?", "Non. Elles restent la tradition française, mais rien n'oblige à en offrir. Beaucoup de mariés les gardent pour les grands-parents et proposent un autre petit cadeau, comme un savon ou un pot de confiture."),
        ("Quand acheter les cadeaux d'invités ?", "Commandez-les deux à trois mois avant pour une version personnalisée, et au moins un mois avant pour un produit standard. Gardez deux ou trois semaines pour les emballer, et vérifiez la date de consommation des produits alimentaires.")],
   short="Top 8 cadeaux invités mariage")
+
+AUTO_META['noces-de-mariage-par-annee/'] = ('💍', 'lilas')
+g("noces-de-mariage-par-annee/",
+  "Noces de mariage par année : la liste et une idée de cadeau",
+  "Noces de mariage : la liste année par année, avec une idée de cadeau",
+  "Coton à 1 an, bois à 5, étain à 10, argent à 25, or à 50 : la liste des noces de mariage année par année, avec une idée de cadeau simple pour chacune.",
+  """
+<p>Chaque anniversaire de mariage porte un nom de matière : noces de coton pour 1 an, de cuir pour 2 ans, de bois pour 5 ans, d'étain pour 10 ans, d'argent pour 25 ans et d'or pour 50 ans. Vous trouverez ci-dessous la liste complète, année par année, avec une idée de cadeau pour chacune.</p>
+<p>Un détail que peu de gens savent : cette liste n'a rien d'officiel. C'est une tradition, et les sources ne sont pas toujours d'accord sur certaines années. Nous signalons les cas où elles divergent, pour que vous ne soyez pas pris de court si quelqu'un vous corrige à table.</p>
+{CTA}
+<h2>La liste des noces, de 1 à 50 ans</h2>
+<p>Les noms ci-dessous sont ceux que l'on retrouve le plus souvent dans les listes françaises. La colonne « idée de cadeau » part du symbole de l'année : ce sont des pistes, pas des obligations.</p>
+<table><thead><tr><th>Années</th><th>Noces de</th><th>Une idée de cadeau</th></tr></thead><tbody>
+<tr><td>1 an</td><td>Coton</td><td>Linge de lit, tote bag brodé, plaid</td></tr>
+<tr><td>2 ans</td><td>Cuir</td><td>Portefeuille, ceinture, sac de week-end</td></tr>
+<tr><td>3 ans</td><td>Froment</td><td>Machine à pain, cours de boulangerie, panier gourmand</td></tr>
+<tr><td>4 ans</td><td>Cire</td><td>Bougies parfumées, atelier fabrication de bougies</td></tr>
+<tr><td>5 ans</td><td>Bois</td><td>Planche à découper gravée, cadre, petit meuble</td></tr>
+<tr><td>6 ans</td><td>Chypre</td><td>Parfum (le chypre est une famille olfactive)</td></tr>
+<tr><td>7 ans</td><td>Laine</td><td>Pull, plaid en laine, chaussettes chaudes</td></tr>
+<tr><td>8 ans</td><td>Coquelicot</td><td>Bouquet, affiche fleurie, graines à semer</td></tr>
+<tr><td>9 ans</td><td>Faïence</td><td>Vaisselle, vase, tasses peintes</td></tr>
+<tr><td>10 ans</td><td>Étain</td><td>Gobelets ou objet en étain, bijou</td></tr>
+<tr><td>11 à 14 ans</td><td>Corail, soie, muguet, plomb</td><td>Bijou, foulard en soie, brin de muguet en mai</td></tr>
+<tr><td>15 ans</td><td>Cristal</td><td>Verres à vin, carafe</td></tr>
+<tr><td>16 à 19 ans</td><td>Saphir, rose, turquoise, cretonne</td><td>Bijou, rosier à planter, linge de table</td></tr>
+<tr><td>20 ans</td><td>Porcelaine</td><td>Service à thé, beau service de table</td></tr>
+<tr><td>21 à 24 ans</td><td>Opale, bronze, béryl, satin</td><td>Bijou, sculpture, parure de lit en satin</td></tr>
+<tr><td>25 ans</td><td>Argent</td><td>Couverts en argent, bijou, voyage</td></tr>
+<tr><td>26 à 29 ans</td><td>Jade, acajou, nickel, velours</td><td>Plante (jade), meuble en bois, coussins</td></tr>
+<tr><td>30 ans</td><td>Perle</td><td>Collier ou boucles d'oreilles en perles</td></tr>
+<tr><td>31 à 34 ans</td><td>Basane, cuivre, porphyre, ambre</td><td>Maroquinerie, casserole en cuivre, bijou</td></tr>
+<tr><td>35 ans</td><td>Rubis</td><td>Bijou, grand vin rouge</td></tr>
+<tr><td>36 à 39 ans</td><td>Mousseline, papier, mercure, crêpe</td><td>Album photo, livre, soirée crêpes en famille</td></tr>
+<tr><td>40 ans</td><td>Émeraude</td><td>Bijou, voyage au vert</td></tr>
+<tr><td>41 à 44 ans</td><td>Fer, nacre, flanelle, topaze</td><td>Cocotte en fonte, plaid, bijou</td></tr>
+<tr><td>45 ans</td><td>Vermeil (ou platine)</td><td>Objet en vermeil, bijou</td></tr>
+<tr><td>46 à 49 ans</td><td>Lavande, cachemire, améthyste, cèdre</td><td>Séjour en Provence, écharpe en cachemire</td></tr>
+<tr><td>50 ans</td><td>Or</td><td>Fête de famille, bijou, voyage</td></tr>
+</tbody></table>
+<h2>Et après 50 ans ?</h2>
+<p>Les listes continuent bien au-delà. Les plus connues sont les noces d'orchidée (55 ans), de diamant (60 ans), de palissandre (65 ans), de platine (70 ans), d'albâtre (75 ans) et de chêne (80 ans). Certaines listes vont jusqu'à 100 ans, avec les noces d'eau.</p>
+<p>À ces âges-là, l'objet compte souvent moins que le moment. Par exemple, pour des noces de diamant, un repas qui réunit les enfants et les petits-enfants, avec un livre de photos qui retrace les 60 ans, touche bien plus qu'un cadeau acheté en vitesse.</p>
+<h2>Pourquoi certaines années changent d'une liste à l'autre ?</h2>
+<p>Parce qu'aucune autorité ne fixe ces noms. En comparant plusieurs listes françaises, on voit quelques différences : 45 ans s'appelle noces de vermeil chez les uns et de platine chez les autres, 56 ans noces de buis ou de lapis-lazuli, 85 ans noces de morganite ou d'uranium. L'origine elle-même est discutée : certains la font remonter à l'Allemagne médiévale, d'autres au XIXe siècle. Les seules qui mettent tout le monde d'accord sont l'argent à 25 ans et l'or à 50 ans.</p>
+<p>Notre conseil : si vous préparez une carte ou un discours, retenez le nom le plus courant (celui du tableau) et ne vous inquiétez pas des variantes. Personne ne vous en voudra.</p>
+<h2>Faut-il vraiment offrir un cadeau dans la matière ?</h2>
+<p>Non. Le nom des noces est un point de départ amusant, pas une règle. Il aide surtout quand on manque d'idée. Offrir un <a href="{AMZ:plaid coton}" rel="sponsored nofollow noopener" target="_blank">plaid en coton</a> pour un an de mariage, une <a href="{AMZ:planche a decouper bois gravee}" rel="sponsored nofollow noopener" target="_blank">planche en bois gravée</a> pour cinq ans ou des <a href="{AMZ:verres a vin cristal}" rel="sponsored nofollow noopener" target="_blank">verres en cristal</a> pour quinze ans, c'est un clin d'œil que les gens comprennent tout de suite.</p>
+<p>L'erreur fréquente, c'est de forcer le symbole au point d'offrir un objet qui ne sert à rien. Un presse-papier en étain qui finit dans un tiroir fait moins plaisir qu'un bon dîner. Pensez d'abord à ce qui ferait envie au couple, puis cherchez le lien avec la matière s'il existe.</p>
+<p>Quelques années se prêtent très bien à des cadeaux utiles pour la maison. Pour les noces de faïence ou de porcelaine, un beau service fait l'affaire : nous avons comparé plusieurs <a href="{R}meilleur-service-de-table/">services de table</a>. Pour les noces de fer à 41 ans, une cocotte en fonte reste dans le thème, voyez notre <a href="{R}meilleure-cocotte-en-fonte/">sélection de cocottes</a>. Et pour les noces de cire, des <a href="{AMZ:bougie parfumee coffret}" rel="sponsored nofollow noopener" target="_blank">bougies parfumées</a> sont faciles à trouver.</p>
+<h2>Quelles années fêter en grand ?</h2>
+<p>Peu de couples fêtent chaque année en grand. On garde plutôt la fête pour les dates rondes ou symboliques : la première année (coton), les 10 ans (étain), les 25 ans (argent), les 40 ans (émeraude) et les 50 ans (or). C'est souvent l'occasion de refaire une petite liste d'envies, car l'équipement reçu au mariage commence à s'user. Notre <a href="{R}idees-cadeau-de-mariage/">liste d'idées cadeaux</a> et notre <a href="{R}checklist/">checklist pièce par pièce</a> servent aussi pour un anniversaire de mariage : vous y repérez vite ce qui mérite d'être remplacé.</p>
+""",
+  faq=[("Comment s'appellent les noces pour 1 an de mariage ?", "On parle de noces de coton. Viennent ensuite les noces de cuir pour 2 ans, de froment pour 3 ans, de cire pour 4 ans et de bois pour 5 ans."),
+       ("Quelles noces pour 25 et 50 ans de mariage ?", "25 ans correspond aux noces d'argent et 50 ans aux noces d'or. Ce sont les deux anniversaires sur lesquels toutes les listes s'accordent."),
+       ("Les noms des noces sont-ils les mêmes partout ?", "Pas tout à fait. La liste n'a rien d'officiel et quelques années changent selon les sources, par exemple 45 ans (vermeil ou platine) ou 56 ans (buis ou lapis-lazuli). Les grandes dates comme le coton, le bois, l'étain, l'argent et l'or sont stables.")],
+  short="Noces de mariage par année")
+
+AUTO_META['meilleure-decoration-mariage/'] = ('🏆', 'peche')
+g("meilleure-decoration-mariage/",
+  "Décoration mariage 2026 : notre top 9 (guirlandes, arche...)",
+  "Quelle décoration pour votre mariage ? Notre top 9 2026",
+  "Guirlandes guinguette, rideau lumineux, bougies LED, néon LOVE, arche et kits de ballons : 9 décorations de mariage réelles, avec leurs vraies limites.",
+  """
+<p>Si vous ne deviez acheter qu'une seule décoration pour votre mariage, prenez de la lumière. Une guirlande guinguette au-dessus des tables ou un rideau lumineux derrière la table d'honneur transforme une salle banale bien plus sûrement qu'une pile de petits objets. Le reste (arche, ballons, lettres LOVE) vient ensuite, selon votre style et votre lieu.</p>
+<p>Nous avons retenu neuf produits réels, vendus en France, dont les caractéristiques sont publiées clairement par la marque ou par un revendeur. Nous visions dix, mais nous n'avons pas trouvé de chemin de table dont la fiche détaillée soit consultable : plutôt que d'inventer, nous l'avons laissé de côté.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Les données viennent des sites de Lumisky, Silumen, Relaxdays et Ginger Ray, et des fiches de Pearl et de Galaxus. Nous n'indiquons aucun prix : ils bougent trop. Quand une donnée manque, nous écrivons « non précisé ». Sur Amazon, vérifiez toujours la longueur, le nombre de pièces et le vendeur avant de commander.</p>
+
+<h2>Les 9 décorations en un coup d'œil</h2>
+<table><thead><tr><th>Produit</th><th>Type</th><th>Taille</th><th>Alimentation</th><th>Extérieur</th></tr></thead><tbody>
+<tr><td>Lumisky Chic Cage Light Connectable</td><td>Guirlande guinguette</td><td>6 m, 10 ampoules</td><td>Secteur</td><td>Oui</td></tr>
+<tr><td>Lumisky Planet Light</td><td>Guirlande guinguette</td><td>6 m, 10 ampoules</td><td>Secteur</td><td>Oui</td></tr>
+<tr><td>Silumen rideau 120 LED</td><td>Rideau lumineux</td><td>2 m de large</td><td>Secteur, 3,6 W</td><td>Abrité (IP44)</td></tr>
+<tr><td>Lunartec 3 bougies LED en cire</td><td>Bougies LED</td><td>10, 12,5 et 15 cm</td><td>Piles AA (non fournies)</td><td>Non précisé</td></tr>
+<tr><td>Lunartec 3 lettrages LOVE lumineux</td><td>Lettres lumineuses</td><td>29,7 x 9 cm</td><td>Piles AA (non fournies)</td><td>Non précisé</td></tr>
+<tr><td>Partydeco néon LED Love</td><td>Néon</td><td>61 x 27,4 cm environ</td><td>Secteur</td><td>Non précisé</td></tr>
+<tr><td>Relaxdays arche métal noire</td><td>Arche</td><td>213 x 106 x 41 cm</td><td>Aucune</td><td>Oui</td></tr>
+<tr><td>Ginger Ray White Balloon Arch Kit</td><td>Kit de ballons</td><td>70 ballons</td><td>Aucune</td><td>Non précisé</td></tr>
+<tr><td>Ginger Ray Luxe Sage &amp; White</td><td>Kit de ballons</td><td>200 ballons, 8 éventails</td><td>Aucune</td><td>Non précisé</td></tr>
+</tbody></table>
+
+<h2>1. Lumisky Chic Cage Light Connectable : la guinguette qui s'allonge</h2>
+<p><strong>Pour qui ?</strong> Les mariages en extérieur ou sous chapiteau, quand il faut couvrir une grande surface.</p>
+<ul>
+<li><strong>Points forts</strong> : 6 m de long, 10 ampoules LED à filament E27 fournies et remplaçables, sous des abat-jour cage en acier de 19 cm. Lumière blanc chaud à 2 200 K. Le fabricant annonce qu'on peut relier jusqu'à 10 guirlandes entre elles, ce qui permet de quadriller une cour ou une tente avec une seule prise. Il y a 2,15 m de câble entre la prise et la première ampoule, puis 40 cm entre chaque ampoule.</li>
+<li><strong>Limites</strong> : elle se branche sur secteur, donc il faut une prise ou une rallonge d'extérieur. Elle pèse 2,5 kg : prévoyez des points d'accroche solides et un câble tendu. La fiche indique IP64 alors que la notice de sécurité parle d'IP44, ce qui reste suffisant pour des éclaboussures mais pas pour une pluie battante prolongée.</li>
+</ul>
+<p>Notre conseil : c'est le modèle le plus logique si votre lieu est grand, parce que vous pourrez en ajouter une deuxième ou une troisième sans multiplier les prises.</p>
+<p><a href="{AMZ:Lumisky Chic Cage Light Connectable}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Lumisky Planet Light : l'effet guinguette plus décoratif</h2>
+<p><strong>Pour qui ?</strong> Les couples qui aiment le style industriel ou bohème et veulent des abat-jour qui se remarquent, même éteints.</p>
+<ul>
+<li><strong>Points forts</strong> : 6 m, 10 ampoules LED à filament E27 fumées, fournies et remplaçables, sous des abat-jour en métal ajouré de 20 cm. Lumière à 2 200 K. Le fabricant la dit résistante aux UV et utilisable dedans comme dehors. 2 m de câble avant la première ampoule, 40 cm entre les ampoules.</li>
+<li><strong>Limites</strong> : 3,15 kg, c'est lourd pour une guirlande. Le caractère raccordable n'est pas précisé sur la fiche consultée. Là encore, l'indice de protection varie selon la page (IP44 ou IP64), et le modèle était indiqué en rupture sur le site du fabricant au moment de notre lecture.</li>
+</ul>
+<p><a href="{AMZ:Lumisky Planet Light guirlande}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Rideau lumineux Silumen 120 LED : le fond de photo sans bricolage</h2>
+<p><strong>Pour qui ?</strong> Ceux qui veulent un fond lumineux derrière la table d'honneur ou le coin photo, sans bricoler.</p>
+<ul>
+<li><strong>Points forts</strong> : 120 LED blanc chaud sur 2 m de large, câble transparent qui se fait oublier sur un mur ou un voilage. 3,6 W seulement, indice IP44, et une plage de température de -20 à +50 °C selon Silumen. Il se branche sur secteur.</li>
+<li><strong>Limites</strong> : la hauteur des pendants n'est pas précisée sur la fiche, et la lumière n'est pas réglable en intensité. Le vendeur le conseille pour un espace couvert, comme une véranda, plutôt qu'en plein air. Pour un grand mur, il en faudra plusieurs.</li>
+</ul>
+<p>Notre conseil : posé derrière un voilage blanc, un rideau lumineux donne un fond de photo très doux. Faites un essai chez vous avant le jour J pour voir combien il vous en faut.</p>
+<p><a href="{AMZ:rideau lumineux 120 LED blanc chaud 2m}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Lunartec 3 bougies LED en cire : la flamme sans le risque</h2>
+<p><strong>Pour qui ?</strong> Les salles qui interdisent les bougies à flamme, et les tables où des enfants circulent.</p>
+<ul>
+<li><strong>Points forts</strong> : trois bougies en vraie cire, de 8 cm de diamètre et de 10, 12,5 et 15 cm de haut. Effet de flamme vacillante ou lumière fixe, intensité réglable. Une télécommande (portée jusqu'à 5 m, pile bouton fournie) les allume toutes d'un coup, avec une minuterie de 2, 4, 6 ou 8 heures. Une petite guirlande lumineuse est incluse. Jusqu'à 50 heures d'autonomie selon Pearl.</li>
+<li><strong>Limites</strong> : chaque bougie prend 2 piles AA, non fournies, soit 6 piles par lot. Pour décorer 15 tables, le calcul des piles devient vite important. L'usage en extérieur n'est pas précisé.</li>
+</ul>
+<p><a href="{AMZ:Lunartec bougies LED cire télécommande}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Lunartec lettrages LOVE lumineux : le petit mot sur chaque table</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent un « LOVE » discret sur les tables ou le buffet, sans fil apparent.</p>
+<ul>
+<li><strong>Points forts</strong> : un lot de trois lettrages LOVE en miroir argenté, dans un cadre en bois laqué blanc, de 29,7 x 9 x 2,9 cm et 175 g selon la fiche. 20 LED blanc chaud, sans câble visible. Jusqu'à 100 heures en continu, et une minuterie qui allume 6 heures puis éteint 18 heures, pratique si vous les gardez ensuite à la maison.</li>
+<li><strong>Limites</strong> : Il fonctionne avec 3 piles AA, non fournies. C'est un objet de table, pas une grande lettre qui se voit du fond de la salle. Pearl l'annonçait bientôt disponible au moment de notre lecture.</li>
+</ul>
+<p><a href="{AMZ:Lunartec LOVE lumineux miroir}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Partydeco néon LED Love : le mot qui se voit de loin</h2>
+<p><strong>Pour qui ?</strong> Le mur derrière les mariés, le photocall, ou le bar.</p>
+<ul>
+<li><strong>Points forts</strong> : environ 61 x 27,4 cm, lumière blanche, en plastique, avec des boucles sur les côtés pour l'accrocher. Il consomme environ 0,2 W et se branche avec un câble d'environ 3 m.</li>
+<li><strong>Limites</strong> : il faut une prise à proximité, et un câble de 3 m qui pend sur un mur se voit sur les photos : prévoyez de quoi le cacher. L'usage en extérieur n'est pas précisé.</li>
+</ul>
+<p>Notre conseil : entre ce néon et les petits lettrages Lunartec, choisissez selon la distance. Pour un mot que tout le monde voit en entrant, le néon. Pour des tables, les lettrages.</p>
+<p><a href="{AMZ:Partydeco néon LED Love}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Arche Relaxdays en métal noir : la structure qui sert après</h2>
+<p><strong>Pour qui ?</strong> Une cérémonie laïque en extérieur, et les couples qui ont un jardin où la replanter ensuite.</p>
+<ul>
+<li><strong>Points forts</strong> : 213 x 106 x 41 cm, avec un passage de 201 x 96 cm. Fer avec revêtement par poudre, noir, 4,3 kg. Elle se plante simplement dans le sol, et la marque la décrit comme résistante aux intempéries. Après le mariage, c'est une vraie arche à rosiers pour le jardin.</li>
+<li><strong>Limites</strong> : elle est vendue sans décoration, il faut donc prévoir fleurs, tissus ou feuillage. Elle se plante dans la terre : sur un sol dur (terrasse, parquet de salle), il faudra la lester ou la fixer. Montage nécessaire, avec notice illustrée.</li>
+</ul>
+<p>Notre conseil : c'est l'achat le plus malin de cette liste, parce qu'il ne finit pas au grenier. Si vous n'avez pas de jardin, une arche en location sera plus logique.</p>
+<p><a href="{AMZ:Relaxdays arche rosiers métal noir 213 x 106}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Ginger Ray White Balloon Arch Kit : l'arche de ballons sobre</h2>
+<p><strong>Pour qui ?</strong> Un mariage en blanc, une entrée de salle ou un coin photo à habiller vite.</p>
+<ul>
+<li><strong>Points forts</strong> : 70 ballons en latex de tailles variées, en blanc, blanc nacré et blanc à confettis, avec 4 m de ruban à ballons et des pastilles adhésives. Tout est dans la boîte pour composer une guirlande organique.</li>
+<li><strong>Limites</strong> : la longueur obtenue n'est pas précisée. Il n'y a pas de structure : il faut un support (mur, arche, cadre) pour l'accrocher. Gonfler 70 ballons à la bouche est épuisant, une pompe est presque indispensable.</li>
+</ul>
+<p><a href="{AMZ:Ginger Ray white balloon arch kit}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>9. Ginger Ray Luxe Sage &amp; White : la version spectaculaire</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent un vrai décor de fond, dans un style végétal vert sauge.</p>
+<ul>
+<li><strong>Points forts</strong> : 200 ballons au total, dont 115 blancs (de 5 à 32 pouces) et 85 en double épaisseur blanc et vert. Huit éventails en papier blanc de deux tailles, 12 m de ruban à ballons, 100 pastilles adhésives et 5 m de ficelle de jute.</li>
+<li><strong>Limites</strong> : la longueur finale n'est pas précisée. Avec 200 ballons, comptez plusieurs heures de montage à deux ou trois, la veille au plus tôt. Il était indiqué épuisé sur le site de la marque lors de notre lecture : vérifiez la disponibilité.</li>
+</ul>
+<p><a href="{AMZ:Ginger Ray sage white balloon arch fans}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir la décoration de votre mariage ?</h2>
+<h3>Partez du lieu, pas du tableau Pinterest</h3>
+<p>Une grange avec des poutres appelle des guirlandes guinguette. Une salle des fêtes aux murs blancs gagne beaucoup avec un rideau lumineux et quelques bougies. Un jardin se prête à une arche. Avant de commander, demandez au lieu ce qui est autorisé : beaucoup de salles interdisent les bougies à flamme, les confettis ou les fixations au mur.</p>
+<h3>Comptez les prises et les piles</h3>
+<p>C'est ce que les gens oublient le plus souvent. Les guirlandes secteur demandent des prises ou des rallonges d'extérieur, placées là où personne ne trébuche. Les décorations à piles évitent les câbles mais avalent des piles : 10 lots de bougies Lunartec, c'est 60 piles AA. Achetez-les en même temps que la décoration, pas le matin du mariage.</p>
+<h3>Préférez ce qui resservira</h3>
+<p>Une guirlande guinguette finira sur votre terrasse, une arche dans votre jardin, des bougies LED dans votre salon. Les ballons, eux, ne servent qu'une fois. Ce n'est pas une raison pour s'en priver, mais si votre budget est serré, mettez d'abord l'argent dans ce qui durera. D'ailleurs, ces objets ont toute leur place dans une liste de mariage si vous les voulez pour la maison après la fête : notre <a href="{R}checklist/">checklist pièce par pièce</a> vous aide à faire le tri.</p>
+<h3>Faites un essai en grandeur réelle</h3>
+<p>Montez une guirlande et une partie de l'arche de ballons chez vous un mois avant. Vous verrez combien de temps cela prend et s'il vous manque des crochets, des rallonges ou du ruban. Pour le reste de l'organisation, notre <a href="{R}retroplanning-mariage/">rétroplanning de mariage</a> vous dit quand caser ces achats, et notre sélection de <a href="{R}meilleurs-cadeaux-invites/">cadeaux pour les invités</a> complète bien la décoration des tables.</p>
+""",
+  faq=[("Quelle décoration de mariage fait le plus d'effet pour le budget ?", "La lumière. Une ou deux guirlandes guinguette au-dessus des tables, ou un rideau lumineux derrière la table d'honneur, changent l'ambiance d'une salle plus que beaucoup de petits objets. Et vous pourrez les réutiliser chez vous."),
+       ("Peut-on mettre des bougies à flamme dans une salle de mariage ?", "Cela dépend du lieu. Beaucoup de salles les interdisent pour des raisons de sécurité. Demandez avant d'acheter. Les bougies LED en vraie cire, avec effet de flamme, sont une bonne solution de remplacement."),
+       ("Quand acheter la décoration de son mariage ?", "Commandez deux à trois mois avant, pour avoir le temps de vérifier les quantités et de faire un essai. Gardez la dernière semaine pour gonfler les ballons et préparer ce qui ne se garde pas, pas pour acheter.")],
+  short="Top 9 décoration mariage")

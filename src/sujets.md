@@ -13,7 +13,7 @@
 - [x] comment-choisir-centrale-vapeur/ | comment choisir une centrale vapeur | pression, réservoir, défroisseur ou fer
 - [x] comment-choisir-plancha/ | comment choisir une plancha | électrique ou gaz, surface, revêtement
 - [x] comment-choisir-blender/ | comment choisir un blender | puissance, chauffant, bol, usages
-- [ ] noces-de-mariage-par-annee/ | noces de mariage liste par année | tableau des noces de 1 à 70 ans avec leur nom et une idée de cadeau ; liens vers les pages noces détaillées
+- [x] noces-de-mariage-par-annee/ | noces de mariage liste par année | tableau des noces de 1 à 70 ans avec leur nom et une idée de cadeau ; liens vers les pages noces détaillées
 - [ ] cadeau-noces-de-froment-3-ans/ | cadeau noces de froment 3 ans de mariage | idées autour du blé et du pain et autres idées, pour elle, pour lui
 - [ ] liste-de-mariage-quand-la-creer/ | quand faire sa liste de mariage | délai avant le mariage, faire-part, save the date
 - [ ] cadeau-noces-de-cire-4-ans/ | cadeau noces de cire 4 ans de mariage | idées (bougies, coffrets) et autres, symbolique

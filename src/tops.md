@@ -15,7 +15,7 @@
 - [x] meilleurs-livres-organisation-mariage/ | meilleurs livres pour organiser son mariage | guides et carnets d'organisation ; livres réels vérifiés chez l'éditeur ou un grand libraire et sur Amazon.fr
 - [x] meilleurs-livres-cadeau-couple/ | livres à offrir à un couple qui se marie | cuisine à deux, voyage, albums souvenirs ; mêmes règles
 - [x] meilleurs-cadeaux-invites/ | cadeaux invités mariage | dragées, bougies, savons, sachets de graines, mini pots
-- [ ] meilleure-decoration-mariage/ | décoration mariage | guirlandes lumineuses, chemins de table, lettres lumineuses, arches, ballons
+- [x] meilleure-decoration-mariage/ | décoration mariage | guirlandes lumineuses, chemins de table, lettres lumineuses, arches, ballons
 - [ ] meilleur-blender/ | meilleur blender | blenders et blenders chauffants : Moulinex, Philips, Kenwood, Vitamix, Nutribullet
 - [ ] meilleure-centrale-vapeur/ | meilleure centrale vapeur | centrales vapeur et défroisseurs : Calor, Philips, Rowenta, Braun, Laurastar
 - [ ] meilleure-plancha/ | meilleure plancha | planchas électriques et gaz : Forge Adour, Krampouz, Tefal, Eno, Campingaz
