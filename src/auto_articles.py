@@ -2276,3 +2276,143 @@ g("meilleure-decoration-mariage/",
        ("Peut-on mettre des bougies à flamme dans une salle de mariage ?", "Cela dépend du lieu. Beaucoup de salles les interdisent pour des raisons de sécurité. Demandez avant d'acheter. Les bougies LED en vraie cire, avec effet de flamme, sont une bonne solution de remplacement."),
        ("Quand acheter la décoration de son mariage ?", "Commandez deux à trois mois avant, pour avoir le temps de vérifier les quantités et de faire un essai. Gardez la dernière semaine pour gonfler les ballons et préparer ce qui ne se garde pas, pas pour acheter.")],
   short="Top 9 décoration mariage")
+
+AUTO_META['cadeau-noces-de-froment-3-ans/'] = ('🌾', 'miel')
+g("cadeau-noces-de-froment-3-ans/",
+  "Cadeau noces de froment 3 ans de mariage : idées pour elle et lui",
+  "Quel cadeau pour vos noces de froment (3 ans de mariage) ?",
+  "3 ans de mariage, ce sont les noces de froment : idées de cadeaux autour du pain et du blé, pour elle, pour lui, à deux, classées par budget, et nos conseils.",
+  """
+<p>Pour un cadeau de noces de froment, les 3 ans de mariage, le plus simple est de partir du pain : une machine à pain, une belle planche avec un couteau à pain, ou un cours de boulangerie à faire à deux. Le froment, c'est le blé tendre, celui de la farine de tous les jours. Tout ce qui touche au pain, aux viennoiseries ou aux pâtes reste donc dans le thème.</p>
+<p>Ensuite, tout dépend de votre budget et de ce que vous aimez faire ensemble. Voici des idées classées par prix et par personne, avec ce qu'il faut vérifier avant d'acheter.</p>
+{CTA}
+<h2>Pourquoi parle-t-on de noces de froment à 3 ans ?</h2>
+<p>Dans la liste traditionnelle des anniversaires de mariage, la troisième année vient après le coton (1 an) et le cuir (2 ans). Le blé y est associé, selon la tradition, à la prospérité et à la récolte : après trois ans, le couple commence à récolter ce qu'il a semé. Ce n'est pas une règle, juste un joli prétexte. Vous trouverez toutes les autres années dans notre <a href="{R}noces-de-mariage-par-annee/">liste des noces de mariage par année</a>.</p>
+<h2>Les idées de cadeaux par budget</h2>
+<p>Nous n'indiquons pas de prix précis, car ils changent souvent. Le tableau classe les idées de la plus abordable à la plus chère, avec pour qui elles conviennent.</p>
+<table><thead><tr><th>Budget</th><th>Idée</th><th>Pour qui ?</th><th>À vérifier</th></tr></thead><tbody>
+<tr><td>Petit</td><td>Bouquet de blé séché</td><td>À deux, pour la maison</td><td>Qu'il ne perde pas ses grains partout</td></tr>
+<tr><td>Petit</td><td>Livre de recettes de pain</td><td>Celui ou celle qui aime cuisiner</td><td>Le niveau (débutant ou confirmé)</td></tr>
+<tr><td>Petit</td><td>Panière ou sac à pain en lin</td><td>À deux</td><td>La taille d'une baguette</td></tr>
+<tr><td>Moyen</td><td>Planche à pain et couteau à pain</td><td>Pour lui ou pour elle</td><td>Une lame crantée assez longue</td></tr>
+<tr><td>Moyen</td><td>Coffret de farines et levain</td><td>Les curieux de boulangerie</td><td>La date limite des produits</td></tr>
+<tr><td>Moyen</td><td>Cours de boulangerie à deux</td><td>À deux</td><td>La durée et les dates disponibles</td></tr>
+<tr><td>Plus élevé</td><td>Machine à pain</td><td>Les amateurs de pain maison</td><td>La place sur le plan de travail</td></tr>
+<tr><td>Plus élevé</td><td>Machine à pâtes ou robot pâtissier</td><td>Celui qui cuisine le week-end</td><td>Le poids et le rangement</td></tr>
+</tbody></table>
+<h2>Une idée de cadeau pour elle</h2>
+<p>Si elle aime cuisiner, un <a href="{AMZ:livre recettes pain maison}" rel="sponsored nofollow noopener" target="_blank">livre de recettes de pain</a> avec un <a href="{AMZ:banneton pain rotin}" rel="sponsored nofollow noopener" target="_blank">banneton</a> (le panier dans lequel la pâte lève) fait un cadeau complet sans être encombrant. Si elle préfère les objets, un bijou en forme d'épi de blé reste dans le thème et se porte tous les jours.</p>
+<p>Par exemple, si elle passe déjà ses dimanches à faire des brioches, offrez plutôt un bel outil qu'elle n'a pas encore. Un livre de base lui servirait peu.</p>
+<h2>Une idée de cadeau pour lui</h2>
+<p>Une <a href="{AMZ:planche a pain bois couteau a pain}" rel="sponsored nofollow noopener" target="_blank">planche à pain avec un couteau à pain</a> de qualité est un cadeau qui sert à chaque repas. S'il aime la bière, un coffret de bières de blé (les « blanches ») fait un clin d'œil amusant au froment. Et s'il rêve de faire son pain sans y passer la matinée, une <a href="{AMZ:machine a pain}" rel="sponsored nofollow noopener" target="_blank">machine à pain</a> règle la question : on met les ingrédients le soir, on programme, et le pain est cuit au réveil.</p>
+<p>Notre conseil : avant d'acheter une machine à pain, vérifiez qu'il y a vraiment de la place pour la laisser sur le plan de travail. Une machine rangée au fond d'un placard ne ressort presque jamais, c'est l'erreur la plus fréquente avec ce genre d'appareil.</p>
+<h2>Un cadeau à vivre à deux</h2>
+<p>Pour beaucoup de couples, le plus beau cadeau de froment est un moment, pas un objet. Un cours de boulangerie ou de pâtisserie à deux, chez un artisan près de chez vous, vous laisse un savoir-faire et un souvenir. Une balade dans un champ de blé au début de l'été, avec un pique-nique et une baguette de la veille, ne coûte presque rien et fait de très belles photos.</p>
+<p>Ce que les gens oublient : les cours se réservent souvent plusieurs semaines à l'avance, surtout autour des fêtes. Si votre anniversaire tombe en décembre, prenez les devants dès octobre.</p>
+<h2>Et si vous voulez sortir du thème ?</h2>
+<p>Rien ne vous oblige à rester sur le blé. Trois ans de mariage, c'est souvent le moment où le linge et la vaisselle reçus au mariage commencent à fatiguer. Remplacer la <a href="{R}meilleure-cocotte-en-fonte/">cocotte</a> qui a perdu son émail, ou s'offrir le <a href="{R}meilleur-robot-patissier/">robot pâtissier</a> qui manquait à la liste, c'est un cadeau utile que vous apprécierez tous les deux. D'ailleurs, une cocotte en fonte sert aussi à cuire un très bon pain maison, ce qui vous ramène au froment.</p>
+<p>Pour repérer ce qui mérite d'être changé, faites le tour de la maison avec notre <a href="{R}checklist/">checklist pièce par pièce</a> : vous verrez vite ce qui ferait plaisir.</p>
+""",
+  faq=[("Quelles noces pour 3 ans de mariage ?", "3 ans de mariage correspondent aux noces de froment. Elles viennent après les noces de cuir (2 ans) et avant les noces de cire (4 ans)."),
+       ("Quel cadeau offrir pour des noces de froment ?", "Tout ce qui touche au pain et au blé reste dans le thème : machine à pain, planche et couteau à pain, cours de boulangerie à deux, coffret de farines, bouquet de blé séché. Vous pouvez aussi offrir un cadeau utile pour la maison, sans lien avec le blé."),
+       ("Faut-il forcément offrir un cadeau en lien avec le blé ?", "Non. Le nom des noces est une tradition, pas une obligation. Il aide surtout à trouver une idée. Un dîner, un week-end ou un objet qui manque à la maison feront tout autant plaisir.")],
+  short="Cadeau noces de froment")
+
+AUTO_META['meilleur-blender/'] = ('🏆', 'menthe')
+g("meilleur-blender/",
+  "Meilleur blender 2026 : top 7, classiques et chauffants",
+  "Quel est le meilleur blender en 2026 ? Notre top 7",
+  "Moulinex, Nutribullet, Smeg, KitchenAid, Vitamix : 7 blenders classiques et chauffants vendus en France, comparés sur leurs fiches, avec leurs vraies limites.",
+  """
+<p>Le meilleur blender dépend surtout de ce que vous allez y mettre. Pour des smoothies et de la glace pilée, un blender à bol en verre d'environ 1 200 W comme le Moulinex Perfect Mix couvre presque tous les besoins. Pour des soupes du soir sans casserole, prenez un blender chauffant comme le Moulinex Easy Soup. Et si vous voulez un appareil qui durera des années, le Vitamix Explorian E310 est le seul de cette liste annoncé avec une garantie de 5 ans.</p>
+<p>Nous avons retenu sept modèles actuels, vendus en France, du petit blender individuel au modèle haut de gamme. Nous en visions dix, mais nous n'avons gardé que ceux dont les caractéristiques étaient clairement publiées par la marque ou un grand revendeur.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Les données viennent des sites de Vitamix et Smeg, et des fiches d'Electro Dépôt, Auchan, Galaxus et Coolblue. Nous n'indiquons aucun prix, car ils changent trop souvent, mais nous classons les modèles par gamme. Quand une donnée manque, nous écrivons « non précisé ».</p>
+
+<h2>Les 7 blenders en un coup d'œil</h2>
+<table><thead><tr><th>Modèle</th><th>Type</th><th>Puissance</th><th>Capacité</th><th>Bol</th><th>Gamme</th></tr></thead><tbody>
+<tr><td>Moulinex Easy Soup LM841B10</td><td>Chauffant</td><td>1 000 W</td><td>1,2 L</td><td>Inox</td><td>Milieu</td></tr>
+<tr><td>Moulinex My Daily Soup LM542810</td><td>Chauffant</td><td>1 000 W</td><td>1,2 L</td><td>Non précisé</td><td>Milieu</td></tr>
+<tr><td>Moulinex Perfect Mix LM811D10</td><td>Classique</td><td>1 200 W</td><td>2 L</td><td>Verre</td><td>Milieu</td></tr>
+<tr><td>Nutribullet 900 Pro</td><td>Individuel</td><td>900 W</td><td>900 ml</td><td>Non précisé</td><td>Accessible</td></tr>
+<tr><td>Smeg BLF03</td><td>Classique design</td><td>800 W</td><td>1,5 L</td><td>Tritan Renew</td><td>Haut de gamme</td></tr>
+<tr><td>KitchenAid Artisan K400</td><td>Classique</td><td>1 200 W</td><td>1,4 L</td><td>Verre</td><td>Haut de gamme</td></tr>
+<tr><td>Vitamix Explorian E310</td><td>Haute performance</td><td>1 200 W (2 CV)</td><td>1,4 L</td><td>Synthétique</td><td>Haut de gamme</td></tr>
+</tbody></table>
+
+<h2>1. Moulinex Easy Soup LM841B10 : le meilleur pour les soupes</h2>
+<p><strong>Pour qui ?</strong> Les couples qui mangent de la soupe plusieurs fois par semaine en hiver et veulent zéro casserole.</p>
+<ul>
+<li><strong>Points forts</strong> : bol en inox de 1,2 litre, 1 000 W. Il cuit puis mixe tout seul grâce à 5 programmes automatiques de 4 à 25 minutes : soupe veloutée, soupe avec morceaux, compote et smoothie. Sa double paroi garde la soupe au chaud 40 minutes après la fin du programme, pratique si l'un de vous rentre plus tard. Livré avec un livre de 30 recettes, il pèse 2,38 kg pour 39 x 23 x 16 cm.</li>
+<li><strong>Limites</strong> : une seule vitesse, donc peu de contrôle en dehors des programmes. Le bol en inox ne laisse pas voir le mixage. Comme sur tout blender chauffant, la partie électrique empêche de tout mettre au lave-vaisselle.</li>
+</ul>
+<p>Notre conseil : 1,2 litre, c'est environ quatre bols de 300 ml. Parfait pour un couple, juste pour une famille de quatre qui veut des restes.</p>
+<p><a href="{AMZ:Moulinex Easy Soup LM841B10}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Moulinex My Daily Soup LM542810 : le chauffant plus compact</h2>
+<p><strong>Pour qui ?</strong> Les petites cuisines, où chaque centimètre de hauteur compte.</p>
+<ul>
+<li><strong>Points forts</strong> : même puissance de 1 000 W et même capacité de 1,2 litre que l'Easy Soup, mais 6 cm de moins en hauteur (33 x 23 x 16 cm). Il cuit avant de mixer, pour les soupes, veloutés et compotes, et propose 3 vitesses. Il pèse 2,5 kg.</li>
+<li><strong>Limites</strong> : la fiche consultée ne détaille ni les programmes ni la matière du bol. Vérifiez-les sur la fiche Amazon avant d'acheter si le maintien au chaud compte pour vous.</li>
+</ul>
+<p><a href="{AMZ:Moulinex My Daily Soup LM542810}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Moulinex Perfect Mix LM811D10 : le meilleur rapport polyvalence et simplicité</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut un vrai blender à froid pour tout faire : smoothies, sauces, pâte à crêpes, glace pilée.</p>
+<ul>
+<li><strong>Points forts</strong> : 1 200 W, grand bol de 2 litres en verre thermorésistant, 3 vitesses et fonction pulse. Il pile la glace. Les lames sont amovibles et les éléments passent au lave-vaisselle selon Auchan. Il ne démarre que si le bol est bien verrouillé. Une spatule est fournie.</li>
+<li><strong>Limites</strong> : 4,35 kg et 38,6 cm de haut, il prend de la place. Pas de fonction chauffante. La capacité utile (ce qu'on peut réellement remplir) n'est pas précisée : elle est toujours inférieure aux 2 litres affichés.</li>
+</ul>
+<p>Notre conseil : c'est le modèle que nous mettrions en premier dans une liste de mariage si vous ne savez pas encore comment vous utiliserez un blender. Il fait bien la plupart des choses sans coûter le prix d'un haut de gamme.</p>
+<p><a href="{AMZ:Moulinex Perfect Mix LM811D10}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Nutribullet 900 Pro : le smoothie du matin, sans encombrer</h2>
+<p><strong>Pour qui ?</strong> Ceux qui font surtout un smoothie par personne, et les petites cuisines.</p>
+<ul>
+<li><strong>Points forts</strong> : 900 W dans un format compact, avec un gobelet de 900 ml qui sert aussi à boire ou à emporter. Les gobelets passent au lave-vaisselle, dans le panier du haut. C'est le cadeau le plus facile à offrir pour un invité seul.</li>
+<li><strong>Limites</strong> : la lame se dévisse et se lave à la main. La fiche consultée ne donne ni le poids, ni les dimensions, ni les accessoires inclus. Pas de grand bol : pour une soupe ou une pâte à crêpes pour six, ce n'est pas le bon outil.</li>
+</ul>
+<p><a href="{AMZ:Nutribullet 900 Pro}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Smeg BLF03 : le blender qu'on laisse sur le plan de travail</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent un appareil assorti à leur cuisine, en couleur, et qui aiment les programmes simples.</p>
+<ul>
+<li><strong>Points forts</strong> : style années 50, plusieurs couleurs. 800 W, bol de 1,5 litre en Tritan Renew, 4 vitesses et 4 programmes : smoothie, smoothie vert, glace pilée et autonettoyage. Fonction pulse à trois niveaux. 39,7 x 19,7 x 16,3 cm pour 4 kg.</li>
+<li><strong>Limites</strong> : 800 W, c'est moins que les autres modèles de même gamme, ce qui peut se sentir sur les préparations très denses. La bouteille à emporter est vendue en option. On paie aussi le design.</li>
+</ul>
+<p><a href="{AMZ:Smeg BLF03 blender}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. KitchenAid Artisan K400 : le haut de gamme en verre</h2>
+<p><strong>Pour qui ?</strong> Les couples qui cuisinent beaucoup et veulent un blender solide, avec un bol en verre.</p>
+<ul>
+<li><strong>Points forts</strong> : 1 200 W, bol en verre de 1,4 litre, 5 vitesses et 3 programmes. La vitesse de rotation va de 600 à 16 000 tours par minute selon Galaxus, de quoi passer d'un mixage doux à une purée très fine. Boîtier en métal, 40,1 x 19,3 x 22,9 cm. Il existe en plusieurs couleurs (référence 5KSB4026).</li>
+<li><strong>Limites</strong> : la fiche ne précise ni le poids, ni la fonction pulse, ni les pièces lavables au lave-vaisselle. Garantie légale de 2 ans seulement indiquée, là où Vitamix va plus loin.</li>
+</ul>
+<p><a href="{AMZ:KitchenAid Artisan K400 5KSB4026}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Vitamix Explorian E310 : celui qui dure</h2>
+<p><strong>Pour qui ?</strong> Les gros utilisateurs : smoothies tous les jours, beurres d'oléagineux, soupes mixées très fines. Et ceux qui préfèrent payer une fois pour longtemps.</p>
+<ul>
+<li><strong>Points forts</strong> : moteur de 2 CV (1 200 W selon Coolblue), 10 vitesses variables et pulse, bol de 1,4 litre. Le tasseur fourni pousse les ingrédients vers les lames sans arrêter l'appareil. Il se nettoie avec un peu d'eau chaude et une goutte de liquide vaisselle en 30 à 60 secondes. Vitamix annonce une garantie complète de 5 ans.</li>
+<li><strong>Limites</strong> : 5,3 kg et 45,7 cm de haut selon Coolblue : vérifiez qu'il passe sous vos placards. Aucun programme automatique n'est indiqué : tout se règle à la molette. Coolblue indique que le bol ne va pas au lave-vaisselle, alors que Vitamix le dit compatible : suivez la notice. Il était épuisé chez Coolblue lors de notre lecture.</li>
+</ul>
+<p>Notre conseil : c'est un cadeau parfait à offrir à plusieurs. Pour un couple qui fait un smoothie par semaine, en revanche, c'est trop : le Perfect Mix suffira.</p>
+<p><a href="{AMZ:Vitamix Explorian E310}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir votre blender ?</h2>
+<h3>Chauffant ou classique : la question à trancher d'abord</h3>
+<p>Un blender chauffant cuit et mixe : idéal pour les soupes, mais son bol est en inox, on ne voit rien, et il ne passe pas entier au lave-vaisselle. Un blender classique fait tout à froid, souvent mieux pour la glace et les smoothies. Si vous hésitez, demandez-vous combien de soupes vous mangez vraiment par semaine. Moins d'une : prenez un classique.</p>
+<h3>La puissance, sans en faire une obsession</h3>
+<p>Les repères des revendeurs se recoupent : quelques centaines de watts pour des smoothies aux fruits mûrs, plus de 500 W pour piler de la glace, 1 000 W et plus pour les fruits congelés et un usage intensif. Au-delà, c'est surtout la qualité des lames et du moteur qui fait la différence, et le bruit augmente.</p>
+<h3>La taille du bol selon votre foyer</h3>
+<p>Pour deux, 1 à 1,5 litre suffit. Pour une famille ou si vous recevez souvent, 2 litres. Attention : la capacité affichée est la capacité totale, on remplit toujours moins, surtout avec des liquides chauds.</p>
+<h3>Le verre, le plastique ou l'inox</h3>
+<p>Le verre ne se raye pas et ne garde pas les odeurs, mais il est lourd et peut casser. Le plastique de type Tritan est léger et résistant aux chocs. L'inox garde la chaleur et ne casse pas, mais on ne voit pas le mixage. Nous détaillons tous ces critères dans notre guide pour <a href="{R}comment-choisir-blender/">choisir un blender</a>.</p>
+<h3>Le blender dans une liste de mariage</h3>
+<p>Un Nutribullet ou un Moulinex se trouvent facilement offerts par un invité seul. Un Vitamix, un KitchenAid ou un Smeg se prêtent mieux à une participation à plusieurs. Pensez à équilibrer votre liste avec des cadeaux à tous les prix grâce à notre <a href="{R}checklist/">checklist pièce par pièce</a>, et si vous hésitez avec un autre gros appareil de cuisine, comparez avec notre <a href="{R}meilleur-robot-patissier/">top des robots pâtissiers</a>.</p>
+""",
+  faq=[("Quel est le meilleur blender pour faire des soupes ?", "Un blender chauffant, qui cuit puis mixe sans casserole. Dans notre sélection, le Moulinex Easy Soup LM841B10 (1 000 W, 1,2 litre, 5 programmes) garde aussi la soupe au chaud 40 minutes grâce à sa double paroi."),
+       ("Quelle puissance pour un blender qui pile la glace ?", "Les revendeurs conseillent plus de 500 W pour la glace, et 1 000 W et plus pour un usage intensif. Certains modèles, comme le Smeg BLF03 (800 W), ont un programme glace pilée dédié, mais la puissance reste un bon repère pour les préparations denses."),
+       ("Un Vitamix vaut-il vraiment le coup ?", "Oui si vous utilisez votre blender tous les jours et pour des préparations exigeantes : il est garanti 5 ans selon la marque. Pour un usage occasionnel, un modèle comme le Moulinex Perfect Mix suffit largement.")],
+  short="Top 7 blenders")
