@@ -63,4 +63,4 @@ Langue : français
 - [Outils gratuits mariage : rétroplanning, budget, liste](https://malistedemariage.fr/outils/): Outils gratuits pour organiser votre mariage : rétroplanning personnalisé, calculateur de budget et nombre d'articles pour votre liste de mariage.
 - [À propos | Ma liste mariage](https://malistedemariage.fr/a-propos/): Qui écrit Ma liste mariage, d'où viennent nos conseils et comment le site est financé.
 - [Mentions légales | Ma liste mariage](https://malistedemariage.fr/mentions-legales/): Mentions légales du site Ma liste mariage.
-- [Confidentialité | Ma liste mariage](https://malistedemariage.fr/confidentialite/): Politique de confidentialité de Ma liste mariage : checklist sans inscription, compte facultatif.
+- [Confidentialité | Ma liste mariage](https://malistedemariage.fr/confidentialite/): Politique de confidentialité de Ma liste mariage : checklist sans inscription, sans inscription ni compte.

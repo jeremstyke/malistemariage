@@ -27,7 +27,7 @@
     });
     h += '</section>';
   });
-  h += '<div class="ckact"><button class="btn" id="cp">Partager mon lien</button>' +
+  h += '<div class="ckact"><button class="btn" id="cp">Partager ma liste</button>' +
     '<button class="btn ghost" id="pr">Imprimer</button>' +
     '<a class="btn ghost" href="' + window.LDN_LIST + '" target="_blank" rel="sponsored nofollow noopener">Créer ma liste en ligne ↗</a>' +
     '<button class="btn ghost" id="rs">Tout décocher</button></div>';
@@ -165,19 +165,13 @@
     return t + '\nFaite avec Ma liste mariage';
   }
   var ROOT = ((document.querySelector('link[rel=icon]') || {}).getAttribute ? document.querySelector('link[rel=icon]').getAttribute('href') : '').replace('assets/favicon.svg', '');
-  function flash(b, t){ b.textContent = t; setTimeout(function(){ b.textContent = 'Partager mon lien'; }, 2200); }
+  function flash(b, t){ b.textContent = t; setTimeout(function(){ b.textContent = 'Partager ma liste'; }, 2200); }
   document.getElementById('cp').addEventListener('click', function(){
-    var b = this, A = window.LDN_ACC;
+    var b = this;
     if (!Object.keys(st).length && !cu.length) return flash(b, 'Cochez d\'abord des articles');
-    if (!A) { location.href = ROOT + 'compte/?partage=1'; return; }
-    if (!A.row || !A.row.is_public) {
-      b.textContent = '...';
-      A.makePublic().then(function(){ b.textContent = 'Lien activé : touchez pour partager'; });
-      return;
-    }
-    var url = new URL(ROOT + 'ma-liste/?l=' + A.row.slug, location.href).href, t = 'Voici notre liste de mariage : ' + url;
-    if (navigator.share) { navigator.share({ title: 'Notre liste de mariage', text: 'Voici notre liste de mariage : ', url: url }).catch(function(){}); return; }
-    function ok(){ flash(b, 'Lien copié'); }
+    var t = listText();
+    if (navigator.share) { navigator.share({ title: 'Ma liste de mariage', text: t }).catch(function(){}); return; }
+    function ok(){ flash(b, 'Liste copiée'); }
     function fallback(){ var a = document.createElement('textarea'); a.value = t; document.body.appendChild(a); a.select(); try { document.execCommand('copy'); ok(); } catch(e){} a.remove(); }
     if (navigator.clipboard) navigator.clipboard.writeText(t).then(ok, fallback); else fallback();
   });

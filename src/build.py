@@ -122,7 +122,6 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <header class="top"><div class="wrap top-in">
 <a class="logo" href="{R}"><span class="logo-ico" aria-hidden="true">💍</span>Ma liste mariage</a>
 <nav class="menu" aria-label="Menu">{nav}</nav>
-<a id="nav-account" class="nav-acc" href="{R}compte/"><span class="acc-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="16" height="16"><circle cx="12" cy="8" r="4" fill="currentColor"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7" fill="currentColor"/></svg></span><span id="nav-account-txt">Connexion</span></a>
 </div></header>
 <main id="main">
 {('<div class="wrap">' + bc + '</div>') if bc else ''}
@@ -136,7 +135,6 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <nav class="sites" aria-label="Nos autres sites"><p class="sites-t">Découvrez aussi nos autres sites</p><div class="sites-g"><a href="https://vieillir-chez-soi.fr/"><img src="https://vieillir-chez-soi.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Vieillir chez soi</strong><small>Rester autonome à la maison</small></span></a><a href="https://lesoiseauxdujardin.fr/"><img src="https://lesoiseauxdujardin.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Les oiseaux du jardin</strong><small>Nourrir et observer les oiseaux</small></span></a><a href="https://malistebebe.fr/"><img src="https://malistebebe.fr/assets/favicon.svg" alt="" width="40" height="40" loading="lazy"><span><strong>Ma liste bébé</strong><small>Préparer l'arrivée de bébé</small></span></a></div></nav>
 <p class="disc">{DISCLOSURE} Les prix et les conditions d'Amazon peuvent changer : vérifiez-les avant d'acheter. © {YEAR} {DOMAIN}</p>
 </div></footer>
-<script src="{R}assets/account.js?v=7" defer></script>
 <script src="{R}assets/track.js?v=1" defer></script>
 </body>
 </html>
@@ -240,7 +238,7 @@ def build():
         f.write(js)
 
     tool = ('<div id="ck" class="ck"><noscript>Active JavaScript pour cocher les articles.</noscript></div>'
-            '<script src="{R}assets/data.js?v=3"></script><script src="{R}assets/checklist.js?v=9" defer></script>')
+            '<script src="{R}assets/data.js?v=3"></script><script src="{R}assets/checklist.js?v=9b" defer></script>')
 
     # Accueil
     cats = ''.join('<a class="cat-chip t-%s" href="{R}checklist/#cat%d"><span aria-hidden="true">%s</span>%s<small>%d articles</small></a>' % (
@@ -260,7 +258,6 @@ def build():
 <h2>Pièce par pièce</h2>
 <p class="sub">Ouvrez une catégorie pour voir les cadeaux qui comptent vraiment.</p>
 <div class="chips">{cats}</div>
-<div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, et vous pouvez la remplir à deux.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
 </section>
 <div class="wave-top"><svg class="wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 C 240 70 480 0 720 25 C 960 50 1200 10 1440 30 L1440 60 L0 60 Z"/></svg></div><section class="band"><div class="wrap block">
 <h2>Comment ça marche</h2>
@@ -293,8 +290,7 @@ def build():
     ck = f'''<section class="wrap pagehead"><h1>Checklist liste de mariage</h1>
 <p class="lead">{total} idées de cadeaux triées par pièce. Cochez ce que vous voulez mettre dans votre liste : vos choix restent enregistrés sur cet appareil.</p></section>
 <div class="wrap"><div class="ck-first"><strong>Comment ajouter un article à votre liste</strong><ol><li>Pas encore de liste ? <a href="{AMZ_LIST}" rel="sponsored nofollow noopener" target="_blank">Créez-la sur Amazon</a>, c'est gratuit.</li><li>Ici, cliquez sur <strong>« Voir »</strong> à côté d'un article : Amazon s'ouvre avec des modèles.</li><li>Choisissez un modèle, puis appuyez sur <strong>« Ajouter à la liste de mariage »</strong>, sous « Ajouter au panier ». Sur l'appli, il peut se trouver dans le menu « Ajouter à une liste ».</li><li>Revenez ici : l'article est déjà coché, passez au suivant.</li></ol></div></div>
-<div class="wrap"><div class="save-hint" data-guest><span aria-hidden="true">☁️</span><div><strong>Sauvegardez votre liste</strong><span>Connectez-vous par e-mail, sans mot de passe : votre checklist vous suit sur tous vos appareils, et vous pouvez la remplir à deux.</span></div><a class="btn sm" href="{{R}}compte/">Me connecter</a></div>
-{tool}
+<div class="wrap">{tool}
 {CTA}
 <div class="prose">
 <h2>Comment utiliser cette checklist ?</h2>
@@ -358,50 +354,7 @@ def build():
          crumbs=[('Outils', 'outils/')], og=ogfor('outils', 'Outils gratuits pour futurs mariés', 'Gratuit', '🧰', 'menthe'))
 
     # Compte
-    acc = """<div class="wrap art-wrap"><div class="prose" id="acc">
-<h1>Notre compte</h1>
-<div id="acc-out">
-<p class="lead">Votre compte est gratuit et se crée en 10 secondes, sans mot de passe.</p>
-<ul class="perks">
-<li><span aria-hidden="true">☁️</span><div><strong>Votre liste sauvegardée</strong>Ce que vous cochez n'est jamais perdu, même si vous changez de téléphone.</div></li>
-<li><span aria-hidden="true">💑</span><div><strong>À deux, sur tous vos appareils</strong>Connectez-vous chacun avec le même e-mail et préparez la liste ensemble.</div></li>
-<li><span aria-hidden="true">🍼</span><div><strong>Le même compte que Ma liste bébé</strong>Une seule adresse e-mail pour vos deux listes, le jour où un bébé arrive.</div></li>
-</ul>
-<form id="form-magic" class="accf">
-<label>Votre e-mail<input type="email" name="email" autocomplete="email" required></label>
-<label class="check"><input type="checkbox" name="news"> Je veux recevoir la newsletter de Ma liste mariage : conseils et rappels pour préparer la liste et les remerciements (désinscription en un clic).</label>
-<button class="btn" type="submit">Recevoir mon lien de connexion</button>
-<p class="small">Si vous n'avez pas encore de compte, il est créé automatiquement. En continuant, vous acceptez notre <a href="{R}confidentialite/">politique de confidentialité</a>.</p>
-</form>
-<div id="acc-sent" hidden><h2>Regardez vos e-mails 📬</h2><p>Nous vous avons envoyé un lien de connexion. Ouvrez-le sur cet appareil pour vous connecter. Pensez à vérifier les indésirables.</p><button class="linkbtn" type="button" id="acc-again">Utiliser une autre adresse</button></div>
-</div>
-<div id="acc-in" hidden>
-<p class="lead">Connecté avec <strong id="acc-email"></strong>. Votre checklist est sauvegardée : <strong id="acc-count"></strong>.</p>
-<p><a class="btn" href="{R}checklist/">Ouvrir ma checklist</a></p>
-<h2>Nos infos</h2>
-<form id="form-wed" class="accf">
-<label>Vos prénoms (facultatif)<input type="text" id="f-names" maxlength="60" placeholder="Léa et Hugo"></label>
-<label>Date du mariage (facultatif)<input type="date" id="f-date"></label>
-<label class="check"><input type="checkbox" id="f-public"> Rendre notre liste visible avec un lien privé</label>
-<label class="check"><input type="checkbox" id="f-news"> Recevoir la newsletter (conseils et rappels)</label>
-<button class="btn" type="submit">Enregistrer</button>
-</form>
-<div id="acc-sharebox" hidden><p>Envoyez ce lien à vos invités : ils voient les cadeaux que vous avez cochés, peuvent réserver ce qu'ils offrent (« Je l'offre ») et l'acheter en un clic.</p><p class="small">Conseil : partagez un seul lien, celui-ci ou celui de votre liste Amazon, pas les deux. Sinon, un même cadeau risque d'être offert deux fois.</p>
-<div class="sharerow"><input id="acc-share" readonly><button class="btn ghost sm" type="button" id="acc-copy">Copier le lien</button></div></div>
-<div id="acc-other" class="save-hint" hidden></div>
-<h2>Mon compte</h2>
-<p><button class="btn ghost sm" type="button" id="acc-logout">Se déconnecter</button> <button class="btn ghost sm" type="button" id="acc-wipe">Supprimer mes données</button></p>
-</div>
-<p id="acc-msg" class="acc-msg" role="status" aria-live="polite"></p>
-</div></div>"""
-    page('compte/', 'Notre compte | Ma liste mariage', 'Connectez-vous par e-mail, sans mot de passe, pour sauvegarder votre liste de mariage.', acc, noindex=True)
 
-    pub = """<section class="wrap pagehead"><h1 id="pub-title">Une liste de mariage</h1>
-<p class="lead">Voici les cadeaux choisis par les mariés. Cliquez sur un article pour l'offrir.</p></section>
-<div class="wrap"><div id="pub" class="ck"><p>Chargement de la liste...</p></div>
-<div class="prose"><p>Vous aussi, vous vous mariez ? <a href="{R}checklist/">Faites votre checklist gratuite</a>.</p></div></div>
-<script src="{R}assets/data.js?v=3"></script>"""
-    page('ma-liste/', 'Notre liste de mariage 💍', 'Voici les cadeaux choisis par les mariés. Cliquez sur un article pour l\'offrir.', pub, noindex=True, cls='tool', og=ogfor('ma-liste', 'Notre liste de mariage', 'Cliquez pour offrir un cadeau', '🎁', 'peche'))
 
     # Pages légales
     ml = f'''<div class="wrap art-wrap"><article class="prose"><h1>Mentions légales</h1>
@@ -419,14 +372,12 @@ def build():
 <h2>Comment le site est financé</h2><p>{DISCLOSURE} Si tu achètes après avoir cliqué sur un lien Amazon, nous touchons une commission, sans surcoût pour toi. Le choix des articles reste indépendant.</p></article></div>''', crumbs=[('À propos', 'a-propos/')])
     page('mentions-legales/', 'Mentions légales | Ma liste mariage', 'Mentions légales du site Ma liste mariage.', ml, crumbs=[('Mentions légales', 'mentions-legales/')])
     cf = f'''<div class="wrap art-wrap"><article class="prose"><h1>Confidentialité</h1>
-<p>La checklist fonctionne sans inscription. Le compte est facultatif.</p>
-<h2>Sans compte</h2><p>Les articles que vous cochez sont enregistrés uniquement dans votre navigateur (stockage local). Rien n'est envoyé sur un serveur. Vider les données du navigateur efface votre checklist.</p>
-<h2>Avec un compte</h2><p>Si vous créez un compte, nous enregistrons votre adresse e-mail (pour vous envoyer vos liens de connexion), les articles cochés et, si vous les indiquez, vos prénoms et la date du mariage. Ce compte est commun avec notre site Ma liste bébé. Si vous avez coché la case newsletter, votre e-mail sert aussi à vous envoyer nos conseils ; vous pouvez vous désinscrire à tout moment depuis la page compte ou avec le lien présent dans chaque e-mail. Les données sont hébergées par Supabase, sur des serveurs situés dans l'Union européenne. Nous ne les vendons pas et ne les utilisons pas pour de la publicité.</p>
-<p>Votre liste n'est visible par d'autres personnes que si vous activez le partage : elle n'est alors accessible qu'avec son lien. Vous pouvez supprimer vos données à tout moment depuis la page compte, et demander la suppression complète de votre compte en nous écrivant.</p>
+<p>La checklist fonctionne sans inscription. Aucun compte n'est nécessaire.</p>
+<h2>Votre checklist</h2><p>Les articles que vous cochez sont enregistrés uniquement dans votre navigateur (stockage local). Rien n'est envoyé sur un serveur. Vider les données du navigateur efface votre checklist.</p>
 <h2>Mesure d'audience</h2><p>Nous comptons les pages vues et les clics vers Amazon de façon anonyme : page visitée, site d'origine, type d'appareil (mobile ou ordinateur) et un identifiant aléatoire stocké dans votre navigateur. Ces données ne permettent pas de vous identifier, ne sont ni vendues ni utilisées pour de la publicité, et sont hébergées par Supabase dans l'Union européenne.</p>
 <h2>Amazon</h2><p>Quand vous cliquez sur un lien vers Amazon.fr, Amazon peut déposer des cookies pour attribuer la commission. Consultez la politique de confidentialité d'Amazon pour en savoir plus.</p>
 <h2>Contact</h2><p><a href="mailto:{CONTACT}">{CONTACT}</a></p></article></div>'''
-    page('confidentialite/', 'Confidentialité | Ma liste mariage', 'Politique de confidentialité de Ma liste mariage : checklist sans inscription, compte facultatif.', cf, crumbs=[('Confidentialité', 'confidentialite/')])
+    page('confidentialite/', 'Confidentialité | Ma liste mariage', 'Politique de confidentialité de Ma liste mariage : checklist sans inscription, sans inscription ni compte.', cf, crumbs=[('Confidentialité', 'confidentialite/')])
 
     # 404
     page('404-tmp/', 'Page introuvable | Ma liste mariage', 'Page introuvable.',
