@@ -18,7 +18,7 @@
 - [x] meilleure-decoration-mariage/ | décoration mariage | guirlandes lumineuses, chemins de table, lettres lumineuses, arches, ballons
 - [x] meilleur-blender/ | meilleur blender | blenders et blenders chauffants : Moulinex, Philips, Kenwood, Vitamix, Nutribullet
 - [x] meilleure-centrale-vapeur/ | meilleure centrale vapeur | centrales vapeur et défroisseurs : Calor, Philips, Rowenta, Braun, Laurastar
-- [ ] meilleure-plancha/ | meilleure plancha | planchas électriques et gaz : Forge Adour, Krampouz, Tefal, Eno, Campingaz
+- [x] meilleure-plancha/ | meilleure plancha | planchas électriques et gaz : Forge Adour, Krampouz, Tefal, Eno, Campingaz
 - [ ] meilleure-couette/ | meilleure couette | couettes tempérées, 4 saisons, duvet et synthétique : Dodo, Abeil, Drouault, Bleu Câlin
 - [ ] meilleur-couteau-de-cuisine/ | meilleurs couteaux de cuisine | blocs et couteaux de chef : Victorinox, Wüsthof, Zwilling, Global, Opinel
 - [ ] meilleur-airfryer/ | meilleur air fryer | friteuses sans huile : Ninja, Philips, Moulinex, Cosori, Tefal

@@ -2591,3 +2591,162 @@ g("meilleure-centrale-vapeur/",
        ("Combien de bars pour une bonne centrale vapeur ?", "Les modèles de milieu et haut de gamme annoncent 7,5 à 8 bars, ce qui suffit pour les tissus épais. Une centrale d'entrée de gamme à 6 bars convient pour un usage léger. Laurastar fait un autre choix avec 3,5 bars et une vapeur plus fine."),
        ("Un défroisseur peut-il remplacer une centrale vapeur ?", "Pas complètement. Un défroisseur détend les plis des vêtements suspendus et dépanne en voyage, mais il ne marque pas les plis et n'est pas adapté aux draps ou aux grosses piles de linge.")],
   short="Top 10 centrales vapeur")
+
+AUTO_META['cadeau-noces-de-cuir-2-ans/'] = ('👜', 'miel')
+g("cadeau-noces-de-cuir-2-ans/",
+  "Cadeau noces de cuir 2 ans de mariage : idées pour elle et lui",
+  "Quel cadeau pour vos noces de cuir (2 ans de mariage) ?",
+  "2 ans de mariage, ce sont les noces de cuir : idées de cadeaux en cuir et autres, pour elle, pour lui, pour le couple, par budget, et comment bien choisir le cuir.",
+  """
+<p>Pour vos noces de cuir, les 2 ans de mariage, le cadeau qui marche presque toujours est un objet en cuir qu'on utilise tous les jours : un portefeuille, une ceinture, un bracelet de montre ou un sac. Il vieillit avec vous, et c'est un peu le sens de cet anniversaire. Si vous voulez éviter l'accessoire, un atelier de maroquinerie à deux ou un beau carnet relié font tout aussi bien l'affaire.</p>
+<p>Le plus dur n'est pas de trouver l'idée, c'est de choisir un cuir qui tienne. Voici des pistes par budget, pour elle, pour lui et pour le couple, avec ce qu'il faut regarder sur l'étiquette.</p>
+{CTA}
+<h2>Pourquoi parle-t-on de noces de cuir à 2 ans ?</h2>
+<p>Dans la liste traditionnelle française, la deuxième année suit les noces de coton (1 an) et précède le froment (3 ans). Le cuir évoque une matière souple mais solide, qui se patine avec le temps et protège : une jolie image pour un couple qui a passé la première année. Comme toutes les noces, c'est une coutume, pas une obligation. Vous trouverez les autres années dans notre <a href="{R}noces-de-mariage-par-annee/">liste des noces de mariage par année</a>.</p>
+<h2>Les idées par budget</h2>
+<p>Pas de prix précis ici, car ils varient énormément selon la marque et la qualité du cuir. Le tableau va du plus petit budget au plus gros.</p>
+<table><thead><tr><th>Budget</th><th>Idée</th><th>Pour qui ?</th><th>À vérifier</th></tr></thead><tbody>
+<tr><td>Petit</td><td>Porte-clés ou porte-cartes gravé</td><td>Pour elle ou pour lui</td><td>Le délai de gravure</td></tr>
+<tr><td>Petit</td><td>Marque-page ou étui à lunettes en cuir</td><td>Les lecteurs</td><td>La finition des coutures</td></tr>
+<tr><td>Moyen</td><td>Portefeuille ou ceinture</td><td>Pour lui ou pour elle</td><td>Le type de cuir, la taille de ceinture</td></tr>
+<tr><td>Moyen</td><td>Carnet de voyage relié cuir</td><td>À deux</td><td>Le papier et la recharge possible</td></tr>
+<tr><td>Moyen</td><td>Atelier maroquinerie en duo</td><td>À deux</td><td>La durée et ce que vous repartez avec</td></tr>
+<tr><td>Plus élevé</td><td>Sac, cartable ou sac de voyage</td><td>Pour elle ou pour lui</td><td>La doublure, les poignées, la fermeture</td></tr>
+<tr><td>Plus élevé</td><td>Bracelet de montre ou montre à bracelet cuir</td><td>Pour elle ou pour lui</td><td>La largeur d'entre-cornes de la montre</td></tr>
+</tbody></table>
+<h2>Comment reconnaître un cuir qui va durer ?</h2>
+<p>C'est la question que les gens se posent trop tard, une fois le portefeuille déjà décousu. Trois repères simples :</p>
+<p>Le mot d'abord. En France, le terme « cuir » est réservé aux matières d'origine animale, comme le rappelle la DGCCRF. Une matière synthétique ou végétale doit porter un autre nom. Si l'étiquette parle de « simili », d'« aspect cuir » ou ne dit rien, ce n'est pas du cuir.</p>
+<p>La qualité ensuite. Le cuir « pleine fleur » garde la surface naturelle de la peau : c'est le plus résistant, et celui qui prend la plus belle patine. Le cuir « fleur corrigée » a été poncé puis recouvert, il est plus uniforme mais vieillit moins bien. Le « croûte de cuir », la partie inférieure de la peau, est moins solide.</p>
+<p>Les finitions enfin. Regardez les coutures (serrées et régulières), les tranches (lisses, sans peinture qui s'écaille) et les pièces métalliques. Par exemple, sur un portefeuille, ce sont souvent les bords des fentes à cartes qui lâchent en premier.</p>
+<h2>Une idée de cadeau pour elle</h2>
+<p>Un sac du quotidien, si vous connaissez bien ses goûts, reste un très beau cadeau. Mais c'est aussi le plus risqué : couleur, taille, bandoulière ou pas, il y a beaucoup de façons de se tromper. Un petit maroquin qu'elle n'a pas encore, comme un porte-cartes fin ou une pochette pour son téléphone, est plus sûr.</p>
+<p>Notre conseil : faites graver ses initiales ou la date de votre mariage à l'intérieur plutôt qu'à l'extérieur. C'est plus discret, et l'objet reste facile à porter tous les jours.</p>
+<h2>Une idée de cadeau pour lui</h2>
+<p>Le portefeuille et la ceinture sont des classiques parce qu'ils s'usent vite et qu'on les remplace rarement soi-même. Un <a href="{AMZ:portefeuille homme cuir pleine fleur}" rel="sponsored nofollow noopener" target="_blank">portefeuille en cuir pleine fleur</a> se patine d'année en année. Pour la ceinture, vérifiez sa taille sur une ceinture qu'il porte déjà, en mesurant de la boucle au trou utilisé.</p>
+<p>S'il a déjà tout, pensez à l'entretien : un baume ou une crème pour le cuir, avec une brosse, pour ses chaussures ou sa veste. C'est moins spectaculaire, mais très utile, et ça reste dans le thème.</p>
+<h2>Un cadeau pour le couple</h2>
+<p>Pour fêter quelque chose à deux, un atelier de maroquinerie où chacun fabrique son propre objet (souvent un porte-cartes ou un bracelet) laisse un souvenir et un objet fait main. Les ateliers se réservent à l'avance, pensez-y quelques semaines avant la date.</p>
+<p>Un <a href="{AMZ:carnet de voyage cuir rechargeable}" rel="sponsored nofollow noopener" target="_blank">carnet de voyage en cuir rechargeable</a> est une autre jolie idée : vous y notez vos prochains week-ends, et il vous suit plusieurs années. Pour ceux qui voyagent souvent, des étiquettes de bagage en cuir gravées à vos noms font un clin d'œil à votre voyage de noces.</p>
+<h2>Et si vous voulez sortir du cuir ?</h2>
+<p>Deux ans après le mariage, beaucoup de couples ont déjà déménagé une fois, ou s'apprêtent à le faire. Un objet utile pour la maison fait alors autant plaisir qu'un accessoire. Pensez aux cadeaux qui manquaient sur votre liste de mariage : faites le tour avec notre <a href="{R}checklist/">checklist pièce par pièce</a>. Si vous préparez déjà l'année suivante, nos idées pour les <a href="{R}cadeau-noces-de-froment-3-ans/">noces de froment</a> et les <a href="{R}cadeau-noces-de-cire-4-ans/">noces de cire</a> sont en ligne.</p>
+""",
+  faq=[("Quelles noces pour 2 ans de mariage ?", "2 ans de mariage correspondent aux noces de cuir. Elles viennent après les noces de coton (1 an) et avant les noces de froment (3 ans)."),
+       ("Quel cadeau en cuir offrir pour 2 ans de mariage ?", "Les cadeaux les plus appréciés sont ceux qui servent tous les jours : portefeuille, ceinture, porte-cartes, bracelet de montre, sac ou carnet relié. Un atelier de maroquinerie à deux est une alternative originale."),
+       ("Comment savoir si c'est du vrai cuir ?", "En France, le mot cuir est réservé aux matières d'origine animale. Méfiez-vous des mentions « simili » ou « aspect cuir ». Pour un objet qui dure, cherchez la mention « pleine fleur » et regardez la qualité des coutures et des tranches.")],
+  short="Cadeau noces de cuir")
+
+AUTO_META['meilleure-plancha/'] = ('🏆', 'peche')
+g("meilleure-plancha/",
+  "Meilleure plancha 2026 : notre top 9, électrique et gaz",
+  "Quelle est la meilleure plancha en 2026 ? Notre top 9",
+  "Tefal, Krampouz, Forge Adour, Eno, Campingaz : 9 planchas électriques et gaz vendues en France, comparées sur leurs fiches, du balcon au grand jardin.",
+  """
+<p>La meilleure plancha dépend d'abord de l'endroit où vous allez la poser. Sur un balcon ou dans une cuisine, une électrique comme la Tefal Maxi XXL CB690D12 fait le travail pour une grande tablée sans gaz ni bouteille. Dans un jardin, la Forge Adour Base G 60 en fonte émaillée est le choix le plus équilibré, avec 5 ans de garantie. Et pour les passionnés, la Krampouz Saveur Double en inox offre deux zones réglables séparément.</p>
+<p>Nous avons retenu neuf planchas vendues en France. Nous en visions dix, mais nous n'avons gardé que celles dont les fiches donnaient assez d'informations fiables.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Les données viennent des pages produit de Leroy Merlin, BUT, Castorama, Truffaut, E.Leclerc, Bricomarché et Nature &amp; Découvertes. Aucun prix ici, ils changent trop. Quand une donnée manque, nous écrivons « non précisé ».</p>
+
+<h2>Les 9 planchas en un coup d'œil</h2>
+<table><thead><tr><th>Modèle</th><th>Énergie</th><th>Puissance</th><th>Surface de cuisson</th><th>Plaque</th><th>Convives</th></tr></thead><tbody>
+<tr><td>Forge Adour Base G 60</td><td>Gaz</td><td>5 000 W</td><td>57,5 x 37,9 cm</td><td>Fonte émaillée</td><td>8 à 10</td></tr>
+<tr><td>Tefal Maxi XXL CB690D12</td><td>Électrique</td><td>2 300 W</td><td>47 x 30 cm</td><td>Aluminium</td><td>8 à 12</td></tr>
+<tr><td>Krampouz Saveur Double PFSV2AA-KR</td><td>Électrique</td><td>3 200 W</td><td>64 x 33 cm</td><td>Inox</td><td>Non précisé</td></tr>
+<tr><td>Campingaz Sigma 2 L</td><td>Gaz</td><td>6 kW</td><td>58 x 36 cm</td><td>Fonte émaillée</td><td>10 à 12</td></tr>
+<tr><td>Eno Initial 65 Inox</td><td>Gaz</td><td>6 300 W</td><td>62 x 36 cm</td><td>Fonte émaillée</td><td>6 à 8</td></tr>
+<tr><td>Forge Adour Modern 60 Inox</td><td>Gaz</td><td>5,3 kW</td><td>60,5 x 42 cm</td><td>Fonte émaillée</td><td>8 à 10</td></tr>
+<tr><td>Tefal Giant Plancha XL CB631D10</td><td>Électrique</td><td>2 300 W</td><td>55 x 30,4 cm</td><td>Antiadhésif</td><td>12</td></tr>
+<tr><td>Krampouz Saveur simple</td><td>Électrique</td><td>1 600 W</td><td>Non précisé</td><td>Fonte d'aluminium céramique</td><td>6</td></tr>
+<tr><td>Tefal CB660301</td><td>Électrique</td><td>2 000 W</td><td>46 x 24 cm</td><td>Antiadhésif</td><td>6 à 8</td></tr>
+</tbody></table>
+
+<h2>1. Forge Adour Base G 60 : la plancha gaz la plus équilibrée</h2>
+<p><strong>Pour qui ?</strong> Le couple avec un jardin ou une grande terrasse, qui reçoit famille et amis l'été.</p>
+<ul>
+<li><strong>Points forts</strong> : deux brûleurs pour 5 000 W, une plaque en fonte émaillée de 57,5 x 37,9 cm annoncée pour 8 à 10 personnes. Allumage piézo avec thermocouples de sécurité, bac à graisse intégré de 350 ml. Forge Adour la garantit 5 ans, et Leroy Merlin indique 10 ans de disponibilité des pièces détachées. Fabriquée en Espagne, elle pèse 17,5 kg.</li>
+<li><strong>Limites</strong> : pas de couvercle ni de chariot inclus. Le bac de 350 ml est petit pour une grosse cuisson grasse : videz-le en cours de repas. Elle se pose sur une table ou une desserte à prévoir.</li>
+</ul>
+<p>Notre conseil : c'est celle que nous mettrions sur une liste de mariage pour un premier jardin, parce qu'elle offre une vraie surface de cuisson et une longue garantie sans viser le très haut de gamme.</p>
+<p><a href="{AMZ:Forge Adour Base G 60 fonte émaillée}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Tefal Maxi XXL CB690D12 : la grande plancha électrique</h2>
+<p><strong>Pour qui ?</strong> Les appartements avec balcon, et ceux qui veulent aussi cuisiner à table en hiver.</p>
+<ul>
+<li><strong>Points forts</strong> : 2 300 W et une surface de 47 x 30 cm, pour 8 à 12 personnes selon Leroy Merlin. Thermostat réglable jusqu'à 260 °C, utilisable à l'intérieur comme à l'extérieur. Pare-vent et spatule inclus, cordon de 2 m. 6,4 kg seulement, elle se range facilement.</li>
+<li><strong>Limites</strong> : la plaque en aluminium n'est pas amovible. Elle met environ 6 minutes à chauffer. Une seule zone de cuisson : pas de partie plus douce pour garder au chaud.</li>
+</ul>
+<p><a href="{AMZ:Tefal CB690D12 plancha Maxi XXL}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Krampouz Saveur Double : l'électrique des passionnés</h2>
+<p><strong>Pour qui ?</strong> Ceux qui cuisinent beaucoup à la plancha et veulent saisir d'un côté pendant que l'autre cuit doucement.</p>
+<ul>
+<li><strong>Points forts</strong> : grande plaque en inox de 64 x 33 cm avec trois rebords, 3 200 W et deux thermostats réglables jusqu'à 300 °C. Le tiroir de récupération des résidus est amovible et intégré au châssis. Utilisable à l'intérieur et à l'extérieur. Krampouz est une marque bretonne.</li>
+<li><strong>Limites</strong> : 19,5 kg, ce n'est pas une plancha qu'on sort pour un soir. L'inox demande un filet d'huile pour que la viande n'accroche pas. Nombre de convives non précisé. C'est un cadeau à offrir à plusieurs.</li>
+</ul>
+<p><a href="{AMZ:Krampouz Saveur Double PFSV2AA}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Campingaz Sigma 2 L : la plus pratique à nettoyer</h2>
+<p><strong>Pour qui ?</strong> Les grandes tablées, et ceux qui ne veulent pas passer la soirée à gratter.</p>
+<ul>
+<li><strong>Points forts</strong> : 6 kW sur deux brûleurs, une surface de 58 x 36 cm en fonte émaillée annoncée pour 10 à 12 personnes. Le tiroir à graisse est amovible et passe au lave-vaisselle, la plaque est amovible. Un couvercle de protection sur charnières est fourni. Campingaz garantit 5 ans les brûleurs et la surface de cuisson. Fabriquée en Italie.</li>
+<li><strong>Limites</strong> : 24 kg. Réservée à l'extérieur.</li>
+</ul>
+<p><a href="{AMZ:Campingaz Sigma 2 L plancha}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Eno Initial 65 Inox : la plus puissante, pour le bord de mer</h2>
+<p><strong>Pour qui ?</strong> Les terrasses exposées au vent ou à l'air salin, et ceux qui veulent un châssis qui ne rouille pas.</p>
+<ul>
+<li><strong>Points forts</strong> : 6 300 W sur trois brûleurs double rampe, c'est la plus puissante de la sélection. Plaque en fonte de 7 mm avec émail multicouche, surface de 62 x 36 cm, rebords anti-projection. Châssis inox finition marine, pieds réglables, bol de récupération en inox de 0,70 litre.</li>
+<li><strong>Limites</strong> : annoncée pour 6 à 8 personnes seulement malgré sa puissance. Vendue sans tuyau ni détendeur, à ajouter à votre liste. Pas de couvercle.</li>
+</ul>
+<p><a href="{AMZ:Eno Initial 65 inox plancha}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Forge Adour Modern 60 Inox : la haut de gamme garantie 15 ans</h2>
+<p><strong>Pour qui ?</strong> Ceux qui achètent pour très longtemps.</p>
+<ul>
+<li><strong>Points forts</strong> : la garantie la plus longue de la sélection, 15 ans selon Truffaut. Surface de 60,5 x 42 cm en fonte émaillée pour 8 à 10 personnes, 5,3 kW sur deux brûleurs, châssis double paroi en inox, bac à graisse d'un litre et vis pour régler l'inclinaison de la plaque. La version que nous avons consultée est vendue avec une housse.</li>
+<li><strong>Limites</strong> : 35 kg. Elle était indisponible en ligne chez Truffaut lors de notre lecture : vérifiez la disponibilité avant de l'ajouter.</li>
+</ul>
+<p><a href="{AMZ:Forge Adour Modern 60 inox}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Tefal Giant Plancha XL CB631D10 : la grande électrique qui passe au lave-vaisselle</h2>
+<p><strong>Pour qui ?</strong> Les repas de famille à l'intérieur, raclette version été.</p>
+<ul>
+<li><strong>Points forts</strong> : très longue surface de 55 x 30,4 cm, pour 12 personnes selon BUT. 2 300 W, thermostat à 5 positions, revêtement antiadhésif. La surface de cuisson et le bac à jus passent au lave-vaisselle. BUT annonce 15 ans de disponibilité des pièces détachées.</li>
+<li><strong>Limites</strong> : poids, dimensions totales et température maximale non précisés. Le revêtement antiadhésif demande des ustensiles qui ne rayent pas.</li>
+</ul>
+<p><a href="{AMZ:Tefal CB631D10 Giant Plancha XL}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Krampouz Saveur simple : la petite Krampouz</h2>
+<p><strong>Pour qui ?</strong> Les couples qui veulent une marque reconnue dans un format compact.</p>
+<ul>
+<li><strong>Points forts</strong> : 1 600 W, plaque en fonte d'aluminium revêtue de céramique, antiadhésive, pour 6 couverts. Bac de récupération des jus amovible, poignées latérales, pieds antidérapants. Utilisable dedans comme dehors. Krampouz conseille un simple nettoyage à l'éponge avec déglaçage à l'eau ou aux glaçons.</li>
+<li><strong>Limites</strong> : la fiche Castorama ne donne ni la taille de la plaque (seulement 38 cm de largeur), ni le poids, ni la garantie. 1 600 W, c'est moins que les autres électriques de la sélection.</li>
+</ul>
+<p><a href="{AMZ:Krampouz Saveur simple plancha électrique}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>9. Tefal CB660301 : la petite plancha pour démarrer</h2>
+<p><strong>Pour qui ?</strong> Un premier appartement, un petit budget, ou un cadeau qu'un invité seul peut offrir.</p>
+<ul>
+<li><strong>Points forts</strong> : 2 000 W, surface de 46 x 24 cm pour 6 à 8 personnes, revêtement antiadhésif avec indicateur Thermo-Spot qui signale quand la plaque est chaude. 3,3 kg, cordon amovible de 2 m.</li>
+<li><strong>Limites</strong> : pas de bac à graisse mentionné. La fiche se contredit sur le lave-vaisselle (oui dans le texte, non dans le tableau) : comptez plutôt sur un lavage à la main. Une plaque de 24 cm de profondeur reste étroite pour des pièces de viande.</li>
+</ul>
+<p><a href="{AMZ:Tefal CB660301 plancha}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Gaz ou électrique, comment trancher ?</h2>
+<p>Regardez d'abord votre logement. Une plancha gaz est réservée à l'extérieur et certaines copropriétés interdisent le gaz sur les balcons : relisez votre règlement avant d'ajouter un modèle gaz à votre liste. L'électrique se branche partout et se sort aussi l'hiver, sur la table du salon.</p>
+<p>Ensuite, pensez aux tablées. Les modèles gaz de cette sélection dépassent tous 5 000 W, quand les électriques tournent entre 1 600 et 3 200 W. Plus de puissance, c'est une plaque qui reste chaude même quand vous posez vingt brochettes froides d'un coup.</p>
+
+<h2>Les autres critères qui comptent</h2>
+<h3>La taille de la plaque</h3>
+<p>Pour deux, une plaque d'environ 40 cm de large suffit. Pour recevoir, visez 55 à 65 cm. La profondeur compte aussi : 24 cm, c'est juste pour une côte de bœuf.</p>
+<h3>La matière</h3>
+<p>La fonte émaillée garde bien la chaleur et accroche peu. L'inox se nettoie facilement mais demande un peu d'huile. L'antiadhésif est le plus simple, mais craint les spatules en métal. Nous détaillons tout cela dans notre guide pour <a href="{R}comment-choisir-plancha/">choisir une plancha</a>.</p>
+<h3>Le nettoyage</h3>
+<p>Un bac à graisse amovible et assez grand change la vie. Ce que les gens oublient : le racloir et la housse. Ajoutez-les à votre liste en petits cadeaux, à côté de la plancha. Notre <a href="{R}checklist/">checklist pièce par pièce</a> vous aide à ne rien oublier, et si vous équipez aussi la cuisine, voyez notre <a href="{R}meilleure-cocotte-en-fonte/">sélection de cocottes en fonte</a>.</p>
+""",
+  faq=[("Quelle plancha choisir pour un balcon ?", "Une plancha électrique, comme la Tefal Maxi XXL CB690D12 ou la Krampouz Saveur Double. Le gaz est souvent interdit sur les balcons par les règlements de copropriété, et une électrique peut aussi servir à l'intérieur."),
+       ("Quelle puissance pour une plancha gaz ?", "Les modèles gaz de notre sélection vont de 5 000 W (Forge Adour Base G 60) à 6 300 W (Eno Initial 65). Les revendeurs conseillent au moins 5 kW pour un modèle gaz."),
+       ("Une plancha électrique chauffe-t-elle assez ?", "Oui pour un usage familial, à condition de choisir une puissance suffisante pour la taille de la plaque. La Krampouz Saveur Double monte jusqu'à 300 °C avec 3 200 W, la Tefal Maxi XXL jusqu'à 260 °C.")],
+  short="Top 9 planchas")

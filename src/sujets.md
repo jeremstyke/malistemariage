@@ -17,7 +17,7 @@
 - [x] cadeau-noces-de-froment-3-ans/ | cadeau noces de froment 3 ans de mariage | idées autour du blé et du pain et autres idées, pour elle, pour lui
 - [x] liste-de-mariage-quand-la-creer/ | quand faire sa liste de mariage | délai avant le mariage, faire-part, save the date
 - [x] cadeau-noces-de-cire-4-ans/ | cadeau noces de cire 4 ans de mariage | idées (bougies, coffrets) et autres, symbolique
-- [ ] cadeau-noces-de-cuir-2-ans/ | cadeau noces de cuir 2 ans de mariage | idées en cuir et autres, pour elle, pour lui, pour le couple
+- [x] cadeau-noces-de-cuir-2-ans/ | cadeau noces de cuir 2 ans de mariage | idées en cuir et autres, pour elle, pour lui, pour le couple
 - [ ] comment-choisir-service-de-table/ | comment choisir son service de table | porcelaine, grès, nombre de pièces, entretien
 - [ ] message-anniversaire-de-mariage/ | texte joyeux anniversaire de mariage | modèles de messages courts par année et par lien (conjoint, parents, amis), sans copier de textes existants
 - [ ] cadeau-de-mariage-quel-montant/ | combien mettre dans un cadeau de mariage selon le lien | famille, ami proche, collègue, couple invité
