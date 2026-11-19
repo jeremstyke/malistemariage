@@ -15,8 +15,8 @@
 - [x] comment-choisir-blender/ | comment choisir un blender | puissance, chauffant, bol, usages
 - [x] noces-de-mariage-par-annee/ | noces de mariage liste par année | tableau des noces de 1 à 70 ans avec leur nom et une idée de cadeau ; liens vers les pages noces détaillées
 - [x] cadeau-noces-de-froment-3-ans/ | cadeau noces de froment 3 ans de mariage | idées autour du blé et du pain et autres idées, pour elle, pour lui
-- [ ] liste-de-mariage-quand-la-creer/ | quand faire sa liste de mariage | délai avant le mariage, faire-part, save the date
-- [ ] cadeau-noces-de-cire-4-ans/ | cadeau noces de cire 4 ans de mariage | idées (bougies, coffrets) et autres, symbolique
+- [x] liste-de-mariage-quand-la-creer/ | quand faire sa liste de mariage | délai avant le mariage, faire-part, save the date
+- [x] cadeau-noces-de-cire-4-ans/ | cadeau noces de cire 4 ans de mariage | idées (bougies, coffrets) et autres, symbolique
 - [ ] cadeau-noces-de-cuir-2-ans/ | cadeau noces de cuir 2 ans de mariage | idées en cuir et autres, pour elle, pour lui, pour le couple
 - [ ] comment-choisir-service-de-table/ | comment choisir son service de table | porcelaine, grès, nombre de pièces, entretien
 - [ ] message-anniversaire-de-mariage/ | texte joyeux anniversaire de mariage | modèles de messages courts par année et par lien (conjoint, parents, amis), sans copier de textes existants

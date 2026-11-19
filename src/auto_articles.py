@@ -2416,3 +2416,178 @@ g("meilleur-blender/",
        ("Quelle puissance pour un blender qui pile la glace ?", "Les revendeurs conseillent plus de 500 W pour la glace, et 1 000 W et plus pour un usage intensif. Certains modèles, comme le Smeg BLF03 (800 W), ont un programme glace pilée dédié, mais la puissance reste un bon repère pour les préparations denses."),
        ("Un Vitamix vaut-il vraiment le coup ?", "Oui si vous utilisez votre blender tous les jours et pour des préparations exigeantes : il est garanti 5 ans selon la marque. Pour un usage occasionnel, un modèle comme le Moulinex Perfect Mix suffit largement.")],
   short="Top 7 blenders")
+
+AUTO_META['cadeau-noces-de-cire-4-ans/'] = ('🕯️', 'peche')
+g("cadeau-noces-de-cire-4-ans/",
+  "Cadeau noces de cire 4 ans de mariage : idées pour elle et lui",
+  "Quel cadeau pour vos noces de cire (4 ans de mariage) ?",
+  "4 ans de mariage, ce sont les noces de cire : idées de cadeaux autour des bougies et de la cire, pour elle, pour lui, à deux, par budget, avec nos conseils.",
+  """
+<p>Pour vos noces de cire, les 4 ans de mariage, le cadeau le plus évident est une belle bougie, mais ce n'est pas le seul. Un atelier pour fabriquer vos bougies à deux, un coffret de cires fondantes, un photophore qui durera des années ou même un bon pot de miel avec sa cire d'abeille restent dans le thème. Et si la bougie vous semble trop banale, vous pouvez prendre le mot « cire » comme simple point de départ.</p>
+<p>Voici des idées classées par budget et par personne, avec ce qu'il faut regarder avant d'acheter pour ne pas offrir une bougie qui finira au fond d'un tiroir.</p>
+{CTA}
+<h2>Pourquoi la cire pour 4 ans de mariage ?</h2>
+<p>Dans la liste traditionnelle française, la quatrième année vient après le coton (1 an), le cuir (2 ans) et le froment (3 ans), et avant le bois (5 ans). On y voit souvent l'image d'un couple qui se façonne, comme la cire qui se travaille à la chaleur, et la lumière d'une flamme qui tient dans la durée. Ce n'est qu'une tradition, sans règle à respecter. Elle a surtout le mérite de vous donner une idée quand vous séchez. Toutes les autres années sont dans notre <a href="{R}noces-de-mariage-par-annee/">liste des noces de mariage par année</a>.</p>
+<h2>Les idées de cadeaux par budget</h2>
+<p>Nous n'indiquons pas de prix, car ils bougent trop. Le tableau va de la plus petite dépense à la plus grosse.</p>
+<table><thead><tr><th>Budget</th><th>Idée</th><th>Pour qui ?</th><th>À vérifier</th></tr></thead><tbody>
+<tr><td>Petit</td><td>Bougie parfumée dans un joli pot</td><td>Pour elle, pour lui, à deux</td><td>Le parfum, la taille du pot, la durée annoncée</td></tr>
+<tr><td>Petit</td><td>Coffret de fondants pour brûle-parfum</td><td>Ceux qui aiment changer d'odeur</td><td>Qu'un brûle-parfum est fourni ou déjà à la maison</td></tr>
+<tr><td>Petit</td><td>Pot de miel artisanal avec bougie en cire d'abeille</td><td>Les gourmands</td><td>La provenance du miel</td></tr>
+<tr><td>Moyen</td><td>Photophore ou lanterne de qualité</td><td>À deux, pour la maison ou le jardin</td><td>Le diamètre accepté pour la bougie</td></tr>
+<tr><td>Moyen</td><td>Kit pour fabriquer ses bougies</td><td>Les manuels, à faire ensemble</td><td>Le type de cire et le nombre de bougies réalisables</td></tr>
+<tr><td>Moyen</td><td>Atelier bougie à deux</td><td>À deux</td><td>La durée et les dates disponibles</td></tr>
+<tr><td>Plus élevé</td><td>Bijou gravé ou sceau à cacheter personnalisé</td><td>Pour elle ou pour lui</td><td>Le délai de gravure</td></tr>
+<tr><td>Plus élevé</td><td>Week-end ou dîner aux chandelles</td><td>À deux</td><td>La réservation, souvent à l'avance</td></tr>
+</tbody></table>
+<h2>Bien choisir une bougie (pour qu'elle serve vraiment)</h2>
+<p>Une bougie se ressemble sur la photo, beaucoup moins une fois allumée. Trois choses font la différence. La cire d'abord : la paraffine est la plus courante, la cire de soja, de colza ou d'abeille est souvent mise en avant comme plus naturelle. La mèche ensuite : coton ou bois, elle doit être assez large pour faire fondre toute la surface, sinon la bougie creuse un trou au milieu et le reste de la cire est perdu. Et enfin le parfum, qui doit rester discret dans une petite pièce.</p>
+<p>Par exemple, si votre conjoint a le nez sensible ou que vous vivez dans un petit appartement, préférez une bougie peu parfumée ou un parfum léger, type linge propre ou figue, plutôt qu'un oriental très chargé.</p>
+<p>Ce que les gens oublient : une bougie se surveille et se brûle dans une pièce aérée. Gardez-la loin des rideaux, posée sur un support stable, et coupez la mèche à quelques millimètres avant de la rallumer, elle fumera moins. Pour une table de fête sans flamme, il existe aussi des bougies LED en vraie cire, avec effet de flamme.</p>
+<h2>Une idée de cadeau pour elle</h2>
+<p>Une <a href="{AMZ:bougie parfumee cire vegetale coffret}" rel="sponsored nofollow noopener" target="_blank">bougie parfumée en cire végétale</a> de belle facture, dont le pot se réutilise ensuite comme verre ou pot à crayons, fait un cadeau qui dure au-delà de la bougie elle-même. Si elle aime écrire des cartes, un <a href="{AMZ:kit cire a cacheter sceau personnalise}" rel="sponsored nofollow noopener" target="_blank">sceau à cacheter personnalisé</a> avec vos initiales reste dans le thème de la cire et sert pour toutes les lettres à venir.</p>
+<p>Notre conseil : glissez dans le paquet un petit mot qui rappelle une soirée précise de vos quatre années. La bougie devient alors un souvenir, plus qu'un objet de décoration.</p>
+<h2>Une idée de cadeau pour lui</h2>
+<p>Tous les hommes ne sont pas fans des bougies parfumées, et c'est souvent là que le thème coince. Une solution : une bougie aux notes boisées ou de cuir, plus sèches. Une autre : une <a href="{AMZ:lanterne exterieur bougie metal}" rel="sponsored nofollow noopener" target="_blank">lanterne d'extérieur</a> pour la terrasse, s'il aime les soirées dehors. Et s'il prend soin de ses affaires, un baume à la cire d'abeille pour le cuir, ses chaussures ou une planche en bois, c'est de la cire utile.</p>
+<p>Par exemple, si vous lui avez offert un portefeuille en cuir pour vos 2 ans, un baume d'entretien deux ans plus tard fait un joli clin d'œil entre les deux anniversaires.</p>
+<h2>Un cadeau à vivre à deux</h2>
+<p>Fabriquer ses bougies ensemble, c'est l'idée qui plaît le plus aux couples qui ont déjà tout. Vous pouvez réserver un atelier chez un artisan, ou acheter un <a href="{AMZ:kit fabrication bougie cire soja}" rel="sponsored nofollow noopener" target="_blank">kit de fabrication de bougies</a> et y passer un dimanche après-midi. Les kits complets comprennent en général la cire, les mèches, des parfums et des contenants. Comptez quelques heures, le temps que la cire refroidisse.</p>
+<p>Si vous préférez sortir, le dîner aux chandelles reste un grand classique, et il colle parfaitement au thème. Réservez tôt si votre anniversaire tombe autour de la Saint-Valentin ou des fêtes.</p>
+<h2>Et si vous préférez un cadeau utile ?</h2>
+<p>Quatre ans après le mariage, une partie de ce que vous avez reçu commence à s'user : poêles rayées, draps fatigués, couette aplatie. Remplacer l'un de ces objets n'a rien de romantique sur le papier, mais c'est souvent ce qui fait le plus plaisir au quotidien. Si l'année dernière vous aviez choisi un cadeau autour du pain pour les <a href="{R}cadeau-noces-de-froment-3-ans/">noces de froment</a>, l'occasion est bonne de faire le tour de la maison.</p>
+<p>Notre conseil : faites ce tour ensemble avec notre <a href="{R}checklist/">checklist pièce par pièce</a>, notez ce qui manque, puis décidez si vous vous offrez une grosse pièce à deux ou deux petits cadeaux chacun. Pour d'autres pistes, notre page d'<a href="{R}idees-cadeau-de-mariage/">idées de cadeaux de mariage</a> marche aussi très bien pour un anniversaire.</p>
+""",
+  faq=[("Quelles noces pour 4 ans de mariage ?", "4 ans de mariage correspondent aux noces de cire. Elles viennent après les noces de froment (3 ans) et avant les noces de bois (5 ans)."),
+       ("Quel cadeau offrir pour des noces de cire ?", "Une bougie parfumée de qualité, un photophore, un coffret de fondants, un kit ou un atelier pour fabriquer ses bougies, un sceau à cacheter ou un dîner aux chandelles. Un cadeau sans lien avec la cire fait aussi plaisir."),
+       ("Quel cadeau pour un homme pour 4 ans de mariage ?", "S'il n'aime pas les bougies parfumées, pensez à une lanterne d'extérieur, une bougie aux notes boisées, un baume à la cire d'abeille pour entretenir le cuir, ou un moment à deux comme un atelier ou un dîner.")],
+  short="Cadeau noces de cire")
+
+AUTO_META['meilleure-centrale-vapeur/'] = ('🏆', 'lilas')
+g("meilleure-centrale-vapeur/",
+  "Meilleure centrale vapeur 2026 : top 10 et défroisseurs",
+  "Quelle est la meilleure centrale vapeur en 2026 ? Notre top 10",
+  "Philips, Calor, Braun, Rowenta, Laurastar : 10 centrales vapeur et défroisseurs vendus en France, comparés sur leurs fiches officielles, avec leurs limites.",
+  """
+<p>Pour la plupart des couples, la meilleure centrale vapeur est un modèle qui choisit la température tout seul, accepte qu'on remplisse le réservoir en cours de route et ne pèse pas trop lourd à sortir du placard. La Philips PerfectCare 7000 PSG7130/20 coche ces trois cases. Si vous repassez beaucoup et voulez plus de puissance, la Calor Pro Express Ultimate + GV9610C0 ou la Braun CareStyle 7 Pro vont plus loin. Et si vous repassez très peu, un défroisseur suffit souvent.</p>
+<p>Nous avons retenu huit centrales et deux défroisseurs actuellement vendus en France, de l'entrée de gamme au modèle de passionné.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</p>
+<p>Les données viennent des fiches techniques de Philips et de Calor, et des pages produit d'Electro Dépôt, Auchan, Boulanger, BUT et PcComponentes. Nous n'indiquons aucun prix, car ils changent trop souvent. Quand une donnée manque, nous écrivons « non précisé ».</p>
+
+<h2>Les 10 modèles en un coup d'œil</h2>
+<table><thead><tr><th>Modèle</th><th>Type</th><th>Pression</th><th>Vapeur continue</th><th>Réservoir</th><th>Poids</th></tr></thead><tbody>
+<tr><td>Philips PerfectCare 7000 PSG7130/20</td><td>Centrale</td><td>8 bars</td><td>120 g/min</td><td>1,8 L</td><td>3,85 kg</td></tr>
+<tr><td>Calor Pro Express Ultimate + GV9610C0</td><td>Centrale</td><td>8 bars</td><td>180 g/min</td><td>1,9 L</td><td>5,1 kg</td></tr>
+<tr><td>Braun CareStyle 7 Pro IS7286BK</td><td>Centrale</td><td>8 bars</td><td>190 g/min</td><td>2 L</td><td>Non précisé</td></tr>
+<tr><td>Rowenta Silence Steam Pro DG9248F0</td><td>Centrale</td><td>8 bars</td><td>160 g/min</td><td>1,3 L</td><td>Non précisé</td></tr>
+<tr><td>Calor Pro Express Ultimate II GV9711C0</td><td>Centrale</td><td>7,5 bars</td><td>155 g/min</td><td>1,2 L</td><td>5,34 kg</td></tr>
+<tr><td>Calor Pro Express Eco GV9E20C0</td><td>Centrale</td><td>7,5 bars</td><td>140 g/min</td><td>1,8 L</td><td>5,1 kg</td></tr>
+<tr><td>Philips série 3000 PSG3001/30</td><td>Centrale</td><td>6 bars</td><td>140 g/min</td><td>1,4 L</td><td>2,7 kg</td></tr>
+<tr><td>Laurastar Lift Xtra</td><td>Centrale</td><td>3,5 bars</td><td>80 g/min</td><td>1,1 L</td><td>5,5 kg</td></tr>
+<tr><td>Philips série 3000 STE3170/80</td><td>Défroisseur sur pied</td><td>Non précisé</td><td>Non précisé</td><td>2 L</td><td>Non précisé</td></tr>
+<tr><td>Philips série 3000 STH3020/70</td><td>Défroisseur à main</td><td>Non précisé</td><td>20 g/min</td><td>120 ml</td><td>Non précisé</td></tr>
+</tbody></table>
+
+<h2>1. Philips PerfectCare 7000 PSG7130/20 : le plus simple au quotidien</h2>
+<p><strong>Pour qui ?</strong> Les couples qui repassent un peu de tout, en mélangeant coton, synthétique et chemises, sans avoir envie de tourner un thermostat.</p>
+<ul>
+<li><strong>Points forts</strong> : la technologie OptimalTEMP de Philips supprime le réglage de température : la même chaleur passe sur tous les tissus repassables, sans les brûler selon la marque. Pression de 8 bars, vapeur continue jusqu'à 120 g/min, effet pressing jusqu'à 600 g. Le réservoir de 1,8 litre se remplit à tout moment et donne jusqu'à 2 heures d'utilisation selon la fiche Philips. C'est aussi l'une des plus légères de la sélection : 3,85 kg avec la base, 0,8 kg pour le fer seul. Semelle SteamGlide Elite, détartrage Easy De-Calc Plus avec rappel lumineux, chauffe en 2 minutes, arrêt automatique.</li>
+<li><strong>Limites</strong> : 120 g/min de vapeur continue, c'est moins que la Calor ou la Braun ci-dessous. Sur du lin très froissé, vous sentirez la différence. Le modèle était indisponible chez certains revendeurs lors de notre lecture : vérifiez la référence exacte avant d'ajouter à votre liste.</li>
+</ul>
+<p>Notre conseil : c'est celle que nous mettrions en premier dans une liste de mariage, parce qu'elle évite l'erreur la plus fréquente, le polo brûlé faute d'avoir baissé la température.</p>
+<p><a href="{AMZ:Philips PerfectCare 7000 PSG7130/20}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Calor Pro Express Ultimate + GV9610C0 : la plus complète des Calor</h2>
+<p><strong>Pour qui ?</strong> Ceux qui repassent une grosse panière chaque semaine et veulent de la puissance sans s'arrêter.</p>
+<ul>
+<li><strong>Points forts</strong> : 2 600 W, 8 bars, 180 g/min de vapeur continue et jusqu'à 650 g/min en effet pressing. Le réservoir amovible de 1,9 litre est rechargeable en continu. Le capteur Smart Steam règle la vapeur, avec cinq réglages accessibles sur la poignée. Semelle Durilium AirGlide AutoClean, collecteur de calcaire amovible, système anti-goutte. Fabriquée en France, avec une réparabilité annoncée de 15 ans par Electro Dépôt.</li>
+<li><strong>Limites</strong> : 5,1 kg, elle se porte moins facilement que la Philips. Pas de chiffre de bruit, seulement la mention « deux fois plus silencieuse » que la gamme précédente.</li>
+</ul>
+<p><a href="{AMZ:Calor Pro Express Ultimate GV9610C0}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Braun CareStyle 7 Pro IS7286BK : le plus gros débit de vapeur</h2>
+<p><strong>Pour qui ?</strong> Les familles, ou les couples qui repassent draps et nappes en coton épais.</p>
+<ul>
+<li><strong>Points forts</strong> : c'est le débit continu le plus élevé de notre sélection, 190 g/min, avec un coup de vapeur à 650 g/min et 8 bars de pression. Réservoir amovible de 2 litres. La fonction iCare adapte la température au tissu, comme chez Philips. Semelle EloxalPlus, mode ECO, arrêt automatique, défroissage vertical, protection anti-goutte et cordon de 1,7 m avec rangement. Chauffe en 2 minutes.</li>
+<li><strong>Limites</strong> : la fiche consultée ne donne ni le poids, ni le type exact d'anticalcaire, ni la possibilité de remplir en cours de repassage. À vérifier sur la fiche Amazon si c'est important pour vous.</li>
+</ul>
+<p><a href="{AMZ:Braun CareStyle 7 Pro IS7286BK}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Rowenta Silence Steam Pro DG9248F0 : pour repasser le soir sans déranger</h2>
+<p><strong>Pour qui ?</strong> Les petits logements où l'on repasse dans le salon, pendant que l'autre regarde un film ou qu'un bébé dort.</p>
+<ul>
+<li><strong>Points forts</strong> : Rowenta la présente comme jusqu'à 5 fois plus silencieuse, sans donner de chiffre en décibels. 2 800 W, 8 bars, 160 g/min de vapeur continue et 600 g/min en coup de vapeur selon la fiche du revendeur. Le réservoir de 1,3 litre se remplit à tout moment. Semelle Microsteam 400HD Laser, collecteur de calcaire amovible avec indicateur, 5 préréglages électroniques, mode Éco, arrêt automatique et verrouillage du fer.</li>
+<li><strong>Limites</strong> : poids non précisé. Le réservoir est l'un des plus petits parmi les modèles haut de gamme, vous le remplirez plus souvent. La fiche lue affiche deux chiffres différents pour le coup de vapeur (600 et 625 g/min).</li>
+</ul>
+<p><a href="{AMZ:Rowenta Silence Steam Pro DG9248F0}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Calor Pro Express Ultimate II GV9711C0 : la plus puissante sur le papier</h2>
+<p><strong>Pour qui ?</strong> Ceux qui aiment les appareils fabriqués en France et réparables longtemps.</p>
+<ul>
+<li><strong>Points forts</strong> : 3 000 W, 7,5 bars, 155 g/min de vapeur continue et 590 g/min en pressing, avec un réglage de vapeur automatique. Semelle Durilium AirGlide AutoClean ultra-fine, collecteur de tartre, verrouillage du fer sur sa base. La fiche technique annonce des pièces détachées disponibles 15 ans et une fabrication en France.</li>
+<li><strong>Limites</strong> : réservoir de 1,2 litre seulement, et 5,34 kg. Le cordon fait 1,60 m, un peu court si la prise est loin de la table. C'est un modèle déjà présent depuis quelques années : il se trouve parfois en fin de série.</li>
+</ul>
+<p><a href="{AMZ:Calor Pro Express Ultimate II GV9711C0}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Calor Pro Express Eco GV9E20C0 : le choix sobre en énergie</h2>
+<p><strong>Pour qui ?</strong> Les couples attentifs à leur facture et à l'origine de ce qu'ils achètent.</p>
+<ul>
+<li><strong>Points forts</strong> : un mode éco annoncé jusqu'à 45 % d'économies d'énergie, plus de 40 % de matériaux recyclés et une fabrication en France. Les performances restent sérieuses : 7,5 bars, 140 g/min, jusqu'à 560 g/min en pressing, réservoir amovible de 1,8 litre. Sélection automatique de la température et de la vapeur, semelle Durilium AirGlide AutoClean, collecteur de calcaire, verrouillage du fer.</li>
+<li><strong>Limites</strong> : pas de remplissage en continu selon Electro Dépôt : quand le réservoir est vide, il faut attendre. 5,1 kg à porter.</li>
+</ul>
+<p><a href="{AMZ:Calor Pro Express Eco GV9E20C0}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Philips série 3000 PSG3001/30 : la centrale légère pour débuter</h2>
+<p><strong>Pour qui ?</strong> Un premier appartement, un petit budget, ou un cadeau qu'un seul invité peut offrir.</p>
+<ul>
+<li><strong>Points forts</strong> : 2,7 kg seulement, c'est la plus légère de la sélection. 2 400 W, 6 bars, 140 g/min et 350 g/min en pressing, réservoir amovible de 1,4 litre. Semelle CeramicGlide, voyant de détartrage, système anti-goutte, verrouillage, arrêt automatique, rangement du cordon. Auchan indique 11 ans de disponibilité des pièces détachées.</li>
+<li><strong>Limites</strong> : 6 bars et 350 g/min en pressing, c'est nettement moins que les modèles du haut du classement. Pour des chemises en coton épais ou du lin, le passage sera plus long. La fiche ne précise pas si le réservoir se remplit en cours d'utilisation. Elle existe en plusieurs coloris (PSG3000/30 en violet, PSG3001/30 en rose).</li>
+</ul>
+<p><a href="{AMZ:Philips série 3000 PSG3000/30 centrale vapeur}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Laurastar Lift Xtra : la vapeur douce des passionnés</h2>
+<p><strong>Pour qui ?</strong> Ceux qui repassent des vêtements délicats et tiennent à une vapeur fine plutôt qu'à des chiffres records.</p>
+<ul>
+<li><strong>Points forts</strong> : autonomie illimitée grâce au réservoir amovible de 1,1 litre, cartouche anticalcaire avec alerte de changement (environ tous les 3 mois selon Boulanger), semelle Active 3D en inox, arrêt automatique au bout de 10 minutes. Laurastar met en avant une vapeur qui repasse, défroisse et hygiénise. Boulanger annonce 10 ans de disponibilité des pièces détachées et une fabrication en Hongrie. Plusieurs finitions existent (Aluminium, Titan).</li>
+<li><strong>Limites</strong> : 3,5 bars et 80 g/min sur la fiche Boulanger, ce sont les chiffres les plus faibles de la sélection, sans effet pressing. 5,5 kg, chauffe en 3 minutes. Les cartouches anticalcaire sont un coût à prévoir. C'est surtout un cadeau à offrir à plusieurs.</li>
+</ul>
+<p>Notre conseil : ne la comparez pas aux autres sur la seule pression. Laurastar vise un autre style de repassage, plus doux. Si vous voulez un résultat rapide sur une pile de tee-shirts, une Calor ou une Philips sera plus logique.</p>
+<p><a href="{AMZ:Laurastar Lift Xtra}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>9. Philips série 3000 STE3170/80 : le défroisseur sur pied avec planche</h2>
+<p><strong>Pour qui ?</strong> Ceux qui détestent la planche à repasser et portent surtout des chemises, robes et pantalons de ville.</p>
+<ul>
+<li><strong>Points forts</strong> : 2 000 W, réservoir de 2 litres, prêt en moins de 60 secondes. Il est livré avec une planche StyleBoard inclinable, pratique pour tendre un col ou une manche, et un nez de plaque métallique pointu pour aller entre les boutons. Trois réglages de vapeur et un diffuseur de parfum MyEssence. Garantie 2 ans.</li>
+<li><strong>Limites</strong> : un défroisseur ne marque pas les plis d'un pantalon comme un fer, et ne remplace pas une centrale pour les draps. Pression, débit et poids ne sont pas précisés sur la fiche Philips.</li>
+</ul>
+<p><a href="{AMZ:Philips STE3170/80 défroisseur}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>10. Philips série 3000 STH3020/70 : le défroisseur de voyage</h2>
+<p><strong>Pour qui ?</strong> Le voyage de noces, les week-ends, et la tenue du matin sortie froissée de la valise.</p>
+<ul>
+<li><strong>Points forts</strong> : pliable et livré avec une trousse, il se range dans une valise. 1 000 W, prêt en 30 secondes, jusqu'à 20 g/min de vapeur continue, plaque métallique chauffante, cordon de 2 m. Plus besoin de table à repasser.</li>
+<li><strong>Limites</strong> : son réservoir de 120 ml permet de défroisser environ une tenue par remplissage, selon Philips. C'est un complément, jamais un remplaçant de la centrale.</li>
+</ul>
+<p><a href="{AMZ:Philips STH3020/70 défroisseur à main}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Centrale vapeur ou défroisseur : lequel vous faut-il vraiment ?</h2>
+<p>Posez-vous une question simple : combien de temps repassez-vous par semaine ? Au-delà d'une demi-heure, la centrale vous fera gagner du temps à chaque séance. En dessous, et si vous portez peu de coton épais, un défroisseur sur pied peut suffire. Le défroisseur à main, lui, se range dans la valise et sauve une chemise en deux minutes, mais il ne fera jamais une pile de linge.</p>
+<p>Beaucoup de couples finissent avec les deux : une centrale pour la maison, un petit défroisseur pour les déplacements. Dans une liste de mariage, c'est un bon duo, avec un gros cadeau et un petit.</p>
+
+<h2>Comment choisir sa centrale vapeur sans se tromper</h2>
+<h3>La pression : 6 bars pour débuter, 7 à 8 bars pour aller vite</h3>
+<p>Plus la pression est haute, plus la vapeur traverse le tissu épais. La plupart des modèles de milieu et haut de gamme affichent 7,5 à 8 bars. Laurastar fait exception avec 3,5 bars et une vapeur plus fine, un choix de marque.</p>
+<h3>Le remplissage en cours de route</h3>
+<p>C'est le critère qu'on regarde trop tard. Avec un réservoir rechargeable en continu (Philips 7000, Calor GV9610C0, Rowenta, Laurastar), vous remplissez quand vous voulez. Sans, il faut attendre que l'appareil refroidisse. Pour une grosse panière, la différence est nette.</p>
+<h3>Le réglage de température</h3>
+<p>Les systèmes OptimalTEMP de Philips ou iCare de Braun évitent de régler la température tissu par tissu. Si vous repassez à deux et pas toujours avec la même attention, c'est la meilleure assurance contre les brûlures.</p>
+<h3>Le poids et le rangement</h3>
+<p>Entre la Philips 3000 à 2,7 kg et la Laurastar à 5,5 kg, il y a le double. Si la centrale se range en haut d'un placard, prenez-la légère. Mesurez aussi la place : une base de centrale prend plus de place qu'un simple fer.</p>
+<h3>Le calcaire</h3>
+<p>Collecteur à rincer, système de détartrage ou cartouche à changer : regardez comment chaque modèle gère le calcaire, et à quel rythme. C'est ce qui use le plus une centrale. Notre guide pour <a href="{R}comment-choisir-centrale-vapeur/">choisir une centrale vapeur</a> détaille ces critères un par un.</p>
+<p>Pour placer la centrale dans votre liste de mariage à côté des autres gros cadeaux, et ne rien oublier dans la buanderie, aidez-vous de notre <a href="{R}checklist/">checklist pièce par pièce</a>. Si vous hésitez avec un autre appareil d'entretien, comparez aussi notre <a href="{R}meilleur-aspirateur-balai/">top des aspirateurs balais</a>.</p>
+""",
+  faq=[("Quelle est la meilleure centrale vapeur pour ne pas brûler le linge ?", "Une centrale sans réglage de température, comme la Philips PerfectCare 7000 PSG7130/20 (technologie OptimalTEMP) ou la Braun CareStyle 7 Pro (fonction iCare), qui adaptent la chaleur aux tissus repassables."),
+       ("Combien de bars pour une bonne centrale vapeur ?", "Les modèles de milieu et haut de gamme annoncent 7,5 à 8 bars, ce qui suffit pour les tissus épais. Une centrale d'entrée de gamme à 6 bars convient pour un usage léger. Laurastar fait un autre choix avec 3,5 bars et une vapeur plus fine."),
+       ("Un défroisseur peut-il remplacer une centrale vapeur ?", "Pas complètement. Un défroisseur détend les plis des vêtements suspendus et dépanne en voyage, mais il ne marque pas les plis et n'est pas adapté aux draps ou aux grosses piles de linge.")],
+  short="Top 10 centrales vapeur")
