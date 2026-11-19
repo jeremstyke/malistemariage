@@ -19,23 +19,20 @@
 - [x] meilleur-blender/ | meilleur blender | blenders et blenders chauffants : Moulinex, Philips, Kenwood, Vitamix, Nutribullet
 - [x] meilleure-centrale-vapeur/ | meilleure centrale vapeur | centrales vapeur et défroisseurs : Calor, Philips, Rowenta, Braun, Laurastar
 - [x] meilleure-plancha/ | meilleure plancha | planchas électriques et gaz : Forge Adour, Krampouz, Tefal, Eno, Campingaz
-- [ ] meilleure-couette/ | meilleure couette | couettes tempérées, 4 saisons, duvet et synthétique : Dodo, Abeil, Drouault, Bleu Câlin
-- [ ] meilleur-couteau-de-cuisine/ | meilleurs couteaux de cuisine | blocs et couteaux de chef : Victorinox, Wüsthof, Zwilling, Global, Opinel
-- [ ] meilleur-airfryer/ | meilleur air fryer | friteuses sans huile : Ninja, Philips, Moulinex, Cosori, Tefal
-- [ ] meilleur-multicuiseur/ | meilleur multicuiseur | robots cuiseurs et autocuiseurs : Moulinex Cookeo, Instant Pot, Ninja Foodi, Thermomix
-- [ ] meilleur-grille-pain/ | meilleur grille-pain | grille-pain design et larges fentes : Smeg, KitchenAid, Russell Hobbs, Philips, Bosch
-- [ ] meilleure-bouilloire/ | meilleure bouilloire | bouilloires à température réglable : Smeg, Bosch, Philips, Russell Hobbs, Kenwood
-- [ ] meilleure-machine-a-pain/ | meilleure machine à pain | machines à pain : Moulinex, Panasonic, Kenwood, Riviera et Bar
-- [ ] meilleur-appareil-a-raclette/ | meilleur appareil à raclette | raclettes et appareils 3 en 1 : Tefal, Lagrange, Boska, Severin
-- [ ] meilleur-barbecue/ | meilleur barbecue | barbecues charbon, gaz et électriques : Weber, Campingaz, Char-Broil, Barbecook
-- [ ] meilleur-salon-de-jardin/ | meilleur salon de jardin | salons de jardin compacts et lounge : Hesperide, Keter, Allibert, Lafuma
-- [ ] meilleur-purificateur-d-air/ | meilleur purificateur d'air | purificateurs : Philips, Rowenta, Dyson, Levoit, Xiaomi
-- [ ] meilleure-enceinte-bluetooth/ | meilleure enceinte connectée | enceintes : Sonos, JBL, Bose, Marshall, Ultimate Ears
-- [ ] meilleur-linge-de-lit/ | meilleure parure de lit | parures en percale, lin et satin de coton : Blanc des Vosges, Linvosges, Essix, Tradilinge
-- [ ] meilleur-set-de-serviettes/ | meilleures serviettes de bain | draps et serviettes de bain en coton épais : Anne de Solène, Blanc des Vosges, Tradilinge
-- [ ] meilleure-cave-a-vin/ | meilleure cave à vin | caves de service et de vieillissement : La Sommelière, Climadiff, Liebherr, Haier
-- [ ] meilleure-friteuse/ | meilleure friteuse | friteuses classiques : Seb, Tefal, Moulinex, DeLonghi
-- [ ] meilleur-extracteur-de-jus/ | meilleur extracteur de jus | extracteurs : Kuvings, Hurom, Moulinex, Philips, Panasonic
-- [ ] meilleur-robot-multifonction/ | meilleur robot multifonction | robots de cuisine : Magimix, KitchenAid, Moulinex, Kenwood, Bosch
-- [ ] meilleur-appareil-photo-instantane/ | meilleur appareil photo instantané | appareils pour le mariage et le voyage : Fujifilm Instax, Polaroid, Kodak
+- [ ] couette-liste-de-mariage/ | couette liste de mariage / quelle couette offrir à des jeunes mariés | couettes tempérées, 4 saisons, duvet et synthétique, grand format 240x220 pour lit double : Dodo, Abeil, Drouault, Bleu Câlin
+- [ ] couteaux-de-cuisine-liste-de-mariage/ | couteaux de cuisine liste de mariage / bloc couteaux cadeau de mariage | blocs et couteaux de chef : Victorinox, Wüsthof, Zwilling, Global, Opinel (tradition de la pièce symbolique à donner contre un couteau offert : rester factuel)
+- [ ] airfryer-liste-de-mariage/ | air fryer liste de mariage / airfryer cadeau de mariage | friteuses sans huile grand format pour 2 à 4 personnes : Ninja, Philips, Moulinex, Cosori, Tefal
+- [ ] multicuiseur-liste-de-mariage/ | multicuiseur liste de mariage / Cookeo cadeau de mariage | robots cuiseurs et autocuiseurs : Moulinex Cookeo, Instant Pot, Ninja Foodi, Thermomix
+- [ ] grille-pain-bouilloire-liste-de-mariage/ | grille-pain et bouilloire assortis liste de mariage / set petit déjeuner cadeau de mariage | grille-pain et bouilloires de la même gamme : Smeg, KitchenAid, Russell Hobbs, Bosch, Philips
+- [ ] machine-a-pain-liste-de-mariage/ | machine à pain liste de mariage / machine à pain cadeau de mariage | machines à pain : Moulinex, Panasonic, Kenwood, Riviera et Bar
+- [ ] appareil-a-raclette-liste-de-mariage/ | appareil à raclette liste de mariage / cadeau de mariage pour recevoir | raclettes 6 à 8 personnes et appareils 3 en 1 : Tefal, Lagrange, Boska, Severin
+- [ ] barbecue-liste-de-mariage/ | barbecue liste de mariage / barbecue cadeau de mariage | barbecues charbon, gaz et électriques : Weber, Campingaz, Char-Broil, Barbecook
+- [ ] salon-de-jardin-liste-de-mariage/ | salon de jardin liste de mariage / cadeau de mariage pour la maison | salons de jardin compacts et lounge : Hesperide, Keter, Allibert, Lafuma
+- [ ] enceinte-connectee-liste-de-mariage/ | enceinte connectée liste de mariage / enceinte cadeau de mariage | enceintes : Sonos, JBL, Bose, Marshall, Ultimate Ears
+- [ ] linge-de-lit-liste-de-mariage/ | linge de lit liste de mariage / parure de lit cadeau de mariage | parures en percale, lin et satin de coton : Blanc des Vosges, Linvosges, Essix, Tradilinge (trousseau, tradition du linge de maison)
+- [ ] linge-de-bain-liste-de-mariage/ | linge de bain liste de mariage / serviettes cadeau de mariage | draps et serviettes de bain en coton épais : Anne de Solène, Blanc des Vosges, Tradilinge
+- [ ] cave-a-vin-liste-de-mariage/ | cave à vin liste de mariage / cadeau de mariage amateur de vin | caves de service et de vieillissement : La Sommelière, Climadiff, Liebherr, Haier (idée : garder des bouteilles du mariage pour les anniversaires)
+- [ ] extracteur-de-jus-liste-de-mariage/ | extracteur de jus liste de mariage | extracteurs : Kuvings, Hurom, Moulinex, Philips, Panasonic
+- [ ] robot-multifonction-liste-de-mariage/ | robot multifonction liste de mariage / robot de cuisine cadeau de mariage | robots de cuisine : Magimix, KitchenAid, Moulinex, Kenwood, Bosch
+- [ ] appareil-photo-instantane-mariage/ | appareil photo instantané mariage / Instax pour mariage et voyage de noces | appareils pour le jour J, les invités et le voyage de noces : Fujifilm Instax, Polaroid, Kodak
 - [ ] meilleurs-cadeaux-noces-d-or/ | cadeau noces d'or | cadeaux réellement vendus pour 50 ans de mariage (souvenirs, objets à graver, coffrets)
