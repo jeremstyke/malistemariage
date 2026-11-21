@@ -138,7 +138,7 @@ g("que-mettre-dans-une-liste-de-mariage/",
 <li>une <strong>batterie de casseroles</strong> compatible avec votre plaque ;</li>
 <li>une <strong>cocotte en fonte</strong>, le cadeau qu'on garde toute une vie ;</li>
 <li>de <strong>bons couteaux</strong> et une planche en bois ;</li>
-<li>un <strong>robot pâtissier</strong> ou un blender, parfaits pour un cadeau de groupe ;</li>
+<li>un <strong>robot pâtissier</strong> ou un <a href="{R}meilleur-blender/">blender</a>, faciles à financer en cadeau de groupe ;</li>
 <li>une <strong>machine à café</strong> et une bouilloire.</li>
 </ul>
 <h2>Les arts de la table</h2>
@@ -146,11 +146,11 @@ g("que-mettre-dans-une-liste-de-mariage/",
 <h2>Le linge de maison</h2>
 <p>Parure de lit, couette, oreillers, serviettes de bain épaisses : des cadeaux à prix moyens, très pratiques pour les invités qui ne savent pas quoi offrir. Indiquez bien les tailles (160x200, 140x190) dans la description.</p>
 <h2>La maison et l'entretien</h2>
-<p>Moins romantique mais tellement utile : un aspirateur balai sans fil, un robot aspirateur, une centrale vapeur, une boîte à outils. Ce sont souvent les cadeaux les plus appréciés au quotidien.</p>
+<p>Moins romantique mais tellement utile : un aspirateur balai sans fil, un robot aspirateur, une <a href="{R}meilleure-centrale-vapeur/">centrale vapeur</a>, une boîte à outils. Ce sont souvent les cadeaux les plus appréciés au quotidien.</p>
 <h2>Le voyage de noces</h2>
 <p>Valises cabine, adaptateur universel, batterie externe, appareil photo instantané, guide du pays. Ces articles permettent aux invités de participer à votre voyage, même avec une liste matérielle.</p>
 <h2>Les coups de cœur</h2>
-<p>Ajoutez quelques cadeaux qui vous ressemblent : une plancha, une machine à raclette, des jeux de société, un vélo électrique pour les couples sportifs. Ce sont ceux dont vous parlerez encore dans dix ans.</p>
+<p>Ajoutez quelques cadeaux qui vous ressemblent : une <a href="{R}meilleure-plancha/">plancha</a>, une machine à raclette, des jeux de société, un vélo électrique pour les couples sportifs. Ce sont ceux dont vous parlerez encore dans dix ans.</p>
 <h2>La bonne répartition des prix</h2>
 <table><thead><tr><th>Tranche</th><th>Part de la liste</th><th>Exemples</th></tr></thead><tbody>
 <tr><td>Moins de 40 €</td><td>30 %</td><td>Carafe, ustensiles, jeux, guide de voyage</td></tr>
@@ -221,7 +221,7 @@ g("liste-de-mariage-originale/",
 </ul>
 <h2>Pour les voyageurs</h2>
 <ul>
-<li>des valises assorties ;</li>
+<li>des <a href="{R}meilleure-valise-voyage-de-noces/">valises assorties</a> pour le voyage de noces ;</li>
 <li>une carte du monde à gratter ;</li>
 <li>un appareil photo instantané et ses recharges ;</li>
 <li>une tente et des sacs de couchage pour les escapades.</li>
@@ -236,7 +236,7 @@ g("liste-de-mariage-originale/",
 <h2>Pour les sportifs</h2>
 <p>Vélos électriques, kayak gonflable, paddle, matériel de randonnée : de gros cadeaux de groupe que vos amis adoreront offrir ensemble.</p>
 <h2>Pour la maison</h2>
-<p>Une belle horloge, une lampe design, un cadre pour la photo du mariage, un album à remplir. Des objets qui restent visibles et rappellent le jour J.</p>
+<p>Une belle horloge, une lampe design, un cadre pour la photo du mariage, un album à remplir. Des objets qui restent visibles et rappellent le jour J. Une guirlande lumineuse achetée pour la fête peut aussi finir sur votre terrasse : voyez notre <a href="{R}meilleure-decoration-mariage/">sélection de décoration de mariage</a>.</p>
 <h2>Gardez quelques classiques</h2>
 <p>Même une liste originale doit garder des cadeaux simples à offrir. Les grands-parents seront plus à l'aise avec une parure de lit qu'avec un kayak. Mélangez les deux grâce à notre <a href="{R}checklist/">checklist</a>.</p>
 """,
@@ -422,12 +422,12 @@ g("idees-cadeau-de-mariage/",
 <li>un cadre gravé avec la date du mariage ;</li>
 <li>un album photo à remplir ;</li>
 <li>une planche à découper gravée à leurs prénoms ;</li>
-<li>un livre d'or original.</li>
+<li>un <a href="{R}meilleur-livre-d-or-mariage/">livre d'or</a> original.</li>
 </ul>
 <h2>Les expériences</h2>
 <p>Un cours de cuisine à deux, un dîner dans un restaurant, une nuit dans un lieu insolite, un vol en montgolfière.</p>
 <h2>Les petits budgets</h2>
-<p>Un bon vin à ouvrir pour leur premier anniversaire, un jeu de société pour deux, une carte avec un mot sincère. Plus d'idées dans notre <a href="{R}liste-de-mariage-petit-budget/">guide petits prix</a>.</p>
+<p>Un bon vin à ouvrir pour leur premier anniversaire (voici les <a href="{R}noces-de-mariage-par-annee/">noces par année</a>, puis les <a href="{R}cadeau-noces-de-cuir-2-ans/">noces de cuir</a> à 2 ans), un jeu de société pour deux, une carte avec un mot sincère. Plus d'idées dans notre <a href="{R}liste-de-mariage-petit-budget/">guide petits prix</a>.</p>
 """,
   faq=[
     ("Quel cadeau offrir à un mariage sans liste ?", "Un objet utile et durable (cocotte, linge de qualité), une expérience à deux ou de l'argent avec un mot personnel."),
@@ -452,7 +452,7 @@ g("remerciements-mariage/",
 <li>« Même de loin, vous étiez avec nous. Merci pour votre jolie attention. »</li>
 </ul>
 <h2>Le petit plus</h2>
-<p>Citez le cadeau et dites comment vous l'utilisez : c'est ce qui rend le message personnel.</p>
+<p>Citez le cadeau et dites comment vous l'utilisez : c'est ce qui rend le message personnel. Le jour J, un petit <a href="{R}meilleurs-cadeaux-invites/">cadeau pour vos invités</a> posé sur chaque assiette fait aussi office de premier merci.</p>
 {CTA}
 """,
   faq=[
