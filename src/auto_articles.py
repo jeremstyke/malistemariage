@@ -74,7 +74,7 @@ g("comment-choisir-aspirateur-balai/",
 <h2>Entretien : le collecteur et les filtres</h2>
 <p>Un collecteur trop petit oblige à vider souvent. Vérifiez qu'il se vide d'une main sans se salir, et que les filtres sont lavables. Un filtre bien entretenu garde la puissance d'aspiration dans le temps.</p>
 <h2>Et le robot aspirateur ?</h2>
-<p>Le <a href="{AMZ:robot aspirateur}" rel="sponsored nofollow noopener" target="_blank">robot aspirateur</a> entretient les sols tout seul, mais ne remplace pas un balai pour les escaliers, les miettes sous la table ou la voiture. Beaucoup de couples mettent les deux dans leur liste.</p>
+<p>Le <a href="{AMZ:robot aspirateur}" rel="sponsored nofollow noopener" target="_blank">robot aspirateur</a> entretient les sols tout seul, mais ne remplace pas un balai pour les escaliers, les miettes sous la table ou la voiture. Beaucoup de couples mettent les deux dans leur liste. Pour bien le choisir, lisez notre guide <a href="{R}comment-choisir-robot-aspirateur/">comment choisir un robot aspirateur</a>.</p>
 <h2>Dans votre liste de mariage</h2>
 <p>C'est le cadeau de groupe idéal : plusieurs amis peuvent s'associer. Ajoutez un <a href="{AMZ:aspirateur balai sans fil}" rel="sponsored nofollow noopener" target="_blank">aspirateur balai sans fil</a> à votre liste avec notre <a href="{R}checklist/">checklist par pièce</a>, et une <a href="{AMZ:batterie aspirateur balai}" rel="sponsored nofollow noopener" target="_blank">batterie de rechange</a> si le modèle le permet. Pour équilibrer les prix, voyez notre guide <a href="{R}liste-de-mariage-petit-budget/">petits prix</a>.</p>
 """,
@@ -590,6 +590,7 @@ g("comment-choisir-batterie-de-casseroles/",
 </ul>
 <h2>Dans votre liste de mariage</h2>
 <p>Deux façons de faire. Soit vous mettez une <a href="{AMZ:batterie de casseroles inox induction}" rel="sponsored nofollow noopener" target="_blank">batterie complète en inox</a>, à offrir à plusieurs invités. Soit vous découpez : une <a href="{AMZ:casserole inox 18/10}" rel="sponsored nofollow noopener" target="_blank">casserole inox</a>, une <a href="{AMZ:poele antiadhesive induction 28 cm}" rel="sponsored nofollow noopener" target="_blank">poêle antiadhésive</a>, une <a href="{AMZ:sauteuse inox avec couvercle}" rel="sponsored nofollow noopener" target="_blank">sauteuse</a>. Les pièces séparées donnent du choix aux invités à petit budget, comme on l'explique dans notre guide <a href="{R}liste-de-mariage-petit-budget/">liste de mariage petit budget</a>.</p>
+<p>Pour comparer des modèles précis, voyez notre <a href="{R}meilleure-batterie-de-cuisine/">sélection des meilleures batteries de cuisine pour une liste de mariage</a>.</p>
 <p>Pour ne rien oublier dans la cuisine, servez-vous de notre <a href="{R}checklist/">checklist par pièce</a>, et piochez des idées dans <a href="{R}que-mettre-dans-une-liste-de-mariage/">que mettre dans une liste de mariage</a>.</p>
 """,
   faq=[("Inox ou antiadhésif pour une batterie de casseroles ?", "L'inox dure le plus longtemps et supporte le métal et le lave-vaisselle. L'antiadhésif est plus facile pour les débutants. Beaucoup de couples prennent des casseroles en inox et une ou deux poêles antiadhésives."),
@@ -1734,7 +1735,7 @@ g("meilleurs-livres-organisation-mariage/",
 <li><strong>Points forts</strong> : 168 pages en couleur, par Anne-Solange Tardy (Larousse, 2019). On y trouve le budget et les priorités, les démarches administratives, la liste des invités, le lieu, les prestataires, la cérémonie, le menu, les tenues, la décoration. Surtout, il propose trois rétroplannings types : sur 18 mois, 12 mois et 6 mois.</li>
 <li><strong>Limites</strong> : édition de 2019, que la Fnac ne proposait plus que d'occasion lors de notre vérification. Les tendances déco ont un peu vieilli, mais la méthode reste valable.</li>
 </ul>
-<p>Notre conseil : c'est le livre à prendre si votre date est proche, parce que le rétroplanning sur 6 mois vous dit tout de suite ce qu'il faut abandonner.</p>
+<p>Notre conseil : c'est le livre à prendre si votre date est proche, parce que le rétroplanning sur 6 mois vous dit tout de suite ce qu'il faut abandonner. En attendant, notre <a href="{R}retroplanning-mariage/">rétroplanning mariage mois par mois</a> vous donne déjà les grandes étapes.</p>
 <p><a href="{AMZ:Mon mariage sur mesure Anne-Solange Tardy Larousse}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
 
 <h2>5. Le guide pour organiser un mariage unique (Nathalie Bernard) : pour l'inspiration</h2>

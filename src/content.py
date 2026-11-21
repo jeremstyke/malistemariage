@@ -324,7 +324,7 @@ g("quand-faire-sa-liste-de-mariage/",
 <p>Trop tôt, vos invités oublient. Trop tard, ils ont déjà acheté autre chose. Voici le bon calendrier.</p>
 {CTA}
 <h2>6 mois avant : commencez à réfléchir</h2>
-<p>Faites le tour de la maison, discutez de vos envies et de vos projets (voyage, travaux). Commencez à cocher notre <a href="{R}checklist/">checklist</a>.</p>
+<p>Faites le tour de la maison, discutez de vos envies et de vos projets (voyage, travaux). Commencez à cocher notre <a href="{R}checklist/">checklist</a>. Pour caler la liste dans le reste des préparatifs, suivez notre <a href="{R}retroplanning-mariage/">rétroplanning mariage</a>.</p>
 <h2>4 mois avant : créez la liste</h2>
 <p>Créez la liste en même temps que vous préparez les faire-part. Elle doit être prête quand les premiers invités vous demandent quoi offrir, souvent dès la réception du faire-part.</p>
 <h2>3 mois avant : partagez-la</h2>
