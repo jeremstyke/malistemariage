@@ -395,6 +395,8 @@ def build():
         ex_html, ex_faq = EXTRA.get(x['slug'], ('', []))
         fh, fs = faq_block(x['faq'] + ex_faq)
         body = pick_box_guide(pick_box(buy_buttons(x['body'] + ex_html)), x['slug']).replace('{CTA}', CTA).replace('{PRINTLIST}', PRINTLIST).replace('{MSGS}', messages_html())
+        body = re.sub(r'\{AUDIBLE:([A-Z0-9]{10})\}', lambda m: 'https://www.amazon.fr/hz/audible/mlp/mfpdp/' + m.group(1) + '?actionCode=AMSTM1450129210001&tag=' + TAG, body)
+        body = body.replace('{AUDIBLE}', 'https://www.amazon.fr/hz/audible/mlp?actionCode=AMSTM1450129210001&tag=' + TAG)
         body = re.sub(r'\{AMZ:([^}]+)\}', lambda m: amz(m.group(1)), body)
         body, toc = add_toc(body)
         words = len(re.sub('<[^>]+>', ' ', body).split())
