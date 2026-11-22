@@ -53,3 +53,7 @@ Le site est jeune : il gagne d'abord sur des requêtes précises de 4 mots et pl
 - La FAQ contient une question sur cet angle, par exemple « Pourquoi offrir une plancha pour un mariage ? ».
 - Chaque fiche produit dit aussi, en une phrase, pour quel couple ce produit est le bon choix.
 - Avant de prendre une ligne de tops.md : si sa requête est générique, réécris-la avec l'angle du site (slug compris si la page n'existe pas encore) ; si le produit n'a vraiment aucun lien avec le sujet du site, coche-la « abandonné, hors sujet » et prends la suivante.
+
+## Bouton prix et lignes réservées (22 nov 2026)
+- Dans les tops, garder pour chaque produit le lien de fin de fiche au format exact `<p><a href="{AMZ:Marque Modèle}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>` : build.py le transforme en bouton « Voir le prix sur Amazon ».
+- Une ligne « - [~] » de sujets.md ou tops.md est réservée à une publication programmée : les tâches quotidiennes ne la prennent pas.

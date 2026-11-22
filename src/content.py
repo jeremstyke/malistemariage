@@ -231,7 +231,7 @@ g("liste-de-mariage-originale/",
 <li>un vidéoprojecteur et un écran ;</li>
 <li>une collection de jeux de société ;</li>
 <li>une platine vinyle ;</li>
-<li>un grand plaid et des coussins de sol.</li>
+<li>un grand plaid et des coussins de sol (d'autres idées pour un <a href="{R}cadeau-mariage-hiver-original/">mariage d'hiver</a>).</li>
 </ul>
 <h2>Pour les sportifs</h2>
 <p>Vélos électriques, kayak gonflable, paddle, matériel de randonnée : de gros cadeaux de groupe que vos amis adoreront offrir ensemble.</p>
@@ -408,7 +408,7 @@ g("idees-cadeau-de-mariage/",
   """
 <p>Les mariés n'ont pas fait de liste, ou vous voulez ajouter une attention personnelle ? Voici des idées qui font mouche.</p>
 <h2>Si les mariés ont une liste</h2>
-<p>Commencez par là : c'est ce qui leur fait le plus plaisir. Demandez-leur simplement le lien.</p>
+<p>Commencez par là : c'est ce qui leur fait le plus plaisir. Demandez-leur simplement le lien. Le mariage a lieu entre décembre et février ? Voyez nos idées de <a href="{R}cadeau-mariage-hiver-original/">cadeau de mariage original pour un mariage d'hiver</a>.</p>
 {CTA}
 <h2>Les cadeaux utiles</h2>
 <ul>

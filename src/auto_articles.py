@@ -2777,3 +2777,51 @@ g("meilleure-plancha/",
        ("Quelle puissance pour une plancha gaz ?", "Les modèles gaz de notre sélection vont de 5 000 W (Forge Adour Base G 60) à 6 300 W (Eno Initial 65). Plus la plaque est grande, plus il faut de puissance pour qu'elle chauffe partout."),
        ("Une plancha électrique chauffe-t-elle assez ?", "Oui pour un usage familial, à condition de choisir une puissance suffisante pour la taille de la plaque. La Krampouz Saveur Double monte jusqu'à 300 °C avec 3 200 W, la Tefal Maxi XXL jusqu'à 260 °C.")],
   short="Top 9 planchas")
+
+AUTO_META['cadeau-mariage-hiver-original/'] = ('❄️', 'ciel')
+g("cadeau-mariage-hiver-original/",
+  "Cadeau de mariage original pour un mariage d'hiver : idées 2026",
+  "Quel cadeau de mariage original pour un mariage d'hiver ?",
+  "Plaid, fondue, raclette, couette, week-end au chalet : nos idées de cadeau de mariage original pour un mariage d'hiver, classées par budget, de 20 à 200 €.",
+  """
+<p>Pour un mariage d'hiver, le cadeau original est celui qui sert dès le retour de la fête : un appareil à fondue pour les premières soirées à deux, un grand plaid, une couette vraiment chaude, ou une participation à un week-end au chalet. Les couples qui se marient entre décembre et février ont devant eux des semaines de froid, autant leur offrir de quoi en profiter.</p>
+<p>Voici nos idées classées par budget, avec ce qu'il faut vérifier avant de les ajouter à une liste ou de les offrir.</p>
+{CTA}
+<h2>Quelles idées de cadeau pour un mariage d'hiver, selon votre budget ?</h2>
+<table><thead><tr><th>Budget</th><th>Idée de cadeau</th><th>Pour quel couple ?</th></tr></thead><tbody>
+<tr><td>Moins de 30 €</td><td>Bouillottes, chaussons assortis, coffret de thés ou de chocolats chauds</td><td>Un petit cadeau d'invité, ou en complément d'une participation</td></tr>
+<tr><td>30 à 80 €</td><td>Grand plaid, service à fondue, théière en fonte</td><td>Les couples casaniers qui reçoivent leurs amis l'hiver</td></tr>
+<tr><td>80 à 150 €</td><td>Appareil à raclette, couette d'hiver, parure en flanelle</td><td>Ceux qui s'installent ou renouvellent leur linge de lit</td></tr>
+<tr><td>150 € et plus</td><td>Cocotte en fonte, machine à café à grain, participation à un week-end à la montagne</td><td>Un cadeau à offrir à plusieurs, pour des années</td></tr>
+</tbody></table>
+<p>Les montants sont des repères pour vous situer, pas des prix de modèles précis : ils varient beaucoup selon la marque et la taille. Si vous hésitez sur la somme, notre page <a href="{R}combien-donner-pour-un-mariage/">combien donner pour un mariage</a> vous aide à trancher selon votre lien avec les mariés.</p>
+
+<h2>Que peut-on offrir pour moins de 30 € ?</h2>
+<p>À petit prix, l'originalité vient du thème. Deux <a href="{AMZ:bouillotte housse tricot}" rel="sponsored nofollow noopener" target="_blank">bouillottes avec housse en tricot</a>, une pour chacun, font sourire dans un mariage de janvier. Ajoutez une carte écrite à la main : c'est souvent ce qui reste.</p>
+<p>Un coffret de thés, d'infusions ou de chocolat chaud marche aussi, surtout si vous connaissez les goûts du couple. Évitez simplement les produits trop parfumés si vous ne savez pas ce qu'ils aiment. Pour d'autres idées à ce prix, voyez notre guide <a href="{R}liste-de-mariage-petit-budget/">liste de mariage petit budget</a>.</p>
+
+<h2>Quels cadeaux de mariage d'hiver entre 30 et 80 € ?</h2>
+<p>Le <a href="{AMZ:grand plaid canapé 150x200}" rel="sponsored nofollow noopener" target="_blank">grand plaid</a> paraît banal, mais un plaid assez grand pour deux, doux et lavable en machine, sert tous les soirs d'hiver. Pour un couple, prenez un grand format, par exemple 150 x 200 cm, et regardez l'étiquette d'entretien avant d'acheter.</p>
+<p>Le <a href="{AMZ:service à fondue savoyarde}" rel="sponsored nofollow noopener" target="_blank">service à fondue</a> est le cadeau d'hiver par excellence. Il en existe trois grandes familles : le caquelon en fonte ou en céramique pour la fondue savoyarde, le service en inox pour la fondue bourguignonne à l'huile, et les appareils électriques qui règlent la température sans réchaud. Si vous ne savez pas lequel choisir, l'électrique est le plus simple à utiliser dans un petit appartement.</p>
+
+<h2>Et entre 80 et 150 € ?</h2>
+<p>L'<a href="{AMZ:appareil à raclette 8 personnes}" rel="sponsored nofollow noopener" target="_blank">appareil à raclette</a> est un cadeau très partagé : il sert surtout quand le couple reçoit. Vérifiez le nombre de poêlons (de 2 pour un duo à 8 ou plus pour les grandes tablées) et si le plateau du dessus est une pierre ou une plaque gril. Un modèle qui se démonte facilement passera plus souvent au lave-vaisselle et sortira plus souvent du placard.</p>
+<p>Une <a href="{AMZ:couette chaude hiver 240x220}" rel="sponsored nofollow noopener" target="_blank">couette d'hiver</a> est moins spectaculaire, mais c'est un cadeau qu'on remarque chaque nuit. Demandez la taille du lit avant d'acheter, ou choisissez-la sur la liste des mariés. Nos repères de grammage et de taille sont dans le guide <a href="{R}comment-choisir-couette/">comment choisir sa couette</a>. Une <a href="{AMZ:parure de lit flanelle}" rel="sponsored nofollow noopener" target="_blank">parure en flanelle</a>, plus chaude au toucher que le coton classique, complète bien l'ensemble.</p>
+
+<h2>Quel cadeau d'hiver offrir à plusieurs, pour 150 € et plus ?</h2>
+<p>Les gros cadeaux d'hiver sont ceux qui servent à cuisiner longtemps et lentement. Une <a href="{R}meilleure-cocotte-en-fonte/">cocotte en fonte</a> pour les pot-au-feu et les plats mijotés, ou une <a href="{R}meilleure-machine-a-cafe-a-grain/">machine à café à grain</a> pour les matins froids, s'offrent très bien à plusieurs invités, chacun prenant une part.</p>
+<p>L'idée la plus originale reste l'expérience : un week-end dans un chalet, une nuit dans un spa, une journée de raquettes. Ce n'est pas un objet qu'on met sur une liste marchande : passez plutôt par une cagnotte, que les mariés pourront utiliser quand ils le souhaitent. Nous comparons les deux formules dans <a href="{R}liste-de-mariage-ou-cagnotte/">liste de mariage ou cagnotte</a>.</p>
+
+<h2>Comment éviter d'offrir la même chose qu'un autre invité ?</h2>
+<p>En hiver, beaucoup d'invités pensent aux mêmes cadeaux : plaid, fondue, raclette. Le risque de doublon est réel. Le plus sûr est de passer par la liste des mariés quand ils en ont une. Sur une liste de mariage Amazon, un article déjà offert apparaît comme acheté pour les autres invités, ce qui limite les doublons. Notre guide <a href="{R}acheter-sur-une-liste-de-mariage-amazon/">acheter sur une liste de mariage Amazon</a> explique comment s'y retrouver.</p>
+<p>Si le couple n'a pas de liste, appelez le témoin ou un proche avant d'acheter. Un message rapide suffit souvent à savoir si la raclette est déjà prise.</p>
+
+<h2>Vous êtes les mariés : que mettre sur votre liste pour un mariage d'hiver ?</h2>
+<p>Pensez saison : vos invités chercheront des idées en lien avec l'hiver, et ces articles partent vite. Mettez-en plusieurs à des prix différents, du coffret de thés à l'appareil à raclette, pour que chacun trouve sa place. Notre conseil : gardez au moins un ou deux gros cadeaux à financer à plusieurs, comme une cocotte ou une machine à café, parce qu'en décembre une partie des invités cherche aussi des cadeaux de Noël et préfère participer à un cadeau commun.</p>
+<p>Pour ne rien oublier dans la cuisine, la chambre et le salon, utilisez notre <a href="{R}checklist/">checklist par pièce</a>. Et si vous hésitez encore sur la plateforme, voyez <a href="{R}ou-faire-sa-liste-de-mariage/">où faire sa liste de mariage</a>.</p>
+""",
+  faq=[("Quel cadeau de mariage original offrir pour un mariage en hiver ?", "Un cadeau qui sert pendant le froid : appareil à fondue ou à raclette, grand plaid pour deux, couette d'hiver, ou une participation à un week-end au chalet par une cagnotte."),
+       ("Combien dépenser pour un cadeau de mariage d'hiver ?", "Comme pour un autre mariage : cela dépend surtout de votre lien avec les mariés. Un petit cadeau thématique de moins de 30 € peut accompagner une participation à un cadeau commun."),
+       ("Comment éviter les doublons de cadeaux ?", "Passez par la liste des mariés : sur une liste de mariage Amazon, un article déjà offert apparaît comme acheté pour les autres invités. Sans liste, renseignez-vous auprès du témoin."),
+       ("Peut-on offrir un week-end à la montagne en cadeau de mariage ?", "Oui, plutôt à plusieurs et par une cagnotte, pour que les mariés choisissent la date et le lieu. C'est difficile à mettre sur une liste marchande.")],
+  short="Cadeau de mariage d'hiver")

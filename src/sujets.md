@@ -1,5 +1,9 @@
 # Sujets d'articles à venir (un tous les 2 jours)
-# Format : - [ ] slug/ | requête visée | angle
+# Format : - [x] cadeau-mariage-hiver-original/ | cadeau de mariage original pour un mariage d'hiver | idées par budget, tableau en haut, éviter les doublons (demande de Jeremy du 22 nov)
+- [~] black-friday-liste-de-mariage/ | black friday liste de mariage | RÉSERVÉ, publication lundi 23 nov par tâche dédiée : remplir sa liste avant le Black Friday du 27 nov, surveiller les prix des articles de ses tops, reconnaître une vraie bonne affaire, aucune remise ni réduction de liste promise
+- [~] cadeau-noel-jeunes-maries/ | cadeau de noël pour des jeunes mariés | RÉSERVÉ, publication mardi 24 nov par tâche dédiée : premier Noël à deux, idées par budget, tableau en haut
+- [~] cadeau-couple-qui-s-installe/ | cadeau pour un couple qui s'installe | RÉSERVÉ, publication mercredi 25 nov par tâche dédiée : premier logement, idées utiles par pièce et par budget
+- [ ] slug/ | requête visée | angle
 # Cocher [x] une fois publié. Prendre toujours le premier sujet non coché.
 
 - [x] comment-choisir-cocotte-en-fonte/ | comment choisir une cocotte en fonte | taille selon le foyer, émaillée ou brute, induction

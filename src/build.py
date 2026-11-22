@@ -114,7 +114,7 @@ def page(path, title, desc, body, schema=None, crumbs=None, extra_head='', cls='
 <meta name="google-site-verification" content="8W3sIwH_eiI687C-pNBPh9q22AMJyMqlmjN3iID2_k8" />
 <link rel="icon" href="{R}assets/favicon.ico" sizes="32x32"><link rel="icon" href="{R}assets/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="{R}assets/apple-touch-icon.png">
 {FONTS.replace('@R@', R)}
-<link rel="stylesheet" href="{R}assets/style.css?v=25">
+<link rel="stylesheet" href="{R}assets/style.css?v=26">
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 {extra_head}</head>
 <body class="{cls}">
@@ -234,6 +234,12 @@ def top_pick(body):
         why = re.sub(r'\s*\((?:notre|mon) choix[^)]*\)\s*$', '', why.strip(), flags=re.I)
         return name.strip(), (why[:1].upper() + why[1:]) if why else '', h.group(2), a.group(1)
     return None
+
+def buy_buttons(body):
+    """Tops : le lien « Voir sur Amazon » de fin de fiche devient un bouton « Voir le prix sur Amazon »."""
+    if not re.search(r'Comment (?:nous avons|on a) fait cette sélection', body): return body
+    return re.sub(r'<p><a href="(\{AMZ:[^}]+\})"[^>]*>\s*Voir sur Amazon\s*</a></p>',
+                  lambda m: '<p class="buy"><a class="btn" href="%s" %s>Voir le prix sur Amazon</a></p>' % (m.group(1), REL), body)
 
 def pick_box(body):
     """Encadré « Notre choix » juste après l'intro : produit n°1 des tops, ou n°1 du comparatif lié pour les guides."""
@@ -361,7 +367,7 @@ def build():
     for x in GUIDES:
         ex_html, ex_faq = EXTRA.get(x['slug'], ('', []))
         fh, fs = faq_block(x['faq'] + ex_faq)
-        body = pick_box_guide(pick_box(x['body'] + ex_html), x['slug']).replace('{CTA}', CTA).replace('{PRINTLIST}', PRINTLIST).replace('{MSGS}', messages_html())
+        body = pick_box_guide(pick_box(buy_buttons(x['body'] + ex_html)), x['slug']).replace('{CTA}', CTA).replace('{PRINTLIST}', PRINTLIST).replace('{MSGS}', messages_html())
         body = re.sub(r'\{AMZ:([^}]+)\}', lambda m: amz(m.group(1)), body)
         body, toc = add_toc(body)
         words = len(re.sub('<[^>]+>', ' ', body).split())
