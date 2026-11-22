@@ -1,7 +1,7 @@
 # Sujets d'articles à venir (un tous les 2 jours)
 # Format : - [x] cadeau-mariage-hiver-original/ | cadeau de mariage original pour un mariage d'hiver | idées par budget, tableau en haut, éviter les doublons (demande de Jeremy du 22 nov)
 - [ ] cadeau-noel-jeunes-maries/ | cadeau de noël pour des jeunes mariés | premier Noël à deux, idées par budget, tableau en haut
-- [~] cadeau-couple-qui-s-installe/ | cadeau pour un couple qui s'installe | RÉSERVÉ, publication mercredi 25 nov par tâche dédiée : premier logement, idées utiles par pièce et par budget
+- [ ] cadeau-couple-qui-s-installe/ | cadeau pour un couple qui s'installe | premier logement, idées utiles par pièce et par budget
 - [ ] slug/ | requête visée | angle
 # Cocher [x] une fois publié. Prendre toujours le premier sujet non coché.
 
