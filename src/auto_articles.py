@@ -2825,3 +2825,37 @@ g("cadeau-mariage-hiver-original/",
        ("Comment éviter les doublons de cadeaux ?", "Passez par la liste des mariés : sur une liste de mariage Amazon, un article déjà offert apparaît comme acheté pour les autres invités. Sans liste, renseignez-vous auprès du témoin."),
        ("Peut-on offrir un week-end à la montagne en cadeau de mariage ?", "Oui, plutôt à plusieurs et par une cagnotte, pour que les mariés choisissent la date et le lieu. C'est difficile à mettre sur une liste marchande.")],
   short="Cadeau de mariage d'hiver")
+
+
+AUTO_META['retroplanning-mariage-a-imprimer/'] = ('🗓️', 'menthe')
+g("retroplanning-mariage-a-imprimer/",
+  "Rétroplanning mariage à imprimer : la checklist PDF gratuite",
+  "Rétroplanning de mariage à imprimer",
+  "Le rétroplanning de mariage à imprimer et à cocher, de 12 mois avant aux remerciements : lieu, prestataires, faire-part, mairie, liste. PDF gratuit sur une page.",
+  """
+<p>Voici un rétroplanning de mariage à imprimer, sur une seule page : toutes les grandes étapes de 12 mois avant jusqu'aux remerciements, avec une case à cocher pour chacune. Il se glisse dans votre classeur de mariage ou s'affiche sur le frigo, pour voir d'un coup d'œil ce qui reste à faire.</p>
+<p><a class="btn" href="{R}assets/retroplanning-mariage.pdf" download>Télécharger le rétroplanning (PDF, 1 page)</a></p>
+<p class="small">Gratuit, sans inscription. Vous préférez une version calculée selon votre date ? Utilisez notre <a href="{R}retroplanning-mariage/">rétroplanning personnalisé</a>.</p>
+<h2>Les étapes du rétroplanning</h2>
+<table><thead><tr><th>Quand</th><th>L'essentiel</th></tr></thead><tbody>
+<tr><td>12 à 10 mois avant</td><td>Budget, date, nombre d'invités, lieu, traiteur</td></tr>
+<tr><td>9 à 6 mois avant</td><td>Témoins, photographe, musique, tenues, save the date</td></tr>
+<tr><td>5 à 3 mois avant</td><td>Liste de mariage, faire-part, menu, alliances</td></tr>
+<tr><td>2 à 1 mois avant</td><td>Dossier à la mairie, publication des bans, plan de table</td></tr>
+<tr><td>La dernière semaine</td><td>Confirmations, enveloppes, kit de secours</td></tr>
+<tr><td>Après</td><td>Remerciements, clôture de la liste, papiers</td></tr>
+</tbody></table>
+<h2>Par quoi commencer ?</h2>
+<p>Par le budget et le lieu. Tout le reste en dépend : la date se cale sur les disponibilités de la salle, le nombre d'invités sur sa capacité, et le traiteur sur le lieu. Les salles les plus demandées se réservent souvent plus d'un an à l'avance pour un samedi d'été.</p>
+<p>Notre conseil : avant de visiter, fixez à deux un nombre d'invités maximum et un budget maximum. C'est beaucoup plus facile de dire non à une salle trop chère quand le chiffre a été décidé avant d'avoir le coup de cœur.</p>
+<h2>La mairie : ne pas s'y prendre trop tard</h2>
+<p>Pour un mariage civil, il faut déposer un dossier à la mairie, puis les bans sont publiés pendant 10 jours avant la cérémonie. Les pièces demandées et le délai de dépôt varient d'une commune à l'autre : appelez la mairie dès que vous avez la date, même si le dossier ne se dépose que plus tard.</p>
+<h2>Et la liste de mariage ?</h2>
+<p>Le bon moment, c'est trois à quatre mois avant, pour envoyer le lien avec les faire-part. Préparez-la avec notre <a href="{R}checklist/">checklist par pièce</a>, ou imprimez notre <a href="{R}liste-de-mariage-a-imprimer/">liste de mariage à imprimer</a> si vos invités préfèrent le papier.</p>
+<h2>Vous êtes wedding planner, blogueuse ou lieu de réception ?</h2>
+<p>Vous pouvez partager librement ce rétroplanning avec vos clients ou vos lecteurs, pour un usage non commercial. Merci de mettre un lien vers cette page plutôt que vers le fichier PDF, pour que chacun ait la dernière version.</p>
+""",
+  faq=[("Combien de temps à l'avance organiser son mariage ?", "Beaucoup de couples commencent 12 à 18 mois avant, surtout pour réserver le lieu. Un mariage plus simple peut s'organiser en quelques mois : faites alors les étapes dans l'ordre du rétroplanning, en commençant par le lieu et le traiteur."),
+       ("Quand déposer le dossier de mariage à la mairie ?", "Le délai dépend de la commune. Les bans doivent ensuite être publiés pendant 10 jours avant la cérémonie. Renseignez-vous auprès de votre mairie dès que la date est fixée."),
+       ("Quand créer sa liste de mariage ?", "Trois à quatre mois avant le mariage, pour l'envoyer avec les faire-part.")],
+  short="Rétroplanning à imprimer")
