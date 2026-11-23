@@ -2,8 +2,16 @@
 # Format : - [x] cadeau-mariage-hiver-original/ | cadeau de mariage original pour un mariage d'hiver | idées par budget, tableau en haut, éviter les doublons (demande de Jeremy du 22 nov)
 - [ ] cadeau-noel-jeunes-maries/ | cadeau de noël pour des jeunes mariés | premier Noël à deux, idées par budget, tableau en haut
 - [ ] cadeau-couple-qui-s-installe/ | cadeau pour un couple qui s'installe | premier logement, idées utiles par pièce et par budget
+- [ ] quel-robot-patissier-pour-une-liste-de-mariage/ | robot pâtissier liste de mariage | critères de choix, cadeau de groupe
+- [ ] liste-de-mariage-electromenager/ | électroménager liste de mariage | indispensables et gros cadeaux
+- [ ] liste-de-mariage-cuisine/ | équiper sa cuisine liste de mariage | ustensiles essentiels pièce par pièce
+- [ ] service-de-vaisselle-liste-de-mariage/ | service de vaisselle liste de mariage | combien de couverts, matières, entretien
+- [ ] comment-choisir-service-de-table/ | comment choisir son service de table | porcelaine, grès, nombre de pièces, entretien
+- [ ] linge-de-maison-liste-de-mariage/ | linge de maison liste de mariage | quantités, matières, tailles
+- [ ] cadeau-anniversaire-de-mariage/ | cadeau anniversaire de mariage | idées par année
+- [ ] cadeau-de-mariage-personnalise/ | cadeau de mariage personnalisé | idées gravées, délais
 - [ ] cadeau-mariage-dematerialise/ | cadeau de mariage dématérialisé | cadeaux sans objet à envoyer (participation à la liste, expérience, voyage, abonnement livres audio {AUDIBLE}), comment l'offrir joliment (carte, enveloppe), relie cadeau-de-mariage-derniere-minute/
-- [ ] slug/ | requête visée | angle
+Format : slug/ | requête visée | angle
 # Cocher [x] une fois publié. Prendre toujours le premier sujet non coché.
 
 - [x] comment-choisir-cocotte-en-fonte/ | comment choisir une cocotte en fonte | taille selon le foyer, émaillée ou brute, induction
@@ -22,21 +30,16 @@
 - [x] liste-de-mariage-quand-la-creer/ | quand faire sa liste de mariage | délai avant le mariage, faire-part, save the date
 - [x] cadeau-noces-de-cire-4-ans/ | cadeau noces de cire 4 ans de mariage | idées (bougies, coffrets) et autres, symbolique
 - [x] cadeau-noces-de-cuir-2-ans/ | cadeau noces de cuir 2 ans de mariage | idées en cuir et autres, pour elle, pour lui, pour le couple
-- [ ] comment-choisir-service-de-table/ | comment choisir son service de table | porcelaine, grès, nombre de pièces, entretien
 - [ ] message-anniversaire-de-mariage/ | texte joyeux anniversaire de mariage | modèles de messages courts par année et par lien (conjoint, parents, amis), sans copier de textes existants
 - [ ] cadeau-de-mariage-quel-montant/ | combien mettre dans un cadeau de mariage selon le lien | famille, ami proche, collègue, couple invité
 - [ ] cadeau-noces-de-bois-5-ans/ | cadeau noces de bois 5 ans de mariage | idées en bois et autres, budget
 - [ ] role-du-temoin-de-mariage/ | rôle du témoin de mariage | ce qu'il fait le jour J et avant, combien de témoins, cadeau du témoin ; lien vers cadeau-temoin-de-mariage
 - [ ] liste-de-mariage-voyage-de-noces/ | liste de mariage voyage de noces | articles et cagnotte pour financer le voyage
-- [ ] quel-robot-patissier-pour-une-liste-de-mariage/ | robot pâtissier liste de mariage | critères de choix, cadeau de groupe
 - [ ] cadeau-noces-d-etain-10-ans/ | cadeau noces d'étain 10 ans de mariage | idées, symbolique, cadeau à deux
 - [ ] liste-de-mariage-pacs/ | liste de cadeaux pour un PACS | faut-il une liste, idées, montant
-- [ ] service-de-vaisselle-liste-de-mariage/ | service de vaisselle liste de mariage | combien de couverts, matières, entretien
 - [ ] cadeau-noces-de-porcelaine-20-ans/ | cadeau noces de porcelaine 20 ans | idées en porcelaine (vaisselle, déco) et autres
-- [ ] linge-de-maison-liste-de-mariage/ | linge de maison liste de mariage | quantités, matières, tailles
 - [ ] liste-de-mariage-noces-de-coton/ | cadeau noces de coton 1 an de mariage | idées en coton et autres, liste d'anniversaire
 - [ ] cadeau-noces-d-argent-25-ans/ | cadeau noces d'argent 25 ans de mariage | idées pour les parents ou entre époux, cadeaux collectifs des enfants
-- [ ] liste-de-mariage-cuisine/ | équiper sa cuisine liste de mariage | ustensiles essentiels pièce par pièce
 - [ ] cadeau-de-mariage-a-plusieurs/ | cadeau de mariage à plusieurs | s'organiser entre amis, idées
 - [ ] cadeau-noces-de-perle-30-ans/ | cadeau noces de perle 30 ans | idées, cadeau des enfants
 - [ ] cadeau-de-mariage-derniere-minute/ | cadeau de mariage de dernière minute | livraison rapide, carte cadeau, participation à la liste
@@ -46,7 +49,6 @@
 - [ ] liste-de-mariage-maison-a-equiper/ | liste de mariage pour équiper une maison | pièce par pièce, priorités, gros électroménager à plusieurs
 - [ ] cadeau-noces-d-or-50-ans/ | cadeau noces d'or 50 ans de mariage | idées pour les parents ou grands-parents, souvenirs, cadeau collectif
 - [ ] cadeau-temoin-de-mariage/ | cadeau témoin de mariage | remercier ses témoins, idées
-- [ ] cadeau-de-mariage-personnalise/ | cadeau de mariage personnalisé | idées gravées, délais
 - [ ] cadeau-noces-de-diamant-60-ans/ | cadeau noces de diamant 60 ans | idées pour des grands-parents, souvenirs familiaux ; lien vers vieillir-chez-soi.fr cadeau personne âgée si pertinent (1 seul lien)
 - [ ] liste-de-mariage-mariage-a-l-etranger/ | liste de mariage pour un mariage à l'étranger | livraison, cagnotte voyage, invités qui ne viennent pas
 - [ ] cadeau-de-mariage-quand-on-ne-vient-pas/ | cadeau de mariage si on ne vient pas | usages, montant, message
@@ -61,7 +63,6 @@
 - [ ] liste-de-mariage-deuxieme-mariage/ | liste de mariage second mariage | usages et idées
 - [ ] liste-de-mariage-petit-appartement/ | liste de mariage petit appartement | objets compacts et multifonctions
 - [ ] liste-de-mariage-ecologique/ | liste de mariage écologique | durable, seconde main, expériences
-- [ ] liste-de-mariage-electromenager/ | électroménager liste de mariage | indispensables et gros cadeaux
 - [ ] liste-de-mariage-jardin/ | liste de mariage jardin | barbecue, salon de jardin, outils
 - [ ] liste-de-mariage-maison-neuve/ | liste de mariage nouvelle maison | équiper un premier logement
 - [ ] erreurs-liste-de-mariage/ | erreurs liste de mariage | les pièges à éviter
@@ -69,7 +70,6 @@
 - [ ] liste-de-mariage-cadeaux-chers/ | cadeaux chers liste de mariage | les présenter sans gêner
 - [ ] cagnotte-mariage-comment-l-annoncer/ | annoncer une cagnotte de mariage | textes, tact
 - [ ] cadeau-noces-de-coton/ | noces de coton cadeau | 1 an de mariage, idées
-- [ ] cadeau-anniversaire-de-mariage/ | cadeau anniversaire de mariage | idées par année
 - [ ] cadeau-mariage-grands-parents/ | cadeau de mariage des grands-parents | idées durables
 - [ ] livre-d-or-mariage/ | livre d'or mariage | idées originales et textes
 - [ ] cadeaux-invites-mariage/ | cadeaux invités mariage | petits souvenirs, budget
