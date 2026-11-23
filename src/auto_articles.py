@@ -2967,3 +2967,57 @@ g("couette-liste-de-mariage/",
        ("Couette 4 saisons ou tempérée pour une liste de mariage ?", "La 4 saisons, comme l'Abeil 4 Saisons Anti-Acariens (200 + 300 g/m²), sert toute l'année en une seule fois. Une tempérée suffit si la chambre est chauffée entre 18 et 22 °C."),
        ("Peut-on laver une couette en duvet en machine ?", "Oui pour les modèles de cette sélection : Drouault et Dodo les annoncent lavables à 40 °C. Il faut une machine de grande capacité et un séchage complet, souvent plus simple en laverie.")],
   short="Top 8 couettes")
+
+AUTO_META['black-friday-liste-de-mariage-2026/'] = ('🏷️', 'miel')
+g("black-friday-liste-de-mariage-2026/",
+  "Black Friday 2026 et liste de mariage : que surveiller ?",
+  "Black Friday 2026 : comment en profiter pour sa liste de mariage ?",
+  "Black Friday le 27 novembre 2026 : quels cadeaux ajouter à votre liste de mariage, comment repérer une vraie baisse de prix et vos droits après l'achat.",
+  """
+<p>Le Black Friday tombe le vendredi 27 novembre 2026, et la semaine d'offres d'Amazon.fr court du jeudi 19 au lundi 30 novembre, Cyber Monday compris. Pour une liste de mariage, la bonne méthode est simple : ajoutez dès maintenant les gros cadeaux que vous visez, puis laissez vos invités, ou vous-mêmes, acheter au bon moment. Ce qui compte n'est pas l'étiquette « promo », c'est le prix comparé aux semaines précédentes.</p>
+<p>Voici quoi mettre en priorité, comment reconnaître une vraie baisse, et les deux règles légales qui vous protègent.</p>
+{CTA}
+<h2>Quels cadeaux de liste de mariage surveiller pendant le Black Friday ?</h2>
+<p>Les meilleures cibles sont les cadeaux chers et durables, ceux que les invités offrent souvent à plusieurs : petit et gros électroménager, cuisine, linge de lit. Voici les modèles en tête de nos comparatifs, à ajouter à votre liste pour suivre leur prix.</p>
+<table><thead><tr><th>Cadeau</th><th>Modèle en tête de notre comparatif</th><th>Pour quel couple ?</th></tr></thead><tbody>
+<tr><td>Robot pâtissier</td><td>KitchenAid Artisan 5KSM175PS</td><td>Ceux qui pâtissent et reçoivent souvent</td></tr>
+<tr><td>Machine à café à grain</td><td>Philips Série 5400 LatteGo</td><td>Les amateurs de café au quotidien</td></tr>
+<tr><td>Aspirateur balai</td><td>Dyson V15 Detect Absolute</td><td>Un logement avec moquette ou animaux</td></tr>
+<tr><td>Aspirateur robot</td><td>Roborock Qrevo Curv 2 Pro</td><td>Les couples qui manquent de temps</td></tr>
+<tr><td>Cocotte en fonte</td><td>Le Creuset Signature ronde 24 cm</td><td>Les amateurs de plats mijotés</td></tr>
+<tr><td>Batterie de cuisine</td><td>Tefal Ingenio Emotion On 22 pièces</td><td>Ceux qui s'équipent en une fois</td></tr>
+<tr><td>Centrale vapeur</td><td>Philips PerfectCare 7000</td><td>Un premier logement à deux</td></tr>
+<tr><td>Couette</td><td>Abeil 4 Saisons Anti-Acariens</td><td>Ceux qui renouvellent leur lit</td></tr>
+</tbody></table>
+<p>Aucun de ces produits n'est garanti en promotion : les offres changent d'un jour à l'autre et nous n'en annonçons aucune. Chaque comparatif explique pourquoi ce modèle est en tête et propose des alternatives à d'autres budgets.</p>
+
+<h2>Les gros cadeaux, à ajouter en premier</h2>
+<p>Le <a href="{AMZ:KitchenAid Artisan 5KSM175PS}" rel="sponsored nofollow noopener" target="_blank">KitchenAid Artisan 5KSM175PS</a> reste le cadeau de mariage le plus demandé dans notre <a href="{R}meilleur-robot-patissier/">comparatif des robots pâtissiers</a>. La <a href="{AMZ:Philips Série 5400 LatteGo EP5447/90}" rel="sponsored nofollow noopener" target="_blank">Philips Série 5400 LatteGo</a> mène notre sélection de <a href="{R}meilleure-machine-a-cafe-a-grain/">machines à café à grain</a> : elle sert tous les matins, ce qui en fait un cadeau qu'on n'oublie pas.</p>
+<p>Côté ménage, le <a href="{AMZ:Dyson V15 Detect Absolute}" rel="sponsored nofollow noopener" target="_blank">Dyson V15 Detect Absolute</a> est en tête de notre <a href="{R}meilleur-aspirateur-balai/">top des aspirateurs balais</a>, et le <a href="{AMZ:Roborock Qrevo Curv 2 Pro}" rel="sponsored nofollow noopener" target="_blank">Roborock Qrevo Curv 2 Pro</a> de celui des <a href="{R}meilleur-aspirateur-robot/">aspirateurs robots</a>. Ce sont des produits chers, souvent visés par les offres de fin novembre : c'est là qu'une vraie baisse fait la plus grosse différence.</p>
+
+<h2>La cuisine et le linge, pour compléter</h2>
+<p>La <a href="{AMZ:Le Creuset Signature cocotte ronde 24 cm}" rel="sponsored nofollow noopener" target="_blank">cocotte Le Creuset Signature 24 cm</a> (notre <a href="{R}meilleure-cocotte-en-fonte/">comparatif des cocottes</a>) et la <a href="{AMZ:Tefal Ingenio Emotion On 22 pièces}" rel="sponsored nofollow noopener" target="_blank">batterie Tefal Ingenio Emotion On 22 pièces</a> (notre <a href="{R}meilleure-batterie-de-cuisine/">comparatif des batteries</a>) équipent une cuisine pour des années. Pour le repassage, la <a href="{AMZ:Philips PerfectCare 7000 PSG7130/20}" rel="sponsored nofollow noopener" target="_blank">Philips PerfectCare 7000</a> est en tête de notre <a href="{R}meilleure-centrale-vapeur/">sélection de centrales vapeur</a>. Et pour la chambre, la <a href="{AMZ:Abeil couette 4 saisons 220x240}" rel="sponsored nofollow noopener" target="_blank">couette Abeil 4 Saisons</a> ouvre notre <a href="{R}couette-liste-de-mariage/">top des couettes pour une liste de mariage</a>.</p>
+
+<h2>Comment savoir si c'est une vraie baisse de prix ?</h2>
+<p>Depuis 2022, la loi encadre les annonces de réduction. Un vendeur qui affiche une remise doit la calculer par rapport au <strong>prix le plus bas qu'il a pratiqué dans les 30 jours précédant la promotion</strong>, comme le rappelle la <a href="https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/annonces-de-reduction-de-prix-ce-que-vous-devez-savoir" target="_blank" rel="noopener">fiche de la DGCCRF sur les annonces de réduction</a>. Un prix gonflé début novembre puis « barré » le 27 ne respecte donc pas la règle.</p>
+<p>En pratique, trois réflexes suffisent :</p>
+<ul>
+<li><strong>Notez le prix aujourd'hui.</strong> Ajoutez le produit à votre liste et regardez son prix une ou deux fois avant le 27 : vous verrez tout de suite si la baisse est réelle.</li>
+<li><strong>Vérifiez la référence exacte.</strong> Une même marque vend souvent plusieurs versions proches (couleur, accessoires, année). Comparez bien le même modèle, au chiffre près.</li>
+<li><strong>Lisez les avis récents.</strong> Un bon prix sur un produit mal noté n'est pas une bonne affaire, surtout pour un cadeau censé durer.</li>
+</ul>
+
+<h2>Que se passe-t-il pour vos invités ?</h2>
+<p>Quand un invité achète un article de votre liste, il commande sur la fiche du produit, au prix affiché ce jour-là. Si un article est en offre pendant la semaine du Black Friday, il en profite au moment de sa commande. Prévenir vos proches que votre liste est prête avant le 27 peut donc les aider à offrir plus pour le même budget.</p>
+<p>Attention en revanche aux promesses de « réduction sur la liste de mariage » : nous n'en connaissons aucune confirmée en France pour la liste Amazon. Notre guide de la <a href="{R}liste-de-mariage-amazon/">liste de mariage Amazon</a> détaille ce qui existe vraiment, et notre page <a href="{R}ou-faire-sa-liste-de-mariage/">où faire sa liste de mariage</a> compare les autres solutions.</p>
+
+<h2>Et si le cadeau ne convient pas ?</h2>
+<p>Un achat en ligne se rétracte : vous disposez d'au moins <strong>14 jours</strong> pour changer d'avis, à compter du lendemain de la réception du bien, et sans avoir à vous justifier. Les conditions et exceptions sont détaillées sur <a href="https://www.service-public.gouv.fr/particuliers/vosdroits/F10485" target="_blank" rel="noopener">service-public.fr</a>. Pour un cadeau offert par un invité, la démarche passe en général par celui qui a commandé, ou par les options de retour cadeau du vendeur.</p>
+<p>Pour ne rien oublier dans votre liste, notre <a href="{R}checklist/">checklist pièce par pièce</a> reprend tout ce dont un couple a besoin pour s'installer.</p>
+""",
+  faq=[("Quand a lieu le Black Friday 2026 ?", "Le Black Friday a lieu le vendredi 27 novembre 2026. Sur Amazon.fr, la semaine d'offres va du jeudi 19 au lundi 30 novembre, jour du Cyber Monday."),
+       ("Faut-il créer sa liste de mariage avant le Black Friday ?", "Oui, si vous visez de gros cadeaux. Une liste prête avant le 27 novembre permet à vos invités de commander pendant les offres, et à vous de suivre l'évolution des prix."),
+       ("Comment savoir si une promo du Black Friday est réelle ?", "La réduction doit être calculée par rapport au prix le plus bas pratiqué par le vendeur dans les 30 jours précédant la promotion. Notez le prix quelques jours avant pour comparer."),
+       ("Existe-t-il une réduction sur la liste de mariage Amazon ?", "Nous n'en connaissons aucune confirmée en France. Les invités paient le prix affiché sur la fiche du produit au moment de leur commande, offres du moment comprises."),
+       ("Peut-on renvoyer un cadeau acheté pendant le Black Friday ?", "Oui. Un achat en ligne ouvre un droit de rétractation d'au moins 14 jours après la réception, sauf exceptions prévues par la loi.")],
+  short="Black Friday et liste de mariage")

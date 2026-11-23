@@ -86,6 +86,7 @@ g("liste-de-mariage-amazon/",
 <h2>Pourquoi choisir une liste Amazon ?</h2>
 <p>Le premier avantage, c'est le <strong>catalogue</strong> : cuisine, linge, électroménager, bagages, high-tech, livres. Vous trouvez tout au même endroit, à tous les prix, du petit cadeau à 15 € au robot pâtissier à 500 €. Les invités n'ont pas besoin d'aller dans un magasin précis : ils commandent depuis leur canapé.</p>
 <p>Le deuxième avantage, c'est la <strong>simplicité pour les invités</strong>. La plupart ont déjà un compte Amazon, connaissent le fonctionnement et peuvent faire livrer le cadeau chez vous en deux clics. Pour les proches qui habitent loin, c'est souvent la solution la plus confortable.</p>
+<p>Fin novembre, pensez au Black Friday : une liste prête avant le 27 permet à vos invités de commander pendant les offres. Notre page <a href="{R}black-friday-liste-de-mariage-2026/">Black Friday et liste de mariage</a> explique comment repérer une vraie baisse de prix.</p>
 <p>Enfin, la liste est <strong>modifiable à tout moment</strong> : vous ajoutez, retirez ou remplacez des articles quand vous voulez, même après le mariage.</p>
 <h2>Créer sa liste en 5 étapes</h2>
 <ol>

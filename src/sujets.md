@@ -74,3 +74,4 @@
 - [ ] livre-d-or-mariage/ | livre d'or mariage | idées originales et textes
 - [ ] cadeaux-invites-mariage/ | cadeaux invités mariage | petits souvenirs, budget
 - [ ] checklist-organisation-mariage/ | checklist organisation mariage | rétroplanning mois par mois
+- [x] black-friday-liste-de-mariage-2026/ | black friday liste de mariage | publiée le 23 nov 2026
