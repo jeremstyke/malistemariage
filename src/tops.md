@@ -19,7 +19,7 @@
 - [x] meilleur-blender/ | meilleur blender | blenders et blenders chauffants : Moulinex, Philips, Kenwood, Vitamix, Nutribullet
 - [x] meilleure-centrale-vapeur/ | meilleure centrale vapeur | centrales vapeur et défroisseurs : Calor, Philips, Rowenta, Braun, Laurastar
 - [x] meilleure-plancha/ | meilleure plancha | planchas électriques et gaz : Forge Adour, Krampouz, Tefal, Eno, Campingaz
-- [ ] couette-liste-de-mariage/ | couette liste de mariage / quelle couette offrir à des jeunes mariés | couettes tempérées, 4 saisons, duvet et synthétique, grand format 240x220 pour lit double : Dodo, Abeil, Drouault, Bleu Câlin
+- [x] couette-liste-de-mariage/ | couette liste de mariage / quelle couette offrir à des jeunes mariés | couettes tempérées, 4 saisons, duvet et synthétique, grand format 240x220 pour lit double : Dodo, Abeil, Drouault, Bleu Câlin
 - [ ] couteaux-de-cuisine-liste-de-mariage/ | couteaux de cuisine liste de mariage / bloc couteaux cadeau de mariage | blocs et couteaux de chef : Victorinox, Wüsthof, Zwilling, Global, Opinel (tradition de la pièce symbolique à donner contre un couteau offert : rester factuel)
 - [ ] airfryer-liste-de-mariage/ | air fryer liste de mariage / airfryer cadeau de mariage | friteuses sans huile grand format pour 2 à 4 personnes : Ninja, Philips, Moulinex, Cosori, Tefal
 - [ ] multicuiseur-liste-de-mariage/ | multicuiseur liste de mariage / Cookeo cadeau de mariage | robots cuiseurs et autocuiseurs : Moulinex Cookeo, Instant Pot, Ninja Foodi, Thermomix

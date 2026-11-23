@@ -1297,7 +1297,7 @@ g("comment-choisir-couette/",
 </ul>
 <p>Pour l'entretien, les guides recommandent de laver la couette une à deux fois par an, avec peu de lessive et sans assouplissant. Une housse protège beaucoup la couette : c'est elle qu'on lave souvent.</p>
 <h2>Une couette sur votre liste de mariage</h2>
-<p>Couette, oreillers et parure vont bien ensemble : ce sont des cadeaux de prix moyen que les invités aiment offrir, parce qu'ils savent qu'ils serviront chaque soir. Précisez toujours la taille dans le nom de l'article. Pour composer le reste de la chambre, parcourez notre <a href="{R}checklist/">checklist par pièce</a> et notre guide <a href="{R}que-mettre-dans-une-liste-de-mariage/">que mettre dans une liste de mariage</a>. Si vous vivez déjà ensemble et avez déjà une couette, lisez <a href="{R}liste-de-mariage-quand-on-vit-deja-ensemble/">notre article pour les couples déjà installés</a> : c'est souvent l'occasion de remplacer l'ancienne. Et pour savoir où créer votre liste, voyez notre <a href="{R}ou-faire-sa-liste-de-mariage/">comparatif des solutions</a>.</p>
+<p>Couette, oreillers et parure vont bien ensemble : ce sont des cadeaux de prix moyen que les invités aiment offrir, parce qu'ils savent qu'ils serviront chaque soir. Précisez toujours la taille dans le nom de l'article. Pour composer le reste de la chambre, parcourez notre <a href="{R}checklist/">checklist par pièce</a> et notre guide <a href="{R}que-mettre-dans-une-liste-de-mariage/">que mettre dans une liste de mariage</a>. Si vous vivez déjà ensemble et avez déjà une couette, lisez <a href="{R}liste-de-mariage-quand-on-vit-deja-ensemble/">notre article pour les couples déjà installés</a> : c'est souvent l'occasion de remplacer l'ancienne. Et pour savoir où créer votre liste, voyez notre <a href="{R}ou-faire-sa-liste-de-mariage/">comparatif des solutions</a>. Pour passer aux modèles précis, voyez notre <a href="{R}couette-liste-de-mariage/">top 8 des couettes 240 x 220 pour une liste de mariage</a>.</p>
 """,
   faq=[("Quelle taille de couette pour un lit 160 x 200 ?", "La taille la plus courante est 240 x 220 cm. Si vous aimez qu'elle tombe bien sur les côtés, ou si l'un de vous tire la couette, prenez 260 x 240 cm."),
        ("Quel grammage pour une couette d'hiver ?", "En synthétique, comptez environ 400 g/m² ou plus. En duvet, le grammage est plus bas pour la même chaleur, car le duvet isole mieux à poids égal : fiez-vous à la mention « chaude » du fabricant."),
@@ -2859,3 +2859,111 @@ g("retroplanning-mariage-a-imprimer/",
        ("Quand déposer le dossier de mariage à la mairie ?", "Le délai dépend de la commune. Les bans doivent ensuite être publiés pendant 10 jours avant la cérémonie. Renseignez-vous auprès de votre mairie dès que la date est fixée."),
        ("Quand créer sa liste de mariage ?", "Trois à quatre mois avant le mariage, pour l'envoyer avec les faire-part.")],
   short="Rétroplanning à imprimer")
+
+
+AUTO_META['couette-liste-de-mariage/'] = ('🏆', 'lilas')
+g("couette-liste-de-mariage/",
+  "Couette pour une liste de mariage 2026 : top 8 en 240 x 220",
+  "Quelle couette mettre sur sa liste de mariage ? Notre top 8 en 240 x 220",
+  "Dodo, Abeil, Bleu Câlin, Drouault : 8 couettes 240 x 220 pour votre liste de mariage, tempérées, 4 saisons, synthétiques ou en duvet, comparées sur leurs fiches.",
+  """
+<p><strong>En bref</strong> : pour une liste de mariage, la couette la plus polyvalente est une 4 saisons en 240 x 220 cm, comme l'Abeil 4 Saisons Anti-Acariens (deux couettes de 200 et 300 g/m² qui s'assemblent). Si vous préférez le naturel, la Drouault Annapurna, à 70 % de duvet de canard, est une couette tempérée fabriquée en France qui se partage bien entre plusieurs invités. Pour un petit budget, la Dodo Nuits Calmes tempérée de 300 g/m² se lave à 40 °C.</p>
+<p>Choisir une couette pour sa liste de mariage, c'est faire un cadeau qui servira toutes les nuits pendant des années. Nous avons retenu huit modèles disponibles en 240 x 220 cm, la taille la plus courante pour un lit double de 160 cm, du synthétique facile à laver au duvet haut de gamme. Chez Ma liste mariage, nous les avons classés selon le couple à qui ils conviennent, pas selon une note.</p>
+{CTA}
+<p class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main. Les données viennent du site Dodo et des pages produit de La Redoute, Leroy Merlin et Auchan. Nous n'indiquons aucun prix, car ils changent trop souvent. Quand une donnée manque, nous écrivons « non précisé ».</p>
+<h2>Pourquoi une couette est un bon cadeau de mariage ?</h2>
+<p>Une bonne couette dure longtemps et sert à deux, chaque nuit. C'est aussi un achat que l'on repousse souvent quand on s'installe ensemble : on garde la vieille couette 140 x 200 de l'un des deux, trop petite pour le nouveau lit, et chacun tire de son côté. La liste de mariage est le bon moment pour régler ça.</p>
+<p>Les couettes en duvet coûtent cher, ce qui en fait un cadeau idéal à financer à plusieurs. Notre conseil : mettez une seule belle couette principale sur la liste, puis les oreillers et une housse en petits cadeaux à côté, pour que chaque invité trouve quelque chose à son budget.</p>
+
+<h2>Les 8 couettes en un coup d'œil</h2>
+<table><thead><tr><th>Modèle</th><th>Chaleur</th><th>Garnissage</th><th>Grammage</th><th>Enveloppe</th><th>Lavage</th></tr></thead><tbody>
+<tr><td>Abeil 4 Saisons Anti-Acariens</td><td>4 saisons</td><td>Polyester</td><td>200 + 300 g/m²</td><td>Polyester</td><td>40 °C</td></tr>
+<tr><td>Drouault Annapurna</td><td>Tempérée</td><td>70 % duvet de canard</td><td>Non précisé</td><td>Satin de coton</td><td>40 °C</td></tr>
+<tr><td>Dodo Nuits Calmes Anti-Acariens</td><td>Tempérée</td><td>Polyester</td><td>300 g/m²</td><td>Polyester</td><td>40 °C</td></tr>
+<tr><td>Bleu Câlin Signature extra douce</td><td>Tempérée</td><td>Fibre creuse polyester</td><td>300 g/m²</td><td>Microfibre</td><td>40 °C</td></tr>
+<tr><td>Dodo Tradition 50 % duvet</td><td>Tempérée</td><td>50 % duvet de canard</td><td>200 g/m²</td><td>Percale de coton</td><td>40 °C</td></tr>
+<tr><td>Bleu Câlin Hôtel</td><td>Très chaude</td><td>Fibre creuse polyester</td><td>500 g/m²</td><td>Percale de coton</td><td>40 °C</td></tr>
+<tr><td>Drouault Everest</td><td>Chaude</td><td>30 % duvet d'oie et de canard</td><td>Non précisé</td><td>Percale de coton</td><td>40 °C</td></tr>
+<tr><td>Drouault Luxury</td><td>Chaude</td><td>80 % duvet d'oie et de canard</td><td>Non précisé</td><td>Percale de coton</td><td>40 °C</td></tr>
+</tbody></table>
+
+<h2>1. Abeil 4 Saisons Anti-Acariens : la plus polyvalente</h2>
+<p><strong>Pour qui ?</strong> Le couple qui ne veut acheter qu'une couette pour toute l'année, ou qui n'a pas la même sensibilité au froid.</p>
+<ul>
+<li><strong>Points forts</strong> : deux couettes en une, selon la fiche Leroy Merlin : une de 200 g/m² pour l'été, traitée Feran Ice pour la fraîcheur, et une de 300 g/m² pour la mi-saison, traitée anti-acariens Acaristop. Assemblées, elles font 500 g/m² pour l'hiver. Garnissage et enveloppe 100 % polyester, certifiés Oeko-Tex Standard 100, lavables à 40 °C. Fabriquée en France.</li>
+<li><strong>Limites</strong> : enveloppe en polyester, moins respirante que le coton. Le titre de la fiche Amazon ne cite pas les traitements Acaristop et Feran Ice : vérifiez la référence avant de l'ajouter. Garantie fabricant non précisée.</li>
+</ul>
+<p>Notre conseil : c'est celle que nous mettrions en premier sur une liste de mariage, parce qu'elle répond à toutes les saisons sans encombrer les placards.</p>
+<p><a href="{AMZ:Abeil couette 4 saisons 220x240}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>2. Drouault Annapurna : le duvet naturel tempéré</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut une couette légère et gonflante en matière naturelle, pour une chambre chauffée.</p>
+<ul>
+<li><strong>Points forts</strong> : 70 % de duvet de canard et 30 % de plumettes, enveloppe 100 % satin de coton, traitement anti-acariens végétal Proneem. Drouault la conseille pour une chambre entre 18 et 22 °C. Lavable à 40 °C, fabriquée en France. Existe en 140 x 200, 200 x 200, 220 x 240 et 240 x 260 cm.</li>
+<li><strong>Limites</strong> : grammage non précisé sur la fiche La Redoute. Une couette en duvet se lave dans une grande machine et sèche longtemps : prévoyez le pressing ou la laverie.</li>
+</ul>
+<p><a href="{AMZ:Drouault couette Annapurna 70% duvet tempérée 220x240}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>3. Dodo Nuits Calmes Anti-Acariens : le petit budget pratique</h2>
+<p><strong>Pour qui ?</strong> Un premier appartement, ou un cadeau qu'un invité peut offrir seul.</p>
+<ul>
+<li><strong>Points forts</strong> : couette tempérée de 300 g/m² en polyester Soft'Touch, enveloppe toucher peau de pêche, traitée anti-acariens et antibactérien selon dodo.fr. Conseillée pour une chambre entre 18 et 22 °C, lavable en machine à 40 °C, fabriquée en France.</li>
+<li><strong>Limites</strong> : enveloppe en polyester. Labels et garantie non précisés. La fiche Amazon n'affiche pas la taille dans son titre : choisissez bien 220 x 240 dans les options.</li>
+</ul>
+<p><a href="{AMZ:Dodo couette Nuits Calmes anti-acariens tempérée 220x240}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>4. Bleu Câlin Signature extra douce : la synthétique écoresponsable</h2>
+<p><strong>Pour qui ?</strong> Le couple attentif aux labels, qui veut une couette simple à entretenir.</p>
+<ul>
+<li><strong>Points forts</strong> : tempérée, 300 g/m² de fibre creuse siliconée de polyester, enveloppe microfibre toucher peau de pêche. La fiche La Redoute annonce le label Oeko-Tex Standard 100, au moins 70 % de matières recyclées et un produit entièrement recyclable. Lavable à 40 °C, fabriquée dans les usines Bleu Câlin du Nord.</li>
+<li><strong>Limites</strong> : pas de traitement anti-acariens annoncé. La Redoute ne propose pas le 220 x 240 alors que la fiche Amazon l'annonce : vérifiez la taille au moment de l'ajouter.</li>
+</ul>
+<p><a href="{AMZ:Bleu Câlin couette tempérée extra douce 300 220x240}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>5. Dodo Tradition 50 % duvet : le naturel accessible</h2>
+<p><strong>Pour qui ?</strong> Le couple qui veut goûter au duvet sans viser le haut de gamme.</p>
+<ul>
+<li><strong>Points forts</strong> : 50 % de duvet de canard et 50 % de plumettes, 200 g/m², enveloppe en percale de coton satinée avec piquage à petits carreaux, traitée anti-acariens. Lavable à 40 °C et fabriquée en France selon dodo.fr.</li>
+<li><strong>Limites</strong> : avec 200 g/m², elle peut manquer de chaleur dans une chambre fraîche. Le site Dodo n'affiche pas les tailles ; le 220 x 240 figure sur la fiche Amazon.</li>
+</ul>
+<p><a href="{AMZ:Dodo couette Tradition tempérée 50% duvet canard 220x240}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>6. Bleu Câlin Hôtel : la synthétique très chaude</h2>
+<p><strong>Pour qui ?</strong> Les frileux, ou une maison ancienne peu chauffée l'hiver.</p>
+<ul>
+<li><strong>Points forts</strong> : 500 g/m² de fibre creuse de polyester en deux couches de 250 g/m², piquage hexagonal pour le gonflant, enveloppe en coton percale. Oeko-Tex Standard 100, au moins 70 % de matières recyclées, lavable à 40 °C, fabriquée en France, d'après la fiche Leroy Merlin.</li>
+<li><strong>Limites</strong> : trop chaude pour une chambre bien chauffée ou pour l'été. Volumineuse à ranger et à laver.</li>
+</ul>
+<p><a href="{AMZ:Bleu Câlin couette Hotel 500g 220x240}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>7. Drouault Everest : la chaude en plumes et duvet</h2>
+<p><strong>Pour qui ?</strong> Le couple qui aime le naturel et dort au frais l'hiver.</p>
+<ul>
+<li><strong>Points forts</strong> : 70 % de plumettes et 30 % de duvet d'oie et de canard, enveloppe percale 100 % coton de 91 fils/cm² à carreaux cloisonnés, traitement anti-taches. Garnissage lavé et stérilisé dans les usines Drouault, fabrication française, lavable à 40 °C.</li>
+<li><strong>Limites</strong> : grammage non précisé. Avec 30 % de duvet seulement, elle est plus lourde qu'une couette riche en duvet à chaleur égale.</li>
+</ul>
+<p><a href="{AMZ:Drouault couette chaude Everest 220x240}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>8. Drouault Luxury : le très haut de gamme à offrir à plusieurs</h2>
+<p><strong>Pour qui ?</strong> Le cadeau commun des témoins ou de la famille proche.</p>
+<ul>
+<li><strong>Points forts</strong> : 80 % de duvet de canard et d'oie, 20 % de plumettes, enveloppe 100 % percale de coton à carreaux cloisonnés. Garnissage lavé et stérilisé en interne, fabrication française, lavable à 40 °C.</li>
+<li><strong>Limites</strong> : grammage non précisé. La fiche La Redoute est presque identique à celle de la Drouault Cap Nord : comparez les deux sur la page de la marque avant de choisir.</li>
+</ul>
+<p><a href="{AMZ:Drouault couette Luxury chaude 220x240}" rel="sponsored nofollow noopener" target="_blank">Voir sur Amazon</a></p>
+
+<h2>Comment choisir la couette de sa liste de mariage ?</h2>
+<h3>Quelle taille de couette pour un lit 160 ?</h3>
+<p>Pour un lit de 160 x 200 cm, la taille la plus courante est 220 x 240 cm. Pour un lit de 180 cm, ou si l'un des deux tire toujours la couette, passez à 240 x 260 cm. Notre guide pour <a href="{R}comment-choisir-couette/">choisir sa couette</a> détaille les correspondances lit par lit.</p>
+<h3>Tempérée, chaude ou 4 saisons ?</h3>
+<p>Une couette tempérée convient à une chambre chauffée entre 18 et 22 °C, la plage indiquée par Dodo et Drouault. Une couette chaude ou très chaude sert dans une chambre fraîche ou aux frileux. La 4 saisons évite d'en acheter deux.</p>
+<h3>Duvet ou synthétique ?</h3>
+<p>Le duvet est léger et gonflant, mais demande plus de soin au lavage. Le synthétique se lave facilement à 40 °C et convient mieux en cas d'allergie aux plumes. Plus le pourcentage de duvet est élevé, plus la couette est légère pour la même chaleur.</p>
+<h3>Ce qu'on oublie souvent</h3>
+<p>La housse de couette doit être à la même taille que la couette, et deux oreillers complètent bien le cadeau. Ajoutez-les à côté sur la liste. Notre <a href="{R}checklist/">checklist pièce par pièce</a> vous aide à ne rien oublier, et notre page sur la <a href="{R}liste-de-mariage-amazon/">liste de mariage Amazon</a> explique comment ajouter ces produits. Pour comparer les autres solutions, voyez <a href="{R}ou-faire-sa-liste-de-mariage/">où faire sa liste de mariage</a>.</p>
+""",
+  faq=[("Pourquoi offrir une couette pour un mariage ?", "Parce qu'elle sert chaque nuit au couple pendant des années, et qu'on la remplace rarement de soi-même. Une couette en duvet se prête bien à une participation de plusieurs invités."),
+       ("Quelle taille de couette pour un lit double de 160 ?", "La taille 220 x 240 cm est la plus courante pour un lit de 160 x 200 cm. Choisissez 240 x 260 cm pour un lit de 180 cm ou pour plus de confort à deux."),
+       ("Couette 4 saisons ou tempérée pour une liste de mariage ?", "La 4 saisons, comme l'Abeil 4 Saisons Anti-Acariens (200 + 300 g/m²), sert toute l'année en une seule fois. Une tempérée suffit si la chambre est chauffée entre 18 et 22 °C."),
+       ("Peut-on laver une couette en duvet en machine ?", "Oui pour les modèles de cette sélection : Drouault et Dodo les annoncent lavables à 40 °C. Il faut une machine de grande capacité et un séchage complet, souvent plus simple en laverie.")],
+  short="Top 8 couettes")
