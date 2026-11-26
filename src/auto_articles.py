@@ -3064,6 +3064,7 @@ g("cadeau-noel-jeunes-maries/",
 
 <h2>Plus de 80 € : le cadeau à plusieurs</h2>
 <p>Entre frères et sœurs ou en famille, on peut viser plus haut. Deux options marchent bien. La première : un équipement de leur liste resté sans preneur, comme une <a href="{R}meilleure-cocotte-en-fonte/">cocotte en fonte</a> ou une <a href="{R}meilleure-machine-a-cafe-a-grain/">machine à café à grain</a>. La seconde : un moment à deux, comme un week-end ou un bon pour un restaurant, surtout si le voyage de noces a été repoussé. Dans ce cas, une jolie <a href="{AMZ:valise cabine}" rel="sponsored nofollow noopener" target="_blank">valise cabine</a> peut accompagner le bon.</p>
+<p>Pour vous organiser entre frères, sœurs et cousins, un <a href="https://qui-offre-a-qui.fr/pere-noel-secret-famille/">Père Noël secret en famille</a> évite que tout le monde offre la même chose aux jeunes mariés.</p>
 <p>Si vous organisez le cadeau commun, fixez la participation de chacun avant de choisir, pas après.</p>
 
 <h2>Et entre jeunes mariés ?</h2>
