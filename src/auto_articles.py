@@ -2810,7 +2810,7 @@ g("cadeau-mariage-hiver-original/",
 
 <h2>Quel cadeau d'hiver offrir à plusieurs, pour 150 € et plus ?</h2>
 <p>Les gros cadeaux d'hiver sont ceux qui servent à cuisiner longtemps et lentement. Une <a href="{R}meilleure-cocotte-en-fonte/">cocotte en fonte</a> pour les pot-au-feu et les plats mijotés, ou une <a href="{R}meilleure-machine-a-cafe-a-grain/">machine à café à grain</a> pour les matins froids, s'offrent très bien à plusieurs invités, chacun prenant une part.</p>
-<p>L'idée la plus originale reste l'expérience : un week-end dans un chalet, une nuit dans un spa, une journée de raquettes. Ce n'est pas un objet qu'on met sur une liste marchande : passez plutôt par une cagnotte, que les mariés pourront utiliser quand ils le souhaitent. Nous comparons les deux formules dans <a href="{R}liste-de-mariage-ou-cagnotte/">liste de mariage ou cagnotte</a>.</p>
+<p>L'idée la plus originale reste l'expérience : un week-end dans un chalet, une nuit dans un spa, une journée de raquettes. Ce n'est pas un objet qu'on met sur une liste marchande : passez plutôt par une cagnotte, que les mariés pourront utiliser quand ils le souhaitent. Nous comparons les deux formules dans <a href="{R}liste-de-mariage-ou-cagnotte/">liste de mariage ou cagnotte</a>. Si vous cherchez plutôt un cadeau pour leur premier Noël après la fête, voyez nos <a href="{R}cadeau-noel-jeunes-maries/">idées de cadeau de Noël pour des jeunes mariés</a>.</p>
 
 <h2>Comment éviter d'offrir la même chose qu'un autre invité ?</h2>
 <p>En hiver, beaucoup d'invités pensent aux mêmes cadeaux : plaid, fondue, raclette. Le risque de doublon est réel. Le plus sûr est de passer par la liste des mariés quand ils en ont une. Sur une liste de mariage Amazon, un article déjà offert apparaît comme acheté pour les autres invités, ce qui limite les doublons. Notre guide <a href="{R}acheter-sur-une-liste-de-mariage-amazon/">acheter sur une liste de mariage Amazon</a> explique comment s'y retrouver.</p>
@@ -3021,3 +3021,64 @@ g("black-friday-liste-de-mariage-2026/",
        ("Existe-t-il une réduction sur la liste de mariage Amazon ?", "Nous n'en connaissons aucune confirmée en France. Les invités paient le prix affiché sur la fiche du produit au moment de leur commande, offres du moment comprises."),
        ("Peut-on renvoyer un cadeau acheté pendant le Black Friday ?", "Oui. Un achat en ligne ouvre un droit de rétractation d'au moins 14 jours après la réception, sauf exceptions prévues par la loi.")],
   short="Black Friday et liste de mariage")
+
+AUTO_META['cadeau-noel-jeunes-maries/'] = ('🎄', 'miel')
+g("cadeau-noel-jeunes-maries/",
+  "Cadeau de Noël pour des jeunes mariés : idées par budget",
+  "Quel cadeau de Noël offrir à des jeunes mariés pour leur premier Noël ?",
+  "Cadeau de Noël pour des jeunes mariés : idées pour leur premier Noël à deux, classées par budget, du souvenir du mariage au cadeau pour la maison, et erreurs à éviter.",
+  """
+<p><strong>En bref</strong> : pour le premier Noël de jeunes mariés, le cadeau qui marque le plus est celui qui prolonge le mariage ou lance leurs traditions à deux : une boule de Noël gravée de la date du mariage, un album des photos du jour J, un service à fondue pour leurs premiers dîners d'hiver. Comptez moins de 30 € pour une attention, 30 à 80 € pour un cadeau commun, et plus de 80 € pour un cadeau à plusieurs. Et si leur liste de mariage est encore ouverte, regardez-la d'abord.</p>
+<p>Un couple qui vient de se marier vit souvent son premier Noël avec une maison à moitié installée et la tête encore pleine de la fête. Votre cadeau peut faire deux choses à la fois : rappeler ce grand jour et les aider à démarrer leur vie à deux. Chez Ma liste mariage, nous conseillons d'offrir un seul cadeau pour le couple, plutôt que deux cadeaux séparés : c'est leur premier Noël ensemble, pas chacun de son côté.</p>
+{CTA}
+<h2>Les idées en un coup d'œil</h2>
+<table><thead><tr><th>Idée</th><th>Budget</th><th>Pourquoi elle plaît</th><th>Pour quel couple</th></tr></thead><tbody>
+<tr><td>Boule de Noël personnalisée « premier Noël »</td><td>Moins de 30 €</td><td>Ressort du carton chaque année</td><td>Tous, surtout ceux qui aiment les traditions</td></tr>
+<tr><td>Jeu de société pour deux</td><td>Moins de 30 €</td><td>Des soirées d'hiver à la maison</td><td>Le couple casanier</td></tr>
+<tr><td>Album photo du mariage</td><td>30 à 80 €</td><td>Les photos sortent enfin du téléphone</td><td>Ceux qui n'ont pas encore leur album</td></tr>
+<tr><td>Boîte à souvenirs du mariage</td><td>30 à 80 €</td><td>Faire-part, menu, fleurs séchées au même endroit</td><td>Le couple sentimental</td></tr>
+<tr><td>Service à fondue ou appareil à raclette</td><td>30 à 80 €</td><td>Leurs premiers dîners entre amis</td><td>Ceux qui reçoivent souvent</td></tr>
+<tr><td>Article restant de leur liste de mariage</td><td>Selon la liste</td><td>Ce qu'ils voulaient vraiment</td><td>Ceux dont la liste est encore ouverte</td></tr>
+<tr><td>Week-end ou expérience à deux</td><td>Plus de 80 €, à plusieurs</td><td>Un moment pour souffler après le mariage</td><td>Ceux qui n'ont pas encore fait leur voyage de noces</td></tr>
+</tbody></table>
+
+<h2>Leur liste de mariage est encore ouverte ? Commencez par là</h2>
+<p>C'est l'astuce que peu de proches pensent à utiliser. Beaucoup de couples laissent leur liste en ligne plusieurs semaines après la fête, avec quelques articles jamais offerts : la cocotte, le deuxième jeu de draps, le robot qu'ils n'osaient pas espérer. Offrir l'un d'eux à Noël, c'est être sûr de tomber juste. Demandez-leur simplement le lien, ou cherchez-la si elle est publique : notre guide pour <a href="{R}trouver-une-liste-de-mariage-amazon/">trouver une liste de mariage Amazon</a> explique comment faire, et notre page pour <a href="{R}acheter-sur-une-liste-de-mariage-amazon/">acheter sur une liste de mariage</a> évite de faire un doublon.</p>
+
+<h2>Moins de 30 € : les petites attentions qui comptent</h2>
+<h3>Une boule de Noël pour leur premier sapin</h3>
+<p>La boule « notre premier Noël », gravée avec leurs prénoms ou la date du mariage, est un classique pour une raison simple : chaque année, en ouvrant le carton des décorations, ils retomberont dessus. Vérifiez le délai de personnalisation avant de commander, il peut être long en décembre. <a href="{AMZ:boule de noel personnalisee premier noel maries}" rel="sponsored nofollow noopener" target="_blank">Voir les boules de Noël personnalisées</a></p>
+<h3>Un jeu pour les soirées à deux</h3>
+<p>Après des mois d'organisation, beaucoup de jeunes mariés n'ont qu'une envie : des soirées tranquilles. Un jeu de société pensé pour deux joueurs fait un joli cadeau, pas cher et vraiment utilisé. <a href="{AMZ:jeu de societe 2 joueurs couple}" rel="sponsored nofollow noopener" target="_blank">Voir les jeux de société pour deux</a></p>
+
+<h2>De 30 à 80 € : garder le souvenir du mariage</h2>
+<h3>Un album pour les photos du jour J</h3>
+<p>Les photos du mariage arrivent souvent quelques semaines après la fête, et restent ensuite dans un dossier sur l'ordinateur. Un bel album, à remplir eux-mêmes ou déjà imprimé avec une sélection de vos propres photos de la journée, règle la question. Si vous l'imprimez vous-même, gardez une ou deux photos par page : c'est plus élégant. <a href="{AMZ:album photo mariage lin}" rel="sponsored nofollow noopener" target="_blank">Voir les albums photo de mariage</a></p>
+<h3>Une boîte pour tous les petits souvenirs</h3>
+<p>Le faire-part, le menu, un marque-place, une fleur séchée du bouquet, les cartes des invités : tout cela finit éparpillé. Une boîte à souvenirs, en bois ou en carton rigide, garde tout au même endroit. C'est un cadeau sentimental qui ne prend pas de place. <a href="{AMZ:boite a souvenirs mariage bois}" rel="sponsored nofollow noopener" target="_blank">Voir les boîtes à souvenirs</a></p>
+<p>Si leur livre d'or est déjà plein de messages, il mérite aussi d'être rangé avec soin : nous avons comparé plusieurs modèles dans notre page sur le <a href="{R}meilleur-livre-d-or-mariage/">meilleur livre d'or de mariage</a>.</p>
+
+<h2>De 30 à 80 € : pour leurs premiers dîners d'hiver</h2>
+<p>Le premier hiver dans un logement commun, c'est aussi les premières invitations : la famille, les témoins, les amis qui ont fait la fête avec eux. Un service à fondue ou un appareil à raclette lance la tradition. <a href="{AMZ:service a fondue savoyarde}" rel="sponsored nofollow noopener" target="_blank">Voir les services à fondue</a></p>
+<p>Un grand plaid pour le canapé ou une parure de lit en flanelle font aussi des cadeaux d'hiver très appréciés ; d'autres idées de saison sont réunies dans notre page <a href="{R}cadeau-mariage-hiver-original/">cadeau original pour un mariage d'hiver</a>.</p>
+
+<h2>Plus de 80 € : le cadeau à plusieurs</h2>
+<p>Entre frères et sœurs ou en famille, on peut viser plus haut. Deux options marchent bien. La première : un équipement de leur liste resté sans preneur, comme une <a href="{R}meilleure-cocotte-en-fonte/">cocotte en fonte</a> ou une <a href="{R}meilleure-machine-a-cafe-a-grain/">machine à café à grain</a>. La seconde : un moment à deux, comme un week-end ou un bon pour un restaurant, surtout si le voyage de noces a été repoussé. Dans ce cas, une jolie <a href="{AMZ:valise cabine}" rel="sponsored nofollow noopener" target="_blank">valise cabine</a> peut accompagner le bon.</p>
+<p>Si vous organisez le cadeau commun, fixez la participation de chacun avant de choisir, pas après.</p>
+
+<h2>Et entre jeunes mariés ?</h2>
+<p>Si vous lisez cette page pour votre conjoint, l'idée la plus simple est souvent la plus touchante : une lettre écrite pour votre premier Noël marié, glissée dans l'album ou dans la boîte à souvenirs. Vous pouvez aussi créer ensemble une tradition, comme choisir chaque année une nouvelle boule pour le sapin. Pour le premier anniversaire de mariage, notre page sur les <a href="{R}noces-de-mariage-par-annee/">noces de mariage année par année</a> donne le nom de chaque anniversaire.</p>
+
+<h2>Les erreurs à éviter</h2>
+<ul>
+<li><strong>Le cadeau en double.</strong> Si vous offrez un objet pour la maison, vérifiez qu'il n'était pas déjà sur la liste et offert.</li>
+<li><strong>Le cadeau pour un seul des deux.</strong> Pour leur premier Noël, un cadeau commun a plus de sens.</li>
+<li><strong>La personnalisation commandée trop tard.</strong> Gravure et impression demandent du temps : commandez début décembre au plus tard.</li>
+</ul>
+<p>Si le couple prépare encore sa liste, ou s'il en ouvre une pour son installation, notre <a href="{R}checklist/">checklist de la liste de mariage</a> l'aidera à ne rien oublier.</p>
+""",
+  faq=[("Quel cadeau de Noël offrir à des jeunes mariés ?", "Un cadeau qui rappelle le mariage ou lance leurs traditions à deux : une boule de Noël gravée de la date du mariage, un album pour les photos du jour J, une boîte à souvenirs ou un service à fondue pour leurs premiers dîners. Si leur liste de mariage est encore ouverte, un article restant est un choix sûr."),
+       ("Combien dépenser pour le cadeau de Noël d'un couple de jeunes mariés ?", "Il n'y a pas de règle. Une petite attention à moins de 30 € fait plaisir, un cadeau commun tourne souvent entre 30 et 80 €, et un cadeau plus important se partage à plusieurs. L'important est de rester dans un budget confortable pour vous."),
+       ("Peut-on offrir un cadeau de leur liste de mariage à Noël ?", "Oui, c'est même une très bonne idée si la liste est encore en ligne. Vous êtes sûr d'offrir quelque chose qu'ils ont choisi. Demandez-leur le lien et vérifiez que l'article n'a pas déjà été acheté."),
+       ("Faut-il offrir un cadeau à chacun ou un cadeau pour le couple ?", "Pour leur premier Noël marié, un cadeau commun a plus de sens et marque le début de leur vie à deux. Rien n'empêche d'ajouter une petite attention personnelle si vous êtes très proche de l'un d'eux.")],
+  short="Cadeau Noël jeunes mariés")
